@@ -55,7 +55,7 @@
             <div class="modal-gallery">
                 <div class="main-img-view">
                     <button class="nav-arrow nav-prev" onclick="changeImage(-1)">❮</button>
-                    <img id="modalMainImg" src="" alt="Vehicle">
+                    <img id="modalMainImg" src="" alt="Vehicle" onerror="if (window.currentVehicleRemoteImg && this.src !== window.currentVehicleRemoteImg) { this.src = window.currentVehicleRemoteImg; } else { this.src = 'https://via.placeholder.com/1200x800?text=No+Image'; }">
                     <button class="nav-arrow nav-next" onclick="changeImage(1)">❯</button>
                     <div class="img-counter" id="imgCounter">1 / 1</div>
                 </div>
@@ -214,7 +214,12 @@
 
         function init() {
             if (typeof vehicleData !== 'undefined') {
-                allVehicles = vehicleData;
+                // Normalize make and model casing to prevent duplicate filters (e.g. Audi vs AUDI)
+                allVehicles = vehicleData.map(car => {
+                    if (car.make) car.make = car.make.toUpperCase().trim();
+                    if (car.model) car.model = car.model.toUpperCase().trim();
+                    return car;
+                });
                 createBrandFilters();
                 renderVehicles();
             } else {
@@ -268,12 +273,13 @@
                 card.style.animationDelay = `${index * 0.05}s`;
 
                 const imgSrc = car.local_image ? car.local_image.replace(/\\/g, '/') : (car.image_url || 'https://via.placeholder.com/600x400?text=No+Image');
+                const backupImg = car.image_url || 'https://via.placeholder.com/600x400?text=No+Image';
                 const price = Number(car.price) > 0 ? `$${Number(car.price).toLocaleString()}` : 'Call for Price';
 
                 card.innerHTML = `
                     <div class="img-container">
                         <span class="badge-new">${car.condition || 'NEW'}</span>
-                        <img src="${imgSrc}" alt="${car.make} ${car.model}" loading="lazy" onerror="this.src='https://via.placeholder.com/600x400?text=Image+Not+Found'">
+                        <img src="${imgSrc}" alt="${car.make} ${car.model}" loading="lazy" onerror="if (this.src !== '${backupImg}') { this.src = '${backupImg}'; } else { this.src = 'https://via.placeholder.com/600x400?text=Image+Not+Found'; }">
                     </div>
                     <div class="content">
                         <div class="car-year">${car.year} ${car.make}</div>
@@ -305,6 +311,9 @@
             
             const priceVal = Number(car.price) > 0 ? `$${Number(car.price).toLocaleString()}` : 'Contact Us';
             document.getElementById('modalPrice').textContent = priceVal;
+
+            // Save remote main image URL for fallback
+            window.currentVehicleRemoteImg = car.image_url;
 
             // Gallery Setup
             currentVehicleImages = [];
@@ -352,6 +361,13 @@
                 const thumb = document.createElement('img');
                 thumb.src = img;
                 thumb.className = `thumb-item ${idx === currentImageIndex ? 'active' : ''}`;
+                thumb.onerror = function() {
+                    if (window.currentVehicleRemoteImg && this.src !== window.currentVehicleRemoteImg) {
+                        this.src = window.currentVehicleRemoteImg;
+                    } else {
+                        this.src = 'https://via.placeholder.com/150x100?text=No+Image';
+                    }
+                };
                 thumb.onclick = () => {
                     currentImageIndex = idx;
                     updateModalGallery();

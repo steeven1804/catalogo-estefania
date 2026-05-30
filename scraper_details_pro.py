@@ -217,14 +217,16 @@ def main():
             if details.get("location"): v["location"] = details["location"]
             if details.get("description"): v["description"] = details["description"]
             
-            # Download images (15)
+            # Download images (8) - Reduced to save disk space
             vin_safe = "".join([c for c in vin if c.isalnum()])
             car_img_dir = os.path.join(IMAGE_DIR, vin_safe)
             
             img_list = []
             if details["all_images"]:
-                print(f"    -> Descargando {len(details['all_images'][:15])} imágenes...")
-                for idx, img_url in enumerate(details["all_images"][:15]):
+                # Limit to 8 images to save disk space
+                target_images = details["all_images"][:8]
+                print(f"    -> Descargando {len(target_images)} imágenes...")
+                for idx, img_url in enumerate(target_images):
                     filename = f"image_{idx+1}.jpg"
                     local_path = download_image(img_url, car_img_dir, filename)
                     if local_path:
@@ -237,24 +239,36 @@ def main():
             else:
                 print("    [!] No se pudieron descargar fotos.")
             
-            # Guardar cada 5 o al final del bloque
+            # Guardar cada 5 o al final del bloque con manejo de errores de disco
             if (i+1) % 5 == 0:
-                with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-                    json.dump(vehicles, f, indent=4, ensure_ascii=False)
-                with open(JS_OUTPUT_FILE, 'w', encoding='utf-8') as f:
-                    f.write(f"const vehicleData = {json.dumps(vehicles, indent=4, ensure_ascii=False)};")
+                try:
+                    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+                        json.dump(vehicles, f, indent=4, ensure_ascii=False)
+                    with open(JS_OUTPUT_FILE, 'w', encoding='utf-8') as f:
+                        f.write(f"const vehicleData = {json.dumps(vehicles, indent=4, ensure_ascii=False)};")
+                except OSError as e:
+                    if e.errno == 28:
+                        print("\n[CRÍTICO] Disco lleno. Deteniendo para evitar pérdida de datos.")
+                        break
+                    raise e
 
     finally:
         driver.quit()
 
     # Final Save
-    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-        json.dump(vehicles, f, indent=4, ensure_ascii=False)
-    
-    with open(JS_OUTPUT_FILE, 'w', encoding='utf-8') as f:
-        f.write(f"const vehicleData = {json.dumps(vehicles, indent=4, ensure_ascii=False)};")
+    try:
+        with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+            json.dump(vehicles, f, indent=4, ensure_ascii=False)
         
-    print("\n¡PROCESO COMPLETADO!")
+        with open(JS_OUTPUT_FILE, 'w', encoding='utf-8') as f:
+            f.write(f"const vehicleData = {json.dumps(vehicles, indent=4, ensure_ascii=False)};")
+            
+        print("\n¡PROCESO COMPLETADO!")
+    except OSError as e:
+        if e.errno == 28:
+            print("\n[CRÍTICO] No se pudo realizar el guardado final por falta de espacio.")
+        else:
+            raise e
 
 if __name__ == "__main__":
     main()

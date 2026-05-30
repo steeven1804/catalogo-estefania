@@ -1,0 +1,21 @@
+# Carpetas de medios locales pesadas (evita subir gigabytes de imágenes a GitHub)
+images/
+
+# Scripts de prueba y archivos temporales de raspado
+scratch/
+test_rc_out.html
+vdp_out.html
+scraper_toyota_old.py
+vehiculos_sin_foto.json
+vehicle_dump.json
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+.venv/
+venv/
+env/
