@@ -1,3 +1,4 @@
+
 const vehicleData = [
     {
         "vin": "4T1DAACK3SU555467",
@@ -26,17 +27,7 @@ const vehicleData = [
             "images/4T1DAACK3SU555467/image_2.jpg",
             "images/4T1DAACK3SU555467/image_3.jpg",
             "images/4T1DAACK3SU555467/image_4.jpg",
-            "images/4T1DAACK3SU555467/image_5.jpg",
-            "images/4T1DAACK3SU555467/image_6.jpg",
-            "images/4T1DAACK3SU555467/image_7.jpg",
-            "images/4T1DAACK3SU555467/image_8.jpg",
-            "images/4T1DAACK3SU555467/image_9.jpg",
-            "images/4T1DAACK3SU555467/image_10.jpg",
-            "images/4T1DAACK3SU555467/image_11.jpg",
-            "images/4T1DAACK3SU555467/image_12.jpg",
-            "images/4T1DAACK3SU555467/image_13.jpg",
-            "images/4T1DAACK3SU555467/image_14.jpg",
-            "images/4T1DAACK3SU555467/image_15.jpg"
+            "images/4T1DAACK3SU555467/image_5.jpg"
         ]
     },
     {
@@ -66,17 +57,7 @@ const vehicleData = [
             "images/4T1DAACKXSU558737/image_2.jpg",
             "images/4T1DAACKXSU558737/image_3.jpg",
             "images/4T1DAACKXSU558737/image_4.jpg",
-            "images/4T1DAACKXSU558737/image_5.jpg",
-            "images/4T1DAACKXSU558737/image_6.jpg",
-            "images/4T1DAACKXSU558737/image_7.jpg",
-            "images/4T1DAACKXSU558737/image_8.jpg",
-            "images/4T1DAACKXSU558737/image_9.jpg",
-            "images/4T1DAACKXSU558737/image_10.jpg",
-            "images/4T1DAACKXSU558737/image_11.jpg",
-            "images/4T1DAACKXSU558737/image_12.jpg",
-            "images/4T1DAACKXSU558737/image_13.jpg",
-            "images/4T1DAACKXSU558737/image_14.jpg",
-            "images/4T1DAACKXSU558737/image_15.jpg"
+            "images/4T1DAACKXSU558737/image_5.jpg"
         ]
     },
     {
@@ -106,17 +87,7 @@ const vehicleData = [
             "images/3TYLB5JN0RT041533/image_2.jpg",
             "images/3TYLB5JN0RT041533/image_3.jpg",
             "images/3TYLB5JN0RT041533/image_4.jpg",
-            "images/3TYLB5JN0RT041533/image_5.jpg",
-            "images/3TYLB5JN0RT041533/image_6.jpg",
-            "images/3TYLB5JN0RT041533/image_7.jpg",
-            "images/3TYLB5JN0RT041533/image_8.jpg",
-            "images/3TYLB5JN0RT041533/image_9.jpg",
-            "images/3TYLB5JN0RT041533/image_10.jpg",
-            "images/3TYLB5JN0RT041533/image_11.jpg",
-            "images/3TYLB5JN0RT041533/image_12.jpg",
-            "images/3TYLB5JN0RT041533/image_13.jpg",
-            "images/3TYLB5JN0RT041533/image_14.jpg",
-            "images/3TYLB5JN0RT041533/image_15.jpg"
+            "images/3TYLB5JN0RT041533/image_5.jpg"
         ]
     },
     {
@@ -146,17 +117,7 @@ const vehicleData = [
             "images/3TMKB5FN3RM021812/image_2.jpg",
             "images/3TMKB5FN3RM021812/image_3.jpg",
             "images/3TMKB5FN3RM021812/image_4.jpg",
-            "images/3TMKB5FN3RM021812/image_5.jpg",
-            "images/3TMKB5FN3RM021812/image_6.jpg",
-            "images/3TMKB5FN3RM021812/image_7.jpg",
-            "images/3TMKB5FN3RM021812/image_8.jpg",
-            "images/3TMKB5FN3RM021812/image_9.jpg",
-            "images/3TMKB5FN3RM021812/image_10.jpg",
-            "images/3TMKB5FN3RM021812/image_11.jpg",
-            "images/3TMKB5FN3RM021812/image_12.jpg",
-            "images/3TMKB5FN3RM021812/image_13.jpg",
-            "images/3TMKB5FN3RM021812/image_14.jpg",
-            "images/3TMKB5FN3RM021812/image_15.jpg"
+            "images/3TMKB5FN3RM021812/image_5.jpg"
         ]
     },
     {
@@ -186,17 +147,7 @@ const vehicleData = [
             "images/3TYJBAFN5RT015275/image_2.jpg",
             "images/3TYJBAFN5RT015275/image_3.jpg",
             "images/3TYJBAFN5RT015275/image_4.jpg",
-            "images/3TYJBAFN5RT015275/image_5.jpg",
-            "images/3TYJBAFN5RT015275/image_6.jpg",
-            "images/3TYJBAFN5RT015275/image_7.jpg",
-            "images/3TYJBAFN5RT015275/image_8.jpg",
-            "images/3TYJBAFN5RT015275/image_9.jpg",
-            "images/3TYJBAFN5RT015275/image_10.jpg",
-            "images/3TYJBAFN5RT015275/image_11.jpg",
-            "images/3TYJBAFN5RT015275/image_12.jpg",
-            "images/3TYJBAFN5RT015275/image_13.jpg",
-            "images/3TYJBAFN5RT015275/image_14.jpg",
-            "images/3TYJBAFN5RT015275/image_15.jpg"
+            "images/3TYJBAFN5RT015275/image_5.jpg"
         ]
     },
     {
@@ -226,17 +177,7 @@ const vehicleData = [
             "images/5TDFARAH0RS024017/image_2.jpg",
             "images/5TDFARAH0RS024017/image_3.jpg",
             "images/5TDFARAH0RS024017/image_4.jpg",
-            "images/5TDFARAH0RS024017/image_5.jpg",
-            "images/5TDFARAH0RS024017/image_6.jpg",
-            "images/5TDFARAH0RS024017/image_7.jpg",
-            "images/5TDFARAH0RS024017/image_8.jpg",
-            "images/5TDFARAH0RS024017/image_9.jpg",
-            "images/5TDFARAH0RS024017/image_10.jpg",
-            "images/5TDFARAH0RS024017/image_11.jpg",
-            "images/5TDFARAH0RS024017/image_12.jpg",
-            "images/5TDFARAH0RS024017/image_13.jpg",
-            "images/5TDFARAH0RS024017/image_14.jpg",
-            "images/5TDFARAH0RS024017/image_15.jpg"
+            "images/5TDFARAH0RS024017/image_5.jpg"
         ]
     },
     {
@@ -266,17 +207,7 @@ const vehicleData = [
             "images/5TDYZRFH8JS259456/image_2.jpg",
             "images/5TDYZRFH8JS259456/image_3.jpg",
             "images/5TDYZRFH8JS259456/image_4.jpg",
-            "images/5TDYZRFH8JS259456/image_5.jpg",
-            "images/5TDYZRFH8JS259456/image_6.jpg",
-            "images/5TDYZRFH8JS259456/image_7.jpg",
-            "images/5TDYZRFH8JS259456/image_8.jpg",
-            "images/5TDYZRFH8JS259456/image_9.jpg",
-            "images/5TDYZRFH8JS259456/image_10.jpg",
-            "images/5TDYZRFH8JS259456/image_11.jpg",
-            "images/5TDYZRFH8JS259456/image_12.jpg",
-            "images/5TDYZRFH8JS259456/image_13.jpg",
-            "images/5TDYZRFH8JS259456/image_14.jpg",
-            "images/5TDYZRFH8JS259456/image_15.jpg"
+            "images/5TDYZRFH8JS259456/image_5.jpg"
         ]
     },
     {
@@ -306,17 +237,7 @@ const vehicleData = [
             "images/JTEAAAAH2RJ188230/image_2.jpg",
             "images/JTEAAAAH2RJ188230/image_3.jpg",
             "images/JTEAAAAH2RJ188230/image_4.jpg",
-            "images/JTEAAAAH2RJ188230/image_5.jpg",
-            "images/JTEAAAAH2RJ188230/image_6.jpg",
-            "images/JTEAAAAH2RJ188230/image_7.jpg",
-            "images/JTEAAAAH2RJ188230/image_8.jpg",
-            "images/JTEAAAAH2RJ188230/image_9.jpg",
-            "images/JTEAAAAH2RJ188230/image_10.jpg",
-            "images/JTEAAAAH2RJ188230/image_11.jpg",
-            "images/JTEAAAAH2RJ188230/image_12.jpg",
-            "images/JTEAAAAH2RJ188230/image_13.jpg",
-            "images/JTEAAAAH2RJ188230/image_14.jpg",
-            "images/JTEAAAAH2RJ188230/image_15.jpg"
+            "images/JTEAAAAH2RJ188230/image_5.jpg"
         ]
     },
     {
@@ -346,17 +267,7 @@ const vehicleData = [
             "images/4T1S11AK2RU258484/image_2.jpg",
             "images/4T1S11AK2RU258484/image_3.jpg",
             "images/4T1S11AK2RU258484/image_4.jpg",
-            "images/4T1S11AK2RU258484/image_5.jpg",
-            "images/4T1S11AK2RU258484/image_6.jpg",
-            "images/4T1S11AK2RU258484/image_7.jpg",
-            "images/4T1S11AK2RU258484/image_8.jpg",
-            "images/4T1S11AK2RU258484/image_9.jpg",
-            "images/4T1S11AK2RU258484/image_10.jpg",
-            "images/4T1S11AK2RU258484/image_11.jpg",
-            "images/4T1S11AK2RU258484/image_12.jpg",
-            "images/4T1S11AK2RU258484/image_13.jpg",
-            "images/4T1S11AK2RU258484/image_14.jpg",
-            "images/4T1S11AK2RU258484/image_15.jpg"
+            "images/4T1S11AK2RU258484/image_5.jpg"
         ]
     },
     {
@@ -386,17 +297,7 @@ const vehicleData = [
             "images/4T1DAACK3SU190837/image_2.jpg",
             "images/4T1DAACK3SU190837/image_3.jpg",
             "images/4T1DAACK3SU190837/image_4.jpg",
-            "images/4T1DAACK3SU190837/image_5.jpg",
-            "images/4T1DAACK3SU190837/image_6.jpg",
-            "images/4T1DAACK3SU190837/image_7.jpg",
-            "images/4T1DAACK3SU190837/image_8.jpg",
-            "images/4T1DAACK3SU190837/image_9.jpg",
-            "images/4T1DAACK3SU190837/image_10.jpg",
-            "images/4T1DAACK3SU190837/image_11.jpg",
-            "images/4T1DAACK3SU190837/image_12.jpg",
-            "images/4T1DAACK3SU190837/image_13.jpg",
-            "images/4T1DAACK3SU190837/image_14.jpg",
-            "images/4T1DAACK3SU190837/image_15.jpg"
+            "images/4T1DAACK3SU190837/image_5.jpg"
         ]
     },
     {
@@ -426,17 +327,7 @@ const vehicleData = [
             "images/5TDYZRFH2JS263793/image_2.jpg",
             "images/5TDYZRFH2JS263793/image_3.jpg",
             "images/5TDYZRFH2JS263793/image_4.jpg",
-            "images/5TDYZRFH2JS263793/image_5.jpg",
-            "images/5TDYZRFH2JS263793/image_6.jpg",
-            "images/5TDYZRFH2JS263793/image_7.jpg",
-            "images/5TDYZRFH2JS263793/image_8.jpg",
-            "images/5TDYZRFH2JS263793/image_9.jpg",
-            "images/5TDYZRFH2JS263793/image_10.jpg",
-            "images/5TDYZRFH2JS263793/image_11.jpg",
-            "images/5TDYZRFH2JS263793/image_12.jpg",
-            "images/5TDYZRFH2JS263793/image_13.jpg",
-            "images/5TDYZRFH2JS263793/image_14.jpg",
-            "images/5TDYZRFH2JS263793/image_15.jpg"
+            "images/5TDYZRFH2JS263793/image_5.jpg"
         ]
     },
     {
@@ -466,17 +357,7 @@ const vehicleData = [
             "images/5TDKDRAH6RS542266/image_2.jpg",
             "images/5TDKDRAH6RS542266/image_3.jpg",
             "images/5TDKDRAH6RS542266/image_4.jpg",
-            "images/5TDKDRAH6RS542266/image_5.jpg",
-            "images/5TDKDRAH6RS542266/image_6.jpg",
-            "images/5TDKDRAH6RS542266/image_7.jpg",
-            "images/5TDKDRAH6RS542266/image_8.jpg",
-            "images/5TDKDRAH6RS542266/image_9.jpg",
-            "images/5TDKDRAH6RS542266/image_10.jpg",
-            "images/5TDKDRAH6RS542266/image_11.jpg",
-            "images/5TDKDRAH6RS542266/image_12.jpg",
-            "images/5TDKDRAH6RS542266/image_13.jpg",
-            "images/5TDKDRAH6RS542266/image_14.jpg",
-            "images/5TDKDRAH6RS542266/image_15.jpg"
+            "images/5TDKDRAH6RS542266/image_5.jpg"
         ]
     },
     {
@@ -506,17 +387,7 @@ const vehicleData = [
             "images/5TFLA5DB9PX091189/image_2.jpg",
             "images/5TFLA5DB9PX091189/image_3.jpg",
             "images/5TFLA5DB9PX091189/image_4.jpg",
-            "images/5TFLA5DB9PX091189/image_5.jpg",
-            "images/5TFLA5DB9PX091189/image_6.jpg",
-            "images/5TFLA5DB9PX091189/image_7.jpg",
-            "images/5TFLA5DB9PX091189/image_8.jpg",
-            "images/5TFLA5DB9PX091189/image_9.jpg",
-            "images/5TFLA5DB9PX091189/image_10.jpg",
-            "images/5TFLA5DB9PX091189/image_11.jpg",
-            "images/5TFLA5DB9PX091189/image_12.jpg",
-            "images/5TFLA5DB9PX091189/image_13.jpg",
-            "images/5TFLA5DB9PX091189/image_14.jpg",
-            "images/5TFLA5DB9PX091189/image_15.jpg"
+            "images/5TFLA5DB9PX091189/image_5.jpg"
         ]
     },
     {
@@ -546,17 +417,7 @@ const vehicleData = [
             "images/4T1BD1EB9HU057438/image_2.jpg",
             "images/4T1BD1EB9HU057438/image_3.jpg",
             "images/4T1BD1EB9HU057438/image_4.jpg",
-            "images/4T1BD1EB9HU057438/image_5.jpg",
-            "images/4T1BD1EB9HU057438/image_6.jpg",
-            "images/4T1BD1EB9HU057438/image_7.jpg",
-            "images/4T1BD1EB9HU057438/image_8.jpg",
-            "images/4T1BD1EB9HU057438/image_9.jpg",
-            "images/4T1BD1EB9HU057438/image_10.jpg",
-            "images/4T1BD1EB9HU057438/image_11.jpg",
-            "images/4T1BD1EB9HU057438/image_12.jpg",
-            "images/4T1BD1EB9HU057438/image_13.jpg",
-            "images/4T1BD1EB9HU057438/image_14.jpg",
-            "images/4T1BD1EB9HU057438/image_15.jpg"
+            "images/4T1BD1EB9HU057438/image_5.jpg"
         ]
     },
     {
@@ -614,17 +475,7 @@ const vehicleData = [
             "images/5TDKDRAH8RS053559/image_2.jpg",
             "images/5TDKDRAH8RS053559/image_3.jpg",
             "images/5TDKDRAH8RS053559/image_4.jpg",
-            "images/5TDKDRAH8RS053559/image_5.jpg",
-            "images/5TDKDRAH8RS053559/image_6.jpg",
-            "images/5TDKDRAH8RS053559/image_7.jpg",
-            "images/5TDKDRAH8RS053559/image_8.jpg",
-            "images/5TDKDRAH8RS053559/image_9.jpg",
-            "images/5TDKDRAH8RS053559/image_10.jpg",
-            "images/5TDKDRAH8RS053559/image_11.jpg",
-            "images/5TDKDRAH8RS053559/image_12.jpg",
-            "images/5TDKDRAH8RS053559/image_13.jpg",
-            "images/5TDKDRAH8RS053559/image_14.jpg",
-            "images/5TDKDRAH8RS053559/image_15.jpg"
+            "images/5TDKDRAH8RS053559/image_5.jpg"
         ]
     },
     {
@@ -654,17 +505,7 @@ const vehicleData = [
             "images/5TDKDRAH3PS514342/image_2.jpg",
             "images/5TDKDRAH3PS514342/image_3.jpg",
             "images/5TDKDRAH3PS514342/image_4.jpg",
-            "images/5TDKDRAH3PS514342/image_5.jpg",
-            "images/5TDKDRAH3PS514342/image_6.jpg",
-            "images/5TDKDRAH3PS514342/image_7.jpg",
-            "images/5TDKDRAH3PS514342/image_8.jpg",
-            "images/5TDKDRAH3PS514342/image_9.jpg",
-            "images/5TDKDRAH3PS514342/image_10.jpg",
-            "images/5TDKDRAH3PS514342/image_11.jpg",
-            "images/5TDKDRAH3PS514342/image_12.jpg",
-            "images/5TDKDRAH3PS514342/image_13.jpg",
-            "images/5TDKDRAH3PS514342/image_14.jpg",
-            "images/5TDKDRAH3PS514342/image_15.jpg"
+            "images/5TDKDRAH3PS514342/image_5.jpg"
         ]
     },
     {
@@ -694,17 +535,7 @@ const vehicleData = [
             "images/5TDKBRCH8SS667729/image_2.jpg",
             "images/5TDKBRCH8SS667729/image_3.jpg",
             "images/5TDKBRCH8SS667729/image_4.jpg",
-            "images/5TDKBRCH8SS667729/image_5.jpg",
-            "images/5TDKBRCH8SS667729/image_6.jpg",
-            "images/5TDKBRCH8SS667729/image_7.jpg",
-            "images/5TDKBRCH8SS667729/image_8.jpg",
-            "images/5TDKBRCH8SS667729/image_9.jpg",
-            "images/5TDKBRCH8SS667729/image_10.jpg",
-            "images/5TDKBRCH8SS667729/image_11.jpg",
-            "images/5TDKBRCH8SS667729/image_12.jpg",
-            "images/5TDKBRCH8SS667729/image_13.jpg",
-            "images/5TDKBRCH8SS667729/image_14.jpg",
-            "images/5TDKBRCH8SS667729/image_15.jpg"
+            "images/5TDKBRCH8SS667729/image_5.jpg"
         ]
     },
     {
@@ -734,17 +565,7 @@ const vehicleData = [
             "images/JTERU5JR4P6113717/image_2.jpg",
             "images/JTERU5JR4P6113717/image_3.jpg",
             "images/JTERU5JR4P6113717/image_4.jpg",
-            "images/JTERU5JR4P6113717/image_5.jpg",
-            "images/JTERU5JR4P6113717/image_6.jpg",
-            "images/JTERU5JR4P6113717/image_7.jpg",
-            "images/JTERU5JR4P6113717/image_8.jpg",
-            "images/JTERU5JR4P6113717/image_9.jpg",
-            "images/JTERU5JR4P6113717/image_10.jpg",
-            "images/JTERU5JR4P6113717/image_11.jpg",
-            "images/JTERU5JR4P6113717/image_12.jpg",
-            "images/JTERU5JR4P6113717/image_13.jpg",
-            "images/JTERU5JR4P6113717/image_14.jpg",
-            "images/JTERU5JR4P6113717/image_15.jpg"
+            "images/JTERU5JR4P6113717/image_5.jpg"
         ]
     },
     {
@@ -774,17 +595,7 @@ const vehicleData = [
             "images/5TDFZRAH3NS126950/image_2.jpg",
             "images/5TDFZRAH3NS126950/image_3.jpg",
             "images/5TDFZRAH3NS126950/image_4.jpg",
-            "images/5TDFZRAH3NS126950/image_5.jpg",
-            "images/5TDFZRAH3NS126950/image_6.jpg",
-            "images/5TDFZRAH3NS126950/image_7.jpg",
-            "images/5TDFZRAH3NS126950/image_8.jpg",
-            "images/5TDFZRAH3NS126950/image_9.jpg",
-            "images/5TDFZRAH3NS126950/image_10.jpg",
-            "images/5TDFZRAH3NS126950/image_11.jpg",
-            "images/5TDFZRAH3NS126950/image_12.jpg",
-            "images/5TDFZRAH3NS126950/image_13.jpg",
-            "images/5TDFZRAH3NS126950/image_14.jpg",
-            "images/5TDFZRAH3NS126950/image_15.jpg"
+            "images/5TDFZRAH3NS126950/image_5.jpg"
         ]
     },
     {
@@ -814,17 +625,7 @@ const vehicleData = [
             "images/7MUFBABG4RV025570/image_2.jpg",
             "images/7MUFBABG4RV025570/image_3.jpg",
             "images/7MUFBABG4RV025570/image_4.jpg",
-            "images/7MUFBABG4RV025570/image_5.jpg",
-            "images/7MUFBABG4RV025570/image_6.jpg",
-            "images/7MUFBABG4RV025570/image_7.jpg",
-            "images/7MUFBABG4RV025570/image_8.jpg",
-            "images/7MUFBABG4RV025570/image_9.jpg",
-            "images/7MUFBABG4RV025570/image_10.jpg",
-            "images/7MUFBABG4RV025570/image_11.jpg",
-            "images/7MUFBABG4RV025570/image_12.jpg",
-            "images/7MUFBABG4RV025570/image_13.jpg",
-            "images/7MUFBABG4RV025570/image_14.jpg",
-            "images/7MUFBABG4RV025570/image_15.jpg"
+            "images/7MUFBABG4RV025570/image_5.jpg"
         ]
     },
     {
@@ -854,17 +655,7 @@ const vehicleData = [
             "images/4T1F11AK3RU200420/image_2.jpg",
             "images/4T1F11AK3RU200420/image_3.jpg",
             "images/4T1F11AK3RU200420/image_4.jpg",
-            "images/4T1F11AK3RU200420/image_5.jpg",
-            "images/4T1F11AK3RU200420/image_6.jpg",
-            "images/4T1F11AK3RU200420/image_7.jpg",
-            "images/4T1F11AK3RU200420/image_8.jpg",
-            "images/4T1F11AK3RU200420/image_9.jpg",
-            "images/4T1F11AK3RU200420/image_10.jpg",
-            "images/4T1F11AK3RU200420/image_11.jpg",
-            "images/4T1F11AK3RU200420/image_12.jpg",
-            "images/4T1F11AK3RU200420/image_13.jpg",
-            "images/4T1F11AK3RU200420/image_14.jpg",
-            "images/4T1F11AK3RU200420/image_15.jpg"
+            "images/4T1F11AK3RU200420/image_5.jpg"
         ]
     },
     {
@@ -894,17 +685,7 @@ const vehicleData = [
             "images/JTEABFAJ5RK014255/image_2.jpg",
             "images/JTEABFAJ5RK014255/image_3.jpg",
             "images/JTEABFAJ5RK014255/image_4.jpg",
-            "images/JTEABFAJ5RK014255/image_5.jpg",
-            "images/JTEABFAJ5RK014255/image_6.jpg",
-            "images/JTEABFAJ5RK014255/image_7.jpg",
-            "images/JTEABFAJ5RK014255/image_8.jpg",
-            "images/JTEABFAJ5RK014255/image_9.jpg",
-            "images/JTEABFAJ5RK014255/image_10.jpg",
-            "images/JTEABFAJ5RK014255/image_11.jpg",
-            "images/JTEABFAJ5RK014255/image_12.jpg",
-            "images/JTEABFAJ5RK014255/image_13.jpg",
-            "images/JTEABFAJ5RK014255/image_14.jpg",
-            "images/JTEABFAJ5RK014255/image_15.jpg"
+            "images/JTEABFAJ5RK014255/image_5.jpg"
         ]
     },
     {
@@ -934,17 +715,7 @@ const vehicleData = [
             "images/JTERU5JR5M5957248/image_2.jpg",
             "images/JTERU5JR5M5957248/image_3.jpg",
             "images/JTERU5JR5M5957248/image_4.jpg",
-            "images/JTERU5JR5M5957248/image_5.jpg",
-            "images/JTERU5JR5M5957248/image_6.jpg",
-            "images/JTERU5JR5M5957248/image_7.jpg",
-            "images/JTERU5JR5M5957248/image_8.jpg",
-            "images/JTERU5JR5M5957248/image_9.jpg",
-            "images/JTERU5JR5M5957248/image_10.jpg",
-            "images/JTERU5JR5M5957248/image_11.jpg",
-            "images/JTERU5JR5M5957248/image_12.jpg",
-            "images/JTERU5JR5M5957248/image_13.jpg",
-            "images/JTERU5JR5M5957248/image_14.jpg",
-            "images/JTERU5JR5M5957248/image_15.jpg"
+            "images/JTERU5JR5M5957248/image_5.jpg"
         ]
     },
     {
@@ -974,17 +745,7 @@ const vehicleData = [
             "images/5YFS4MCE8PP157061/image_2.jpg",
             "images/5YFS4MCE8PP157061/image_3.jpg",
             "images/5YFS4MCE8PP157061/image_4.jpg",
-            "images/5YFS4MCE8PP157061/image_5.jpg",
-            "images/5YFS4MCE8PP157061/image_6.jpg",
-            "images/5YFS4MCE8PP157061/image_7.jpg",
-            "images/5YFS4MCE8PP157061/image_8.jpg",
-            "images/5YFS4MCE8PP157061/image_9.jpg",
-            "images/5YFS4MCE8PP157061/image_10.jpg",
-            "images/5YFS4MCE8PP157061/image_11.jpg",
-            "images/5YFS4MCE8PP157061/image_12.jpg",
-            "images/5YFS4MCE8PP157061/image_13.jpg",
-            "images/5YFS4MCE8PP157061/image_14.jpg",
-            "images/5YFS4MCE8PP157061/image_15.jpg"
+            "images/5YFS4MCE8PP157061/image_5.jpg"
         ]
     },
     {
@@ -1014,17 +775,7 @@ const vehicleData = [
             "images/1HGCY1F31PA055348/image_2.jpg",
             "images/1HGCY1F31PA055348/image_3.jpg",
             "images/1HGCY1F31PA055348/image_4.jpg",
-            "images/1HGCY1F31PA055348/image_5.jpg",
-            "images/1HGCY1F31PA055348/image_6.jpg",
-            "images/1HGCY1F31PA055348/image_7.jpg",
-            "images/1HGCY1F31PA055348/image_8.jpg",
-            "images/1HGCY1F31PA055348/image_9.jpg",
-            "images/1HGCY1F31PA055348/image_10.jpg",
-            "images/1HGCY1F31PA055348/image_11.jpg",
-            "images/1HGCY1F31PA055348/image_12.jpg",
-            "images/1HGCY1F31PA055348/image_13.jpg",
-            "images/1HGCY1F31PA055348/image_14.jpg",
-            "images/1HGCY1F31PA055348/image_15.jpg"
+            "images/1HGCY1F31PA055348/image_5.jpg"
         ]
     },
     {
@@ -1054,17 +805,7 @@ const vehicleData = [
             "images/5N1AN0NU9EN813473/image_2.jpg",
             "images/5N1AN0NU9EN813473/image_3.jpg",
             "images/5N1AN0NU9EN813473/image_4.jpg",
-            "images/5N1AN0NU9EN813473/image_5.jpg",
-            "images/5N1AN0NU9EN813473/image_6.jpg",
-            "images/5N1AN0NU9EN813473/image_7.jpg",
-            "images/5N1AN0NU9EN813473/image_8.jpg",
-            "images/5N1AN0NU9EN813473/image_9.jpg",
-            "images/5N1AN0NU9EN813473/image_10.jpg",
-            "images/5N1AN0NU9EN813473/image_11.jpg",
-            "images/5N1AN0NU9EN813473/image_12.jpg",
-            "images/5N1AN0NU9EN813473/image_13.jpg",
-            "images/5N1AN0NU9EN813473/image_14.jpg",
-            "images/5N1AN0NU9EN813473/image_15.jpg"
+            "images/5N1AN0NU9EN813473/image_5.jpg"
         ]
     },
     {
@@ -1122,13 +863,7 @@ const vehicleData = [
             "images/2T3WFREV3GW236035/image_6.jpg",
             "images/2T3WFREV3GW236035/image_7.jpg",
             "images/2T3WFREV3GW236035/image_8.jpg",
-            "images/2T3WFREV3GW236035/image_9.jpg",
-            "images/2T3WFREV3GW236035/image_10.jpg",
-            "images/2T3WFREV3GW236035/image_11.jpg",
-            "images/2T3WFREV3GW236035/image_12.jpg",
-            "images/2T3WFREV3GW236035/image_13.jpg",
-            "images/2T3WFREV3GW236035/image_14.jpg",
-            "images/2T3WFREV3GW236035/image_15.jpg"
+            "images/2T3WFREV3GW236035/image_9.jpg"
         ]
     },
     {
@@ -1158,17 +893,7 @@ const vehicleData = [
             "images/2FMPK4J90LBA96286/image_2.jpg",
             "images/2FMPK4J90LBA96286/image_3.jpg",
             "images/2FMPK4J90LBA96286/image_4.jpg",
-            "images/2FMPK4J90LBA96286/image_5.jpg",
-            "images/2FMPK4J90LBA96286/image_6.jpg",
-            "images/2FMPK4J90LBA96286/image_7.jpg",
-            "images/2FMPK4J90LBA96286/image_8.jpg",
-            "images/2FMPK4J90LBA96286/image_9.jpg",
-            "images/2FMPK4J90LBA96286/image_10.jpg",
-            "images/2FMPK4J90LBA96286/image_11.jpg",
-            "images/2FMPK4J90LBA96286/image_12.jpg",
-            "images/2FMPK4J90LBA96286/image_13.jpg",
-            "images/2FMPK4J90LBA96286/image_14.jpg",
-            "images/2FMPK4J90LBA96286/image_15.jpg"
+            "images/2FMPK4J90LBA96286/image_5.jpg"
         ]
     },
     {
@@ -1198,17 +923,7 @@ const vehicleData = [
             "images/KNDJ63AU1L7725267/image_2.jpg",
             "images/KNDJ63AU1L7725267/image_3.jpg",
             "images/KNDJ63AU1L7725267/image_4.jpg",
-            "images/KNDJ63AU1L7725267/image_5.jpg",
-            "images/KNDJ63AU1L7725267/image_6.jpg",
-            "images/KNDJ63AU1L7725267/image_7.jpg",
-            "images/KNDJ63AU1L7725267/image_8.jpg",
-            "images/KNDJ63AU1L7725267/image_9.jpg",
-            "images/KNDJ63AU1L7725267/image_10.jpg",
-            "images/KNDJ63AU1L7725267/image_11.jpg",
-            "images/KNDJ63AU1L7725267/image_12.jpg",
-            "images/KNDJ63AU1L7725267/image_13.jpg",
-            "images/KNDJ63AU1L7725267/image_14.jpg",
-            "images/KNDJ63AU1L7725267/image_15.jpg"
+            "images/KNDJ63AU1L7725267/image_5.jpg"
         ]
     },
     {
@@ -1238,17 +953,7 @@ const vehicleData = [
             "images/NMTKHMBX8JR042304/image_2.jpg",
             "images/NMTKHMBX8JR042304/image_3.jpg",
             "images/NMTKHMBX8JR042304/image_4.jpg",
-            "images/NMTKHMBX8JR042304/image_5.jpg",
-            "images/NMTKHMBX8JR042304/image_6.jpg",
-            "images/NMTKHMBX8JR042304/image_7.jpg",
-            "images/NMTKHMBX8JR042304/image_8.jpg",
-            "images/NMTKHMBX8JR042304/image_9.jpg",
-            "images/NMTKHMBX8JR042304/image_10.jpg",
-            "images/NMTKHMBX8JR042304/image_11.jpg",
-            "images/NMTKHMBX8JR042304/image_12.jpg",
-            "images/NMTKHMBX8JR042304/image_13.jpg",
-            "images/NMTKHMBX8JR042304/image_14.jpg",
-            "images/NMTKHMBX8JR042304/image_15.jpg"
+            "images/NMTKHMBX8JR042304/image_5.jpg"
         ]
     },
     {
@@ -1278,17 +983,7 @@ const vehicleData = [
             "images/3GNAXHEV2MS150474/image_2.jpg",
             "images/3GNAXHEV2MS150474/image_3.jpg",
             "images/3GNAXHEV2MS150474/image_4.jpg",
-            "images/3GNAXHEV2MS150474/image_5.jpg",
-            "images/3GNAXHEV2MS150474/image_6.jpg",
-            "images/3GNAXHEV2MS150474/image_7.jpg",
-            "images/3GNAXHEV2MS150474/image_8.jpg",
-            "images/3GNAXHEV2MS150474/image_9.jpg",
-            "images/3GNAXHEV2MS150474/image_10.jpg",
-            "images/3GNAXHEV2MS150474/image_11.jpg",
-            "images/3GNAXHEV2MS150474/image_12.jpg",
-            "images/3GNAXHEV2MS150474/image_13.jpg",
-            "images/3GNAXHEV2MS150474/image_14.jpg",
-            "images/3GNAXHEV2MS150474/image_15.jpg"
+            "images/3GNAXHEV2MS150474/image_5.jpg"
         ]
     },
     {
@@ -1318,17 +1013,7 @@ const vehicleData = [
             "images/5NPLM4AG6PH113582/image_2.jpg",
             "images/5NPLM4AG6PH113582/image_3.jpg",
             "images/5NPLM4AG6PH113582/image_4.jpg",
-            "images/5NPLM4AG6PH113582/image_5.jpg",
-            "images/5NPLM4AG6PH113582/image_6.jpg",
-            "images/5NPLM4AG6PH113582/image_7.jpg",
-            "images/5NPLM4AG6PH113582/image_8.jpg",
-            "images/5NPLM4AG6PH113582/image_9.jpg",
-            "images/5NPLM4AG6PH113582/image_10.jpg",
-            "images/5NPLM4AG6PH113582/image_11.jpg",
-            "images/5NPLM4AG6PH113582/image_12.jpg",
-            "images/5NPLM4AG6PH113582/image_13.jpg",
-            "images/5NPLM4AG6PH113582/image_14.jpg",
-            "images/5NPLM4AG6PH113582/image_15.jpg"
+            "images/5NPLM4AG6PH113582/image_5.jpg"
         ]
     },
     {
@@ -1358,11 +1043,7 @@ const vehicleData = [
             "images/3VV2B7AX6NM024882/image_2.jpg",
             "images/3VV2B7AX6NM024882/image_3.jpg",
             "images/3VV2B7AX6NM024882/image_4.jpg",
-            "images/3VV2B7AX6NM024882/image_5.jpg",
-            "images/3VV2B7AX6NM024882/image_6.jpg",
-            "images/3VV2B7AX6NM024882/image_7.jpg",
-            "images/3VV2B7AX6NM024882/image_8.jpg",
-            "images/3VV2B7AX6NM024882/image_9.jpg"
+            "images/3VV2B7AX6NM024882/image_5.jpg"
         ]
     },
     {
@@ -1392,12 +1073,7 @@ const vehicleData = [
             "images/4T1G11AK7RU260866/image_2.jpg",
             "images/4T1G11AK7RU260866/image_3.jpg",
             "images/4T1G11AK7RU260866/image_4.jpg",
-            "images/4T1G11AK7RU260866/image_5.jpg",
-            "images/4T1G11AK7RU260866/image_6.jpg",
-            "images/4T1G11AK7RU260866/image_7.jpg",
-            "images/4T1G11AK7RU260866/image_8.jpg",
-            "images/4T1G11AK7RU260866/image_9.jpg",
-            "images/4T1G11AK7RU260866/image_10.jpg"
+            "images/4T1G11AK7RU260866/image_5.jpg"
         ]
     },
     {
@@ -1427,17 +1103,7 @@ const vehicleData = [
             "images/19XFL2H83NE008910/image_2.jpg",
             "images/19XFL2H83NE008910/image_3.jpg",
             "images/19XFL2H83NE008910/image_4.jpg",
-            "images/19XFL2H83NE008910/image_5.jpg",
-            "images/19XFL2H83NE008910/image_6.jpg",
-            "images/19XFL2H83NE008910/image_7.jpg",
-            "images/19XFL2H83NE008910/image_8.jpg",
-            "images/19XFL2H83NE008910/image_9.jpg",
-            "images/19XFL2H83NE008910/image_10.jpg",
-            "images/19XFL2H83NE008910/image_11.jpg",
-            "images/19XFL2H83NE008910/image_12.jpg",
-            "images/19XFL2H83NE008910/image_13.jpg",
-            "images/19XFL2H83NE008910/image_14.jpg",
-            "images/19XFL2H83NE008910/image_15.jpg"
+            "images/19XFL2H83NE008910/image_5.jpg"
         ]
     },
     {
@@ -1467,17 +1133,7 @@ const vehicleData = [
             "images/2HKRW1H57LH418977/image_2.jpg",
             "images/2HKRW1H57LH418977/image_3.jpg",
             "images/2HKRW1H57LH418977/image_4.jpg",
-            "images/2HKRW1H57LH418977/image_5.jpg",
-            "images/2HKRW1H57LH418977/image_6.jpg",
-            "images/2HKRW1H57LH418977/image_7.jpg",
-            "images/2HKRW1H57LH418977/image_8.jpg",
-            "images/2HKRW1H57LH418977/image_9.jpg",
-            "images/2HKRW1H57LH418977/image_10.jpg",
-            "images/2HKRW1H57LH418977/image_11.jpg",
-            "images/2HKRW1H57LH418977/image_12.jpg",
-            "images/2HKRW1H57LH418977/image_13.jpg",
-            "images/2HKRW1H57LH418977/image_14.jpg",
-            "images/2HKRW1H57LH418977/image_15.jpg"
+            "images/2HKRW1H57LH418977/image_5.jpg"
         ]
     },
     {
@@ -1507,17 +1163,7 @@ const vehicleData = [
             "images/2HGFE2F53RH520004/image_2.jpg",
             "images/2HGFE2F53RH520004/image_3.jpg",
             "images/2HGFE2F53RH520004/image_4.jpg",
-            "images/2HGFE2F53RH520004/image_5.jpg",
-            "images/2HGFE2F53RH520004/image_6.jpg",
-            "images/2HGFE2F53RH520004/image_7.jpg",
-            "images/2HGFE2F53RH520004/image_8.jpg",
-            "images/2HGFE2F53RH520004/image_9.jpg",
-            "images/2HGFE2F53RH520004/image_10.jpg",
-            "images/2HGFE2F53RH520004/image_11.jpg",
-            "images/2HGFE2F53RH520004/image_12.jpg",
-            "images/2HGFE2F53RH520004/image_13.jpg",
-            "images/2HGFE2F53RH520004/image_14.jpg",
-            "images/2HGFE2F53RH520004/image_15.jpg"
+            "images/2HGFE2F53RH520004/image_5.jpg"
         ]
     },
     {
@@ -1547,11 +1193,7 @@ const vehicleData = [
             "images/1C6HJTAG7ML536551/image_2.jpg",
             "images/1C6HJTAG7ML536551/image_3.jpg",
             "images/1C6HJTAG7ML536551/image_4.jpg",
-            "images/1C6HJTAG7ML536551/image_5.jpg",
-            "images/1C6HJTAG7ML536551/image_6.jpg",
-            "images/1C6HJTAG7ML536551/image_7.jpg",
-            "images/1C6HJTAG7ML536551/image_8.jpg",
-            "images/1C6HJTAG7ML536551/image_9.jpg"
+            "images/1C6HJTAG7ML536551/image_5.jpg"
         ]
     },
     {
@@ -1581,17 +1223,7 @@ const vehicleData = [
             "images/3GKALMEG6RL263350/image_2.jpg",
             "images/3GKALMEG6RL263350/image_3.jpg",
             "images/3GKALMEG6RL263350/image_4.jpg",
-            "images/3GKALMEG6RL263350/image_5.jpg",
-            "images/3GKALMEG6RL263350/image_6.jpg",
-            "images/3GKALMEG6RL263350/image_7.jpg",
-            "images/3GKALMEG6RL263350/image_8.jpg",
-            "images/3GKALMEG6RL263350/image_9.jpg",
-            "images/3GKALMEG6RL263350/image_10.jpg",
-            "images/3GKALMEG6RL263350/image_11.jpg",
-            "images/3GKALMEG6RL263350/image_12.jpg",
-            "images/3GKALMEG6RL263350/image_13.jpg",
-            "images/3GKALMEG6RL263350/image_14.jpg",
-            "images/3GKALMEG6RL263350/image_15.jpg"
+            "images/3GKALMEG6RL263350/image_5.jpg"
         ]
     },
     {
@@ -1621,17 +1253,7 @@ const vehicleData = [
             "images/WAUAUDGY4NA088724/image_2.jpg",
             "images/WAUAUDGY4NA088724/image_3.jpg",
             "images/WAUAUDGY4NA088724/image_4.jpg",
-            "images/WAUAUDGY4NA088724/image_5.jpg",
-            "images/WAUAUDGY4NA088724/image_6.jpg",
-            "images/WAUAUDGY4NA088724/image_7.jpg",
-            "images/WAUAUDGY4NA088724/image_8.jpg",
-            "images/WAUAUDGY4NA088724/image_9.jpg",
-            "images/WAUAUDGY4NA088724/image_10.jpg",
-            "images/WAUAUDGY4NA088724/image_11.jpg",
-            "images/WAUAUDGY4NA088724/image_12.jpg",
-            "images/WAUAUDGY4NA088724/image_13.jpg",
-            "images/WAUAUDGY4NA088724/image_14.jpg",
-            "images/WAUAUDGY4NA088724/image_15.jpg"
+            "images/WAUAUDGY4NA088724/image_5.jpg"
         ]
     },
     {
@@ -1661,17 +1283,7 @@ const vehicleData = [
             "images/3FMCR9B62RRF28690/image_2.jpg",
             "images/3FMCR9B62RRF28690/image_3.jpg",
             "images/3FMCR9B62RRF28690/image_4.jpg",
-            "images/3FMCR9B62RRF28690/image_5.jpg",
-            "images/3FMCR9B62RRF28690/image_6.jpg",
-            "images/3FMCR9B62RRF28690/image_7.jpg",
-            "images/3FMCR9B62RRF28690/image_8.jpg",
-            "images/3FMCR9B62RRF28690/image_9.jpg",
-            "images/3FMCR9B62RRF28690/image_10.jpg",
-            "images/3FMCR9B62RRF28690/image_11.jpg",
-            "images/3FMCR9B62RRF28690/image_12.jpg",
-            "images/3FMCR9B62RRF28690/image_13.jpg",
-            "images/3FMCR9B62RRF28690/image_14.jpg",
-            "images/3FMCR9B62RRF28690/image_15.jpg"
+            "images/3FMCR9B62RRF28690/image_5.jpg"
         ]
     },
     {
@@ -1701,17 +1313,7 @@ const vehicleData = [
             "images/2LMPJ6K99MBL09111/image_2.jpg",
             "images/2LMPJ6K99MBL09111/image_3.jpg",
             "images/2LMPJ6K99MBL09111/image_4.jpg",
-            "images/2LMPJ6K99MBL09111/image_5.jpg",
-            "images/2LMPJ6K99MBL09111/image_6.jpg",
-            "images/2LMPJ6K99MBL09111/image_7.jpg",
-            "images/2LMPJ6K99MBL09111/image_8.jpg",
-            "images/2LMPJ6K99MBL09111/image_9.jpg",
-            "images/2LMPJ6K99MBL09111/image_10.jpg",
-            "images/2LMPJ6K99MBL09111/image_11.jpg",
-            "images/2LMPJ6K99MBL09111/image_12.jpg",
-            "images/2LMPJ6K99MBL09111/image_13.jpg",
-            "images/2LMPJ6K99MBL09111/image_14.jpg",
-            "images/2LMPJ6K99MBL09111/image_15.jpg"
+            "images/2LMPJ6K99MBL09111/image_5.jpg"
         ]
     },
     {
@@ -1741,17 +1343,7 @@ const vehicleData = [
             "images/19UUB5F44NA004316/image_2.jpg",
             "images/19UUB5F44NA004316/image_3.jpg",
             "images/19UUB5F44NA004316/image_4.jpg",
-            "images/19UUB5F44NA004316/image_5.jpg",
-            "images/19UUB5F44NA004316/image_6.jpg",
-            "images/19UUB5F44NA004316/image_7.jpg",
-            "images/19UUB5F44NA004316/image_8.jpg",
-            "images/19UUB5F44NA004316/image_9.jpg",
-            "images/19UUB5F44NA004316/image_10.jpg",
-            "images/19UUB5F44NA004316/image_11.jpg",
-            "images/19UUB5F44NA004316/image_12.jpg",
-            "images/19UUB5F44NA004316/image_13.jpg",
-            "images/19UUB5F44NA004316/image_14.jpg",
-            "images/19UUB5F44NA004316/image_15.jpg"
+            "images/19UUB5F44NA004316/image_5.jpg"
         ]
     },
     {
@@ -1781,17 +1373,7 @@ const vehicleData = [
             "images/W1N4M4HB9MW111399/image_2.jpg",
             "images/W1N4M4HB9MW111399/image_3.jpg",
             "images/W1N4M4HB9MW111399/image_4.jpg",
-            "images/W1N4M4HB9MW111399/image_5.jpg",
-            "images/W1N4M4HB9MW111399/image_6.jpg",
-            "images/W1N4M4HB9MW111399/image_7.jpg",
-            "images/W1N4M4HB9MW111399/image_8.jpg",
-            "images/W1N4M4HB9MW111399/image_9.jpg",
-            "images/W1N4M4HB9MW111399/image_10.jpg",
-            "images/W1N4M4HB9MW111399/image_11.jpg",
-            "images/W1N4M4HB9MW111399/image_12.jpg",
-            "images/W1N4M4HB9MW111399/image_13.jpg",
-            "images/W1N4M4HB9MW111399/image_14.jpg",
-            "images/W1N4M4HB9MW111399/image_15.jpg"
+            "images/W1N4M4HB9MW111399/image_5.jpg"
         ]
     },
     {
@@ -1821,17 +1403,7 @@ const vehicleData = [
             "images/3GKALMEG9TL113028/image_2.jpg",
             "images/3GKALMEG9TL113028/image_3.jpg",
             "images/3GKALMEG9TL113028/image_4.jpg",
-            "images/3GKALMEG9TL113028/image_5.jpg",
-            "images/3GKALMEG9TL113028/image_6.jpg",
-            "images/3GKALMEG9TL113028/image_7.jpg",
-            "images/3GKALMEG9TL113028/image_8.jpg",
-            "images/3GKALMEG9TL113028/image_9.jpg",
-            "images/3GKALMEG9TL113028/image_10.jpg",
-            "images/3GKALMEG9TL113028/image_11.jpg",
-            "images/3GKALMEG9TL113028/image_12.jpg",
-            "images/3GKALMEG9TL113028/image_13.jpg",
-            "images/3GKALMEG9TL113028/image_14.jpg",
-            "images/3GKALMEG9TL113028/image_15.jpg"
+            "images/3GKALMEG9TL113028/image_5.jpg"
         ]
     },
     {
@@ -1861,17 +1433,7 @@ const vehicleData = [
             "images/7FARS3H44PE007205/image_2.jpg",
             "images/7FARS3H44PE007205/image_3.jpg",
             "images/7FARS3H44PE007205/image_4.jpg",
-            "images/7FARS3H44PE007205/image_5.jpg",
-            "images/7FARS3H44PE007205/image_6.jpg",
-            "images/7FARS3H44PE007205/image_7.jpg",
-            "images/7FARS3H44PE007205/image_8.jpg",
-            "images/7FARS3H44PE007205/image_9.jpg",
-            "images/7FARS3H44PE007205/image_10.jpg",
-            "images/7FARS3H44PE007205/image_11.jpg",
-            "images/7FARS3H44PE007205/image_12.jpg",
-            "images/7FARS3H44PE007205/image_13.jpg",
-            "images/7FARS3H44PE007205/image_14.jpg",
-            "images/7FARS3H44PE007205/image_15.jpg"
+            "images/7FARS3H44PE007205/image_5.jpg"
         ]
     },
     {
@@ -1901,17 +1463,7 @@ const vehicleData = [
             "images/5FNRL6H6XRB032981/image_2.jpg",
             "images/5FNRL6H6XRB032981/image_3.jpg",
             "images/5FNRL6H6XRB032981/image_4.jpg",
-            "images/5FNRL6H6XRB032981/image_5.jpg",
-            "images/5FNRL6H6XRB032981/image_6.jpg",
-            "images/5FNRL6H6XRB032981/image_7.jpg",
-            "images/5FNRL6H6XRB032981/image_8.jpg",
-            "images/5FNRL6H6XRB032981/image_9.jpg",
-            "images/5FNRL6H6XRB032981/image_10.jpg",
-            "images/5FNRL6H6XRB032981/image_11.jpg",
-            "images/5FNRL6H6XRB032981/image_12.jpg",
-            "images/5FNRL6H6XRB032981/image_13.jpg",
-            "images/5FNRL6H6XRB032981/image_14.jpg",
-            "images/5FNRL6H6XRB032981/image_15.jpg"
+            "images/5FNRL6H6XRB032981/image_5.jpg"
         ]
     },
     {
@@ -1941,17 +1493,7 @@ const vehicleData = [
             "images/KNDNB5K34T6553241/image_2.jpg",
             "images/KNDNB5K34T6553241/image_3.jpg",
             "images/KNDNB5K34T6553241/image_4.jpg",
-            "images/KNDNB5K34T6553241/image_5.jpg",
-            "images/KNDNB5K34T6553241/image_6.jpg",
-            "images/KNDNB5K34T6553241/image_7.jpg",
-            "images/KNDNB5K34T6553241/image_8.jpg",
-            "images/KNDNB5K34T6553241/image_9.jpg",
-            "images/KNDNB5K34T6553241/image_10.jpg",
-            "images/KNDNB5K34T6553241/image_11.jpg",
-            "images/KNDNB5K34T6553241/image_12.jpg",
-            "images/KNDNB5K34T6553241/image_13.jpg",
-            "images/KNDNB5K34T6553241/image_14.jpg",
-            "images/KNDNB5K34T6553241/image_15.jpg"
+            "images/KNDNB5K34T6553241/image_5.jpg"
         ]
     },
     {
@@ -1981,17 +1523,7 @@ const vehicleData = [
             "images/1FTFW3L55SKD39362/image_2.jpg",
             "images/1FTFW3L55SKD39362/image_3.jpg",
             "images/1FTFW3L55SKD39362/image_4.jpg",
-            "images/1FTFW3L55SKD39362/image_5.jpg",
-            "images/1FTFW3L55SKD39362/image_6.jpg",
-            "images/1FTFW3L55SKD39362/image_7.jpg",
-            "images/1FTFW3L55SKD39362/image_8.jpg",
-            "images/1FTFW3L55SKD39362/image_9.jpg",
-            "images/1FTFW3L55SKD39362/image_10.jpg",
-            "images/1FTFW3L55SKD39362/image_11.jpg",
-            "images/1FTFW3L55SKD39362/image_12.jpg",
-            "images/1FTFW3L55SKD39362/image_13.jpg",
-            "images/1FTFW3L55SKD39362/image_14.jpg",
-            "images/1FTFW3L55SKD39362/image_15.jpg"
+            "images/1FTFW3L55SKD39362/image_5.jpg"
         ]
     },
     {
@@ -2021,17 +1553,7 @@ const vehicleData = [
             "images/5UX33DT07P9S55403/image_2.jpg",
             "images/5UX33DT07P9S55403/image_3.jpg",
             "images/5UX33DT07P9S55403/image_4.jpg",
-            "images/5UX33DT07P9S55403/image_5.jpg",
-            "images/5UX33DT07P9S55403/image_6.jpg",
-            "images/5UX33DT07P9S55403/image_7.jpg",
-            "images/5UX33DT07P9S55403/image_8.jpg",
-            "images/5UX33DT07P9S55403/image_9.jpg",
-            "images/5UX33DT07P9S55403/image_10.jpg",
-            "images/5UX33DT07P9S55403/image_11.jpg",
-            "images/5UX33DT07P9S55403/image_12.jpg",
-            "images/5UX33DT07P9S55403/image_13.jpg",
-            "images/5UX33DT07P9S55403/image_14.jpg",
-            "images/5UX33DT07P9S55403/image_15.jpg"
+            "images/5UX33DT07P9S55403/image_5.jpg"
         ]
     },
     {
@@ -2061,12 +1583,7 @@ const vehicleData = [
             "images/5UX23EU04R9W15908/image_2.jpg",
             "images/5UX23EU04R9W15908/image_3.jpg",
             "images/5UX23EU04R9W15908/image_4.jpg",
-            "images/5UX23EU04R9W15908/image_5.jpg",
-            "images/5UX23EU04R9W15908/image_6.jpg",
-            "images/5UX23EU04R9W15908/image_7.jpg",
-            "images/5UX23EU04R9W15908/image_8.jpg",
-            "images/5UX23EU04R9W15908/image_9.jpg",
-            "images/5UX23EU04R9W15908/image_10.jpg"
+            "images/5UX23EU04R9W15908/image_5.jpg"
         ]
     },
     {
@@ -2096,17 +1613,7 @@ const vehicleData = [
             "images/5XYC44JA0SG003168/image_2.jpg",
             "images/5XYC44JA0SG003168/image_3.jpg",
             "images/5XYC44JA0SG003168/image_4.jpg",
-            "images/5XYC44JA0SG003168/image_5.jpg",
-            "images/5XYC44JA0SG003168/image_6.jpg",
-            "images/5XYC44JA0SG003168/image_7.jpg",
-            "images/5XYC44JA0SG003168/image_8.jpg",
-            "images/5XYC44JA0SG003168/image_9.jpg",
-            "images/5XYC44JA0SG003168/image_10.jpg",
-            "images/5XYC44JA0SG003168/image_11.jpg",
-            "images/5XYC44JA0SG003168/image_12.jpg",
-            "images/5XYC44JA0SG003168/image_13.jpg",
-            "images/5XYC44JA0SG003168/image_14.jpg",
-            "images/5XYC44JA0SG003168/image_15.jpg"
+            "images/5XYC44JA0SG003168/image_5.jpg"
         ]
     },
     {
@@ -2136,17 +1643,7 @@ const vehicleData = [
             "images/2T3H1RFV7MW184135/image_2.jpg",
             "images/2T3H1RFV7MW184135/image_3.jpg",
             "images/2T3H1RFV7MW184135/image_4.jpg",
-            "images/2T3H1RFV7MW184135/image_5.jpg",
-            "images/2T3H1RFV7MW184135/image_6.jpg",
-            "images/2T3H1RFV7MW184135/image_7.jpg",
-            "images/2T3H1RFV7MW184135/image_8.jpg",
-            "images/2T3H1RFV7MW184135/image_9.jpg",
-            "images/2T3H1RFV7MW184135/image_10.jpg",
-            "images/2T3H1RFV7MW184135/image_11.jpg",
-            "images/2T3H1RFV7MW184135/image_12.jpg",
-            "images/2T3H1RFV7MW184135/image_13.jpg",
-            "images/2T3H1RFV7MW184135/image_14.jpg",
-            "images/2T3H1RFV7MW184135/image_15.jpg"
+            "images/2T3H1RFV7MW184135/image_5.jpg"
         ]
     },
     {
@@ -2176,12 +1673,7 @@ const vehicleData = [
             "images/2HKRS3H21SH330373/image_2.jpg",
             "images/2HKRS3H21SH330373/image_3.jpg",
             "images/2HKRS3H21SH330373/image_4.jpg",
-            "images/2HKRS3H21SH330373/image_5.jpg",
-            "images/2HKRS3H21SH330373/image_6.jpg",
-            "images/2HKRS3H21SH330373/image_7.jpg",
-            "images/2HKRS3H21SH330373/image_8.jpg",
-            "images/2HKRS3H21SH330373/image_9.jpg",
-            "images/2HKRS3H21SH330373/image_10.jpg"
+            "images/2HKRS3H21SH330373/image_5.jpg"
         ]
     },
     {
@@ -2211,17 +1703,7 @@ const vehicleData = [
             "images/4T1DAACK3SU120254/image_2.jpg",
             "images/4T1DAACK3SU120254/image_3.jpg",
             "images/4T1DAACK3SU120254/image_4.jpg",
-            "images/4T1DAACK3SU120254/image_5.jpg",
-            "images/4T1DAACK3SU120254/image_6.jpg",
-            "images/4T1DAACK3SU120254/image_7.jpg",
-            "images/4T1DAACK3SU120254/image_8.jpg",
-            "images/4T1DAACK3SU120254/image_9.jpg",
-            "images/4T1DAACK3SU120254/image_10.jpg",
-            "images/4T1DAACK3SU120254/image_11.jpg",
-            "images/4T1DAACK3SU120254/image_12.jpg",
-            "images/4T1DAACK3SU120254/image_13.jpg",
-            "images/4T1DAACK3SU120254/image_14.jpg",
-            "images/4T1DAACK3SU120254/image_15.jpg"
+            "images/4T1DAACK3SU120254/image_5.jpg"
         ]
     },
     {
@@ -2251,17 +1733,7 @@ const vehicleData = [
             "images/2HKRS3H49PH302877/image_2.jpg",
             "images/2HKRS3H49PH302877/image_3.jpg",
             "images/2HKRS3H49PH302877/image_4.jpg",
-            "images/2HKRS3H49PH302877/image_5.jpg",
-            "images/2HKRS3H49PH302877/image_6.jpg",
-            "images/2HKRS3H49PH302877/image_7.jpg",
-            "images/2HKRS3H49PH302877/image_8.jpg",
-            "images/2HKRS3H49PH302877/image_9.jpg",
-            "images/2HKRS3H49PH302877/image_10.jpg",
-            "images/2HKRS3H49PH302877/image_11.jpg",
-            "images/2HKRS3H49PH302877/image_12.jpg",
-            "images/2HKRS3H49PH302877/image_13.jpg",
-            "images/2HKRS3H49PH302877/image_14.jpg",
-            "images/2HKRS3H49PH302877/image_15.jpg"
+            "images/2HKRS3H49PH302877/image_5.jpg"
         ]
     },
     {
@@ -2291,17 +1763,7 @@ const vehicleData = [
             "images/2HKRS4H49RH452335/image_2.jpg",
             "images/2HKRS4H49RH452335/image_3.jpg",
             "images/2HKRS4H49RH452335/image_4.jpg",
-            "images/2HKRS4H49RH452335/image_5.jpg",
-            "images/2HKRS4H49RH452335/image_6.jpg",
-            "images/2HKRS4H49RH452335/image_7.jpg",
-            "images/2HKRS4H49RH452335/image_8.jpg",
-            "images/2HKRS4H49RH452335/image_9.jpg",
-            "images/2HKRS4H49RH452335/image_10.jpg",
-            "images/2HKRS4H49RH452335/image_11.jpg",
-            "images/2HKRS4H49RH452335/image_12.jpg",
-            "images/2HKRS4H49RH452335/image_13.jpg",
-            "images/2HKRS4H49RH452335/image_14.jpg",
-            "images/2HKRS4H49RH452335/image_15.jpg"
+            "images/2HKRS4H49RH452335/image_5.jpg"
         ]
     },
     {
@@ -2324,11 +1786,7 @@ const vehicleData = [
         "fuel": "Gasoline",
         "exterior": "Blue",
         "interior": "Black",
-        "images": [
-            "images/7FARS5H86SE024529/image_2.jpg",
-            "images/7FARS5H86SE024529/image_2.jpg",
-            "images/7FARS5H86SE024529/image_3.jpg"
-        ]
+        "images": []
     },
     {
         "vin": "7FARS5H88SE035726",
@@ -2350,11 +1808,7 @@ const vehicleData = [
         "fuel": "Gasoline",
         "exterior": "Blue",
         "interior": "Black",
-        "images": [
-            "images/7FARS5H88SE035726/image_2.jpg",
-            "images/7FARS5H88SE035726/image_2.jpg",
-            "images/7FARS5H88SE035726/image_3.jpg"
-        ]
+        "images": []
     },
     {
         "vin": "2HGFE4F84SH327971",
@@ -2374,11 +1828,7 @@ const vehicleData = [
         "local_image": "images\\2HGFE4F84SH327971\\image_2.jpg",
         "trim": "LX",
         "fuel": "Gasoline",
-        "images": [
-            "images/2HGFE4F84SH327971/image_2.jpg",
-            "images/2HGFE4F84SH327971/image_2.jpg",
-            "images/2HGFE4F84SH327971/image_3.jpg"
-        ]
+        "images": []
     },
     {
         "vin": "1HGCY1F35RA067697",
@@ -2400,11 +1850,7 @@ const vehicleData = [
         "fuel": "Gasoline",
         "exterior": "Black",
         "interior": "Black",
-        "images": [
-            "images/1HGCY1F35RA067697/image_2.jpg",
-            "images/1HGCY1F35RA067697/image_2.jpg",
-            "images/1HGCY1F35RA067697/image_3.jpg"
-        ]
+        "images": []
     },
     {
         "vin": "1HGCY1F21SA049369",
@@ -2426,11 +1872,7 @@ const vehicleData = [
         "fuel": "Gasoline",
         "exterior": "Black",
         "interior": "Black",
-        "images": [
-            "images/1HGCY1F21SA049369/image_2.jpg",
-            "images/1HGCY1F21SA049369/image_2.jpg",
-            "images/1HGCY1F21SA049369/image_3.jpg"
-        ]
+        "images": []
     },
     {
         "vin": "4T1DAACK5SU564204",
@@ -2457,17 +1899,7 @@ const vehicleData = [
             "images/4T1DAACK5SU564204/image_2.jpg",
             "images/4T1DAACK5SU564204/image_3.jpg",
             "images/4T1DAACK5SU564204/image_4.jpg",
-            "images/4T1DAACK5SU564204/image_5.jpg",
-            "images/4T1DAACK5SU564204/image_6.jpg",
-            "images/4T1DAACK5SU564204/image_7.jpg",
-            "images/4T1DAACK5SU564204/image_8.jpg",
-            "images/4T1DAACK5SU564204/image_9.jpg",
-            "images/4T1DAACK5SU564204/image_10.jpg",
-            "images/4T1DAACK5SU564204/image_11.jpg",
-            "images/4T1DAACK5SU564204/image_12.jpg",
-            "images/4T1DAACK5SU564204/image_13.jpg",
-            "images/4T1DAACK5SU564204/image_14.jpg",
-            "images/4T1DAACK5SU564204/image_15.jpg"
+            "images/4T1DAACK5SU564204/image_5.jpg"
         ]
     },
     {
@@ -2495,17 +1927,7 @@ const vehicleData = [
             "images/4T1DAACK2TU231699/image_2.jpg",
             "images/4T1DAACK2TU231699/image_3.jpg",
             "images/4T1DAACK2TU231699/image_4.jpg",
-            "images/4T1DAACK2TU231699/image_5.jpg",
-            "images/4T1DAACK2TU231699/image_6.jpg",
-            "images/4T1DAACK2TU231699/image_7.jpg",
-            "images/4T1DAACK2TU231699/image_8.jpg",
-            "images/4T1DAACK2TU231699/image_9.jpg",
-            "images/4T1DAACK2TU231699/image_10.jpg",
-            "images/4T1DAACK2TU231699/image_11.jpg",
-            "images/4T1DAACK2TU231699/image_12.jpg",
-            "images/4T1DAACK2TU231699/image_13.jpg",
-            "images/4T1DAACK2TU231699/image_14.jpg",
-            "images/4T1DAACK2TU231699/image_15.jpg"
+            "images/4T1DAACK2TU231699/image_5.jpg"
         ]
     },
     {
@@ -2533,17 +1955,7 @@ const vehicleData = [
             "images/4T1DAACKXSU610187/image_2.jpg",
             "images/4T1DAACKXSU610187/image_3.jpg",
             "images/4T1DAACKXSU610187/image_4.jpg",
-            "images/4T1DAACKXSU610187/image_5.jpg",
-            "images/4T1DAACKXSU610187/image_6.jpg",
-            "images/4T1DAACKXSU610187/image_7.jpg",
-            "images/4T1DAACKXSU610187/image_8.jpg",
-            "images/4T1DAACKXSU610187/image_9.jpg",
-            "images/4T1DAACKXSU610187/image_10.jpg",
-            "images/4T1DAACKXSU610187/image_11.jpg",
-            "images/4T1DAACKXSU610187/image_12.jpg",
-            "images/4T1DAACKXSU610187/image_13.jpg",
-            "images/4T1DAACKXSU610187/image_14.jpg",
-            "images/4T1DAACKXSU610187/image_15.jpg"
+            "images/4T1DAACKXSU610187/image_5.jpg"
         ]
     },
     {
@@ -2571,17 +1983,7 @@ const vehicleData = [
             "images/7MUFBABG7RV061463/image_2.jpg",
             "images/7MUFBABG7RV061463/image_3.jpg",
             "images/7MUFBABG7RV061463/image_4.jpg",
-            "images/7MUFBABG7RV061463/image_5.jpg",
-            "images/7MUFBABG7RV061463/image_6.jpg",
-            "images/7MUFBABG7RV061463/image_7.jpg",
-            "images/7MUFBABG7RV061463/image_8.jpg",
-            "images/7MUFBABG7RV061463/image_9.jpg",
-            "images/7MUFBABG7RV061463/image_10.jpg",
-            "images/7MUFBABG7RV061463/image_11.jpg",
-            "images/7MUFBABG7RV061463/image_12.jpg",
-            "images/7MUFBABG7RV061463/image_13.jpg",
-            "images/7MUFBABG7RV061463/image_14.jpg",
-            "images/7MUFBABG7RV061463/image_15.jpg"
+            "images/7MUFBABG7RV061463/image_5.jpg"
         ]
     },
     {
@@ -2609,16 +2011,7 @@ const vehicleData = [
             "images/3TMLB5JN9TM227672/image_3.jpg",
             "images/3TMLB5JN9TM227672/image_4.jpg",
             "images/3TMLB5JN9TM227672/image_5.jpg",
-            "images/3TMLB5JN9TM227672/image_6.jpg",
-            "images/3TMLB5JN9TM227672/image_7.jpg",
-            "images/3TMLB5JN9TM227672/image_8.jpg",
-            "images/3TMLB5JN9TM227672/image_9.jpg",
-            "images/3TMLB5JN9TM227672/image_10.jpg",
-            "images/3TMLB5JN9TM227672/image_11.jpg",
-            "images/3TMLB5JN9TM227672/image_12.jpg",
-            "images/3TMLB5JN9TM227672/image_13.jpg",
-            "images/3TMLB5JN9TM227672/image_14.jpg",
-            "images/3TMLB5JN9TM227672/image_15.jpg"
+            "images/3TMLB5JN9TM227672/image_6.jpg"
         ]
     },
     {
@@ -2646,16 +2039,7 @@ const vehicleData = [
             "images/JTMLWRFV0RD247057/image_3.jpg",
             "images/JTMLWRFV0RD247057/image_4.jpg",
             "images/JTMLWRFV0RD247057/image_5.jpg",
-            "images/JTMLWRFV0RD247057/image_6.jpg",
-            "images/JTMLWRFV0RD247057/image_7.jpg",
-            "images/JTMLWRFV0RD247057/image_8.jpg",
-            "images/JTMLWRFV0RD247057/image_9.jpg",
-            "images/JTMLWRFV0RD247057/image_10.jpg",
-            "images/JTMLWRFV0RD247057/image_11.jpg",
-            "images/JTMLWRFV0RD247057/image_12.jpg",
-            "images/JTMLWRFV0RD247057/image_13.jpg",
-            "images/JTMLWRFV0RD247057/image_14.jpg",
-            "images/JTMLWRFV0RD247057/image_15.jpg"
+            "images/JTMLWRFV0RD247057/image_6.jpg"
         ]
     },
     {
@@ -2683,17 +2067,7 @@ const vehicleData = [
             "images/4T1DAACK3SU152606/image_2.jpg",
             "images/4T1DAACK3SU152606/image_3.jpg",
             "images/4T1DAACK3SU152606/image_4.jpg",
-            "images/4T1DAACK3SU152606/image_5.jpg",
-            "images/4T1DAACK3SU152606/image_6.jpg",
-            "images/4T1DAACK3SU152606/image_7.jpg",
-            "images/4T1DAACK3SU152606/image_8.jpg",
-            "images/4T1DAACK3SU152606/image_9.jpg",
-            "images/4T1DAACK3SU152606/image_10.jpg",
-            "images/4T1DAACK3SU152606/image_11.jpg",
-            "images/4T1DAACK3SU152606/image_12.jpg",
-            "images/4T1DAACK3SU152606/image_13.jpg",
-            "images/4T1DAACK3SU152606/image_14.jpg",
-            "images/4T1DAACK3SU152606/image_15.jpg"
+            "images/4T1DAACK3SU152606/image_5.jpg"
         ]
     },
     {
@@ -2721,17 +2095,7 @@ const vehicleData = [
             "images/JTEBU5JR6K5701943/image_2.jpg",
             "images/JTEBU5JR6K5701943/image_3.jpg",
             "images/JTEBU5JR6K5701943/image_4.jpg",
-            "images/JTEBU5JR6K5701943/image_5.jpg",
-            "images/JTEBU5JR6K5701943/image_6.jpg",
-            "images/JTEBU5JR6K5701943/image_7.jpg",
-            "images/JTEBU5JR6K5701943/image_8.jpg",
-            "images/JTEBU5JR6K5701943/image_9.jpg",
-            "images/JTEBU5JR6K5701943/image_10.jpg",
-            "images/JTEBU5JR6K5701943/image_11.jpg",
-            "images/JTEBU5JR6K5701943/image_12.jpg",
-            "images/JTEBU5JR6K5701943/image_13.jpg",
-            "images/JTEBU5JR6K5701943/image_14.jpg",
-            "images/JTEBU5JR6K5701943/image_15.jpg"
+            "images/JTEBU5JR6K5701943/image_5.jpg"
         ]
     },
     {
@@ -2759,16 +2123,7 @@ const vehicleData = [
             "images/WZ1DB0G07TW073998/image_3.jpg",
             "images/WZ1DB0G07TW073998/image_4.jpg",
             "images/WZ1DB0G07TW073998/image_5.jpg",
-            "images/WZ1DB0G07TW073998/image_6.jpg",
-            "images/WZ1DB0G07TW073998/image_7.jpg",
-            "images/WZ1DB0G07TW073998/image_8.jpg",
-            "images/WZ1DB0G07TW073998/image_9.jpg",
-            "images/WZ1DB0G07TW073998/image_10.jpg",
-            "images/WZ1DB0G07TW073998/image_11.jpg",
-            "images/WZ1DB0G07TW073998/image_12.jpg",
-            "images/WZ1DB0G07TW073998/image_13.jpg",
-            "images/WZ1DB0G07TW073998/image_14.jpg",
-            "images/WZ1DB0G07TW073998/image_15.jpg"
+            "images/WZ1DB0G07TW073998/image_6.jpg"
         ]
     },
     {
@@ -2796,17 +2151,7 @@ const vehicleData = [
             "images/5YFB4MCEXSP222873/image_2.jpg",
             "images/5YFB4MCEXSP222873/image_3.jpg",
             "images/5YFB4MCEXSP222873/image_4.jpg",
-            "images/5YFB4MCEXSP222873/image_5.jpg",
-            "images/5YFB4MCEXSP222873/image_6.jpg",
-            "images/5YFB4MCEXSP222873/image_7.jpg",
-            "images/5YFB4MCEXSP222873/image_8.jpg",
-            "images/5YFB4MCEXSP222873/image_9.jpg",
-            "images/5YFB4MCEXSP222873/image_10.jpg",
-            "images/5YFB4MCEXSP222873/image_11.jpg",
-            "images/5YFB4MCEXSP222873/image_12.jpg",
-            "images/5YFB4MCEXSP222873/image_13.jpg",
-            "images/5YFB4MCEXSP222873/image_14.jpg",
-            "images/5YFB4MCEXSP222873/image_15.jpg"
+            "images/5YFB4MCEXSP222873/image_5.jpg"
         ]
     },
     {
@@ -2834,17 +2179,7 @@ const vehicleData = [
             "images/JTDBCMFE4S3082259/image_2.jpg",
             "images/JTDBCMFE4S3082259/image_3.jpg",
             "images/JTDBCMFE4S3082259/image_4.jpg",
-            "images/JTDBCMFE4S3082259/image_5.jpg",
-            "images/JTDBCMFE4S3082259/image_6.jpg",
-            "images/JTDBCMFE4S3082259/image_7.jpg",
-            "images/JTDBCMFE4S3082259/image_8.jpg",
-            "images/JTDBCMFE4S3082259/image_9.jpg",
-            "images/JTDBCMFE4S3082259/image_10.jpg",
-            "images/JTDBCMFE4S3082259/image_11.jpg",
-            "images/JTDBCMFE4S3082259/image_12.jpg",
-            "images/JTDBCMFE4S3082259/image_13.jpg",
-            "images/JTDBCMFE4S3082259/image_14.jpg",
-            "images/JTDBCMFE4S3082259/image_15.jpg"
+            "images/JTDBCMFE4S3082259/image_5.jpg"
         ]
     },
     {
@@ -2872,17 +2207,7 @@ const vehicleData = [
             "images/5TFLA5DB6SX261128/image_2.jpg",
             "images/5TFLA5DB6SX261128/image_3.jpg",
             "images/5TFLA5DB6SX261128/image_4.jpg",
-            "images/5TFLA5DB6SX261128/image_5.jpg",
-            "images/5TFLA5DB6SX261128/image_6.jpg",
-            "images/5TFLA5DB6SX261128/image_7.jpg",
-            "images/5TFLA5DB6SX261128/image_8.jpg",
-            "images/5TFLA5DB6SX261128/image_9.jpg",
-            "images/5TFLA5DB6SX261128/image_10.jpg",
-            "images/5TFLA5DB6SX261128/image_11.jpg",
-            "images/5TFLA5DB6SX261128/image_12.jpg",
-            "images/5TFLA5DB6SX261128/image_13.jpg",
-            "images/5TFLA5DB6SX261128/image_14.jpg",
-            "images/5TFLA5DB6SX261128/image_15.jpg"
+            "images/5TFLA5DB6SX261128/image_5.jpg"
         ]
     },
     {
@@ -2910,17 +2235,7 @@ const vehicleData = [
             "images/JTMB6RFV4PD116321/image_2.jpg",
             "images/JTMB6RFV4PD116321/image_3.jpg",
             "images/JTMB6RFV4PD116321/image_4.jpg",
-            "images/JTMB6RFV4PD116321/image_5.jpg",
-            "images/JTMB6RFV4PD116321/image_6.jpg",
-            "images/JTMB6RFV4PD116321/image_7.jpg",
-            "images/JTMB6RFV4PD116321/image_8.jpg",
-            "images/JTMB6RFV4PD116321/image_9.jpg",
-            "images/JTMB6RFV4PD116321/image_10.jpg",
-            "images/JTMB6RFV4PD116321/image_11.jpg",
-            "images/JTMB6RFV4PD116321/image_12.jpg",
-            "images/JTMB6RFV4PD116321/image_13.jpg",
-            "images/JTMB6RFV4PD116321/image_14.jpg",
-            "images/JTMB6RFV4PD116321/image_15.jpg"
+            "images/JTMB6RFV4PD116321/image_5.jpg"
         ]
     },
     {
@@ -2948,16 +2263,7 @@ const vehicleData = [
             "images/JTDAAAAF9S3035597/image_3.jpg",
             "images/JTDAAAAF9S3035597/image_4.jpg",
             "images/JTDAAAAF9S3035597/image_5.jpg",
-            "images/JTDAAAAF9S3035597/image_6.jpg",
-            "images/JTDAAAAF9S3035597/image_7.jpg",
-            "images/JTDAAAAF9S3035597/image_8.jpg",
-            "images/JTDAAAAF9S3035597/image_9.jpg",
-            "images/JTDAAAAF9S3035597/image_10.jpg",
-            "images/JTDAAAAF9S3035597/image_11.jpg",
-            "images/JTDAAAAF9S3035597/image_12.jpg",
-            "images/JTDAAAAF9S3035597/image_13.jpg",
-            "images/JTDAAAAF9S3035597/image_14.jpg",
-            "images/JTDAAAAF9S3035597/image_15.jpg"
+            "images/JTDAAAAF9S3035597/image_6.jpg"
         ]
     },
     {
@@ -2985,17 +2291,7 @@ const vehicleData = [
             "images/JTDS4MCE4N3505864/image_2.jpg",
             "images/JTDS4MCE4N3505864/image_3.jpg",
             "images/JTDS4MCE4N3505864/image_4.jpg",
-            "images/JTDS4MCE4N3505864/image_5.jpg",
-            "images/JTDS4MCE4N3505864/image_6.jpg",
-            "images/JTDS4MCE4N3505864/image_7.jpg",
-            "images/JTDS4MCE4N3505864/image_8.jpg",
-            "images/JTDS4MCE4N3505864/image_9.jpg",
-            "images/JTDS4MCE4N3505864/image_10.jpg",
-            "images/JTDS4MCE4N3505864/image_11.jpg",
-            "images/JTDS4MCE4N3505864/image_12.jpg",
-            "images/JTDS4MCE4N3505864/image_13.jpg",
-            "images/JTDS4MCE4N3505864/image_14.jpg",
-            "images/JTDS4MCE4N3505864/image_15.jpg"
+            "images/JTDS4MCE4N3505864/image_5.jpg"
         ]
     },
     {
@@ -3023,17 +2319,7 @@ const vehicleData = [
             "images/3TMAZ5CNXKM085394/image_2.jpg",
             "images/3TMAZ5CNXKM085394/image_3.jpg",
             "images/3TMAZ5CNXKM085394/image_4.jpg",
-            "images/3TMAZ5CNXKM085394/image_5.jpg",
-            "images/3TMAZ5CNXKM085394/image_6.jpg",
-            "images/3TMAZ5CNXKM085394/image_7.jpg",
-            "images/3TMAZ5CNXKM085394/image_8.jpg",
-            "images/3TMAZ5CNXKM085394/image_9.jpg",
-            "images/3TMAZ5CNXKM085394/image_10.jpg",
-            "images/3TMAZ5CNXKM085394/image_11.jpg",
-            "images/3TMAZ5CNXKM085394/image_12.jpg",
-            "images/3TMAZ5CNXKM085394/image_13.jpg",
-            "images/3TMAZ5CNXKM085394/image_14.jpg",
-            "images/3TMAZ5CNXKM085394/image_15.jpg"
+            "images/3TMAZ5CNXKM085394/image_5.jpg"
         ]
     },
     {
@@ -3061,17 +2347,7 @@ const vehicleData = [
             "images/2T1BURHE7HC862666/image_2.jpg",
             "images/2T1BURHE7HC862666/image_3.jpg",
             "images/2T1BURHE7HC862666/image_4.jpg",
-            "images/2T1BURHE7HC862666/image_5.jpg",
-            "images/2T1BURHE7HC862666/image_6.jpg",
-            "images/2T1BURHE7HC862666/image_7.jpg",
-            "images/2T1BURHE7HC862666/image_8.jpg",
-            "images/2T1BURHE7HC862666/image_9.jpg",
-            "images/2T1BURHE7HC862666/image_10.jpg",
-            "images/2T1BURHE7HC862666/image_11.jpg",
-            "images/2T1BURHE7HC862666/image_12.jpg",
-            "images/2T1BURHE7HC862666/image_13.jpg",
-            "images/2T1BURHE7HC862666/image_14.jpg",
-            "images/2T1BURHE7HC862666/image_15.jpg"
+            "images/2T1BURHE7HC862666/image_5.jpg"
         ]
     },
     {
@@ -3099,17 +2375,7 @@ const vehicleData = [
             "images/5YFB4MDE3RP190969/image_2.jpg",
             "images/5YFB4MDE3RP190969/image_3.jpg",
             "images/5YFB4MDE3RP190969/image_4.jpg",
-            "images/5YFB4MDE3RP190969/image_5.jpg",
-            "images/5YFB4MDE3RP190969/image_6.jpg",
-            "images/5YFB4MDE3RP190969/image_7.jpg",
-            "images/5YFB4MDE3RP190969/image_8.jpg",
-            "images/5YFB4MDE3RP190969/image_9.jpg",
-            "images/5YFB4MDE3RP190969/image_10.jpg",
-            "images/5YFB4MDE3RP190969/image_11.jpg",
-            "images/5YFB4MDE3RP190969/image_12.jpg",
-            "images/5YFB4MDE3RP190969/image_13.jpg",
-            "images/5YFB4MDE3RP190969/image_14.jpg",
-            "images/5YFB4MDE3RP190969/image_15.jpg"
+            "images/5YFB4MDE3RP190969/image_5.jpg"
         ]
     },
     {
@@ -3137,16 +2403,7 @@ const vehicleData = [
             "images/JTEVA5BR0S5011495/image_3.jpg",
             "images/JTEVA5BR0S5011495/image_4.jpg",
             "images/JTEVA5BR0S5011495/image_5.jpg",
-            "images/JTEVA5BR0S5011495/image_6.jpg",
-            "images/JTEVA5BR0S5011495/image_7.jpg",
-            "images/JTEVA5BR0S5011495/image_8.jpg",
-            "images/JTEVA5BR0S5011495/image_9.jpg",
-            "images/JTEVA5BR0S5011495/image_10.jpg",
-            "images/JTEVA5BR0S5011495/image_11.jpg",
-            "images/JTEVA5BR0S5011495/image_12.jpg",
-            "images/JTEVA5BR0S5011495/image_13.jpg",
-            "images/JTEVA5BR0S5011495/image_14.jpg",
-            "images/JTEVA5BR0S5011495/image_15.jpg"
+            "images/JTEVA5BR0S5011495/image_6.jpg"
         ]
     },
     {
@@ -3174,16 +2431,7 @@ const vehicleData = [
             "images/4T1DAACKXSU110594/image_3.jpg",
             "images/4T1DAACKXSU110594/image_4.jpg",
             "images/4T1DAACKXSU110594/image_5.jpg",
-            "images/4T1DAACKXSU110594/image_6.jpg",
-            "images/4T1DAACKXSU110594/image_7.jpg",
-            "images/4T1DAACKXSU110594/image_8.jpg",
-            "images/4T1DAACKXSU110594/image_9.jpg",
-            "images/4T1DAACKXSU110594/image_10.jpg",
-            "images/4T1DAACKXSU110594/image_11.jpg",
-            "images/4T1DAACKXSU110594/image_12.jpg",
-            "images/4T1DAACKXSU110594/image_13.jpg",
-            "images/4T1DAACKXSU110594/image_14.jpg",
-            "images/4T1DAACKXSU110594/image_15.jpg"
+            "images/4T1DAACKXSU110594/image_6.jpg"
         ]
     },
     {
@@ -3211,17 +2459,7 @@ const vehicleData = [
             "images/4T1BF1FK6GU167693/image_2.jpg",
             "images/4T1BF1FK6GU167693/image_3.jpg",
             "images/4T1BF1FK6GU167693/image_4.jpg",
-            "images/4T1BF1FK6GU167693/image_5.jpg",
-            "images/4T1BF1FK6GU167693/image_6.jpg",
-            "images/4T1BF1FK6GU167693/image_7.jpg",
-            "images/4T1BF1FK6GU167693/image_8.jpg",
-            "images/4T1BF1FK6GU167693/image_9.jpg",
-            "images/4T1BF1FK6GU167693/image_10.jpg",
-            "images/4T1BF1FK6GU167693/image_11.jpg",
-            "images/4T1BF1FK6GU167693/image_12.jpg",
-            "images/4T1BF1FK6GU167693/image_13.jpg",
-            "images/4T1BF1FK6GU167693/image_14.jpg",
-            "images/4T1BF1FK6GU167693/image_15.jpg"
+            "images/4T1BF1FK6GU167693/image_5.jpg"
         ]
     },
     {
@@ -3249,17 +2487,7 @@ const vehicleData = [
             "images/5YFB4MDE7TP360273/image_2.jpg",
             "images/5YFB4MDE7TP360273/image_3.jpg",
             "images/5YFB4MDE7TP360273/image_4.jpg",
-            "images/5YFB4MDE7TP360273/image_5.jpg",
-            "images/5YFB4MDE7TP360273/image_6.jpg",
-            "images/5YFB4MDE7TP360273/image_7.jpg",
-            "images/5YFB4MDE7TP360273/image_8.jpg",
-            "images/5YFB4MDE7TP360273/image_9.jpg",
-            "images/5YFB4MDE7TP360273/image_10.jpg",
-            "images/5YFB4MDE7TP360273/image_11.jpg",
-            "images/5YFB4MDE7TP360273/image_12.jpg",
-            "images/5YFB4MDE7TP360273/image_13.jpg",
-            "images/5YFB4MDE7TP360273/image_14.jpg",
-            "images/5YFB4MDE7TP360273/image_15.jpg"
+            "images/5YFB4MDE7TP360273/image_5.jpg"
         ]
     },
     {
@@ -3287,17 +2515,7 @@ const vehicleData = [
             "images/4T1BF1FK7GU194112/image_2.jpg",
             "images/4T1BF1FK7GU194112/image_3.jpg",
             "images/4T1BF1FK7GU194112/image_4.jpg",
-            "images/4T1BF1FK7GU194112/image_5.jpg",
-            "images/4T1BF1FK7GU194112/image_6.jpg",
-            "images/4T1BF1FK7GU194112/image_7.jpg",
-            "images/4T1BF1FK7GU194112/image_8.jpg",
-            "images/4T1BF1FK7GU194112/image_9.jpg",
-            "images/4T1BF1FK7GU194112/image_10.jpg",
-            "images/4T1BF1FK7GU194112/image_11.jpg",
-            "images/4T1BF1FK7GU194112/image_12.jpg",
-            "images/4T1BF1FK7GU194112/image_13.jpg",
-            "images/4T1BF1FK7GU194112/image_14.jpg",
-            "images/4T1BF1FK7GU194112/image_15.jpg"
+            "images/4T1BF1FK7GU194112/image_5.jpg"
         ]
     },
     {
@@ -3325,16 +2543,7 @@ const vehicleData = [
             "images/JTDBCMFE0S3099463/image_3.jpg",
             "images/JTDBCMFE0S3099463/image_4.jpg",
             "images/JTDBCMFE0S3099463/image_5.jpg",
-            "images/JTDBCMFE0S3099463/image_6.jpg",
-            "images/JTDBCMFE0S3099463/image_7.jpg",
-            "images/JTDBCMFE0S3099463/image_8.jpg",
-            "images/JTDBCMFE0S3099463/image_9.jpg",
-            "images/JTDBCMFE0S3099463/image_10.jpg",
-            "images/JTDBCMFE0S3099463/image_11.jpg",
-            "images/JTDBCMFE0S3099463/image_12.jpg",
-            "images/JTDBCMFE0S3099463/image_13.jpg",
-            "images/JTDBCMFE0S3099463/image_14.jpg",
-            "images/JTDBCMFE0S3099463/image_15.jpg"
+            "images/JTDBCMFE0S3099463/image_6.jpg"
         ]
     },
     {
@@ -3362,17 +2571,7 @@ const vehicleData = [
             "images/5TDGZRAH4NS090545/image_2.jpg",
             "images/5TDGZRAH4NS090545/image_3.jpg",
             "images/5TDGZRAH4NS090545/image_4.jpg",
-            "images/5TDGZRAH4NS090545/image_5.jpg",
-            "images/5TDGZRAH4NS090545/image_6.jpg",
-            "images/5TDGZRAH4NS090545/image_7.jpg",
-            "images/5TDGZRAH4NS090545/image_8.jpg",
-            "images/5TDGZRAH4NS090545/image_9.jpg",
-            "images/5TDGZRAH4NS090545/image_10.jpg",
-            "images/5TDGZRAH4NS090545/image_11.jpg",
-            "images/5TDGZRAH4NS090545/image_12.jpg",
-            "images/5TDGZRAH4NS090545/image_13.jpg",
-            "images/5TDGZRAH4NS090545/image_14.jpg",
-            "images/5TDGZRAH4NS090545/image_15.jpg"
+            "images/5TDGZRAH4NS090545/image_5.jpg"
         ]
     },
     {
@@ -3400,16 +2599,7 @@ const vehicleData = [
             "images/5TDGZRAH4NS126525/image_3.jpg",
             "images/5TDGZRAH4NS126525/image_4.jpg",
             "images/5TDGZRAH4NS126525/image_5.jpg",
-            "images/5TDGZRAH4NS126525/image_6.jpg",
-            "images/5TDGZRAH4NS126525/image_7.jpg",
-            "images/5TDGZRAH4NS126525/image_8.jpg",
-            "images/5TDGZRAH4NS126525/image_9.jpg",
-            "images/5TDGZRAH4NS126525/image_10.jpg",
-            "images/5TDGZRAH4NS126525/image_11.jpg",
-            "images/5TDGZRAH4NS126525/image_12.jpg",
-            "images/5TDGZRAH4NS126525/image_13.jpg",
-            "images/5TDGZRAH4NS126525/image_14.jpg",
-            "images/5TDGZRAH4NS126525/image_15.jpg"
+            "images/5TDGZRAH4NS126525/image_6.jpg"
         ]
     },
     {
@@ -3437,16 +2627,7 @@ const vehicleData = [
             "images/JTMD6RFV6LD004204/image_3.jpg",
             "images/JTMD6RFV6LD004204/image_4.jpg",
             "images/JTMD6RFV6LD004204/image_5.jpg",
-            "images/JTMD6RFV6LD004204/image_6.jpg",
-            "images/JTMD6RFV6LD004204/image_7.jpg",
-            "images/JTMD6RFV6LD004204/image_8.jpg",
-            "images/JTMD6RFV6LD004204/image_9.jpg",
-            "images/JTMD6RFV6LD004204/image_10.jpg",
-            "images/JTMD6RFV6LD004204/image_11.jpg",
-            "images/JTMD6RFV6LD004204/image_12.jpg",
-            "images/JTMD6RFV6LD004204/image_13.jpg",
-            "images/JTMD6RFV6LD004204/image_14.jpg",
-            "images/JTMD6RFV6LD004204/image_15.jpg"
+            "images/JTMD6RFV6LD004204/image_6.jpg"
         ]
     },
     {
@@ -3474,16 +2655,7 @@ const vehicleData = [
             "images/JTEKU5JR6P6206174/image_3.jpg",
             "images/JTEKU5JR6P6206174/image_4.jpg",
             "images/JTEKU5JR6P6206174/image_5.jpg",
-            "images/JTEKU5JR6P6206174/image_6.jpg",
-            "images/JTEKU5JR6P6206174/image_7.jpg",
-            "images/JTEKU5JR6P6206174/image_8.jpg",
-            "images/JTEKU5JR6P6206174/image_9.jpg",
-            "images/JTEKU5JR6P6206174/image_10.jpg",
-            "images/JTEKU5JR6P6206174/image_11.jpg",
-            "images/JTEKU5JR6P6206174/image_12.jpg",
-            "images/JTEKU5JR6P6206174/image_13.jpg",
-            "images/JTEKU5JR6P6206174/image_14.jpg",
-            "images/JTEKU5JR6P6206174/image_15.jpg"
+            "images/JTEKU5JR6P6206174/image_6.jpg"
         ]
     },
     {
@@ -3511,16 +2683,7 @@ const vehicleData = [
             "images/2T3N1RFV5PW340888/image_3.jpg",
             "images/2T3N1RFV5PW340888/image_4.jpg",
             "images/2T3N1RFV5PW340888/image_5.jpg",
-            "images/2T3N1RFV5PW340888/image_6.jpg",
-            "images/2T3N1RFV5PW340888/image_7.jpg",
-            "images/2T3N1RFV5PW340888/image_8.jpg",
-            "images/2T3N1RFV5PW340888/image_9.jpg",
-            "images/2T3N1RFV5PW340888/image_10.jpg",
-            "images/2T3N1RFV5PW340888/image_11.jpg",
-            "images/2T3N1RFV5PW340888/image_12.jpg",
-            "images/2T3N1RFV5PW340888/image_13.jpg",
-            "images/2T3N1RFV5PW340888/image_14.jpg",
-            "images/2T3N1RFV5PW340888/image_15.jpg"
+            "images/2T3N1RFV5PW340888/image_6.jpg"
         ]
     },
     {
@@ -3548,17 +2711,7 @@ const vehicleData = [
             "images/JTEZU5JR2L5215663/image_2.jpg",
             "images/JTEZU5JR2L5215663/image_3.jpg",
             "images/JTEZU5JR2L5215663/image_4.jpg",
-            "images/JTEZU5JR2L5215663/image_5.jpg",
-            "images/JTEZU5JR2L5215663/image_6.jpg",
-            "images/JTEZU5JR2L5215663/image_7.jpg",
-            "images/JTEZU5JR2L5215663/image_8.jpg",
-            "images/JTEZU5JR2L5215663/image_9.jpg",
-            "images/JTEZU5JR2L5215663/image_10.jpg",
-            "images/JTEZU5JR2L5215663/image_11.jpg",
-            "images/JTEZU5JR2L5215663/image_12.jpg",
-            "images/JTEZU5JR2L5215663/image_13.jpg",
-            "images/JTEZU5JR2L5215663/image_14.jpg",
-            "images/JTEZU5JR2L5215663/image_15.jpg"
+            "images/JTEZU5JR2L5215663/image_5.jpg"
         ]
     },
     {
@@ -3586,17 +2739,7 @@ const vehicleData = [
             "images/5TDZZRFH2KS350695/image_2.jpg",
             "images/5TDZZRFH2KS350695/image_3.jpg",
             "images/5TDZZRFH2KS350695/image_4.jpg",
-            "images/5TDZZRFH2KS350695/image_5.jpg",
-            "images/5TDZZRFH2KS350695/image_6.jpg",
-            "images/5TDZZRFH2KS350695/image_7.jpg",
-            "images/5TDZZRFH2KS350695/image_8.jpg",
-            "images/5TDZZRFH2KS350695/image_9.jpg",
-            "images/5TDZZRFH2KS350695/image_10.jpg",
-            "images/5TDZZRFH2KS350695/image_11.jpg",
-            "images/5TDZZRFH2KS350695/image_12.jpg",
-            "images/5TDZZRFH2KS350695/image_13.jpg",
-            "images/5TDZZRFH2KS350695/image_14.jpg",
-            "images/5TDZZRFH2KS350695/image_15.jpg"
+            "images/5TDZZRFH2KS350695/image_5.jpg"
         ]
     },
     {
@@ -3624,17 +2767,7 @@ const vehicleData = [
             "images/JTMB6RFV4PD105500/image_2.jpg",
             "images/JTMB6RFV4PD105500/image_3.jpg",
             "images/JTMB6RFV4PD105500/image_4.jpg",
-            "images/JTMB6RFV4PD105500/image_5.jpg",
-            "images/JTMB6RFV4PD105500/image_6.jpg",
-            "images/JTMB6RFV4PD105500/image_7.jpg",
-            "images/JTMB6RFV4PD105500/image_8.jpg",
-            "images/JTMB6RFV4PD105500/image_9.jpg",
-            "images/JTMB6RFV4PD105500/image_10.jpg",
-            "images/JTMB6RFV4PD105500/image_11.jpg",
-            "images/JTMB6RFV4PD105500/image_12.jpg",
-            "images/JTMB6RFV4PD105500/image_13.jpg",
-            "images/JTMB6RFV4PD105500/image_14.jpg",
-            "images/JTMB6RFV4PD105500/image_15.jpg"
+            "images/JTMB6RFV4PD105500/image_5.jpg"
         ]
     },
     {
@@ -3662,17 +2795,7 @@ const vehicleData = [
             "images/4T1C11AK7MU521842/image_2.jpg",
             "images/4T1C11AK7MU521842/image_3.jpg",
             "images/4T1C11AK7MU521842/image_4.jpg",
-            "images/4T1C11AK7MU521842/image_5.jpg",
-            "images/4T1C11AK7MU521842/image_6.jpg",
-            "images/4T1C11AK7MU521842/image_7.jpg",
-            "images/4T1C11AK7MU521842/image_8.jpg",
-            "images/4T1C11AK7MU521842/image_9.jpg",
-            "images/4T1C11AK7MU521842/image_10.jpg",
-            "images/4T1C11AK7MU521842/image_11.jpg",
-            "images/4T1C11AK7MU521842/image_12.jpg",
-            "images/4T1C11AK7MU521842/image_13.jpg",
-            "images/4T1C11AK7MU521842/image_14.jpg",
-            "images/4T1C11AK7MU521842/image_15.jpg"
+            "images/4T1C11AK7MU521842/image_5.jpg"
         ]
     },
     {
@@ -3700,16 +2823,7 @@ const vehicleData = [
             "images/5YFS4MCE8RP170265/image_3.jpg",
             "images/5YFS4MCE8RP170265/image_4.jpg",
             "images/5YFS4MCE8RP170265/image_5.jpg",
-            "images/5YFS4MCE8RP170265/image_6.jpg",
-            "images/5YFS4MCE8RP170265/image_7.jpg",
-            "images/5YFS4MCE8RP170265/image_8.jpg",
-            "images/5YFS4MCE8RP170265/image_9.jpg",
-            "images/5YFS4MCE8RP170265/image_10.jpg",
-            "images/5YFS4MCE8RP170265/image_11.jpg",
-            "images/5YFS4MCE8RP170265/image_12.jpg",
-            "images/5YFS4MCE8RP170265/image_13.jpg",
-            "images/5YFS4MCE8RP170265/image_14.jpg",
-            "images/5YFS4MCE8RP170265/image_15.jpg"
+            "images/5YFS4MCE8RP170265/image_6.jpg"
         ]
     },
     {
@@ -3737,16 +2851,7 @@ const vehicleData = [
             "images/JTEAU5JRXN5267428/image_3.jpg",
             "images/JTEAU5JRXN5267428/image_4.jpg",
             "images/JTEAU5JRXN5267428/image_5.jpg",
-            "images/JTEAU5JRXN5267428/image_6.jpg",
-            "images/JTEAU5JRXN5267428/image_7.jpg",
-            "images/JTEAU5JRXN5267428/image_8.jpg",
-            "images/JTEAU5JRXN5267428/image_9.jpg",
-            "images/JTEAU5JRXN5267428/image_10.jpg",
-            "images/JTEAU5JRXN5267428/image_11.jpg",
-            "images/JTEAU5JRXN5267428/image_12.jpg",
-            "images/JTEAU5JRXN5267428/image_13.jpg",
-            "images/JTEAU5JRXN5267428/image_14.jpg",
-            "images/JTEAU5JRXN5267428/image_15.jpg"
+            "images/JTEAU5JRXN5267428/image_6.jpg"
         ]
     },
     {
@@ -3774,16 +2879,7 @@ const vehicleData = [
             "images/JTEAAAAH5NJ098225/image_3.jpg",
             "images/JTEAAAAH5NJ098225/image_4.jpg",
             "images/JTEAAAAH5NJ098225/image_5.jpg",
-            "images/JTEAAAAH5NJ098225/image_6.jpg",
-            "images/JTEAAAAH5NJ098225/image_7.jpg",
-            "images/JTEAAAAH5NJ098225/image_8.jpg",
-            "images/JTEAAAAH5NJ098225/image_9.jpg",
-            "images/JTEAAAAH5NJ098225/image_10.jpg",
-            "images/JTEAAAAH5NJ098225/image_11.jpg",
-            "images/JTEAAAAH5NJ098225/image_12.jpg",
-            "images/JTEAAAAH5NJ098225/image_13.jpg",
-            "images/JTEAAAAH5NJ098225/image_14.jpg",
-            "images/JTEAAAAH5NJ098225/image_15.jpg"
+            "images/JTEAAAAH5NJ098225/image_6.jpg"
         ]
     },
     {
@@ -3811,17 +2907,7 @@ const vehicleData = [
             "images/5YFB4MDE1PP009283/image_2.jpg",
             "images/5YFB4MDE1PP009283/image_3.jpg",
             "images/5YFB4MDE1PP009283/image_4.jpg",
-            "images/5YFB4MDE1PP009283/image_5.jpg",
-            "images/5YFB4MDE1PP009283/image_6.jpg",
-            "images/5YFB4MDE1PP009283/image_7.jpg",
-            "images/5YFB4MDE1PP009283/image_8.jpg",
-            "images/5YFB4MDE1PP009283/image_9.jpg",
-            "images/5YFB4MDE1PP009283/image_10.jpg",
-            "images/5YFB4MDE1PP009283/image_11.jpg",
-            "images/5YFB4MDE1PP009283/image_12.jpg",
-            "images/5YFB4MDE1PP009283/image_13.jpg",
-            "images/5YFB4MDE1PP009283/image_14.jpg",
-            "images/5YFB4MDE1PP009283/image_15.jpg"
+            "images/5YFB4MDE1PP009283/image_5.jpg"
         ]
     },
     {
@@ -3849,17 +2935,7 @@ const vehicleData = [
             "images/5YFB4MDE0RP104436/image_2.jpg",
             "images/5YFB4MDE0RP104436/image_3.jpg",
             "images/5YFB4MDE0RP104436/image_4.jpg",
-            "images/5YFB4MDE0RP104436/image_5.jpg",
-            "images/5YFB4MDE0RP104436/image_6.jpg",
-            "images/5YFB4MDE0RP104436/image_7.jpg",
-            "images/5YFB4MDE0RP104436/image_8.jpg",
-            "images/5YFB4MDE0RP104436/image_9.jpg",
-            "images/5YFB4MDE0RP104436/image_10.jpg",
-            "images/5YFB4MDE0RP104436/image_11.jpg",
-            "images/5YFB4MDE0RP104436/image_12.jpg",
-            "images/5YFB4MDE0RP104436/image_13.jpg",
-            "images/5YFB4MDE0RP104436/image_14.jpg",
-            "images/5YFB4MDE0RP104436/image_15.jpg"
+            "images/5YFB4MDE0RP104436/image_5.jpg"
         ]
     },
     {
@@ -3887,17 +2963,7 @@ const vehicleData = [
             "images/2T3JFREV7GW455347/image_2.jpg",
             "images/2T3JFREV7GW455347/image_3.jpg",
             "images/2T3JFREV7GW455347/image_4.jpg",
-            "images/2T3JFREV7GW455347/image_5.jpg",
-            "images/2T3JFREV7GW455347/image_6.jpg",
-            "images/2T3JFREV7GW455347/image_7.jpg",
-            "images/2T3JFREV7GW455347/image_8.jpg",
-            "images/2T3JFREV7GW455347/image_9.jpg",
-            "images/2T3JFREV7GW455347/image_10.jpg",
-            "images/2T3JFREV7GW455347/image_11.jpg",
-            "images/2T3JFREV7GW455347/image_12.jpg",
-            "images/2T3JFREV7GW455347/image_13.jpg",
-            "images/2T3JFREV7GW455347/image_14.jpg",
-            "images/2T3JFREV7GW455347/image_15.jpg"
+            "images/2T3JFREV7GW455347/image_5.jpg"
         ]
     },
     {
@@ -3925,17 +2991,7 @@ const vehicleData = [
             "images/JTDBCMFEXP3006861/image_2.jpg",
             "images/JTDBCMFEXP3006861/image_3.jpg",
             "images/JTDBCMFEXP3006861/image_4.jpg",
-            "images/JTDBCMFEXP3006861/image_5.jpg",
-            "images/JTDBCMFEXP3006861/image_6.jpg",
-            "images/JTDBCMFEXP3006861/image_7.jpg",
-            "images/JTDBCMFEXP3006861/image_8.jpg",
-            "images/JTDBCMFEXP3006861/image_9.jpg",
-            "images/JTDBCMFEXP3006861/image_10.jpg",
-            "images/JTDBCMFEXP3006861/image_11.jpg",
-            "images/JTDBCMFEXP3006861/image_12.jpg",
-            "images/JTDBCMFEXP3006861/image_13.jpg",
-            "images/JTDBCMFEXP3006861/image_14.jpg",
-            "images/JTDBCMFEXP3006861/image_15.jpg"
+            "images/JTDBCMFEXP3006861/image_5.jpg"
         ]
     },
     {
@@ -3963,17 +3019,7 @@ const vehicleData = [
             "images/5YFB4MDE8RP112929/image_2.jpg",
             "images/5YFB4MDE8RP112929/image_3.jpg",
             "images/5YFB4MDE8RP112929/image_4.jpg",
-            "images/5YFB4MDE8RP112929/image_5.jpg",
-            "images/5YFB4MDE8RP112929/image_6.jpg",
-            "images/5YFB4MDE8RP112929/image_7.jpg",
-            "images/5YFB4MDE8RP112929/image_8.jpg",
-            "images/5YFB4MDE8RP112929/image_9.jpg",
-            "images/5YFB4MDE8RP112929/image_10.jpg",
-            "images/5YFB4MDE8RP112929/image_11.jpg",
-            "images/5YFB4MDE8RP112929/image_12.jpg",
-            "images/5YFB4MDE8RP112929/image_13.jpg",
-            "images/5YFB4MDE8RP112929/image_14.jpg",
-            "images/5YFB4MDE8RP112929/image_15.jpg"
+            "images/5YFB4MDE8RP112929/image_5.jpg"
         ]
     },
     {
@@ -4001,17 +3047,7 @@ const vehicleData = [
             "images/5YFS4MCE2RP192553/image_2.jpg",
             "images/5YFS4MCE2RP192553/image_3.jpg",
             "images/5YFS4MCE2RP192553/image_4.jpg",
-            "images/5YFS4MCE2RP192553/image_5.jpg",
-            "images/5YFS4MCE2RP192553/image_6.jpg",
-            "images/5YFS4MCE2RP192553/image_7.jpg",
-            "images/5YFS4MCE2RP192553/image_8.jpg",
-            "images/5YFS4MCE2RP192553/image_9.jpg",
-            "images/5YFS4MCE2RP192553/image_10.jpg",
-            "images/5YFS4MCE2RP192553/image_11.jpg",
-            "images/5YFS4MCE2RP192553/image_12.jpg",
-            "images/5YFS4MCE2RP192553/image_13.jpg",
-            "images/5YFS4MCE2RP192553/image_14.jpg",
-            "images/5YFS4MCE2RP192553/image_15.jpg"
+            "images/5YFS4MCE2RP192553/image_5.jpg"
         ]
     },
     {
@@ -4039,17 +3075,7 @@ const vehicleData = [
             "images/JTMWFREV6JJ175947/image_2.jpg",
             "images/JTMWFREV6JJ175947/image_3.jpg",
             "images/JTMWFREV6JJ175947/image_4.jpg",
-            "images/JTMWFREV6JJ175947/image_5.jpg",
-            "images/JTMWFREV6JJ175947/image_6.jpg",
-            "images/JTMWFREV6JJ175947/image_7.jpg",
-            "images/JTMWFREV6JJ175947/image_8.jpg",
-            "images/JTMWFREV6JJ175947/image_9.jpg",
-            "images/JTMWFREV6JJ175947/image_10.jpg",
-            "images/JTMWFREV6JJ175947/image_11.jpg",
-            "images/JTMWFREV6JJ175947/image_12.jpg",
-            "images/JTMWFREV6JJ175947/image_13.jpg",
-            "images/JTMWFREV6JJ175947/image_14.jpg",
-            "images/JTMWFREV6JJ175947/image_15.jpg"
+            "images/JTMWFREV6JJ175947/image_5.jpg"
         ]
     },
     {
@@ -4077,17 +3103,7 @@ const vehicleData = [
             "images/2T3H1RFV3MC120689/image_2.jpg",
             "images/2T3H1RFV3MC120689/image_3.jpg",
             "images/2T3H1RFV3MC120689/image_4.jpg",
-            "images/2T3H1RFV3MC120689/image_5.jpg",
-            "images/2T3H1RFV3MC120689/image_6.jpg",
-            "images/2T3H1RFV3MC120689/image_7.jpg",
-            "images/2T3H1RFV3MC120689/image_8.jpg",
-            "images/2T3H1RFV3MC120689/image_9.jpg",
-            "images/2T3H1RFV3MC120689/image_10.jpg",
-            "images/2T3H1RFV3MC120689/image_11.jpg",
-            "images/2T3H1RFV3MC120689/image_12.jpg",
-            "images/2T3H1RFV3MC120689/image_13.jpg",
-            "images/2T3H1RFV3MC120689/image_14.jpg",
-            "images/2T3H1RFV3MC120689/image_15.jpg"
+            "images/2T3H1RFV3MC120689/image_5.jpg"
         ]
     },
     {
@@ -4115,16 +3131,7 @@ const vehicleData = [
             "images/4T1DAACK7SU566150/image_3.jpg",
             "images/4T1DAACK7SU566150/image_4.jpg",
             "images/4T1DAACK7SU566150/image_5.jpg",
-            "images/4T1DAACK7SU566150/image_6.jpg",
-            "images/4T1DAACK7SU566150/image_7.jpg",
-            "images/4T1DAACK7SU566150/image_8.jpg",
-            "images/4T1DAACK7SU566150/image_9.jpg",
-            "images/4T1DAACK7SU566150/image_10.jpg",
-            "images/4T1DAACK7SU566150/image_11.jpg",
-            "images/4T1DAACK7SU566150/image_12.jpg",
-            "images/4T1DAACK7SU566150/image_13.jpg",
-            "images/4T1DAACK7SU566150/image_14.jpg",
-            "images/4T1DAACK7SU566150/image_15.jpg"
+            "images/4T1DAACK7SU566150/image_6.jpg"
         ]
     },
     {
@@ -4152,17 +3159,7 @@ const vehicleData = [
             "images/3TYAZ5CN1PT041618/image_2.jpg",
             "images/3TYAZ5CN1PT041618/image_3.jpg",
             "images/3TYAZ5CN1PT041618/image_4.jpg",
-            "images/3TYAZ5CN1PT041618/image_5.jpg",
-            "images/3TYAZ5CN1PT041618/image_6.jpg",
-            "images/3TYAZ5CN1PT041618/image_7.jpg",
-            "images/3TYAZ5CN1PT041618/image_8.jpg",
-            "images/3TYAZ5CN1PT041618/image_9.jpg",
-            "images/3TYAZ5CN1PT041618/image_10.jpg",
-            "images/3TYAZ5CN1PT041618/image_11.jpg",
-            "images/3TYAZ5CN1PT041618/image_12.jpg",
-            "images/3TYAZ5CN1PT041618/image_13.jpg",
-            "images/3TYAZ5CN1PT041618/image_14.jpg",
-            "images/3TYAZ5CN1PT041618/image_15.jpg"
+            "images/3TYAZ5CN1PT041618/image_5.jpg"
         ]
     },
     {
@@ -4190,16 +3187,7 @@ const vehicleData = [
             "images/2T1BURHE9EC178231/image_3.jpg",
             "images/2T1BURHE9EC178231/image_4.jpg",
             "images/2T1BURHE9EC178231/image_5.jpg",
-            "images/2T1BURHE9EC178231/image_6.jpg",
-            "images/2T1BURHE9EC178231/image_7.jpg",
-            "images/2T1BURHE9EC178231/image_8.jpg",
-            "images/2T1BURHE9EC178231/image_9.jpg",
-            "images/2T1BURHE9EC178231/image_10.jpg",
-            "images/2T1BURHE9EC178231/image_11.jpg",
-            "images/2T1BURHE9EC178231/image_12.jpg",
-            "images/2T1BURHE9EC178231/image_13.jpg",
-            "images/2T1BURHE9EC178231/image_14.jpg",
-            "images/2T1BURHE9EC178231/image_15.jpg"
+            "images/2T1BURHE9EC178231/image_6.jpg"
         ]
     },
     {
@@ -4227,17 +3215,7 @@ const vehicleData = [
             "images/2T3BF4DV4BW163009/image_2.jpg",
             "images/2T3BF4DV4BW163009/image_3.jpg",
             "images/2T3BF4DV4BW163009/image_4.jpg",
-            "images/2T3BF4DV4BW163009/image_5.jpg",
-            "images/2T3BF4DV4BW163009/image_6.jpg",
-            "images/2T3BF4DV4BW163009/image_7.jpg",
-            "images/2T3BF4DV4BW163009/image_8.jpg",
-            "images/2T3BF4DV4BW163009/image_9.jpg",
-            "images/2T3BF4DV4BW163009/image_10.jpg",
-            "images/2T3BF4DV4BW163009/image_11.jpg",
-            "images/2T3BF4DV4BW163009/image_12.jpg",
-            "images/2T3BF4DV4BW163009/image_13.jpg",
-            "images/2T3BF4DV4BW163009/image_14.jpg",
-            "images/2T3BF4DV4BW163009/image_15.jpg"
+            "images/2T3BF4DV4BW163009/image_5.jpg"
         ]
     },
     {
@@ -4265,16 +3243,7 @@ const vehicleData = [
             "images/JTEFU5JR1N5265038/image_3.jpg",
             "images/JTEFU5JR1N5265038/image_4.jpg",
             "images/JTEFU5JR1N5265038/image_5.jpg",
-            "images/JTEFU5JR1N5265038/image_6.jpg",
-            "images/JTEFU5JR1N5265038/image_7.jpg",
-            "images/JTEFU5JR1N5265038/image_8.jpg",
-            "images/JTEFU5JR1N5265038/image_9.jpg",
-            "images/JTEFU5JR1N5265038/image_10.jpg",
-            "images/JTEFU5JR1N5265038/image_11.jpg",
-            "images/JTEFU5JR1N5265038/image_12.jpg",
-            "images/JTEFU5JR1N5265038/image_13.jpg",
-            "images/JTEFU5JR1N5265038/image_14.jpg",
-            "images/JTEFU5JR1N5265038/image_15.jpg"
+            "images/JTEFU5JR1N5265038/image_6.jpg"
         ]
     },
     {
@@ -4302,17 +3271,7 @@ const vehicleData = [
             "images/4T3B6RFV4RU156677/image_2.jpg",
             "images/4T3B6RFV4RU156677/image_3.jpg",
             "images/4T3B6RFV4RU156677/image_4.jpg",
-            "images/4T3B6RFV4RU156677/image_5.jpg",
-            "images/4T3B6RFV4RU156677/image_6.jpg",
-            "images/4T3B6RFV4RU156677/image_7.jpg",
-            "images/4T3B6RFV4RU156677/image_8.jpg",
-            "images/4T3B6RFV4RU156677/image_9.jpg",
-            "images/4T3B6RFV4RU156677/image_10.jpg",
-            "images/4T3B6RFV4RU156677/image_11.jpg",
-            "images/4T3B6RFV4RU156677/image_12.jpg",
-            "images/4T3B6RFV4RU156677/image_13.jpg",
-            "images/4T3B6RFV4RU156677/image_14.jpg",
-            "images/4T3B6RFV4RU156677/image_15.jpg"
+            "images/4T3B6RFV4RU156677/image_5.jpg"
         ]
     },
     {
@@ -4340,16 +3299,7 @@ const vehicleData = [
             "images/4T1BF1FK1CU111140/image_3.jpg",
             "images/4T1BF1FK1CU111140/image_4.jpg",
             "images/4T1BF1FK1CU111140/image_5.jpg",
-            "images/4T1BF1FK1CU111140/image_6.jpg",
-            "images/4T1BF1FK1CU111140/image_7.jpg",
-            "images/4T1BF1FK1CU111140/image_8.jpg",
-            "images/4T1BF1FK1CU111140/image_9.jpg",
-            "images/4T1BF1FK1CU111140/image_10.jpg",
-            "images/4T1BF1FK1CU111140/image_11.jpg",
-            "images/4T1BF1FK1CU111140/image_12.jpg",
-            "images/4T1BF1FK1CU111140/image_13.jpg",
-            "images/4T1BF1FK1CU111140/image_14.jpg",
-            "images/4T1BF1FK1CU111140/image_15.jpg"
+            "images/4T1BF1FK1CU111140/image_6.jpg"
         ]
     },
     {
@@ -4377,17 +3327,7 @@ const vehicleData = [
             "images/3TMLB5JN2SM154756/image_2.jpg",
             "images/3TMLB5JN2SM154756/image_3.jpg",
             "images/3TMLB5JN2SM154756/image_4.jpg",
-            "images/3TMLB5JN2SM154756/image_5.jpg",
-            "images/3TMLB5JN2SM154756/image_6.jpg",
-            "images/3TMLB5JN2SM154756/image_7.jpg",
-            "images/3TMLB5JN2SM154756/image_8.jpg",
-            "images/3TMLB5JN2SM154756/image_9.jpg",
-            "images/3TMLB5JN2SM154756/image_10.jpg",
-            "images/3TMLB5JN2SM154756/image_11.jpg",
-            "images/3TMLB5JN2SM154756/image_12.jpg",
-            "images/3TMLB5JN2SM154756/image_13.jpg",
-            "images/3TMLB5JN2SM154756/image_14.jpg",
-            "images/3TMLB5JN2SM154756/image_15.jpg"
+            "images/3TMLB5JN2SM154756/image_5.jpg"
         ]
     },
     {
@@ -4415,17 +3355,7 @@ const vehicleData = [
             "images/7MUAAAAG3PV049354/image_2.jpg",
             "images/7MUAAAAG3PV049354/image_3.jpg",
             "images/7MUAAAAG3PV049354/image_4.jpg",
-            "images/7MUAAAAG3PV049354/image_5.jpg",
-            "images/7MUAAAAG3PV049354/image_6.jpg",
-            "images/7MUAAAAG3PV049354/image_7.jpg",
-            "images/7MUAAAAG3PV049354/image_8.jpg",
-            "images/7MUAAAAG3PV049354/image_9.jpg",
-            "images/7MUAAAAG3PV049354/image_10.jpg",
-            "images/7MUAAAAG3PV049354/image_11.jpg",
-            "images/7MUAAAAG3PV049354/image_12.jpg",
-            "images/7MUAAAAG3PV049354/image_13.jpg",
-            "images/7MUAAAAG3PV049354/image_14.jpg",
-            "images/7MUAAAAG3PV049354/image_15.jpg"
+            "images/7MUAAAAG3PV049354/image_5.jpg"
         ]
     },
     {
@@ -4453,17 +3383,7 @@ const vehicleData = [
             "images/JTMWFREV4D5005891/image_2.jpg",
             "images/JTMWFREV4D5005891/image_3.jpg",
             "images/JTMWFREV4D5005891/image_4.jpg",
-            "images/JTMWFREV4D5005891/image_5.jpg",
-            "images/JTMWFREV4D5005891/image_6.jpg",
-            "images/JTMWFREV4D5005891/image_7.jpg",
-            "images/JTMWFREV4D5005891/image_8.jpg",
-            "images/JTMWFREV4D5005891/image_9.jpg",
-            "images/JTMWFREV4D5005891/image_10.jpg",
-            "images/JTMWFREV4D5005891/image_11.jpg",
-            "images/JTMWFREV4D5005891/image_12.jpg",
-            "images/JTMWFREV4D5005891/image_13.jpg",
-            "images/JTMWFREV4D5005891/image_14.jpg",
-            "images/JTMWFREV4D5005891/image_15.jpg"
+            "images/JTMWFREV4D5005891/image_5.jpg"
         ]
     },
     {
@@ -4491,17 +3411,7 @@ const vehicleData = [
             "images/4T1C11AK1PU742647/image_2.jpg",
             "images/4T1C11AK1PU742647/image_3.jpg",
             "images/4T1C11AK1PU742647/image_4.jpg",
-            "images/4T1C11AK1PU742647/image_5.jpg",
-            "images/4T1C11AK1PU742647/image_6.jpg",
-            "images/4T1C11AK1PU742647/image_7.jpg",
-            "images/4T1C11AK1PU742647/image_8.jpg",
-            "images/4T1C11AK1PU742647/image_9.jpg",
-            "images/4T1C11AK1PU742647/image_10.jpg",
-            "images/4T1C11AK1PU742647/image_11.jpg",
-            "images/4T1C11AK1PU742647/image_12.jpg",
-            "images/4T1C11AK1PU742647/image_13.jpg",
-            "images/4T1C11AK1PU742647/image_14.jpg",
-            "images/4T1C11AK1PU742647/image_15.jpg"
+            "images/4T1C11AK1PU742647/image_5.jpg"
         ]
     },
     {
@@ -4529,17 +3439,7 @@ const vehicleData = [
             "images/JTEKU5JR2P6171200/image_2.jpg",
             "images/JTEKU5JR2P6171200/image_3.jpg",
             "images/JTEKU5JR2P6171200/image_4.jpg",
-            "images/JTEKU5JR2P6171200/image_5.jpg",
-            "images/JTEKU5JR2P6171200/image_6.jpg",
-            "images/JTEKU5JR2P6171200/image_7.jpg",
-            "images/JTEKU5JR2P6171200/image_8.jpg",
-            "images/JTEKU5JR2P6171200/image_9.jpg",
-            "images/JTEKU5JR2P6171200/image_10.jpg",
-            "images/JTEKU5JR2P6171200/image_11.jpg",
-            "images/JTEKU5JR2P6171200/image_12.jpg",
-            "images/JTEKU5JR2P6171200/image_13.jpg",
-            "images/JTEKU5JR2P6171200/image_14.jpg",
-            "images/JTEKU5JR2P6171200/image_15.jpg"
+            "images/JTEKU5JR2P6171200/image_5.jpg"
         ]
     },
     {
@@ -4567,17 +3467,7 @@ const vehicleData = [
             "images/5YFB4MDE7SP276257/image_2.jpg",
             "images/5YFB4MDE7SP276257/image_3.jpg",
             "images/5YFB4MDE7SP276257/image_4.jpg",
-            "images/5YFB4MDE7SP276257/image_5.jpg",
-            "images/5YFB4MDE7SP276257/image_6.jpg",
-            "images/5YFB4MDE7SP276257/image_7.jpg",
-            "images/5YFB4MDE7SP276257/image_8.jpg",
-            "images/5YFB4MDE7SP276257/image_9.jpg",
-            "images/5YFB4MDE7SP276257/image_10.jpg",
-            "images/5YFB4MDE7SP276257/image_11.jpg",
-            "images/5YFB4MDE7SP276257/image_12.jpg",
-            "images/5YFB4MDE7SP276257/image_13.jpg",
-            "images/5YFB4MDE7SP276257/image_14.jpg",
-            "images/5YFB4MDE7SP276257/image_15.jpg"
+            "images/5YFB4MDE7SP276257/image_5.jpg"
         ]
     },
     {
@@ -4604,17 +3494,7 @@ const vehicleData = [
             "images/JTKKU4B4XC1028738/image_2.jpg",
             "images/JTKKU4B4XC1028738/image_3.jpg",
             "images/JTKKU4B4XC1028738/image_4.jpg",
-            "images/JTKKU4B4XC1028738/image_5.jpg",
-            "images/JTKKU4B4XC1028738/image_6.jpg",
-            "images/JTKKU4B4XC1028738/image_7.jpg",
-            "images/JTKKU4B4XC1028738/image_8.jpg",
-            "images/JTKKU4B4XC1028738/image_9.jpg",
-            "images/JTKKU4B4XC1028738/image_10.jpg",
-            "images/JTKKU4B4XC1028738/image_11.jpg",
-            "images/JTKKU4B4XC1028738/image_12.jpg",
-            "images/JTKKU4B4XC1028738/image_13.jpg",
-            "images/JTKKU4B4XC1028738/image_14.jpg",
-            "images/JTKKU4B4XC1028738/image_15.jpg"
+            "images/JTKKU4B4XC1028738/image_5.jpg"
         ]
     },
     {
@@ -7959,17 +6839,7 @@ const vehicleData = [
             "images/3C6MRVJG7PE510077/image_2.jpg",
             "images/3C6MRVJG7PE510077/image_3.jpg",
             "images/3C6MRVJG7PE510077/image_4.jpg",
-            "images/3C6MRVJG7PE510077/image_5.jpg",
-            "images/3C6MRVJG7PE510077/image_6.jpg",
-            "images/3C6MRVJG7PE510077/image_7.jpg",
-            "images/3C6MRVJG7PE510077/image_8.jpg",
-            "images/3C6MRVJG7PE510077/image_9.jpg",
-            "images/3C6MRVJG7PE510077/image_10.jpg",
-            "images/3C6MRVJG7PE510077/image_11.jpg",
-            "images/3C6MRVJG7PE510077/image_12.jpg",
-            "images/3C6MRVJG7PE510077/image_13.jpg",
-            "images/3C6MRVJG7PE510077/image_14.jpg",
-            "images/3C6MRVJG7PE510077/image_15.jpg"
+            "images/3C6MRVJG7PE510077/image_5.jpg"
         ]
     },
     {
@@ -7999,17 +6869,7 @@ const vehicleData = [
             "images/3C6URVJG2KE548244/image_2.jpg",
             "images/3C6URVJG2KE548244/image_3.jpg",
             "images/3C6URVJG2KE548244/image_4.jpg",
-            "images/3C6URVJG2KE548244/image_5.jpg",
-            "images/3C6URVJG2KE548244/image_6.jpg",
-            "images/3C6URVJG2KE548244/image_7.jpg",
-            "images/3C6URVJG2KE548244/image_8.jpg",
-            "images/3C6URVJG2KE548244/image_9.jpg",
-            "images/3C6URVJG2KE548244/image_10.jpg",
-            "images/3C6URVJG2KE548244/image_11.jpg",
-            "images/3C6URVJG2KE548244/image_12.jpg",
-            "images/3C6URVJG2KE548244/image_13.jpg",
-            "images/3C6URVJG2KE548244/image_14.jpg",
-            "images/3C6URVJG2KE548244/image_15.jpg"
+            "images/3C6URVJG2KE548244/image_5.jpg"
         ]
     },
     {
@@ -8039,17 +6899,7 @@ const vehicleData = [
             "images/3C6TRVDG0GE117190/image_2.jpg",
             "images/3C6TRVDG0GE117190/image_3.jpg",
             "images/3C6TRVDG0GE117190/image_4.jpg",
-            "images/3C6TRVDG0GE117190/image_5.jpg",
-            "images/3C6TRVDG0GE117190/image_6.jpg",
-            "images/3C6TRVDG0GE117190/image_7.jpg",
-            "images/3C6TRVDG0GE117190/image_8.jpg",
-            "images/3C6TRVDG0GE117190/image_9.jpg",
-            "images/3C6TRVDG0GE117190/image_10.jpg",
-            "images/3C6TRVDG0GE117190/image_11.jpg",
-            "images/3C6TRVDG0GE117190/image_12.jpg",
-            "images/3C6TRVDG0GE117190/image_13.jpg",
-            "images/3C6TRVDG0GE117190/image_14.jpg",
-            "images/3C6TRVDG0GE117190/image_15.jpg"
+            "images/3C6TRVDG0GE117190/image_5.jpg"
         ]
     },
     {
@@ -8079,17 +6929,7 @@ const vehicleData = [
             "images/3C6FRVJG8ME503787/image_2.jpg",
             "images/3C6FRVJG8ME503787/image_3.jpg",
             "images/3C6FRVJG8ME503787/image_4.jpg",
-            "images/3C6FRVJG8ME503787/image_5.jpg",
-            "images/3C6FRVJG8ME503787/image_6.jpg",
-            "images/3C6FRVJG8ME503787/image_7.jpg",
-            "images/3C6FRVJG8ME503787/image_8.jpg",
-            "images/3C6FRVJG8ME503787/image_9.jpg",
-            "images/3C6FRVJG8ME503787/image_10.jpg",
-            "images/3C6FRVJG8ME503787/image_11.jpg",
-            "images/3C6FRVJG8ME503787/image_12.jpg",
-            "images/3C6FRVJG8ME503787/image_13.jpg",
-            "images/3C6FRVJG8ME503787/image_14.jpg",
-            "images/3C6FRVJG8ME503787/image_15.jpg"
+            "images/3C6FRVJG8ME503787/image_5.jpg"
         ]
     },
     {
@@ -8119,12 +6959,7 @@ const vehicleData = [
             "images/1FTYR3XM2KKB89616/image_2.jpg",
             "images/1FTYR3XM2KKB89616/image_3.jpg",
             "images/1FTYR3XM2KKB89616/image_4.jpg",
-            "images/1FTYR3XM2KKB89616/image_5.jpg",
-            "images/1FTYR3XM2KKB89616/image_6.jpg",
-            "images/1FTYR3XM2KKB89616/image_7.jpg",
-            "images/1FTYR3XM2KKB89616/image_8.jpg",
-            "images/1FTYR3XM2KKB89616/image_9.jpg",
-            "images/1FTYR3XM2KKB89616/image_10.jpg"
+            "images/1FTYR3XM2KKB89616/image_5.jpg"
         ]
     },
     {
@@ -8154,17 +6989,7 @@ const vehicleData = [
             "images/3C6URVJG5JE137869/image_2.jpg",
             "images/3C6URVJG5JE137869/image_3.jpg",
             "images/3C6URVJG5JE137869/image_4.jpg",
-            "images/3C6URVJG5JE137869/image_5.jpg",
-            "images/3C6URVJG5JE137869/image_6.jpg",
-            "images/3C6URVJG5JE137869/image_7.jpg",
-            "images/3C6URVJG5JE137869/image_8.jpg",
-            "images/3C6URVJG5JE137869/image_9.jpg",
-            "images/3C6URVJG5JE137869/image_10.jpg",
-            "images/3C6URVJG5JE137869/image_11.jpg",
-            "images/3C6URVJG5JE137869/image_12.jpg",
-            "images/3C6URVJG5JE137869/image_13.jpg",
-            "images/3C6URVJG5JE137869/image_14.jpg",
-            "images/3C6URVJG5JE137869/image_15.jpg"
+            "images/3C6URVJG5JE137869/image_5.jpg"
         ]
     },
     {
@@ -8194,17 +7019,7 @@ const vehicleData = [
             "images/3C6LRVDGXPE530816/image_2.jpg",
             "images/3C6LRVDGXPE530816/image_3.jpg",
             "images/3C6LRVDGXPE530816/image_4.jpg",
-            "images/3C6LRVDGXPE530816/image_5.jpg",
-            "images/3C6LRVDGXPE530816/image_6.jpg",
-            "images/3C6LRVDGXPE530816/image_7.jpg",
-            "images/3C6LRVDGXPE530816/image_8.jpg",
-            "images/3C6LRVDGXPE530816/image_9.jpg",
-            "images/3C6LRVDGXPE530816/image_10.jpg",
-            "images/3C6LRVDGXPE530816/image_11.jpg",
-            "images/3C6LRVDGXPE530816/image_12.jpg",
-            "images/3C6LRVDGXPE530816/image_13.jpg",
-            "images/3C6LRVDGXPE530816/image_14.jpg",
-            "images/3C6LRVDGXPE530816/image_15.jpg"
+            "images/3C6LRVDGXPE530816/image_5.jpg"
         ]
     },
     {
@@ -8234,12 +7049,7 @@ const vehicleData = [
             "images/3C6URVJG0KE558741/image_2.jpg",
             "images/3C6URVJG0KE558741/image_3.jpg",
             "images/3C6URVJG0KE558741/image_4.jpg",
-            "images/3C6URVJG0KE558741/image_5.jpg",
-            "images/3C6URVJG0KE558741/image_6.jpg",
-            "images/3C6URVJG0KE558741/image_7.jpg",
-            "images/3C6URVJG0KE558741/image_8.jpg",
-            "images/3C6URVJG0KE558741/image_9.jpg",
-            "images/3C6URVJG0KE558741/image_10.jpg"
+            "images/3C6URVJG0KE558741/image_5.jpg"
         ]
     },
     {
@@ -8269,17 +7079,7 @@ const vehicleData = [
             "images/3C6MRVJGXPE513622/image_2.jpg",
             "images/3C6MRVJGXPE513622/image_3.jpg",
             "images/3C6MRVJGXPE513622/image_4.jpg",
-            "images/3C6MRVJGXPE513622/image_5.jpg",
-            "images/3C6MRVJGXPE513622/image_6.jpg",
-            "images/3C6MRVJGXPE513622/image_7.jpg",
-            "images/3C6MRVJGXPE513622/image_8.jpg",
-            "images/3C6MRVJGXPE513622/image_9.jpg",
-            "images/3C6MRVJGXPE513622/image_10.jpg",
-            "images/3C6MRVJGXPE513622/image_11.jpg",
-            "images/3C6MRVJGXPE513622/image_12.jpg",
-            "images/3C6MRVJGXPE513622/image_13.jpg",
-            "images/3C6MRVJGXPE513622/image_14.jpg",
-            "images/3C6MRVJGXPE513622/image_15.jpg"
+            "images/3C6MRVJGXPE513622/image_5.jpg"
         ]
     },
     {
@@ -8309,17 +7109,7 @@ const vehicleData = [
             "images/3C6MRVJG2PE592154/image_2.jpg",
             "images/3C6MRVJG2PE592154/image_3.jpg",
             "images/3C6MRVJG2PE592154/image_4.jpg",
-            "images/3C6MRVJG2PE592154/image_5.jpg",
-            "images/3C6MRVJG2PE592154/image_6.jpg",
-            "images/3C6MRVJG2PE592154/image_7.jpg",
-            "images/3C6MRVJG2PE592154/image_8.jpg",
-            "images/3C6MRVJG2PE592154/image_9.jpg",
-            "images/3C6MRVJG2PE592154/image_10.jpg",
-            "images/3C6MRVJG2PE592154/image_11.jpg",
-            "images/3C6MRVJG2PE592154/image_12.jpg",
-            "images/3C6MRVJG2PE592154/image_13.jpg",
-            "images/3C6MRVJG2PE592154/image_14.jpg",
-            "images/3C6MRVJG2PE592154/image_15.jpg"
+            "images/3C6MRVJG2PE592154/image_5.jpg"
         ]
     },
     {
@@ -8485,9 +7275,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/WD4PF1CD6KP142581/image_1.jpg",
-            "images/WD4PF1CD6KP142581/image_2.jpg",
-            "images/WD4PF1CD6KP142581/image_3.jpg"
+            "images/WD4PF1CD6KP142581/image_1.jpg"
         ]
     },
     {
@@ -8513,9 +7301,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/1GCWGAFPXM1311757/image_1.jpg",
-            "images/1GCWGAFPXM1311757/image_2.jpg",
-            "images/1GCWGAFPXM1311757/image_3.jpg"
+            "images/1GCWGAFPXM1311757/image_1.jpg"
         ]
     },
     {
@@ -8541,9 +7327,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/1FTBW3X81MKA61002/image_1.jpg",
-            "images/1FTBW3X81MKA61002/image_2.jpg",
-            "images/1FTBW3X81MKA61002/image_3.jpg"
+            "images/1FTBW3X81MKA61002/image_1.jpg"
         ]
     },
     {
@@ -8569,9 +7353,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/3C6MRVJG4ME526832/image_1.jpg",
-            "images/3C6MRVJG4ME526832/image_2.jpg",
-            "images/3C6MRVJG4ME526832/image_3.jpg"
+            "images/3C6MRVJG4ME526832/image_1.jpg"
         ]
     },
     {
@@ -8597,9 +7379,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/NM0LS7EX2G1271780/image_1.jpg",
-            "images/NM0LS7EX2G1271780/image_2.jpg",
-            "images/NM0LS7EX2G1271780/image_3.jpg"
+            "images/NM0LS7EX2G1271780/image_1.jpg"
         ]
     },
     {
@@ -8625,9 +7405,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/1FTBR1X82NKA23825/image_1.jpg",
-            "images/1FTBR1X82NKA23825/image_2.jpg",
-            "images/1FTBR1X82NKA23825/image_3.jpg"
+            "images/1FTBR1X82NKA23825/image_1.jpg"
         ]
     },
     {
@@ -8653,9 +7431,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/1GTW7BFG9J1331130/image_1.jpg",
-            "images/1GTW7BFG9J1331130/image_2.jpg",
-            "images/1GTW7BFG9J1331130/image_3.jpg"
+            "images/1GTW7BFG9J1331130/image_1.jpg"
         ]
     },
     {
@@ -8681,9 +7457,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/3C6MRVJG0PE522264/image_1.jpg",
-            "images/3C6MRVJG0PE522264/image_2.jpg",
-            "images/3C6MRVJG0PE522264/image_3.jpg"
+            "images/3C6MRVJG0PE522264/image_1.jpg"
         ]
     },
     {
@@ -8709,9 +7483,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/WD4PF1CD6KP149594/image_1.jpg",
-            "images/WD4PF1CD6KP149594/image_2.jpg",
-            "images/WD4PF1CD6KP149594/image_3.jpg"
+            "images/WD4PF1CD6KP149594/image_1.jpg"
         ]
     },
     {
@@ -8737,9 +7509,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/WD4PF1CD5KT012279/image_1.jpg",
-            "images/WD4PF1CD5KT012279/image_2.jpg",
-            "images/WD4PF1CD5KT012279/image_3.jpg"
+            "images/WD4PF1CD5KT012279/image_1.jpg"
         ]
     },
     {
@@ -8765,9 +7535,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/WD3PG2EA3J3444295/image_1.jpg",
-            "images/WD3PG2EA3J3444295/image_2.jpg",
-            "images/WD3PG2EA3J3444295/image_3.jpg"
+            "images/WD3PG2EA3J3444295/image_1.jpg"
         ]
     },
     {
@@ -8793,9 +7561,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/3C6URVJG5LE136093/image_1.jpg",
-            "images/3C6URVJG5LE136093/image_2.jpg",
-            "images/3C6URVJG5LE136093/image_3.jpg"
+            "images/3C6URVJG5LE136093/image_1.jpg"
         ]
     },
     {
@@ -8821,9 +7587,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/3C6URVJG0KE561896/image_1.jpg",
-            "images/3C6URVJG0KE561896/image_2.jpg",
-            "images/3C6URVJG0KE561896/image_3.jpg"
+            "images/3C6URVJG0KE561896/image_1.jpg"
         ]
     },
     {
@@ -8849,9 +7613,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/WD4PF1CD7KP139320/image_1.jpg",
-            "images/WD4PF1CD7KP139320/image_2.jpg",
-            "images/WD4PF1CD7KP139320/image_3.jpg"
+            "images/WD4PF1CD7KP139320/image_1.jpg"
         ]
     },
     {
@@ -8877,9 +7639,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/W1Y40CHY0PT159389/image_1.jpg",
-            "images/W1Y40CHY0PT159389/image_2.jpg",
-            "images/W1Y40CHY0PT159389/image_3.jpg"
+            "images/W1Y40CHY0PT159389/image_1.jpg"
         ]
     },
     {
@@ -8905,9 +7665,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/WD4PF1CD1KP143492/image_1.jpg",
-            "images/WD4PF1CD1KP143492/image_2.jpg",
-            "images/WD4PF1CD1KP143492/image_3.jpg"
+            "images/WD4PF1CD1KP143492/image_1.jpg"
         ]
     },
     {
@@ -8933,9 +7691,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/W1Y40CHY8PT139052/image_1.jpg",
-            "images/W1Y40CHY8PT139052/image_2.jpg",
-            "images/W1Y40CHY8PT139052/image_3.jpg"
+            "images/W1Y40CHY8PT139052/image_1.jpg"
         ]
     },
     {
@@ -8961,9 +7717,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/W1Y40CHY0PT141104/image_1.jpg",
-            "images/W1Y40CHY0PT141104/image_2.jpg",
-            "images/W1Y40CHY0PT141104/image_3.jpg"
+            "images/W1Y40CHY0PT141104/image_1.jpg"
         ]
     },
     {
@@ -8989,9 +7743,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/3C6LRVDG5NE133947/image_1.jpg",
-            "images/3C6LRVDG5NE133947/image_2.jpg",
-            "images/3C6LRVDG5NE133947/image_3.jpg"
+            "images/3C6LRVDG5NE133947/image_1.jpg"
         ]
     },
     {
@@ -9017,9 +7769,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/W1Y40CHY0PT137439/image_1.jpg",
-            "images/W1Y40CHY0PT137439/image_2.jpg",
-            "images/W1Y40CHY0PT137439/image_3.jpg"
+            "images/W1Y40CHY0PT137439/image_1.jpg"
         ]
     },
     {
@@ -9045,9 +7795,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/W1Y4EBHY8MT058799/image_1.jpg",
-            "images/W1Y4EBHY8MT058799/image_2.jpg",
-            "images/W1Y4EBHY8MT058799/image_3.jpg"
+            "images/W1Y4EBHY8MT058799/image_1.jpg"
         ]
     },
     {
@@ -9073,9 +7821,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/1FTBR3X87LKA28706/image_1.jpg",
-            "images/1FTBR3X87LKA28706/image_2.jpg",
-            "images/1FTBR3X87LKA28706/image_3.jpg"
+            "images/1FTBR3X87LKA28706/image_1.jpg"
         ]
     },
     {
@@ -9101,9 +7847,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/1FTBR1C82MKA37793/image_1.jpg",
-            "images/1FTBR1C82MKA37793/image_2.jpg",
-            "images/1FTBR1C82MKA37793/image_3.jpg"
+            "images/1FTBR1C82MKA37793/image_1.jpg"
         ]
     },
     {
@@ -9129,9 +7873,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/1FTBW3X83MKA65097/image_1.jpg",
-            "images/1FTBW3X83MKA65097/image_2.jpg",
-            "images/1FTBW3X83MKA65097/image_3.jpg"
+            "images/1FTBW3X83MKA65097/image_1.jpg"
         ]
     },
     {
@@ -9157,9 +7899,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/3N6CM0KN8KK696822/image_1.jpg",
-            "images/3N6CM0KN8KK696822/image_2.jpg",
-            "images/3N6CM0KN8KK696822/image_3.jpg"
+            "images/3N6CM0KN8KK696822/image_1.jpg"
         ]
     },
     {
@@ -9185,9 +7925,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/3C6MRVJG5PE591936/image_1.jpg",
-            "images/3C6MRVJG5PE591936/image_2.jpg",
-            "images/3C6MRVJG5PE591936/image_3.jpg"
+            "images/3C6MRVJG5PE591936/image_1.jpg"
         ]
     },
     {
@@ -9213,9 +7951,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/3C6ERVDG1ME508790/image_1.jpg",
-            "images/3C6ERVDG1ME508790/image_2.jpg",
-            "images/3C6ERVDG1ME508790/image_3.jpg"
+            "images/3C6ERVDG1ME508790/image_1.jpg"
         ]
     },
     {
@@ -9241,9 +7977,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/1FTBW2CM9KKA50324/image_1.jpg",
-            "images/1FTBW2CM9KKA50324/image_2.jpg",
-            "images/1FTBW2CM9KKA50324/image_3.jpg"
+            "images/1FTBW2CM9KKA50324/image_1.jpg"
         ]
     },
     {
@@ -9269,9 +8003,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/1GCWGAFP0K1171795/image_1.jpg",
-            "images/1GCWGAFP0K1171795/image_2.jpg",
-            "images/1GCWGAFP0K1171795/image_3.jpg"
+            "images/1GCWGAFP0K1171795/image_1.jpg"
         ]
     },
     {
@@ -9297,9 +8029,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/WD4PF1CDXKP128215/image_1.jpg",
-            "images/WD4PF1CDXKP128215/image_2.jpg",
-            "images/WD4PF1CDXKP128215/image_3.jpg"
+            "images/WD4PF1CDXKP128215/image_1.jpg"
         ]
     },
     {
@@ -9325,9 +8055,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/W1Y40CHY9PT140534/image_1.jpg",
-            "images/W1Y40CHY9PT140534/image_2.jpg",
-            "images/W1Y40CHY9PT140534/image_3.jpg"
+            "images/W1Y40CHY9PT140534/image_1.jpg"
         ]
     },
     {
@@ -9353,9 +8081,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/3C6URVJG8GE134490/image_1.jpg",
-            "images/3C6URVJG8GE134490/image_2.jpg",
-            "images/3C6URVJG8GE134490/image_3.jpg"
+            "images/3C6URVJG8GE134490/image_1.jpg"
         ]
     },
     {
@@ -9381,9 +8107,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/3C6URVJG8KE548491/image_1.jpg",
-            "images/3C6URVJG8KE548491/image_2.jpg",
-            "images/3C6URVJG8KE548491/image_3.jpg"
+            "images/3C6URVJG8KE548491/image_1.jpg"
         ]
     },
     {
@@ -9409,9 +8133,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/1FTYR3XM7KKB78305/image_1.jpg",
-            "images/1FTYR3XM7KKB78305/image_2.jpg",
-            "images/1FTYR3XM7KKB78305/image_3.jpg"
+            "images/1FTYR3XM7KKB78305/image_1.jpg"
         ]
     },
     {
@@ -9437,9 +8159,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/W1Y40CHY2NT110451/image_1.jpg",
-            "images/W1Y40CHY2NT110451/image_2.jpg",
-            "images/W1Y40CHY2NT110451/image_3.jpg"
+            "images/W1Y40CHY2NT110451/image_1.jpg"
         ]
     },
     {
@@ -9465,9 +8185,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/3C6URVJG5GE110213/image_1.jpg",
-            "images/3C6URVJG5GE110213/image_2.jpg",
-            "images/3C6URVJG5GE110213/image_3.jpg"
+            "images/3C6URVJG5GE110213/image_1.jpg"
         ]
     },
     {
@@ -9493,9 +8211,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/3C6MRVJG6PE514413/image_1.jpg",
-            "images/3C6MRVJG6PE514413/image_2.jpg",
-            "images/3C6MRVJG6PE514413/image_3.jpg"
+            "images/3C6MRVJG6PE514413/image_1.jpg"
         ]
     },
     {
@@ -9521,9 +8237,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/3C6MRVJG4ME536101/image_1.jpg",
-            "images/3C6MRVJG4ME536101/image_2.jpg",
-            "images/3C6MRVJG4ME536101/image_3.jpg"
+            "images/3C6MRVJG4ME536101/image_1.jpg"
         ]
     },
     {
@@ -9549,9 +8263,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/W1Y40CHY0PT148098/image_1.jpg",
-            "images/W1Y40CHY0PT148098/image_2.jpg",
-            "images/W1Y40CHY0PT148098/image_3.jpg"
+            "images/W1Y40CHY0PT148098/image_1.jpg"
         ]
     },
     {
@@ -9577,9 +8289,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/1FTBR1C80PKB46628/image_1.jpg",
-            "images/1FTBR1C80PKB46628/image_2.jpg",
-            "images/1FTBR1C80PKB46628/image_3.jpg"
+            "images/1FTBR1C80PKB46628/image_1.jpg"
         ]
     },
     {
@@ -9605,9 +8315,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/1FTYR1ZM7HKA09055/image_1.jpg",
-            "images/1FTYR1ZM7HKA09055/image_2.jpg",
-            "images/1FTYR1ZM7HKA09055/image_3.jpg"
+            "images/1FTYR1ZM7HKA09055/image_1.jpg"
         ]
     },
     {
@@ -9633,9 +8341,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/3C6MRVJG4NE141661/image_1.jpg",
-            "images/3C6MRVJG4NE141661/image_2.jpg",
-            "images/3C6MRVJG4NE141661/image_3.jpg"
+            "images/3C6MRVJG4NE141661/image_1.jpg"
         ]
     },
     {
@@ -9661,9 +8367,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/1FDBF9ZM0HKB57802/image_1.jpg",
-            "images/1FDBF9ZM0HKB57802/image_2.jpg",
-            "images/1FDBF9ZM0HKB57802/image_3.jpg"
+            "images/1FDBF9ZM0HKB57802/image_1.jpg"
         ]
     },
     {
@@ -9689,9 +8393,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/1GCWGBFP0L1163395/image_1.jpg",
-            "images/1GCWGBFP0L1163395/image_2.jpg",
-            "images/1GCWGBFP0L1163395/image_3.jpg"
+            "images/1GCWGBFP0L1163395/image_1.jpg"
         ]
     },
     {
@@ -9717,9 +8419,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/3C6MRVJG1ME574160/image_1.jpg",
-            "images/3C6MRVJG1ME574160/image_2.jpg",
-            "images/3C6MRVJG1ME574160/image_3.jpg"
+            "images/3C6MRVJG1ME574160/image_1.jpg"
         ]
     },
     {
@@ -9745,9 +8445,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/1FTBR1Y87LKA30281/image_1.jpg",
-            "images/1FTBR1Y87LKA30281/image_2.jpg",
-            "images/1FTBR1Y87LKA30281/image_3.jpg"
+            "images/1FTBR1Y87LKA30281/image_1.jpg"
         ]
     },
     {
@@ -9773,9 +8471,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/W1Y40CHY9PT139240/image_1.jpg",
-            "images/W1Y40CHY9PT139240/image_2.jpg",
-            "images/W1Y40CHY9PT139240/image_3.jpg"
+            "images/W1Y40CHY9PT139240/image_1.jpg"
         ]
     },
     {
@@ -9801,9 +8497,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/1GCWGAFP5M1220251/image_1.jpg",
-            "images/1GCWGAFP5M1220251/image_2.jpg",
-            "images/1GCWGAFP5M1220251/image_3.jpg"
+            "images/1GCWGAFP5M1220251/image_1.jpg"
         ]
     },
     {
@@ -9829,9 +8523,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/NM0LS7E22K1390412/image_1.jpg",
-            "images/NM0LS7E22K1390412/image_2.jpg",
-            "images/NM0LS7E22K1390412/image_3.jpg"
+            "images/NM0LS7E22K1390412/image_1.jpg"
         ]
     },
     {
@@ -9857,9 +8549,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/W1Y40CHY0PT144651/image_1.jpg",
-            "images/W1Y40CHY0PT144651/image_2.jpg",
-            "images/W1Y40CHY0PT144651/image_3.jpg"
+            "images/W1Y40CHY0PT144651/image_1.jpg"
         ]
     },
     {
@@ -9885,9 +8575,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/W1Y40CHY5LT026248/image_1.jpg",
-            "images/W1Y40CHY5LT026248/image_2.jpg",
-            "images/W1Y40CHY5LT026248/image_3.jpg"
+            "images/W1Y40CHY5LT026248/image_1.jpg"
         ]
     },
     {
@@ -9913,9 +8601,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/WD4PF1CD7KT006838/image_1.jpg",
-            "images/WD4PF1CD7KT006838/image_2.jpg",
-            "images/WD4PF1CD7KT006838/image_3.jpg"
+            "images/WD4PF1CD7KT006838/image_1.jpg"
         ]
     },
     {
@@ -9941,9 +8627,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/3C6URVJG8KE545008/image_1.jpg",
-            "images/3C6URVJG8KE545008/image_2.jpg",
-            "images/3C6URVJG8KE545008/image_3.jpg"
+            "images/3C6URVJG8KE545008/image_1.jpg"
         ]
     },
     {
@@ -9969,9 +8653,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/3C6URVJG2LE140635/image_1.jpg",
-            "images/3C6URVJG2LE140635/image_2.jpg",
-            "images/3C6URVJG2LE140635/image_3.jpg"
+            "images/3C6URVJG2LE140635/image_1.jpg"
         ]
     },
     {
@@ -9997,9 +8679,7 @@ const vehicleData = [
         "location": "Miami, FL",
         "description": "",
         "images": [
-            "images/1FTBR3X88NKA74158/image_1.jpg",
-            "images/1FTBR3X88NKA74158/image_2.jpg",
-            "images/1FTBR3X88NKA74158/image_3.jpg"
+            "images/1FTBR3X88NKA74158/image_1.jpg"
         ]
     },
     {
@@ -10027,10 +8707,7 @@ const vehicleData = [
             "images/5TDAAAB59RS037638/image_2.jpg",
             "images/5TDAAAB59RS037638/image_3.jpg",
             "images/5TDAAAB59RS037638/image_4.jpg",
-            "images/5TDAAAB59RS037638/image_5.jpg",
-            "images/5TDAAAB59RS037638/image_6.jpg",
-            "images/5TDAAAB59RS037638/image_7.jpg",
-            "images/5TDAAAB59RS037638/image_8.jpg"
+            "images/5TDAAAB59RS037638/image_5.jpg"
         ]
     },
     {
@@ -10058,10 +8735,7 @@ const vehicleData = [
             "images/5TFMA5DB5SX277812/image_2.jpg",
             "images/5TFMA5DB5SX277812/image_3.jpg",
             "images/5TFMA5DB5SX277812/image_4.jpg",
-            "images/5TFMA5DB5SX277812/image_5.jpg",
-            "images/5TFMA5DB5SX277812/image_6.jpg",
-            "images/5TFMA5DB5SX277812/image_7.jpg",
-            "images/5TFMA5DB5SX277812/image_8.jpg"
+            "images/5TFMA5DB5SX277812/image_5.jpg"
         ]
     },
     {
@@ -10089,10 +8763,7 @@ const vehicleData = [
             "images/5TDYRKECXSS250126/image_2.jpg",
             "images/5TDYRKECXSS250126/image_3.jpg",
             "images/5TDYRKECXSS250126/image_4.jpg",
-            "images/5TDYRKECXSS250126/image_5.jpg",
-            "images/5TDYRKECXSS250126/image_6.jpg",
-            "images/5TDYRKECXSS250126/image_7.jpg",
-            "images/5TDYRKECXSS250126/image_8.jpg"
+            "images/5TDYRKECXSS250126/image_5.jpg"
         ]
     },
     {
@@ -10120,10 +8791,7 @@ const vehicleData = [
             "images/5TDAAAA53RS001753/image_2.jpg",
             "images/5TDAAAA53RS001753/image_3.jpg",
             "images/5TDAAAA53RS001753/image_4.jpg",
-            "images/5TDAAAA53RS001753/image_5.jpg",
-            "images/5TDAAAA53RS001753/image_6.jpg",
-            "images/5TDAAAA53RS001753/image_7.jpg",
-            "images/5TDAAAA53RS001753/image_8.jpg"
+            "images/5TDAAAA53RS001753/image_5.jpg"
         ]
     },
     {
@@ -10151,10 +8819,7 @@ const vehicleData = [
             "images/4T1DAACK1SU121368/image_2.jpg",
             "images/4T1DAACK1SU121368/image_3.jpg",
             "images/4T1DAACK1SU121368/image_4.jpg",
-            "images/4T1DAACK1SU121368/image_5.jpg",
-            "images/4T1DAACK1SU121368/image_6.jpg",
-            "images/4T1DAACK1SU121368/image_7.jpg",
-            "images/4T1DAACK1SU121368/image_8.jpg"
+            "images/4T1DAACK1SU121368/image_5.jpg"
         ]
     },
     {
@@ -10182,10 +8847,7 @@ const vehicleData = [
             "images/JTDACAAJ5S3009884/image_2.jpg",
             "images/JTDACAAJ5S3009884/image_3.jpg",
             "images/JTDACAAJ5S3009884/image_4.jpg",
-            "images/JTDACAAJ5S3009884/image_5.jpg",
-            "images/JTDACAAJ5S3009884/image_6.jpg",
-            "images/JTDACAAJ5S3009884/image_7.jpg",
-            "images/JTDACAAJ5S3009884/image_8.jpg"
+            "images/JTDACAAJ5S3009884/image_5.jpg"
         ]
     },
     {
@@ -10213,10 +8875,7 @@ const vehicleData = [
             "images/4T3RWRFV3NU050343/image_2.jpg",
             "images/4T3RWRFV3NU050343/image_3.jpg",
             "images/4T3RWRFV3NU050343/image_4.jpg",
-            "images/4T3RWRFV3NU050343/image_5.jpg",
-            "images/4T3RWRFV3NU050343/image_6.jpg",
-            "images/4T3RWRFV3NU050343/image_7.jpg",
-            "images/4T3RWRFV3NU050343/image_8.jpg"
+            "images/4T3RWRFV3NU050343/image_5.jpg"
         ]
     },
     {
@@ -10244,10 +8903,7 @@ const vehicleData = [
             "images/7MUDAAAG2SV146163/image_2.jpg",
             "images/7MUDAAAG2SV146163/image_3.jpg",
             "images/7MUDAAAG2SV146163/image_4.jpg",
-            "images/7MUDAAAG2SV146163/image_5.jpg",
-            "images/7MUDAAAG2SV146163/image_6.jpg",
-            "images/7MUDAAAG2SV146163/image_7.jpg",
-            "images/7MUDAAAG2SV146163/image_8.jpg"
+            "images/7MUDAAAG2SV146163/image_5.jpg"
         ]
     },
     {
@@ -10275,10 +8931,7 @@ const vehicleData = [
             "images/3TYLC5LN4ST041003/image_2.jpg",
             "images/3TYLC5LN4ST041003/image_3.jpg",
             "images/3TYLC5LN4ST041003/image_4.jpg",
-            "images/3TYLC5LN4ST041003/image_5.jpg",
-            "images/3TYLC5LN4ST041003/image_6.jpg",
-            "images/3TYLC5LN4ST041003/image_7.jpg",
-            "images/3TYLC5LN4ST041003/image_8.jpg"
+            "images/3TYLC5LN4ST041003/image_5.jpg"
         ]
     },
     {
@@ -10306,10 +8959,7 @@ const vehicleData = [
             "images/JTEABFAJ7S5018344/image_2.jpg",
             "images/JTEABFAJ7S5018344/image_3.jpg",
             "images/JTEABFAJ7S5018344/image_4.jpg",
-            "images/JTEABFAJ7S5018344/image_5.jpg",
-            "images/JTEABFAJ7S5018344/image_6.jpg",
-            "images/JTEABFAJ7S5018344/image_7.jpg",
-            "images/JTEABFAJ7S5018344/image_8.jpg"
+            "images/JTEABFAJ7S5018344/image_5.jpg"
         ]
     },
     {
@@ -10337,10 +8987,7 @@ const vehicleData = [
             "images/JTERU5JR6P6209087/image_2.jpg",
             "images/JTERU5JR6P6209087/image_3.jpg",
             "images/JTERU5JR6P6209087/image_4.jpg",
-            "images/JTERU5JR6P6209087/image_5.jpg",
-            "images/JTERU5JR6P6209087/image_6.jpg",
-            "images/JTERU5JR6P6209087/image_7.jpg",
-            "images/JTERU5JR6P6209087/image_8.jpg"
+            "images/JTERU5JR6P6209087/image_5.jpg"
         ]
     },
     {
@@ -10368,10 +9015,7 @@ const vehicleData = [
             "images/5TDKDRAH6SS552477/image_2.jpg",
             "images/5TDKDRAH6SS552477/image_3.jpg",
             "images/5TDKDRAH6SS552477/image_4.jpg",
-            "images/5TDKDRAH6SS552477/image_5.jpg",
-            "images/5TDKDRAH6SS552477/image_6.jpg",
-            "images/5TDKDRAH6SS552477/image_7.jpg",
-            "images/5TDKDRAH6SS552477/image_8.jpg"
+            "images/5TDKDRAH6SS552477/image_5.jpg"
         ]
     },
     {
@@ -10399,10 +9043,7 @@ const vehicleData = [
             "images/5TDAAAA5XSS030091/image_2.jpg",
             "images/5TDAAAA5XSS030091/image_3.jpg",
             "images/5TDAAAA5XSS030091/image_4.jpg",
-            "images/5TDAAAA5XSS030091/image_5.jpg",
-            "images/5TDAAAA5XSS030091/image_6.jpg",
-            "images/5TDAAAA5XSS030091/image_7.jpg",
-            "images/5TDAAAA5XSS030091/image_8.jpg"
+            "images/5TDAAAA5XSS030091/image_5.jpg"
         ]
     },
     {
@@ -10430,10 +9071,7 @@ const vehicleData = [
             "images/4T1F11AK5RU188688/image_2.jpg",
             "images/4T1F11AK5RU188688/image_3.jpg",
             "images/4T1F11AK5RU188688/image_4.jpg",
-            "images/4T1F11AK5RU188688/image_5.jpg",
-            "images/4T1F11AK5RU188688/image_6.jpg",
-            "images/4T1F11AK5RU188688/image_7.jpg",
-            "images/4T1F11AK5RU188688/image_8.jpg"
+            "images/4T1F11AK5RU188688/image_5.jpg"
         ]
     },
     {
@@ -10461,10 +9099,7 @@ const vehicleData = [
             "images/4T1DAACK0SU186406/image_2.jpg",
             "images/4T1DAACK0SU186406/image_3.jpg",
             "images/4T1DAACK0SU186406/image_4.jpg",
-            "images/4T1DAACK0SU186406/image_5.jpg",
-            "images/4T1DAACK0SU186406/image_6.jpg",
-            "images/4T1DAACK0SU186406/image_7.jpg",
-            "images/4T1DAACK0SU186406/image_8.jpg"
+            "images/4T1DAACK0SU186406/image_5.jpg"
         ]
     },
     {
@@ -10492,10 +9127,7 @@ const vehicleData = [
             "images/4T1DAACK0SU559251/image_2.jpg",
             "images/4T1DAACK0SU559251/image_3.jpg",
             "images/4T1DAACK0SU559251/image_4.jpg",
-            "images/4T1DAACK0SU559251/image_5.jpg",
-            "images/4T1DAACK0SU559251/image_6.jpg",
-            "images/4T1DAACK0SU559251/image_7.jpg",
-            "images/4T1DAACK0SU559251/image_8.jpg"
+            "images/4T1DAACK0SU559251/image_5.jpg"
         ]
     },
     {
@@ -10523,10 +9155,7 @@ const vehicleData = [
             "images/4T1DAACK9SU588862/image_2.jpg",
             "images/4T1DAACK9SU588862/image_3.jpg",
             "images/4T1DAACK9SU588862/image_4.jpg",
-            "images/4T1DAACK9SU588862/image_5.jpg",
-            "images/4T1DAACK9SU588862/image_6.jpg",
-            "images/4T1DAACK9SU588862/image_7.jpg",
-            "images/4T1DAACK9SU588862/image_8.jpg"
+            "images/4T1DAACK9SU588862/image_5.jpg"
         ]
     },
     {
@@ -10554,10 +9183,7 @@ const vehicleData = [
             "images/4T1DAACK9SU645335/image_2.jpg",
             "images/4T1DAACK9SU645335/image_3.jpg",
             "images/4T1DAACK9SU645335/image_4.jpg",
-            "images/4T1DAACK9SU645335/image_5.jpg",
-            "images/4T1DAACK9SU645335/image_6.jpg",
-            "images/4T1DAACK9SU645335/image_7.jpg",
-            "images/4T1DAACK9SU645335/image_8.jpg"
+            "images/4T1DAACK9SU645335/image_5.jpg"
         ]
     },
     {
@@ -10585,10 +9211,7 @@ const vehicleData = [
             "images/5TDKDRAH3RS544444/image_2.jpg",
             "images/5TDKDRAH3RS544444/image_3.jpg",
             "images/5TDKDRAH3RS544444/image_4.jpg",
-            "images/5TDKDRAH3RS544444/image_5.jpg",
-            "images/5TDKDRAH3RS544444/image_6.jpg",
-            "images/5TDKDRAH3RS544444/image_7.jpg",
-            "images/5TDKDRAH3RS544444/image_8.jpg"
+            "images/5TDKDRAH3RS544444/image_5.jpg"
         ]
     },
     {
@@ -10616,10 +9239,7 @@ const vehicleData = [
             "images/4T1DAACK3SU203876/image_2.jpg",
             "images/4T1DAACK3SU203876/image_3.jpg",
             "images/4T1DAACK3SU203876/image_4.jpg",
-            "images/4T1DAACK3SU203876/image_5.jpg",
-            "images/4T1DAACK3SU203876/image_6.jpg",
-            "images/4T1DAACK3SU203876/image_7.jpg",
-            "images/4T1DAACK3SU203876/image_8.jpg"
+            "images/4T1DAACK3SU203876/image_5.jpg"
         ]
     },
     {
@@ -10647,10 +9267,7 @@ const vehicleData = [
             "images/5TDGZRBH2MS525365/image_2.jpg",
             "images/5TDGZRBH2MS525365/image_3.jpg",
             "images/5TDGZRBH2MS525365/image_4.jpg",
-            "images/5TDGZRBH2MS525365/image_5.jpg",
-            "images/5TDGZRBH2MS525365/image_6.jpg",
-            "images/5TDGZRBH2MS525365/image_7.jpg",
-            "images/5TDGZRBH2MS525365/image_8.jpg"
+            "images/5TDGZRBH2MS525365/image_5.jpg"
         ]
     },
     {
@@ -10678,10 +9295,7 @@ const vehicleData = [
             "images/4T1DAACK8SU502134/image_2.jpg",
             "images/4T1DAACK8SU502134/image_3.jpg",
             "images/4T1DAACK8SU502134/image_4.jpg",
-            "images/4T1DAACK8SU502134/image_5.jpg",
-            "images/4T1DAACK8SU502134/image_6.jpg",
-            "images/4T1DAACK8SU502134/image_7.jpg",
-            "images/4T1DAACK8SU502134/image_8.jpg"
+            "images/4T1DAACK8SU502134/image_5.jpg"
         ]
     },
     {
@@ -10709,10 +9323,7 @@ const vehicleData = [
             "images/JTENU5JR6P6098085/image_2.jpg",
             "images/JTENU5JR6P6098085/image_3.jpg",
             "images/JTENU5JR6P6098085/image_4.jpg",
-            "images/JTENU5JR6P6098085/image_5.jpg",
-            "images/JTENU5JR6P6098085/image_6.jpg",
-            "images/JTENU5JR6P6098085/image_7.jpg",
-            "images/JTENU5JR6P6098085/image_8.jpg"
+            "images/JTENU5JR6P6098085/image_5.jpg"
         ]
     },
     {
@@ -10740,10 +9351,7 @@ const vehicleData = [
             "images/5TFLA5AB7SX041727/image_2.jpg",
             "images/5TFLA5AB7SX041727/image_3.jpg",
             "images/5TFLA5AB7SX041727/image_4.jpg",
-            "images/5TFLA5AB7SX041727/image_5.jpg",
-            "images/5TFLA5AB7SX041727/image_6.jpg",
-            "images/5TFLA5AB7SX041727/image_7.jpg",
-            "images/5TFLA5AB7SX041727/image_8.jpg"
+            "images/5TFLA5AB7SX041727/image_5.jpg"
         ]
     },
     {
@@ -10771,10 +9379,7 @@ const vehicleData = [
             "images/4T1KZ1AK3RU089763/image_2.jpg",
             "images/4T1KZ1AK3RU089763/image_3.jpg",
             "images/4T1KZ1AK3RU089763/image_4.jpg",
-            "images/4T1KZ1AK3RU089763/image_5.jpg",
-            "images/4T1KZ1AK3RU089763/image_6.jpg",
-            "images/4T1KZ1AK3RU089763/image_7.jpg",
-            "images/4T1KZ1AK3RU089763/image_8.jpg"
+            "images/4T1KZ1AK3RU089763/image_5.jpg"
         ]
     },
     {
@@ -10802,10 +9407,7 @@ const vehicleData = [
             "images/2T3RWRFV4SW270067/image_2.jpg",
             "images/2T3RWRFV4SW270067/image_3.jpg",
             "images/2T3RWRFV4SW270067/image_4.jpg",
-            "images/2T3RWRFV4SW270067/image_5.jpg",
-            "images/2T3RWRFV4SW270067/image_6.jpg",
-            "images/2T3RWRFV4SW270067/image_7.jpg",
-            "images/2T3RWRFV4SW270067/image_8.jpg"
+            "images/2T3RWRFV4SW270067/image_5.jpg"
         ]
     },
     {
@@ -10833,10 +9435,7 @@ const vehicleData = [
             "images/4T1DAACK9SU529004/image_2.jpg",
             "images/4T1DAACK9SU529004/image_3.jpg",
             "images/4T1DAACK9SU529004/image_4.jpg",
-            "images/4T1DAACK9SU529004/image_5.jpg",
-            "images/4T1DAACK9SU529004/image_6.jpg",
-            "images/4T1DAACK9SU529004/image_7.jpg",
-            "images/4T1DAACK9SU529004/image_8.jpg"
+            "images/4T1DAACK9SU529004/image_5.jpg"
         ]
     },
     {
@@ -10864,10 +9463,7 @@ const vehicleData = [
             "images/2T3E6RFV7RW055534/image_2.jpg",
             "images/2T3E6RFV7RW055534/image_3.jpg",
             "images/2T3E6RFV7RW055534/image_4.jpg",
-            "images/2T3E6RFV7RW055534/image_5.jpg",
-            "images/2T3E6RFV7RW055534/image_6.jpg",
-            "images/2T3E6RFV7RW055534/image_7.jpg",
-            "images/2T3E6RFV7RW055534/image_8.jpg"
+            "images/2T3E6RFV7RW055534/image_5.jpg"
         ]
     },
     {
@@ -10895,10 +9491,7 @@ const vehicleData = [
             "images/3TMLB5JN8SM140778/image_2.jpg",
             "images/3TMLB5JN8SM140778/image_3.jpg",
             "images/3TMLB5JN8SM140778/image_4.jpg",
-            "images/3TMLB5JN8SM140778/image_5.jpg",
-            "images/3TMLB5JN8SM140778/image_6.jpg",
-            "images/3TMLB5JN8SM140778/image_7.jpg",
-            "images/3TMLB5JN8SM140778/image_8.jpg"
+            "images/3TMLB5JN8SM140778/image_5.jpg"
         ]
     },
     {
@@ -10926,10 +9519,7 @@ const vehicleData = [
             "images/5TDJGRFH3HS031849/image_2.jpg",
             "images/5TDJGRFH3HS031849/image_3.jpg",
             "images/5TDJGRFH3HS031849/image_4.jpg",
-            "images/5TDJGRFH3HS031849/image_5.jpg",
-            "images/5TDJGRFH3HS031849/image_6.jpg",
-            "images/5TDJGRFH3HS031849/image_7.jpg",
-            "images/5TDJGRFH3HS031849/image_8.jpg"
+            "images/5TDJGRFH3HS031849/image_5.jpg"
         ]
     },
     {
@@ -10957,10 +9547,7 @@ const vehicleData = [
             "images/5YFS4MCE7SP231319/image_2.jpg",
             "images/5YFS4MCE7SP231319/image_3.jpg",
             "images/5YFS4MCE7SP231319/image_4.jpg",
-            "images/5YFS4MCE7SP231319/image_5.jpg",
-            "images/5YFS4MCE7SP231319/image_6.jpg",
-            "images/5YFS4MCE7SP231319/image_7.jpg",
-            "images/5YFS4MCE7SP231319/image_8.jpg"
+            "images/5YFS4MCE7SP231319/image_5.jpg"
         ]
     },
     {
@@ -10988,10 +9575,7 @@ const vehicleData = [
             "images/JTDACAAU2S3062150/image_2.jpg",
             "images/JTDACAAU2S3062150/image_3.jpg",
             "images/JTDACAAU2S3062150/image_4.jpg",
-            "images/JTDACAAU2S3062150/image_5.jpg",
-            "images/JTDACAAU2S3062150/image_6.jpg",
-            "images/JTDACAAU2S3062150/image_7.jpg",
-            "images/JTDACAAU2S3062150/image_8.jpg"
+            "images/JTDACAAU2S3062150/image_5.jpg"
         ]
     },
     {
@@ -11019,10 +9603,7 @@ const vehicleData = [
             "images/7MUAAAAG0SV123810/image_2.jpg",
             "images/7MUAAAAG0SV123810/image_3.jpg",
             "images/7MUAAAAG0SV123810/image_4.jpg",
-            "images/7MUAAAAG0SV123810/image_5.jpg",
-            "images/7MUAAAAG0SV123810/image_6.jpg",
-            "images/7MUAAAAG0SV123810/image_7.jpg",
-            "images/7MUAAAAG0SV123810/image_8.jpg"
+            "images/7MUAAAAG0SV123810/image_5.jpg"
         ]
     },
     {
@@ -11050,10 +9631,7 @@ const vehicleData = [
             "images/4T3E6RFV7RU168707/image_2.jpg",
             "images/4T3E6RFV7RU168707/image_3.jpg",
             "images/4T3E6RFV7RU168707/image_4.jpg",
-            "images/4T3E6RFV7RU168707/image_5.jpg",
-            "images/4T3E6RFV7RU168707/image_6.jpg",
-            "images/4T3E6RFV7RU168707/image_7.jpg",
-            "images/4T3E6RFV7RU168707/image_8.jpg"
+            "images/4T3E6RFV7RU168707/image_5.jpg"
         ]
     },
     {
@@ -11081,10 +9659,7 @@ const vehicleData = [
             "images/3TMKB5FN9SM038216/image_2.jpg",
             "images/3TMKB5FN9SM038216/image_3.jpg",
             "images/3TMKB5FN9SM038216/image_4.jpg",
-            "images/3TMKB5FN9SM038216/image_5.jpg",
-            "images/3TMKB5FN9SM038216/image_6.jpg",
-            "images/3TMKB5FN9SM038216/image_7.jpg",
-            "images/3TMKB5FN9SM038216/image_8.jpg"
+            "images/3TMKB5FN9SM038216/image_5.jpg"
         ]
     },
     {
@@ -11112,10 +9687,7 @@ const vehicleData = [
             "images/2T36DRBVXTW005685/image_2.jpg",
             "images/2T36DRBVXTW005685/image_3.jpg",
             "images/2T36DRBVXTW005685/image_4.jpg",
-            "images/2T36DRBVXTW005685/image_5.jpg",
-            "images/2T36DRBVXTW005685/image_6.jpg",
-            "images/2T36DRBVXTW005685/image_7.jpg",
-            "images/2T36DRBVXTW005685/image_8.jpg"
+            "images/2T36DRBVXTW005685/image_5.jpg"
         ]
     },
     {
@@ -11143,10 +9715,7 @@ const vehicleData = [
             "images/4T1C11AK0PU151788/image_2.jpg",
             "images/4T1C11AK0PU151788/image_3.jpg",
             "images/4T1C11AK0PU151788/image_4.jpg",
-            "images/4T1C11AK0PU151788/image_5.jpg",
-            "images/4T1C11AK0PU151788/image_6.jpg",
-            "images/4T1C11AK0PU151788/image_7.jpg",
-            "images/4T1C11AK0PU151788/image_8.jpg"
+            "images/4T1C11AK0PU151788/image_5.jpg"
         ]
     },
     {
@@ -11174,10 +9743,7 @@ const vehicleData = [
             "images/4T1DAACK7SU644538/image_2.jpg",
             "images/4T1DAACK7SU644538/image_3.jpg",
             "images/4T1DAACK7SU644538/image_4.jpg",
-            "images/4T1DAACK7SU644538/image_5.jpg",
-            "images/4T1DAACK7SU644538/image_6.jpg",
-            "images/4T1DAACK7SU644538/image_7.jpg",
-            "images/4T1DAACK7SU644538/image_8.jpg"
+            "images/4T1DAACK7SU644538/image_5.jpg"
         ]
     },
     {
@@ -11205,10 +9771,7 @@ const vehicleData = [
             "images/4T3RWRFV2NU068834/image_2.jpg",
             "images/4T3RWRFV2NU068834/image_3.jpg",
             "images/4T3RWRFV2NU068834/image_4.jpg",
-            "images/4T3RWRFV2NU068834/image_5.jpg",
-            "images/4T3RWRFV2NU068834/image_6.jpg",
-            "images/4T3RWRFV2NU068834/image_7.jpg",
-            "images/4T3RWRFV2NU068834/image_8.jpg"
+            "images/4T3RWRFV2NU068834/image_5.jpg"
         ]
     },
     {
@@ -11236,10 +9799,7 @@ const vehicleData = [
             "images/JTDBCMFE9T3111191/image_2.jpg",
             "images/JTDBCMFE9T3111191/image_3.jpg",
             "images/JTDBCMFE9T3111191/image_4.jpg",
-            "images/JTDBCMFE9T3111191/image_5.jpg",
-            "images/JTDBCMFE9T3111191/image_6.jpg",
-            "images/JTDBCMFE9T3111191/image_7.jpg",
-            "images/JTDBCMFE9T3111191/image_8.jpg"
+            "images/JTDBCMFE9T3111191/image_5.jpg"
         ]
     },
     {
@@ -11267,10 +9827,7 @@ const vehicleData = [
             "images/2T3W1RFVXSC330954/image_2.jpg",
             "images/2T3W1RFVXSC330954/image_3.jpg",
             "images/2T3W1RFVXSC330954/image_4.jpg",
-            "images/2T3W1RFVXSC330954/image_5.jpg",
-            "images/2T3W1RFVXSC330954/image_6.jpg",
-            "images/2T3W1RFVXSC330954/image_7.jpg",
-            "images/2T3W1RFVXSC330954/image_8.jpg"
+            "images/2T3W1RFVXSC330954/image_5.jpg"
         ]
     },
     {
@@ -11298,10 +9855,7 @@ const vehicleData = [
             "images/7MUFBABG7SV069651/image_2.jpg",
             "images/7MUFBABG7SV069651/image_3.jpg",
             "images/7MUFBABG7SV069651/image_4.jpg",
-            "images/7MUFBABG7SV069651/image_5.jpg",
-            "images/7MUFBABG7SV069651/image_6.jpg",
-            "images/7MUFBABG7SV069651/image_7.jpg",
-            "images/7MUFBABG7SV069651/image_8.jpg"
+            "images/7MUFBABG7SV069651/image_5.jpg"
         ]
     },
     {
@@ -11329,10 +9883,7 @@ const vehicleData = [
             "images/3TYLB5JN4RT050073/image_2.jpg",
             "images/3TYLB5JN4RT050073/image_3.jpg",
             "images/3TYLB5JN4RT050073/image_4.jpg",
-            "images/3TYLB5JN4RT050073/image_5.jpg",
-            "images/3TYLB5JN4RT050073/image_6.jpg",
-            "images/3TYLB5JN4RT050073/image_7.jpg",
-            "images/3TYLB5JN4RT050073/image_8.jpg"
+            "images/3TYLB5JN4RT050073/image_5.jpg"
         ]
     },
     {
@@ -11360,10 +9911,7 @@ const vehicleData = [
             "images/5TFLA5DB1SX306976/image_2.jpg",
             "images/5TFLA5DB1SX306976/image_3.jpg",
             "images/5TFLA5DB1SX306976/image_4.jpg",
-            "images/5TFLA5DB1SX306976/image_5.jpg",
-            "images/5TFLA5DB1SX306976/image_6.jpg",
-            "images/5TFLA5DB1SX306976/image_7.jpg",
-            "images/5TFLA5DB1SX306976/image_8.jpg"
+            "images/5TFLA5DB1SX306976/image_5.jpg"
         ]
     },
     {
@@ -11391,10 +9939,7 @@ const vehicleData = [
             "images/4T3RWRFVXRU130177/image_2.jpg",
             "images/4T3RWRFVXRU130177/image_3.jpg",
             "images/4T3RWRFVXRU130177/image_4.jpg",
-            "images/4T3RWRFVXRU130177/image_5.jpg",
-            "images/4T3RWRFVXRU130177/image_6.jpg",
-            "images/4T3RWRFVXRU130177/image_7.jpg",
-            "images/4T3RWRFVXRU130177/image_8.jpg"
+            "images/4T3RWRFVXRU130177/image_5.jpg"
         ]
     },
     {
@@ -11422,10 +9967,7 @@ const vehicleData = [
             "images/5TFMC5DB4RX049806/image_2.jpg",
             "images/5TFMC5DB4RX049806/image_3.jpg",
             "images/5TFMC5DB4RX049806/image_4.jpg",
-            "images/5TFMC5DB4RX049806/image_5.jpg",
-            "images/5TFMC5DB4RX049806/image_6.jpg",
-            "images/5TFMC5DB4RX049806/image_7.jpg",
-            "images/5TFMC5DB4RX049806/image_8.jpg"
+            "images/5TFMC5DB4RX049806/image_5.jpg"
         ]
     },
     {
@@ -11453,10 +9995,7 @@ const vehicleData = [
             "images/JTDACACU8S3045897/image_2.jpg",
             "images/JTDACACU8S3045897/image_3.jpg",
             "images/JTDACACU8S3045897/image_4.jpg",
-            "images/JTDACACU8S3045897/image_5.jpg",
-            "images/JTDACACU8S3045897/image_6.jpg",
-            "images/JTDACACU8S3045897/image_7.jpg",
-            "images/JTDACACU8S3045897/image_8.jpg"
+            "images/JTDACACU8S3045897/image_5.jpg"
         ]
     },
     {
@@ -11484,10 +10023,7 @@ const vehicleData = [
             "images/3TYLB5JN0RT048045/image_2.jpg",
             "images/3TYLB5JN0RT048045/image_3.jpg",
             "images/3TYLB5JN0RT048045/image_4.jpg",
-            "images/3TYLB5JN0RT048045/image_5.jpg",
-            "images/3TYLB5JN0RT048045/image_6.jpg",
-            "images/3TYLB5JN0RT048045/image_7.jpg",
-            "images/3TYLB5JN0RT048045/image_8.jpg"
+            "images/3TYLB5JN0RT048045/image_5.jpg"
         ]
     },
     {
@@ -11515,10 +10051,7 @@ const vehicleData = [
             "images/5TFLA5DB0SX263263/image_2.jpg",
             "images/5TFLA5DB0SX263263/image_3.jpg",
             "images/5TFLA5DB0SX263263/image_4.jpg",
-            "images/5TFLA5DB0SX263263/image_5.jpg",
-            "images/5TFLA5DB0SX263263/image_6.jpg",
-            "images/5TFLA5DB0SX263263/image_7.jpg",
-            "images/5TFLA5DB0SX263263/image_8.jpg"
+            "images/5TFLA5DB0SX263263/image_5.jpg"
         ]
     },
     {
@@ -11546,10 +10079,7 @@ const vehicleData = [
             "images/4T1DAACK4SU550990/image_2.jpg",
             "images/4T1DAACK4SU550990/image_3.jpg",
             "images/4T1DAACK4SU550990/image_4.jpg",
-            "images/4T1DAACK4SU550990/image_5.jpg",
-            "images/4T1DAACK4SU550990/image_6.jpg",
-            "images/4T1DAACK4SU550990/image_7.jpg",
-            "images/4T1DAACK4SU550990/image_8.jpg"
+            "images/4T1DAACK4SU550990/image_5.jpg"
         ]
     },
     {
@@ -11577,10 +10107,7 @@ const vehicleData = [
             "images/4T1DAACK3SU035446/image_2.jpg",
             "images/4T1DAACK3SU035446/image_3.jpg",
             "images/4T1DAACK3SU035446/image_4.jpg",
-            "images/4T1DAACK3SU035446/image_5.jpg",
-            "images/4T1DAACK3SU035446/image_6.jpg",
-            "images/4T1DAACK3SU035446/image_7.jpg",
-            "images/4T1DAACK3SU035446/image_8.jpg"
+            "images/4T1DAACK3SU035446/image_5.jpg"
         ]
     },
     {
@@ -11608,10 +10135,7 @@ const vehicleData = [
             "images/JTNC4MBE7R3220518/image_2.jpg",
             "images/JTNC4MBE7R3220518/image_3.jpg",
             "images/JTNC4MBE7R3220518/image_4.jpg",
-            "images/JTNC4MBE7R3220518/image_5.jpg",
-            "images/JTNC4MBE7R3220518/image_6.jpg",
-            "images/JTNC4MBE7R3220518/image_7.jpg",
-            "images/JTNC4MBE7R3220518/image_8.jpg"
+            "images/JTNC4MBE7R3220518/image_5.jpg"
         ]
     },
     {
@@ -11639,10 +10163,7 @@ const vehicleData = [
             "images/JTDACAAU0S3056296/image_2.jpg",
             "images/JTDACAAU0S3056296/image_3.jpg",
             "images/JTDACAAU0S3056296/image_4.jpg",
-            "images/JTDACAAU0S3056296/image_5.jpg",
-            "images/JTDACAAU0S3056296/image_6.jpg",
-            "images/JTDACAAU0S3056296/image_7.jpg",
-            "images/JTDACAAU0S3056296/image_8.jpg"
+            "images/JTDACAAU0S3056296/image_5.jpg"
         ]
     },
     {
@@ -11670,10 +10191,7 @@ const vehicleData = [
             "images/JTM16RFV6PD090025/image_2.jpg",
             "images/JTM16RFV6PD090025/image_3.jpg",
             "images/JTM16RFV6PD090025/image_4.jpg",
-            "images/JTM16RFV6PD090025/image_5.jpg",
-            "images/JTM16RFV6PD090025/image_6.jpg",
-            "images/JTM16RFV6PD090025/image_7.jpg",
-            "images/JTM16RFV6PD090025/image_8.jpg"
+            "images/JTM16RFV6PD090025/image_5.jpg"
         ]
     },
     {
@@ -11701,10 +10219,7 @@ const vehicleData = [
             "images/2T3H1RFV5RW356623/image_2.jpg",
             "images/2T3H1RFV5RW356623/image_3.jpg",
             "images/2T3H1RFV5RW356623/image_4.jpg",
-            "images/2T3H1RFV5RW356623/image_5.jpg",
-            "images/2T3H1RFV5RW356623/image_6.jpg",
-            "images/2T3H1RFV5RW356623/image_7.jpg",
-            "images/2T3H1RFV5RW356623/image_8.jpg"
+            "images/2T3H1RFV5RW356623/image_5.jpg"
         ]
     },
     {
@@ -11732,10 +10247,7 @@ const vehicleData = [
             "images/2T3W1RFV3RW359009/image_2.jpg",
             "images/2T3W1RFV3RW359009/image_3.jpg",
             "images/2T3W1RFV3RW359009/image_4.jpg",
-            "images/2T3W1RFV3RW359009/image_5.jpg",
-            "images/2T3W1RFV3RW359009/image_6.jpg",
-            "images/2T3W1RFV3RW359009/image_7.jpg",
-            "images/2T3W1RFV3RW359009/image_8.jpg"
+            "images/2T3W1RFV3RW359009/image_5.jpg"
         ]
     },
     {
@@ -11763,10 +10275,7 @@ const vehicleData = [
             "images/JTEABFAJXRK007348/image_2.jpg",
             "images/JTEABFAJXRK007348/image_3.jpg",
             "images/JTEABFAJXRK007348/image_4.jpg",
-            "images/JTEABFAJXRK007348/image_5.jpg",
-            "images/JTEABFAJXRK007348/image_6.jpg",
-            "images/JTEABFAJXRK007348/image_7.jpg",
-            "images/JTEABFAJXRK007348/image_8.jpg"
+            "images/JTEABFAJXRK007348/image_5.jpg"
         ]
     },
     {
@@ -11794,10 +10303,7 @@ const vehicleData = [
             "images/4T1DAACK3SU577470/image_2.jpg",
             "images/4T1DAACK3SU577470/image_3.jpg",
             "images/4T1DAACK3SU577470/image_4.jpg",
-            "images/4T1DAACK3SU577470/image_5.jpg",
-            "images/4T1DAACK3SU577470/image_6.jpg",
-            "images/4T1DAACK3SU577470/image_7.jpg",
-            "images/4T1DAACK3SU577470/image_8.jpg"
+            "images/4T1DAACK3SU577470/image_5.jpg"
         ]
     },
     {
@@ -11825,10 +10331,7 @@ const vehicleData = [
             "images/JTMLWRFVXRD236826/image_2.jpg",
             "images/JTMLWRFVXRD236826/image_3.jpg",
             "images/JTMLWRFVXRD236826/image_4.jpg",
-            "images/JTMLWRFVXRD236826/image_5.jpg",
-            "images/JTMLWRFVXRD236826/image_6.jpg",
-            "images/JTMLWRFVXRD236826/image_7.jpg",
-            "images/JTMLWRFVXRD236826/image_8.jpg"
+            "images/JTMLWRFVXRD236826/image_5.jpg"
         ]
     },
     {
@@ -11856,10 +10359,7 @@ const vehicleData = [
             "images/2T3W1RFV4RW363490/image_2.jpg",
             "images/2T3W1RFV4RW363490/image_3.jpg",
             "images/2T3W1RFV4RW363490/image_4.jpg",
-            "images/2T3W1RFV4RW363490/image_5.jpg",
-            "images/2T3W1RFV4RW363490/image_6.jpg",
-            "images/2T3W1RFV4RW363490/image_7.jpg",
-            "images/2T3W1RFV4RW363490/image_8.jpg"
+            "images/2T3W1RFV4RW363490/image_5.jpg"
         ]
     },
     {
@@ -11887,10 +10387,7 @@ const vehicleData = [
             "images/4T3RWRFV0SU200999/image_2.jpg",
             "images/4T3RWRFV0SU200999/image_3.jpg",
             "images/4T3RWRFV0SU200999/image_4.jpg",
-            "images/4T3RWRFV0SU200999/image_5.jpg",
-            "images/4T3RWRFV0SU200999/image_6.jpg",
-            "images/4T3RWRFV0SU200999/image_7.jpg",
-            "images/4T3RWRFV0SU200999/image_8.jpg"
+            "images/4T3RWRFV0SU200999/image_5.jpg"
         ]
     },
     {
@@ -11918,10 +10415,7 @@ const vehicleData = [
             "images/4T1DAACK9SU609323/image_2.jpg",
             "images/4T1DAACK9SU609323/image_3.jpg",
             "images/4T1DAACK9SU609323/image_4.jpg",
-            "images/4T1DAACK9SU609323/image_5.jpg",
-            "images/4T1DAACK9SU609323/image_6.jpg",
-            "images/4T1DAACK9SU609323/image_7.jpg",
-            "images/4T1DAACK9SU609323/image_8.jpg"
+            "images/4T1DAACK9SU609323/image_5.jpg"
         ]
     },
     {
@@ -11949,10 +10443,7 @@ const vehicleData = [
             "images/2T3A1RFV7RC401158/image_2.jpg",
             "images/2T3A1RFV7RC401158/image_3.jpg",
             "images/2T3A1RFV7RC401158/image_4.jpg",
-            "images/2T3A1RFV7RC401158/image_5.jpg",
-            "images/2T3A1RFV7RC401158/image_6.jpg",
-            "images/2T3A1RFV7RC401158/image_7.jpg",
-            "images/2T3A1RFV7RC401158/image_8.jpg"
+            "images/2T3A1RFV7RC401158/image_5.jpg"
         ]
     },
     {
@@ -11980,10 +10471,7 @@ const vehicleData = [
             "images/3TYLB5JN9ST083477/image_2.jpg",
             "images/3TYLB5JN9ST083477/image_3.jpg",
             "images/3TYLB5JN9ST083477/image_4.jpg",
-            "images/3TYLB5JN9ST083477/image_5.jpg",
-            "images/3TYLB5JN9ST083477/image_6.jpg",
-            "images/3TYLB5JN9ST083477/image_7.jpg",
-            "images/3TYLB5JN9ST083477/image_8.jpg"
+            "images/3TYLB5JN9ST083477/image_5.jpg"
         ]
     },
     {
@@ -12011,10 +10499,7 @@ const vehicleData = [
             "images/5TFLA5DB1SX321235/image_2.jpg",
             "images/5TFLA5DB1SX321235/image_3.jpg",
             "images/5TFLA5DB1SX321235/image_4.jpg",
-            "images/5TFLA5DB1SX321235/image_5.jpg",
-            "images/5TFLA5DB1SX321235/image_6.jpg",
-            "images/5TFLA5DB1SX321235/image_7.jpg",
-            "images/5TFLA5DB1SX321235/image_8.jpg"
+            "images/5TFLA5DB1SX321235/image_5.jpg"
         ]
     },
     {
@@ -12042,10 +10527,7 @@ const vehicleData = [
             "images/7MUFBABG1SV065031/image_2.jpg",
             "images/7MUFBABG1SV065031/image_3.jpg",
             "images/7MUFBABG1SV065031/image_4.jpg",
-            "images/7MUFBABG1SV065031/image_5.jpg",
-            "images/7MUFBABG1SV065031/image_6.jpg",
-            "images/7MUFBABG1SV065031/image_7.jpg",
-            "images/7MUFBABG1SV065031/image_8.jpg"
+            "images/7MUFBABG1SV065031/image_5.jpg"
         ]
     },
     {
@@ -12073,10 +10555,7 @@ const vehicleData = [
             "images/5YFB4MDE5SP336374/image_2.jpg",
             "images/5YFB4MDE5SP336374/image_3.jpg",
             "images/5YFB4MDE5SP336374/image_4.jpg",
-            "images/5YFB4MDE5SP336374/image_5.jpg",
-            "images/5YFB4MDE5SP336374/image_6.jpg",
-            "images/5YFB4MDE5SP336374/image_7.jpg",
-            "images/5YFB4MDE5SP336374/image_8.jpg"
+            "images/5YFB4MDE5SP336374/image_5.jpg"
         ]
     },
     {
@@ -12104,10 +10583,7 @@ const vehicleData = [
             "images/JTDAAAAF4P3003602/image_2.jpg",
             "images/JTDAAAAF4P3003602/image_3.jpg",
             "images/JTDAAAAF4P3003602/image_4.jpg",
-            "images/JTDAAAAF4P3003602/image_5.jpg",
-            "images/JTDAAAAF4P3003602/image_6.jpg",
-            "images/JTDAAAAF4P3003602/image_7.jpg",
-            "images/JTDAAAAF4P3003602/image_8.jpg"
+            "images/JTDAAAAF4P3003602/image_5.jpg"
         ]
     },
     {
@@ -12135,10 +10611,7 @@ const vehicleData = [
             "images/7MUCAAAG8RV115490/image_2.jpg",
             "images/7MUCAAAG8RV115490/image_3.jpg",
             "images/7MUCAAAG8RV115490/image_4.jpg",
-            "images/7MUCAAAG8RV115490/image_5.jpg",
-            "images/7MUCAAAG8RV115490/image_6.jpg",
-            "images/7MUCAAAG8RV115490/image_7.jpg",
-            "images/7MUCAAAG8RV115490/image_8.jpg"
+            "images/7MUCAAAG8RV115490/image_5.jpg"
         ]
     },
     {
@@ -12166,10 +10639,7 @@ const vehicleData = [
             "images/JTDBCMFE3RJ022186/image_2.jpg",
             "images/JTDBCMFE3RJ022186/image_3.jpg",
             "images/JTDBCMFE3RJ022186/image_4.jpg",
-            "images/JTDBCMFE3RJ022186/image_5.jpg",
-            "images/JTDBCMFE3RJ022186/image_6.jpg",
-            "images/JTDBCMFE3RJ022186/image_7.jpg",
-            "images/JTDBCMFE3RJ022186/image_8.jpg"
+            "images/JTDBCMFE3RJ022186/image_5.jpg"
         ]
     },
     {
@@ -12197,10 +10667,7 @@ const vehicleData = [
             "images/JTEVA5BRXS5048618/image_2.jpg",
             "images/JTEVA5BRXS5048618/image_3.jpg",
             "images/JTEVA5BRXS5048618/image_4.jpg",
-            "images/JTEVA5BRXS5048618/image_5.jpg",
-            "images/JTEVA5BRXS5048618/image_6.jpg",
-            "images/JTEVA5BRXS5048618/image_7.jpg",
-            "images/JTEVA5BRXS5048618/image_8.jpg"
+            "images/JTEVA5BRXS5048618/image_5.jpg"
         ]
     },
     {
@@ -12228,10 +10695,7 @@ const vehicleData = [
             "images/JTEABFAJ9SK019139/image_2.jpg",
             "images/JTEABFAJ9SK019139/image_3.jpg",
             "images/JTEABFAJ9SK019139/image_4.jpg",
-            "images/JTEABFAJ9SK019139/image_5.jpg",
-            "images/JTEABFAJ9SK019139/image_6.jpg",
-            "images/JTEABFAJ9SK019139/image_7.jpg",
-            "images/JTEABFAJ9SK019139/image_8.jpg"
+            "images/JTEABFAJ9SK019139/image_5.jpg"
         ]
     },
     {
@@ -12259,10 +10723,7 @@ const vehicleData = [
             "images/JTEVB5BR1S5008702/image_2.jpg",
             "images/JTEVB5BR1S5008702/image_3.jpg",
             "images/JTEVB5BR1S5008702/image_4.jpg",
-            "images/JTEVB5BR1S5008702/image_5.jpg",
-            "images/JTEVB5BR1S5008702/image_6.jpg",
-            "images/JTEVB5BR1S5008702/image_7.jpg",
-            "images/JTEVB5BR1S5008702/image_8.jpg"
+            "images/JTEVB5BR1S5008702/image_5.jpg"
         ]
     },
     {
@@ -12290,10 +10751,7 @@ const vehicleData = [
             "images/7MUAAAAG7SV143617/image_2.jpg",
             "images/7MUAAAAG7SV143617/image_3.jpg",
             "images/7MUAAAAG7SV143617/image_4.jpg",
-            "images/7MUAAAAG7SV143617/image_5.jpg",
-            "images/7MUAAAAG7SV143617/image_6.jpg",
-            "images/7MUAAAAG7SV143617/image_7.jpg",
-            "images/7MUAAAAG7SV143617/image_8.jpg"
+            "images/7MUAAAAG7SV143617/image_5.jpg"
         ]
     },
     {
@@ -12321,10 +10779,7 @@ const vehicleData = [
             "images/7MUFBABG5SV071866/image_2.jpg",
             "images/7MUFBABG5SV071866/image_3.jpg",
             "images/7MUFBABG5SV071866/image_4.jpg",
-            "images/7MUFBABG5SV071866/image_5.jpg",
-            "images/7MUFBABG5SV071866/image_6.jpg",
-            "images/7MUFBABG5SV071866/image_7.jpg",
-            "images/7MUFBABG5SV071866/image_8.jpg"
+            "images/7MUFBABG5SV071866/image_5.jpg"
         ]
     },
     {
@@ -12352,10 +10807,7 @@ const vehicleData = [
             "images/3TMCZ5AN0PM563387/image_2.jpg",
             "images/3TMCZ5AN0PM563387/image_3.jpg",
             "images/3TMCZ5AN0PM563387/image_4.jpg",
-            "images/3TMCZ5AN0PM563387/image_5.jpg",
-            "images/3TMCZ5AN0PM563387/image_6.jpg",
-            "images/3TMCZ5AN0PM563387/image_7.jpg",
-            "images/3TMCZ5AN0PM563387/image_8.jpg"
+            "images/3TMCZ5AN0PM563387/image_5.jpg"
         ]
     },
     {
@@ -12383,10 +10835,7 @@ const vehicleData = [
             "images/5YFS4MCE7SP231613/image_2.jpg",
             "images/5YFS4MCE7SP231613/image_3.jpg",
             "images/5YFS4MCE7SP231613/image_4.jpg",
-            "images/5YFS4MCE7SP231613/image_5.jpg",
-            "images/5YFS4MCE7SP231613/image_6.jpg",
-            "images/5YFS4MCE7SP231613/image_7.jpg",
-            "images/5YFS4MCE7SP231613/image_8.jpg"
+            "images/5YFS4MCE7SP231613/image_5.jpg"
         ]
     },
     {
@@ -12414,10 +10863,7 @@ const vehicleData = [
             "images/JTEEU5JR5P5300386/image_2.jpg",
             "images/JTEEU5JR5P5300386/image_3.jpg",
             "images/JTEEU5JR5P5300386/image_4.jpg",
-            "images/JTEEU5JR5P5300386/image_5.jpg",
-            "images/JTEEU5JR5P5300386/image_6.jpg",
-            "images/JTEEU5JR5P5300386/image_7.jpg",
-            "images/JTEEU5JR5P5300386/image_8.jpg"
+            "images/JTEEU5JR5P5300386/image_5.jpg"
         ]
     },
     {
@@ -12445,10 +10891,7 @@ const vehicleData = [
             "images/3TYKD5HN1ST025326/image_2.jpg",
             "images/3TYKD5HN1ST025326/image_3.jpg",
             "images/3TYKD5HN1ST025326/image_4.jpg",
-            "images/3TYKD5HN1ST025326/image_5.jpg",
-            "images/3TYKD5HN1ST025326/image_6.jpg",
-            "images/3TYKD5HN1ST025326/image_7.jpg",
-            "images/3TYKD5HN1ST025326/image_8.jpg"
+            "images/3TYKD5HN1ST025326/image_5.jpg"
         ]
     },
     {
@@ -12476,10 +10919,7 @@ const vehicleData = [
             "images/5YFS4MCE4TP274968/image_2.jpg",
             "images/5YFS4MCE4TP274968/image_3.jpg",
             "images/5YFS4MCE4TP274968/image_4.jpg",
-            "images/5YFS4MCE4TP274968/image_5.jpg",
-            "images/5YFS4MCE4TP274968/image_6.jpg",
-            "images/5YFS4MCE4TP274968/image_7.jpg",
-            "images/5YFS4MCE4TP274968/image_8.jpg"
+            "images/5YFS4MCE4TP274968/image_5.jpg"
         ]
     },
     {
@@ -12507,10 +10947,7 @@ const vehicleData = [
             "images/2T3K1RFV2SW392104/image_2.jpg",
             "images/2T3K1RFV2SW392104/image_3.jpg",
             "images/2T3K1RFV2SW392104/image_4.jpg",
-            "images/2T3K1RFV2SW392104/image_5.jpg",
-            "images/2T3K1RFV2SW392104/image_6.jpg",
-            "images/2T3K1RFV2SW392104/image_7.jpg",
-            "images/2T3K1RFV2SW392104/image_8.jpg"
+            "images/2T3K1RFV2SW392104/image_5.jpg"
         ]
     },
     {
@@ -12538,10 +10975,7 @@ const vehicleData = [
             "images/5TDAAAB52TS121792/image_2.jpg",
             "images/5TDAAAB52TS121792/image_3.jpg",
             "images/5TDAAAB52TS121792/image_4.jpg",
-            "images/5TDAAAB52TS121792/image_5.jpg",
-            "images/5TDAAAB52TS121792/image_6.jpg",
-            "images/5TDAAAB52TS121792/image_7.jpg",
-            "images/5TDAAAB52TS121792/image_8.jpg"
+            "images/5TDAAAB52TS121792/image_5.jpg"
         ]
     },
     {
@@ -12569,10 +11003,7 @@ const vehicleData = [
             "images/5TDKDRAHXPS002528/image_2.jpg",
             "images/5TDKDRAHXPS002528/image_3.jpg",
             "images/5TDKDRAHXPS002528/image_4.jpg",
-            "images/5TDKDRAHXPS002528/image_5.jpg",
-            "images/5TDKDRAHXPS002528/image_6.jpg",
-            "images/5TDKDRAHXPS002528/image_7.jpg",
-            "images/5TDKDRAHXPS002528/image_8.jpg"
+            "images/5TDKDRAHXPS002528/image_5.jpg"
         ]
     },
     {
@@ -12600,10 +11031,7 @@ const vehicleData = [
             "images/5TDJGRFH2KS061108/image_2.jpg",
             "images/5TDJGRFH2KS061108/image_3.jpg",
             "images/5TDJGRFH2KS061108/image_4.jpg",
-            "images/5TDJGRFH2KS061108/image_5.jpg",
-            "images/5TDJGRFH2KS061108/image_6.jpg",
-            "images/5TDJGRFH2KS061108/image_7.jpg",
-            "images/5TDJGRFH2KS061108/image_8.jpg"
+            "images/5TDJGRFH2KS061108/image_5.jpg"
         ]
     },
     {
@@ -12631,10 +11059,7 @@ const vehicleData = [
             "images/5TDERKECXSS241154/image_2.jpg",
             "images/5TDERKECXSS241154/image_3.jpg",
             "images/5TDERKECXSS241154/image_4.jpg",
-            "images/5TDERKECXSS241154/image_5.jpg",
-            "images/5TDERKECXSS241154/image_6.jpg",
-            "images/5TDERKECXSS241154/image_7.jpg",
-            "images/5TDERKECXSS241154/image_8.jpg"
+            "images/5TDERKECXSS241154/image_5.jpg"
         ]
     },
     {
@@ -12662,10 +11087,7 @@ const vehicleData = [
             "images/5TDXBRCHXTS712080/image_2.jpg",
             "images/5TDXBRCHXTS712080/image_3.jpg",
             "images/5TDXBRCHXTS712080/image_4.jpg",
-            "images/5TDXBRCHXTS712080/image_5.jpg",
-            "images/5TDXBRCHXTS712080/image_6.jpg",
-            "images/5TDXBRCHXTS712080/image_7.jpg",
-            "images/5TDXBRCHXTS712080/image_8.jpg"
+            "images/5TDXBRCHXTS712080/image_5.jpg"
         ]
     },
     {
@@ -12693,10 +11115,7 @@ const vehicleData = [
             "images/2T3W1RFV1KW022425/image_2.jpg",
             "images/2T3W1RFV1KW022425/image_3.jpg",
             "images/2T3W1RFV1KW022425/image_4.jpg",
-            "images/2T3W1RFV1KW022425/image_5.jpg",
-            "images/2T3W1RFV1KW022425/image_6.jpg",
-            "images/2T3W1RFV1KW022425/image_7.jpg",
-            "images/2T3W1RFV1KW022425/image_8.jpg"
+            "images/2T3W1RFV1KW022425/image_5.jpg"
         ]
     },
     {
@@ -12724,10 +11143,7 @@ const vehicleData = [
             "images/JTDACAAU4S3049125/image_2.jpg",
             "images/JTDACAAU4S3049125/image_3.jpg",
             "images/JTDACAAU4S3049125/image_4.jpg",
-            "images/JTDACAAU4S3049125/image_5.jpg",
-            "images/JTDACAAU4S3049125/image_6.jpg",
-            "images/JTDACAAU4S3049125/image_7.jpg",
-            "images/JTDACAAU4S3049125/image_8.jpg"
+            "images/JTDACAAU4S3049125/image_5.jpg"
         ]
     },
     {
@@ -12755,10 +11171,7 @@ const vehicleData = [
             "images/5TDAAAB5XRS011159/image_2.jpg",
             "images/5TDAAAB5XRS011159/image_3.jpg",
             "images/5TDAAAB5XRS011159/image_4.jpg",
-            "images/5TDAAAB5XRS011159/image_5.jpg",
-            "images/5TDAAAB5XRS011159/image_6.jpg",
-            "images/5TDAAAB5XRS011159/image_7.jpg",
-            "images/5TDAAAB5XRS011159/image_8.jpg"
+            "images/5TDAAAB5XRS011159/image_5.jpg"
         ]
     },
     {
@@ -12786,10 +11199,7 @@ const vehicleData = [
             "images/JTMW1RFV6MD065898/image_2.jpg",
             "images/JTMW1RFV6MD065898/image_3.jpg",
             "images/JTMW1RFV6MD065898/image_4.jpg",
-            "images/JTMW1RFV6MD065898/image_5.jpg",
-            "images/JTMW1RFV6MD065898/image_6.jpg",
-            "images/JTMW1RFV6MD065898/image_7.jpg",
-            "images/JTMW1RFV6MD065898/image_8.jpg"
+            "images/JTMW1RFV6MD065898/image_5.jpg"
         ]
     },
     {
@@ -12817,10 +11227,7 @@ const vehicleData = [
             "images/5TDAAAA52RS006023/image_2.jpg",
             "images/5TDAAAA52RS006023/image_3.jpg",
             "images/5TDAAAA52RS006023/image_4.jpg",
-            "images/5TDAAAA52RS006023/image_5.jpg",
-            "images/5TDAAAA52RS006023/image_6.jpg",
-            "images/5TDAAAA52RS006023/image_7.jpg",
-            "images/5TDAAAA52RS006023/image_8.jpg"
+            "images/5TDAAAA52RS006023/image_5.jpg"
         ]
     },
     {
@@ -12848,10 +11255,7 @@ const vehicleData = [
             "images/7MUFBABG6TV097393/image_2.jpg",
             "images/7MUFBABG6TV097393/image_3.jpg",
             "images/7MUFBABG6TV097393/image_4.jpg",
-            "images/7MUFBABG6TV097393/image_5.jpg",
-            "images/7MUFBABG6TV097393/image_6.jpg",
-            "images/7MUFBABG6TV097393/image_7.jpg",
-            "images/7MUFBABG6TV097393/image_8.jpg"
+            "images/7MUFBABG6TV097393/image_5.jpg"
         ]
     },
     {
@@ -12879,10 +11283,7 @@ const vehicleData = [
             "images/4T1BF1FKXDU674530/image_2.jpg",
             "images/4T1BF1FKXDU674530/image_3.jpg",
             "images/4T1BF1FKXDU674530/image_4.jpg",
-            "images/4T1BF1FKXDU674530/image_5.jpg",
-            "images/4T1BF1FKXDU674530/image_6.jpg",
-            "images/4T1BF1FKXDU674530/image_7.jpg",
-            "images/4T1BF1FKXDU674530/image_8.jpg"
+            "images/4T1BF1FKXDU674530/image_5.jpg"
         ]
     },
     {
@@ -12910,10 +11311,7 @@ const vehicleData = [
             "images/JTEAAAAH2MJ042533/image_2.jpg",
             "images/JTEAAAAH2MJ042533/image_3.jpg",
             "images/JTEAAAAH2MJ042533/image_4.jpg",
-            "images/JTEAAAAH2MJ042533/image_5.jpg",
-            "images/JTEAAAAH2MJ042533/image_6.jpg",
-            "images/JTEAAAAH2MJ042533/image_7.jpg",
-            "images/JTEAAAAH2MJ042533/image_8.jpg"
+            "images/JTEAAAAH2MJ042533/image_5.jpg"
         ]
     },
     {
@@ -12941,10 +11339,7 @@ const vehicleData = [
             "images/5YFEPMAEXNP321253/image_2.jpg",
             "images/5YFEPMAEXNP321253/image_3.jpg",
             "images/5YFEPMAEXNP321253/image_4.jpg",
-            "images/5YFEPMAEXNP321253/image_5.jpg",
-            "images/5YFEPMAEXNP321253/image_6.jpg",
-            "images/5YFEPMAEXNP321253/image_7.jpg",
-            "images/5YFEPMAEXNP321253/image_8.jpg"
+            "images/5YFEPMAEXNP321253/image_5.jpg"
         ]
     },
     {
@@ -12972,10 +11367,7 @@ const vehicleData = [
             "images/4T1DAACK4SU559754/image_2.jpg",
             "images/4T1DAACK4SU559754/image_3.jpg",
             "images/4T1DAACK4SU559754/image_4.jpg",
-            "images/4T1DAACK4SU559754/image_5.jpg",
-            "images/4T1DAACK4SU559754/image_6.jpg",
-            "images/4T1DAACK4SU559754/image_7.jpg",
-            "images/4T1DAACK4SU559754/image_8.jpg"
+            "images/4T1DAACK4SU559754/image_5.jpg"
         ]
     },
     {
@@ -13003,10 +11395,7 @@ const vehicleData = [
             "images/3TYLC5LN2ST030078/image_2.jpg",
             "images/3TYLC5LN2ST030078/image_3.jpg",
             "images/3TYLC5LN2ST030078/image_4.jpg",
-            "images/3TYLC5LN2ST030078/image_5.jpg",
-            "images/3TYLC5LN2ST030078/image_6.jpg",
-            "images/3TYLC5LN2ST030078/image_7.jpg",
-            "images/3TYLC5LN2ST030078/image_8.jpg"
+            "images/3TYLC5LN2ST030078/image_5.jpg"
         ]
     },
     {
@@ -13034,10 +11423,7 @@ const vehicleData = [
             "images/5TF1A5AB8TX053023/image_2.jpg",
             "images/5TF1A5AB8TX053023/image_3.jpg",
             "images/5TF1A5AB8TX053023/image_4.jpg",
-            "images/5TF1A5AB8TX053023/image_5.jpg",
-            "images/5TF1A5AB8TX053023/image_6.jpg",
-            "images/5TF1A5AB8TX053023/image_7.jpg",
-            "images/5TF1A5AB8TX053023/image_8.jpg"
+            "images/5TF1A5AB8TX053023/image_5.jpg"
         ]
     },
     {
@@ -13065,10 +11451,7 @@ const vehicleData = [
             "images/JTDBCMFE7PJ009857/image_2.jpg",
             "images/JTDBCMFE7PJ009857/image_3.jpg",
             "images/JTDBCMFE7PJ009857/image_4.jpg",
-            "images/JTDBCMFE7PJ009857/image_5.jpg",
-            "images/JTDBCMFE7PJ009857/image_6.jpg",
-            "images/JTDBCMFE7PJ009857/image_7.jpg",
-            "images/JTDBCMFE7PJ009857/image_8.jpg"
+            "images/JTDBCMFE7PJ009857/image_5.jpg"
         ]
     },
     {
@@ -13096,10 +11479,7 @@ const vehicleData = [
             "images/3TYLC5LN6ST040614/image_2.jpg",
             "images/3TYLC5LN6ST040614/image_3.jpg",
             "images/3TYLC5LN6ST040614/image_4.jpg",
-            "images/3TYLC5LN6ST040614/image_5.jpg",
-            "images/3TYLC5LN6ST040614/image_6.jpg",
-            "images/3TYLC5LN6ST040614/image_7.jpg",
-            "images/3TYLC5LN6ST040614/image_8.jpg"
+            "images/3TYLC5LN6ST040614/image_5.jpg"
         ]
     },
     {
@@ -13127,10 +11507,7 @@ const vehicleData = [
             "images/5TDGZRAH0NS540109/image_2.jpg",
             "images/5TDGZRAH0NS540109/image_3.jpg",
             "images/5TDGZRAH0NS540109/image_4.jpg",
-            "images/5TDGZRAH0NS540109/image_5.jpg",
-            "images/5TDGZRAH0NS540109/image_6.jpg",
-            "images/5TDGZRAH0NS540109/image_7.jpg",
-            "images/5TDGZRAH0NS540109/image_8.jpg"
+            "images/5TDGZRAH0NS540109/image_5.jpg"
         ]
     },
     {
@@ -13158,10 +11535,7 @@ const vehicleData = [
             "images/4T1DAACK4SU043877/image_2.jpg",
             "images/4T1DAACK4SU043877/image_3.jpg",
             "images/4T1DAACK4SU043877/image_4.jpg",
-            "images/4T1DAACK4SU043877/image_5.jpg",
-            "images/4T1DAACK4SU043877/image_6.jpg",
-            "images/4T1DAACK4SU043877/image_7.jpg",
-            "images/4T1DAACK4SU043877/image_8.jpg"
+            "images/4T1DAACK4SU043877/image_5.jpg"
         ]
     },
     {
@@ -13189,10 +11563,7 @@ const vehicleData = [
             "images/3TYLC5LN4ST028767/image_2.jpg",
             "images/3TYLC5LN4ST028767/image_3.jpg",
             "images/3TYLC5LN4ST028767/image_4.jpg",
-            "images/3TYLC5LN4ST028767/image_5.jpg",
-            "images/3TYLC5LN4ST028767/image_6.jpg",
-            "images/3TYLC5LN4ST028767/image_7.jpg",
-            "images/3TYLC5LN4ST028767/image_8.jpg"
+            "images/3TYLC5LN4ST028767/image_5.jpg"
         ]
     },
     {
@@ -13220,10 +11591,7 @@ const vehicleData = [
             "images/5YFB4MCE0SP243831/image_2.jpg",
             "images/5YFB4MCE0SP243831/image_3.jpg",
             "images/5YFB4MCE0SP243831/image_4.jpg",
-            "images/5YFB4MCE0SP243831/image_5.jpg",
-            "images/5YFB4MCE0SP243831/image_6.jpg",
-            "images/5YFB4MCE0SP243831/image_7.jpg",
-            "images/5YFB4MCE0SP243831/image_8.jpg"
+            "images/5YFB4MCE0SP243831/image_5.jpg"
         ]
     },
     {
@@ -14712,10 +13080,7 @@ const vehicleData = [
             "images/5J8TC2H36PL023484/image_2.jpg",
             "images/5J8TC2H36PL023484/image_3.jpg",
             "images/5J8TC2H36PL023484/image_4.jpg",
-            "images/5J8TC2H36PL023484/image_5.jpg",
-            "images/5J8TC2H36PL023484/image_6.jpg",
-            "images/5J8TC2H36PL023484/image_7.jpg",
-            "images/5J8TC2H36PL023484/image_8.jpg"
+            "images/5J8TC2H36PL023484/image_5.jpg"
         ]
     },
     {
@@ -14743,10 +13108,7 @@ const vehicleData = [
             "images/W1K6G7GB0SA334750/image_2.jpg",
             "images/W1K6G7GB0SA334750/image_3.jpg",
             "images/W1K6G7GB0SA334750/image_4.jpg",
-            "images/W1K6G7GB0SA334750/image_5.jpg",
-            "images/W1K6G7GB0SA334750/image_6.jpg",
-            "images/W1K6G7GB0SA334750/image_7.jpg",
-            "images/W1K6G7GB0SA334750/image_8.jpg"
+            "images/W1K6G7GB0SA334750/image_5.jpg"
         ]
     },
     {
@@ -14774,10 +13136,7 @@ const vehicleData = [
             "images/4JGFB4KBXNA808055/image_2.jpg",
             "images/4JGFB4KBXNA808055/image_3.jpg",
             "images/4JGFB4KBXNA808055/image_4.jpg",
-            "images/4JGFB4KBXNA808055/image_5.jpg",
-            "images/4JGFB4KBXNA808055/image_6.jpg",
-            "images/4JGFB4KBXNA808055/image_7.jpg",
-            "images/4JGFB4KBXNA808055/image_8.jpg"
+            "images/4JGFB4KBXNA808055/image_5.jpg"
         ]
     },
     {
@@ -14805,10 +13164,7 @@ const vehicleData = [
             "images/7FARS5H54SE034921/image_2.jpg",
             "images/7FARS5H54SE034921/image_3.jpg",
             "images/7FARS5H54SE034921/image_4.jpg",
-            "images/7FARS5H54SE034921/image_5.jpg",
-            "images/7FARS5H54SE034921/image_6.jpg",
-            "images/7FARS5H54SE034921/image_7.jpg",
-            "images/7FARS5H54SE034921/image_8.jpg"
+            "images/7FARS5H54SE034921/image_5.jpg"
         ]
     },
     {
@@ -14836,10 +13192,7 @@ const vehicleData = [
             "images/1C6SRFLP7SN522101/image_2.jpg",
             "images/1C6SRFLP7SN522101/image_3.jpg",
             "images/1C6SRFLP7SN522101/image_4.jpg",
-            "images/1C6SRFLP7SN522101/image_5.jpg",
-            "images/1C6SRFLP7SN522101/image_6.jpg",
-            "images/1C6SRFLP7SN522101/image_7.jpg",
-            "images/1C6SRFLP7SN522101/image_8.jpg"
+            "images/1C6SRFLP7SN522101/image_5.jpg"
         ]
     },
     {
@@ -14867,10 +13220,7 @@ const vehicleData = [
             "images/1C6RREKT7KN634517/image_2.jpg",
             "images/1C6RREKT7KN634517/image_3.jpg",
             "images/1C6RREKT7KN634517/image_4.jpg",
-            "images/1C6RREKT7KN634517/image_5.jpg",
-            "images/1C6RREKT7KN634517/image_6.jpg",
-            "images/1C6RREKT7KN634517/image_7.jpg",
-            "images/1C6RREKT7KN634517/image_8.jpg"
+            "images/1C6RREKT7KN634517/image_5.jpg"
         ]
     },
     {
@@ -14898,10 +13248,7 @@ const vehicleData = [
             "images/WAUFACF54RA070195/image_2.jpg",
             "images/WAUFACF54RA070195/image_3.jpg",
             "images/WAUFACF54RA070195/image_4.jpg",
-            "images/WAUFACF54RA070195/image_5.jpg",
-            "images/WAUFACF54RA070195/image_6.jpg",
-            "images/WAUFACF54RA070195/image_7.jpg",
-            "images/WAUFACF54RA070195/image_8.jpg"
+            "images/WAUFACF54RA070195/image_5.jpg"
         ]
     },
     {
@@ -14929,10 +13276,7 @@ const vehicleData = [
             "images/W1KAF4HB4SR250233/image_2.jpg",
             "images/W1KAF4HB4SR250233/image_3.jpg",
             "images/W1KAF4HB4SR250233/image_4.jpg",
-            "images/W1KAF4HB4SR250233/image_5.jpg",
-            "images/W1KAF4HB4SR250233/image_6.jpg",
-            "images/W1KAF4HB4SR250233/image_7.jpg",
-            "images/W1KAF4HB4SR250233/image_8.jpg"
+            "images/W1KAF4HB4SR250233/image_5.jpg"
         ]
     },
     {
@@ -14960,10 +13304,7 @@ const vehicleData = [
             "images/W1KAF4GB2SR239670/image_2.jpg",
             "images/W1KAF4GB2SR239670/image_3.jpg",
             "images/W1KAF4GB2SR239670/image_4.jpg",
-            "images/W1KAF4GB2SR239670/image_5.jpg",
-            "images/W1KAF4GB2SR239670/image_6.jpg",
-            "images/W1KAF4GB2SR239670/image_7.jpg",
-            "images/W1KAF4GB2SR239670/image_8.jpg"
+            "images/W1KAF4GB2SR239670/image_5.jpg"
         ]
     },
     {
@@ -14991,10 +13332,7 @@ const vehicleData = [
             "images/1HGCY2F64PA058678/image_2.jpg",
             "images/1HGCY2F64PA058678/image_3.jpg",
             "images/1HGCY2F64PA058678/image_4.jpg",
-            "images/1HGCY2F64PA058678/image_5.jpg",
-            "images/1HGCY2F64PA058678/image_6.jpg",
-            "images/1HGCY2F64PA058678/image_7.jpg",
-            "images/1HGCY2F64PA058678/image_8.jpg"
+            "images/1HGCY2F64PA058678/image_5.jpg"
         ]
     },
     {
@@ -15022,10 +13360,7 @@ const vehicleData = [
             "images/ZN661YUMXPX418679/image_2.jpg",
             "images/ZN661YUMXPX418679/image_3.jpg",
             "images/ZN661YUMXPX418679/image_4.jpg",
-            "images/ZN661YUMXPX418679/image_5.jpg",
-            "images/ZN661YUMXPX418679/image_6.jpg",
-            "images/ZN661YUMXPX418679/image_7.jpg",
-            "images/ZN661YUMXPX418679/image_8.jpg"
+            "images/ZN661YUMXPX418679/image_5.jpg"
         ]
     },
     {
@@ -15053,10 +13388,7 @@ const vehicleData = [
             "images/1GNSKSKD3PR309876/image_2.jpg",
             "images/1GNSKSKD3PR309876/image_3.jpg",
             "images/1GNSKSKD3PR309876/image_4.jpg",
-            "images/1GNSKSKD3PR309876/image_5.jpg",
-            "images/1GNSKSKD3PR309876/image_6.jpg",
-            "images/1GNSKSKD3PR309876/image_7.jpg",
-            "images/1GNSKSKD3PR309876/image_8.jpg"
+            "images/1GNSKSKD3PR309876/image_5.jpg"
         ]
     },
     {
@@ -15084,10 +13416,7 @@ const vehicleData = [
             "images/SALGS2TF4FA229264/image_2.jpg",
             "images/SALGS2TF4FA229264/image_3.jpg",
             "images/SALGS2TF4FA229264/image_4.jpg",
-            "images/SALGS2TF4FA229264/image_5.jpg",
-            "images/SALGS2TF4FA229264/image_6.jpg",
-            "images/SALGS2TF4FA229264/image_7.jpg",
-            "images/SALGS2TF4FA229264/image_8.jpg"
+            "images/SALGS2TF4FA229264/image_5.jpg"
         ]
     },
     {
@@ -15115,10 +13444,7 @@ const vehicleData = [
             "images/1HGCY1F3XRA044285/image_2.jpg",
             "images/1HGCY1F3XRA044285/image_3.jpg",
             "images/1HGCY1F3XRA044285/image_4.jpg",
-            "images/1HGCY1F3XRA044285/image_5.jpg",
-            "images/1HGCY1F3XRA044285/image_6.jpg",
-            "images/1HGCY1F3XRA044285/image_7.jpg",
-            "images/1HGCY1F3XRA044285/image_8.jpg"
+            "images/1HGCY1F3XRA044285/image_5.jpg"
         ]
     },
     {
@@ -15146,10 +13472,7 @@ const vehicleData = [
             "images/1FMSK8FH9MGA85993/image_2.jpg",
             "images/1FMSK8FH9MGA85993/image_3.jpg",
             "images/1FMSK8FH9MGA85993/image_4.jpg",
-            "images/1FMSK8FH9MGA85993/image_5.jpg",
-            "images/1FMSK8FH9MGA85993/image_6.jpg",
-            "images/1FMSK8FH9MGA85993/image_7.jpg",
-            "images/1FMSK8FH9MGA85993/image_8.jpg"
+            "images/1FMSK8FH9MGA85993/image_5.jpg"
         ]
     },
     {
@@ -15177,10 +13500,7 @@ const vehicleData = [
             "images/7FARS3H78PE007038/image_2.jpg",
             "images/7FARS3H78PE007038/image_3.jpg",
             "images/7FARS3H78PE007038/image_4.jpg",
-            "images/7FARS3H78PE007038/image_5.jpg",
-            "images/7FARS3H78PE007038/image_6.jpg",
-            "images/7FARS3H78PE007038/image_7.jpg",
-            "images/7FARS3H78PE007038/image_8.jpg"
+            "images/7FARS3H78PE007038/image_5.jpg"
         ]
     },
     {
@@ -15208,10 +13528,7 @@ const vehicleData = [
             "images/WA1AJBF70ND022897/image_2.jpg",
             "images/WA1AJBF70ND022897/image_3.jpg",
             "images/WA1AJBF70ND022897/image_4.jpg",
-            "images/WA1AJBF70ND022897/image_5.jpg",
-            "images/WA1AJBF70ND022897/image_6.jpg",
-            "images/WA1AJBF70ND022897/image_7.jpg",
-            "images/WA1AJBF70ND022897/image_8.jpg"
+            "images/WA1AJBF70ND022897/image_5.jpg"
         ]
     },
     {
@@ -15239,10 +13556,7 @@ const vehicleData = [
             "images/1GYKPAR4XRZ703740/image_2.jpg",
             "images/1GYKPAR4XRZ703740/image_3.jpg",
             "images/1GYKPAR4XRZ703740/image_4.jpg",
-            "images/1GYKPAR4XRZ703740/image_5.jpg",
-            "images/1GYKPAR4XRZ703740/image_6.jpg",
-            "images/1GYKPAR4XRZ703740/image_7.jpg",
-            "images/1GYKPAR4XRZ703740/image_8.jpg"
+            "images/1GYKPAR4XRZ703740/image_5.jpg"
         ]
     },
     {
@@ -15270,10 +13584,7 @@ const vehicleData = [
             "images/5J8TC2H30RL035200/image_2.jpg",
             "images/5J8TC2H30RL035200/image_3.jpg",
             "images/5J8TC2H30RL035200/image_4.jpg",
-            "images/5J8TC2H30RL035200/image_5.jpg",
-            "images/5J8TC2H30RL035200/image_6.jpg",
-            "images/5J8TC2H30RL035200/image_7.jpg",
-            "images/5J8TC2H30RL035200/image_8.jpg"
+            "images/5J8TC2H30RL035200/image_5.jpg"
         ]
     },
     {
@@ -15301,10 +13612,7 @@ const vehicleData = [
             "images/1HGCY1F47SA059082/image_2.jpg",
             "images/1HGCY1F47SA059082/image_3.jpg",
             "images/1HGCY1F47SA059082/image_4.jpg",
-            "images/1HGCY1F47SA059082/image_5.jpg",
-            "images/1HGCY1F47SA059082/image_6.jpg",
-            "images/1HGCY1F47SA059082/image_7.jpg",
-            "images/1HGCY1F47SA059082/image_8.jpg"
+            "images/1HGCY1F47SA059082/image_5.jpg"
         ]
     },
     {
@@ -15332,10 +13640,7 @@ const vehicleData = [
             "images/1C4RJJBG3N8631645/image_2.jpg",
             "images/1C4RJJBG3N8631645/image_3.jpg",
             "images/1C4RJJBG3N8631645/image_4.jpg",
-            "images/1C4RJJBG3N8631645/image_5.jpg",
-            "images/1C4RJJBG3N8631645/image_6.jpg",
-            "images/1C4RJJBG3N8631645/image_7.jpg",
-            "images/1C4RJJBG3N8631645/image_8.jpg"
+            "images/1C4RJJBG3N8631645/image_5.jpg"
         ]
     },
     {
@@ -15363,10 +13668,7 @@ const vehicleData = [
             "images/1FT7W2BT2TEC35037/image_2.jpg",
             "images/1FT7W2BT2TEC35037/image_3.jpg",
             "images/1FT7W2BT2TEC35037/image_4.jpg",
-            "images/1FT7W2BT2TEC35037/image_5.jpg",
-            "images/1FT7W2BT2TEC35037/image_6.jpg",
-            "images/1FT7W2BT2TEC35037/image_7.jpg",
-            "images/1FT7W2BT2TEC35037/image_8.jpg"
+            "images/1FT7W2BT2TEC35037/image_5.jpg"
         ]
     },
     {
@@ -15394,10 +13696,7 @@ const vehicleData = [
             "images/WAUENCF55JA068475/image_2.jpg",
             "images/WAUENCF55JA068475/image_3.jpg",
             "images/WAUENCF55JA068475/image_4.jpg",
-            "images/WAUENCF55JA068475/image_5.jpg",
-            "images/WAUENCF55JA068475/image_6.jpg",
-            "images/WAUENCF55JA068475/image_7.jpg",
-            "images/WAUENCF55JA068475/image_8.jpg"
+            "images/WAUENCF55JA068475/image_5.jpg"
         ]
     },
     {
@@ -15425,10 +13724,7 @@ const vehicleData = [
             "images/1C6RREFG8NN326225/image_2.jpg",
             "images/1C6RREFG8NN326225/image_3.jpg",
             "images/1C6RREFG8NN326225/image_4.jpg",
-            "images/1C6RREFG8NN326225/image_5.jpg",
-            "images/1C6RREFG8NN326225/image_6.jpg",
-            "images/1C6RREFG8NN326225/image_7.jpg",
-            "images/1C6RREFG8NN326225/image_8.jpg"
+            "images/1C6RREFG8NN326225/image_5.jpg"
         ]
     },
     {
@@ -15456,10 +13752,7 @@ const vehicleData = [
             "images/JTHDA5BC6N5012049/image_2.jpg",
             "images/JTHDA5BC6N5012049/image_3.jpg",
             "images/JTHDA5BC6N5012049/image_4.jpg",
-            "images/JTHDA5BC6N5012049/image_5.jpg",
-            "images/JTHDA5BC6N5012049/image_6.jpg",
-            "images/JTHDA5BC6N5012049/image_7.jpg",
-            "images/JTHDA5BC6N5012049/image_8.jpg"
+            "images/JTHDA5BC6N5012049/image_5.jpg"
         ]
     },
     {
@@ -15487,10 +13780,7 @@ const vehicleData = [
             "images/KM8R24HEXLU145788/image_2.jpg",
             "images/KM8R24HEXLU145788/image_3.jpg",
             "images/KM8R24HEXLU145788/image_4.jpg",
-            "images/KM8R24HEXLU145788/image_5.jpg",
-            "images/KM8R24HEXLU145788/image_6.jpg",
-            "images/KM8R24HEXLU145788/image_7.jpg",
-            "images/KM8R24HEXLU145788/image_8.jpg"
+            "images/KM8R24HEXLU145788/image_5.jpg"
         ]
     },
     {
@@ -15518,10 +13808,7 @@ const vehicleData = [
             "images/2HGFE2F57RH537386/image_2.jpg",
             "images/2HGFE2F57RH537386/image_3.jpg",
             "images/2HGFE2F57RH537386/image_4.jpg",
-            "images/2HGFE2F57RH537386/image_5.jpg",
-            "images/2HGFE2F57RH537386/image_6.jpg",
-            "images/2HGFE2F57RH537386/image_7.jpg",
-            "images/2HGFE2F57RH537386/image_8.jpg"
+            "images/2HGFE2F57RH537386/image_5.jpg"
         ]
     },
     {
@@ -15549,10 +13836,7 @@ const vehicleData = [
             "images/JF2GTHMC7P8283468/image_2.jpg",
             "images/JF2GTHMC7P8283468/image_3.jpg",
             "images/JF2GTHMC7P8283468/image_4.jpg",
-            "images/JF2GTHMC7P8283468/image_5.jpg",
-            "images/JF2GTHMC7P8283468/image_6.jpg",
-            "images/JF2GTHMC7P8283468/image_7.jpg",
-            "images/JF2GTHMC7P8283468/image_8.jpg"
+            "images/JF2GTHMC7P8283468/image_5.jpg"
         ]
     },
     {
@@ -15580,10 +13864,7 @@ const vehicleData = [
             "images/W1KZF8DB3MA874364/image_2.jpg",
             "images/W1KZF8DB3MA874364/image_3.jpg",
             "images/W1KZF8DB3MA874364/image_4.jpg",
-            "images/W1KZF8DB3MA874364/image_5.jpg",
-            "images/W1KZF8DB3MA874364/image_6.jpg",
-            "images/W1KZF8DB3MA874364/image_7.jpg",
-            "images/W1KZF8DB3MA874364/image_8.jpg"
+            "images/W1KZF8DB3MA874364/image_5.jpg"
         ]
     },
     {
@@ -15611,10 +13892,7 @@ const vehicleData = [
             "images/JM3KFBCM6P0245954/image_2.jpg",
             "images/JM3KFBCM6P0245954/image_3.jpg",
             "images/JM3KFBCM6P0245954/image_4.jpg",
-            "images/JM3KFBCM6P0245954/image_5.jpg",
-            "images/JM3KFBCM6P0245954/image_6.jpg",
-            "images/JM3KFBCM6P0245954/image_7.jpg",
-            "images/JM3KFBCM6P0245954/image_8.jpg"
+            "images/JM3KFBCM6P0245954/image_5.jpg"
         ]
     },
     {
@@ -15642,10 +13920,7 @@ const vehicleData = [
             "images/5UX33EX05T9050463/image_2.jpg",
             "images/5UX33EX05T9050463/image_3.jpg",
             "images/5UX33EX05T9050463/image_4.jpg",
-            "images/5UX33EX05T9050463/image_5.jpg",
-            "images/5UX33EX05T9050463/image_6.jpg",
-            "images/5UX33EX05T9050463/image_7.jpg",
-            "images/5UX33EX05T9050463/image_8.jpg"
+            "images/5UX33EX05T9050463/image_5.jpg"
         ]
     },
     {
@@ -15673,10 +13948,7 @@ const vehicleData = [
             "images/3VW7X7BUXSM087504/image_2.jpg",
             "images/3VW7X7BUXSM087504/image_3.jpg",
             "images/3VW7X7BUXSM087504/image_4.jpg",
-            "images/3VW7X7BUXSM087504/image_5.jpg",
-            "images/3VW7X7BUXSM087504/image_6.jpg",
-            "images/3VW7X7BUXSM087504/image_7.jpg",
-            "images/3VW7X7BUXSM087504/image_8.jpg"
+            "images/3VW7X7BUXSM087504/image_5.jpg"
         ]
     },
     {
@@ -15704,10 +13976,7 @@ const vehicleData = [
             "images/SALEJ7EXXS2386590/image_2.jpg",
             "images/SALEJ7EXXS2386590/image_3.jpg",
             "images/SALEJ7EXXS2386590/image_4.jpg",
-            "images/SALEJ7EXXS2386590/image_5.jpg",
-            "images/SALEJ7EXXS2386590/image_6.jpg",
-            "images/SALEJ7EXXS2386590/image_7.jpg",
-            "images/SALEJ7EXXS2386590/image_8.jpg"
+            "images/SALEJ7EXXS2386590/image_5.jpg"
         ]
     },
     {
@@ -15735,10 +14004,7 @@ const vehicleData = [
             "images/W1NKM5GB6SF376938/image_2.jpg",
             "images/W1NKM5GB6SF376938/image_3.jpg",
             "images/W1NKM5GB6SF376938/image_4.jpg",
-            "images/W1NKM5GB6SF376938/image_5.jpg",
-            "images/W1NKM5GB6SF376938/image_6.jpg",
-            "images/W1NKM5GB6SF376938/image_7.jpg",
-            "images/W1NKM5GB6SF376938/image_8.jpg"
+            "images/W1NKM5GB6SF376938/image_5.jpg"
         ]
     },
     {
@@ -15766,10 +14032,7 @@ const vehicleData = [
             "images/1GCPACED3PZ295769/image_2.jpg",
             "images/1GCPACED3PZ295769/image_3.jpg",
             "images/1GCPACED3PZ295769/image_4.jpg",
-            "images/1GCPACED3PZ295769/image_5.jpg",
-            "images/1GCPACED3PZ295769/image_6.jpg",
-            "images/1GCPACED3PZ295769/image_7.jpg",
-            "images/1GCPACED3PZ295769/image_8.jpg"
+            "images/1GCPACED3PZ295769/image_5.jpg"
         ]
     },
     {
@@ -15797,10 +14060,7 @@ const vehicleData = [
             "images/JF2GTHNC9MH663552/image_2.jpg",
             "images/JF2GTHNC9MH663552/image_3.jpg",
             "images/JF2GTHNC9MH663552/image_4.jpg",
-            "images/JF2GTHNC9MH663552/image_5.jpg",
-            "images/JF2GTHNC9MH663552/image_6.jpg",
-            "images/JF2GTHNC9MH663552/image_7.jpg",
-            "images/JF2GTHNC9MH663552/image_8.jpg"
+            "images/JF2GTHNC9MH663552/image_5.jpg"
         ]
     },
     {
@@ -15828,10 +14088,7 @@ const vehicleData = [
             "images/1FMJK1H85REA28631/image_2.jpg",
             "images/1FMJK1H85REA28631/image_3.jpg",
             "images/1FMJK1H85REA28631/image_4.jpg",
-            "images/1FMJK1H85REA28631/image_5.jpg",
-            "images/1FMJK1H85REA28631/image_6.jpg",
-            "images/1FMJK1H85REA28631/image_7.jpg",
-            "images/1FMJK1H85REA28631/image_8.jpg"
+            "images/1FMJK1H85REA28631/image_5.jpg"
         ]
     },
     {
@@ -15859,10 +14116,7 @@ const vehicleData = [
             "images/5NMP24GLXTH184917/image_2.jpg",
             "images/5NMP24GLXTH184917/image_3.jpg",
             "images/5NMP24GLXTH184917/image_4.jpg",
-            "images/5NMP24GLXTH184917/image_5.jpg",
-            "images/5NMP24GLXTH184917/image_6.jpg",
-            "images/5NMP24GLXTH184917/image_7.jpg",
-            "images/5NMP24GLXTH184917/image_8.jpg"
+            "images/5NMP24GLXTH184917/image_5.jpg"
         ]
     },
     {
@@ -15890,10 +14144,7 @@ const vehicleData = [
             "images/JTHDA1D24P5127541/image_2.jpg",
             "images/JTHDA1D24P5127541/image_3.jpg",
             "images/JTHDA1D24P5127541/image_4.jpg",
-            "images/JTHDA1D24P5127541/image_5.jpg",
-            "images/JTHDA1D24P5127541/image_6.jpg",
-            "images/JTHDA1D24P5127541/image_7.jpg",
-            "images/JTHDA1D24P5127541/image_8.jpg"
+            "images/JTHDA1D24P5127541/image_5.jpg"
         ]
     },
     {
@@ -15921,10 +14172,7 @@ const vehicleData = [
             "images/1FM5K8GC4LGA89299/image_2.jpg",
             "images/1FM5K8GC4LGA89299/image_3.jpg",
             "images/1FM5K8GC4LGA89299/image_4.jpg",
-            "images/1FM5K8GC4LGA89299/image_5.jpg",
-            "images/1FM5K8GC4LGA89299/image_6.jpg",
-            "images/1FM5K8GC4LGA89299/image_7.jpg",
-            "images/1FM5K8GC4LGA89299/image_8.jpg"
+            "images/1FM5K8GC4LGA89299/image_5.jpg"
         ]
     },
     {
@@ -15952,10 +14200,7 @@ const vehicleData = [
             "images/2T2KGCEZ8RC048244/image_2.jpg",
             "images/2T2KGCEZ8RC048244/image_3.jpg",
             "images/2T2KGCEZ8RC048244/image_4.jpg",
-            "images/2T2KGCEZ8RC048244/image_5.jpg",
-            "images/2T2KGCEZ8RC048244/image_6.jpg",
-            "images/2T2KGCEZ8RC048244/image_7.jpg",
-            "images/2T2KGCEZ8RC048244/image_8.jpg"
+            "images/2T2KGCEZ8RC048244/image_5.jpg"
         ]
     },
     {
@@ -15983,10 +14228,7 @@ const vehicleData = [
             "images/1C4RDJDG4TC166050/image_2.jpg",
             "images/1C4RDJDG4TC166050/image_3.jpg",
             "images/1C4RDJDG4TC166050/image_4.jpg",
-            "images/1C4RDJDG4TC166050/image_5.jpg",
-            "images/1C4RDJDG4TC166050/image_6.jpg",
-            "images/1C4RDJDG4TC166050/image_7.jpg",
-            "images/1C4RDJDG4TC166050/image_8.jpg"
+            "images/1C4RDJDG4TC166050/image_5.jpg"
         ]
     },
     {
@@ -16014,10 +14256,7 @@ const vehicleData = [
             "images/2HKRS3H43RH306703/image_2.jpg",
             "images/2HKRS3H43RH306703/image_3.jpg",
             "images/2HKRS3H43RH306703/image_4.jpg",
-            "images/2HKRS3H43RH306703/image_5.jpg",
-            "images/2HKRS3H43RH306703/image_6.jpg",
-            "images/2HKRS3H43RH306703/image_7.jpg",
-            "images/2HKRS3H43RH306703/image_8.jpg"
+            "images/2HKRS3H43RH306703/image_5.jpg"
         ]
     },
     {
@@ -16045,10 +14284,7 @@ const vehicleData = [
             "images/WA1AAAF71KD003801/image_2.jpg",
             "images/WA1AAAF71KD003801/image_3.jpg",
             "images/WA1AAAF71KD003801/image_4.jpg",
-            "images/WA1AAAF71KD003801/image_5.jpg",
-            "images/WA1AAAF71KD003801/image_6.jpg",
-            "images/WA1AAAF71KD003801/image_7.jpg",
-            "images/WA1AAAF71KD003801/image_8.jpg"
+            "images/WA1AAAF71KD003801/image_5.jpg"
         ]
     },
     {
@@ -16076,10 +14312,7 @@ const vehicleData = [
             "images/5NMP44GL5SH101256/image_2.jpg",
             "images/5NMP44GL5SH101256/image_3.jpg",
             "images/5NMP44GL5SH101256/image_4.jpg",
-            "images/5NMP44GL5SH101256/image_5.jpg",
-            "images/5NMP44GL5SH101256/image_6.jpg",
-            "images/5NMP44GL5SH101256/image_7.jpg",
-            "images/5NMP44GL5SH101256/image_8.jpg"
+            "images/5NMP44GL5SH101256/image_5.jpg"
         ]
     },
     {
@@ -16107,10 +14340,7 @@ const vehicleData = [
             "images/1HGCY1F2XSA068454/image_2.jpg",
             "images/1HGCY1F2XSA068454/image_3.jpg",
             "images/1HGCY1F2XSA068454/image_4.jpg",
-            "images/1HGCY1F2XSA068454/image_5.jpg",
-            "images/1HGCY1F2XSA068454/image_6.jpg",
-            "images/1HGCY1F2XSA068454/image_7.jpg",
-            "images/1HGCY1F2XSA068454/image_8.jpg"
+            "images/1HGCY1F2XSA068454/image_5.jpg"
         ]
     },
     {
@@ -16138,10 +14368,7 @@ const vehicleData = [
             "images/WBA23GG03S7S58776/image_2.jpg",
             "images/WBA23GG03S7S58776/image_3.jpg",
             "images/WBA23GG03S7S58776/image_4.jpg",
-            "images/WBA23GG03S7S58776/image_5.jpg",
-            "images/WBA23GG03S7S58776/image_6.jpg",
-            "images/WBA23GG03S7S58776/image_7.jpg",
-            "images/WBA23GG03S7S58776/image_8.jpg"
+            "images/WBA23GG03S7S58776/image_5.jpg"
         ]
     },
     {
@@ -16169,10 +14396,7 @@ const vehicleData = [
             "images/3GNAXLEG0SL184943/image_2.jpg",
             "images/3GNAXLEG0SL184943/image_3.jpg",
             "images/3GNAXLEG0SL184943/image_4.jpg",
-            "images/3GNAXLEG0SL184943/image_5.jpg",
-            "images/3GNAXLEG0SL184943/image_6.jpg",
-            "images/3GNAXLEG0SL184943/image_7.jpg",
-            "images/3GNAXLEG0SL184943/image_8.jpg"
+            "images/3GNAXLEG0SL184943/image_5.jpg"
         ]
     },
     {
@@ -16200,10 +14424,7 @@ const vehicleData = [
             "images/5XYK33DF4TG380880/image_2.jpg",
             "images/5XYK33DF4TG380880/image_3.jpg",
             "images/5XYK33DF4TG380880/image_4.jpg",
-            "images/5XYK33DF4TG380880/image_5.jpg",
-            "images/5XYK33DF4TG380880/image_6.jpg",
-            "images/5XYK33DF4TG380880/image_7.jpg",
-            "images/5XYK33DF4TG380880/image_8.jpg"
+            "images/5XYK33DF4TG380880/image_5.jpg"
         ]
     },
     {
@@ -16231,10 +14452,7 @@ const vehicleData = [
             "images/5N1DR3BD3PC252967/image_2.jpg",
             "images/5N1DR3BD3PC252967/image_3.jpg",
             "images/5N1DR3BD3PC252967/image_4.jpg",
-            "images/5N1DR3BD3PC252967/image_5.jpg",
-            "images/5N1DR3BD3PC252967/image_6.jpg",
-            "images/5N1DR3BD3PC252967/image_7.jpg",
-            "images/5N1DR3BD3PC252967/image_8.jpg"
+            "images/5N1DR3BD3PC252967/image_5.jpg"
         ]
     },
     {
@@ -16262,10 +14480,7 @@ const vehicleData = [
             "images/JA4J3VA83RZ037219/image_2.jpg",
             "images/JA4J3VA83RZ037219/image_3.jpg",
             "images/JA4J3VA83RZ037219/image_4.jpg",
-            "images/JA4J3VA83RZ037219/image_5.jpg",
-            "images/JA4J3VA83RZ037219/image_6.jpg",
-            "images/JA4J3VA83RZ037219/image_7.jpg",
-            "images/JA4J3VA83RZ037219/image_8.jpg"
+            "images/JA4J3VA83RZ037219/image_5.jpg"
         ]
     },
     {
@@ -16293,10 +14508,7 @@ const vehicleData = [
             "images/1N4BL4DVXRN326763/image_2.jpg",
             "images/1N4BL4DVXRN326763/image_3.jpg",
             "images/1N4BL4DVXRN326763/image_4.jpg",
-            "images/1N4BL4DVXRN326763/image_5.jpg",
-            "images/1N4BL4DVXRN326763/image_6.jpg",
-            "images/1N4BL4DVXRN326763/image_7.jpg",
-            "images/1N4BL4DVXRN326763/image_8.jpg"
+            "images/1N4BL4DVXRN326763/image_5.jpg"
         ]
     },
     {
@@ -16324,10 +14536,7 @@ const vehicleData = [
             "images/1G1ZD5ST0PF246174/image_2.jpg",
             "images/1G1ZD5ST0PF246174/image_3.jpg",
             "images/1G1ZD5ST0PF246174/image_4.jpg",
-            "images/1G1ZD5ST0PF246174/image_5.jpg",
-            "images/1G1ZD5ST0PF246174/image_6.jpg",
-            "images/1G1ZD5ST0PF246174/image_7.jpg",
-            "images/1G1ZD5ST0PF246174/image_8.jpg"
+            "images/1G1ZD5ST0PF246174/image_5.jpg"
         ]
     },
     {
@@ -16355,10 +14564,7 @@ const vehicleData = [
             "images/1FAGP8UH6R5119900/image_2.jpg",
             "images/1FAGP8UH6R5119900/image_3.jpg",
             "images/1FAGP8UH6R5119900/image_4.jpg",
-            "images/1FAGP8UH6R5119900/image_5.jpg",
-            "images/1FAGP8UH6R5119900/image_6.jpg",
-            "images/1FAGP8UH6R5119900/image_7.jpg",
-            "images/1FAGP8UH6R5119900/image_8.jpg"
+            "images/1FAGP8UH6R5119900/image_5.jpg"
         ]
     },
     {
@@ -16386,10 +14592,7 @@ const vehicleData = [
             "images/3FMCR9CN8SRE86005/image_2.jpg",
             "images/3FMCR9CN8SRE86005/image_3.jpg",
             "images/3FMCR9CN8SRE86005/image_4.jpg",
-            "images/3FMCR9CN8SRE86005/image_5.jpg",
-            "images/3FMCR9CN8SRE86005/image_6.jpg",
-            "images/3FMCR9CN8SRE86005/image_7.jpg",
-            "images/3FMCR9CN8SRE86005/image_8.jpg"
+            "images/3FMCR9CN8SRE86005/image_5.jpg"
         ]
     },
     {
@@ -16417,10 +14620,7 @@ const vehicleData = [
             "images/WBA43FJ0XTCV63972/image_2.jpg",
             "images/WBA43FJ0XTCV63972/image_3.jpg",
             "images/WBA43FJ0XTCV63972/image_4.jpg",
-            "images/WBA43FJ0XTCV63972/image_5.jpg",
-            "images/WBA43FJ0XTCV63972/image_6.jpg",
-            "images/WBA43FJ0XTCV63972/image_7.jpg",
-            "images/WBA43FJ0XTCV63972/image_8.jpg"
+            "images/WBA43FJ0XTCV63972/image_5.jpg"
         ]
     },
     {
@@ -16448,10 +14648,7 @@ const vehicleData = [
             "images/3MW69FF0XR8E13070/image_2.jpg",
             "images/3MW69FF0XR8E13070/image_3.jpg",
             "images/3MW69FF0XR8E13070/image_4.jpg",
-            "images/3MW69FF0XR8E13070/image_5.jpg",
-            "images/3MW69FF0XR8E13070/image_6.jpg",
-            "images/3MW69FF0XR8E13070/image_7.jpg",
-            "images/3MW69FF0XR8E13070/image_8.jpg"
+            "images/3MW69FF0XR8E13070/image_5.jpg"
         ]
     },
     {
@@ -16479,10 +14676,7 @@ const vehicleData = [
             "images/5NMJECDE2RH308250/image_2.jpg",
             "images/5NMJECDE2RH308250/image_3.jpg",
             "images/5NMJECDE2RH308250/image_4.jpg",
-            "images/5NMJECDE2RH308250/image_5.jpg",
-            "images/5NMJECDE2RH308250/image_6.jpg",
-            "images/5NMJECDE2RH308250/image_7.jpg",
-            "images/5NMJECDE2RH308250/image_8.jpg"
+            "images/5NMJECDE2RH308250/image_5.jpg"
         ]
     },
     {
@@ -16510,10 +14704,7 @@ const vehicleData = [
             "images/3C4NJDDN9ST584792/image_2.jpg",
             "images/3C4NJDDN9ST584792/image_3.jpg",
             "images/3C4NJDDN9ST584792/image_4.jpg",
-            "images/3C4NJDDN9ST584792/image_5.jpg",
-            "images/3C4NJDDN9ST584792/image_6.jpg",
-            "images/3C4NJDDN9ST584792/image_7.jpg",
-            "images/3C4NJDDN9ST584792/image_8.jpg"
+            "images/3C4NJDDN9ST584792/image_5.jpg"
         ]
     },
     {
@@ -16541,10 +14732,7 @@ const vehicleData = [
             "images/3GNAXMEG5RL298985/image_2.jpg",
             "images/3GNAXMEG5RL298985/image_3.jpg",
             "images/3GNAXMEG5RL298985/image_4.jpg",
-            "images/3GNAXMEG5RL298985/image_5.jpg",
-            "images/3GNAXMEG5RL298985/image_6.jpg",
-            "images/3GNAXMEG5RL298985/image_7.jpg",
-            "images/3GNAXMEG5RL298985/image_8.jpg"
+            "images/3GNAXMEG5RL298985/image_5.jpg"
         ]
     },
     {
@@ -16572,10 +14760,7 @@ const vehicleData = [
             "images/KMHLS4DG3RU647760/image_2.jpg",
             "images/KMHLS4DG3RU647760/image_3.jpg",
             "images/KMHLS4DG3RU647760/image_4.jpg",
-            "images/KMHLS4DG3RU647760/image_5.jpg",
-            "images/KMHLS4DG3RU647760/image_6.jpg",
-            "images/KMHLS4DG3RU647760/image_7.jpg",
-            "images/KMHLS4DG3RU647760/image_8.jpg"
+            "images/KMHLS4DG3RU647760/image_5.jpg"
         ]
     },
     {
@@ -16603,10 +14788,7 @@ const vehicleData = [
             "images/5NMJA3DE2TH661414/image_2.jpg",
             "images/5NMJA3DE2TH661414/image_3.jpg",
             "images/5NMJA3DE2TH661414/image_4.jpg",
-            "images/5NMJA3DE2TH661414/image_5.jpg",
-            "images/5NMJA3DE2TH661414/image_6.jpg",
-            "images/5NMJA3DE2TH661414/image_7.jpg",
-            "images/5NMJA3DE2TH661414/image_8.jpg"
+            "images/5NMJA3DE2TH661414/image_5.jpg"
         ]
     },
     {
@@ -16634,10 +14816,7 @@ const vehicleData = [
             "images/KMHLS4DG0SU946483/image_2.jpg",
             "images/KMHLS4DG0SU946483/image_3.jpg",
             "images/KMHLS4DG0SU946483/image_4.jpg",
-            "images/KMHLS4DG0SU946483/image_5.jpg",
-            "images/KMHLS4DG0SU946483/image_6.jpg",
-            "images/KMHLS4DG0SU946483/image_7.jpg",
-            "images/KMHLS4DG0SU946483/image_8.jpg"
+            "images/KMHLS4DG0SU946483/image_5.jpg"
         ]
     },
     {
@@ -16665,10 +14844,7 @@ const vehicleData = [
             "images/5FNYG1H60SB004678/image_2.jpg",
             "images/5FNYG1H60SB004678/image_3.jpg",
             "images/5FNYG1H60SB004678/image_4.jpg",
-            "images/5FNYG1H60SB004678/image_5.jpg",
-            "images/5FNYG1H60SB004678/image_6.jpg",
-            "images/5FNYG1H60SB004678/image_7.jpg",
-            "images/5FNYG1H60SB004678/image_8.jpg"
+            "images/5FNYG1H60SB004678/image_5.jpg"
         ]
     },
     {
@@ -16696,10 +14872,7 @@ const vehicleData = [
             "images/1GNSCSKD5RR182032/image_2.jpg",
             "images/1GNSCSKD5RR182032/image_3.jpg",
             "images/1GNSCSKD5RR182032/image_4.jpg",
-            "images/1GNSCSKD5RR182032/image_5.jpg",
-            "images/1GNSCSKD5RR182032/image_6.jpg",
-            "images/1GNSCSKD5RR182032/image_7.jpg",
-            "images/1GNSCSKD5RR182032/image_8.jpg"
+            "images/1GNSCSKD5RR182032/image_5.jpg"
         ]
     },
     {
@@ -16727,10 +14900,7 @@ const vehicleData = [
             "images/KMHL24JJ3TA145565/image_2.jpg",
             "images/KMHL24JJ3TA145565/image_3.jpg",
             "images/KMHL24JJ3TA145565/image_4.jpg",
-            "images/KMHL24JJ3TA145565/image_5.jpg",
-            "images/KMHL24JJ3TA145565/image_6.jpg",
-            "images/KMHL24JJ3TA145565/image_7.jpg",
-            "images/KMHL24JJ3TA145565/image_8.jpg"
+            "images/KMHL24JJ3TA145565/image_5.jpg"
         ]
     },
     {
@@ -16758,10 +14928,7 @@ const vehicleData = [
             "images/1C4SJUBP5RS115556/image_2.jpg",
             "images/1C4SJUBP5RS115556/image_3.jpg",
             "images/1C4SJUBP5RS115556/image_4.jpg",
-            "images/1C4SJUBP5RS115556/image_5.jpg",
-            "images/1C4SJUBP5RS115556/image_6.jpg",
-            "images/1C4SJUBP5RS115556/image_7.jpg",
-            "images/1C4SJUBP5RS115556/image_8.jpg"
+            "images/1C4SJUBP5RS115556/image_5.jpg"
         ]
     },
     {
@@ -16789,10 +14956,7 @@ const vehicleData = [
             "images/KM8R54GE4RU770771/image_2.jpg",
             "images/KM8R54GE4RU770771/image_3.jpg",
             "images/KM8R54GE4RU770771/image_4.jpg",
-            "images/KM8R54GE4RU770771/image_5.jpg",
-            "images/KM8R54GE4RU770771/image_6.jpg",
-            "images/KM8R54GE4RU770771/image_7.jpg",
-            "images/KM8R54GE4RU770771/image_8.jpg"
+            "images/KM8R54GE4RU770771/image_5.jpg"
         ]
     },
     {
@@ -16820,10 +14984,7 @@ const vehicleData = [
             "images/WBA43FJ09TCV63946/image_2.jpg",
             "images/WBA43FJ09TCV63946/image_3.jpg",
             "images/WBA43FJ09TCV63946/image_4.jpg",
-            "images/WBA43FJ09TCV63946/image_5.jpg",
-            "images/WBA43FJ09TCV63946/image_6.jpg",
-            "images/WBA43FJ09TCV63946/image_7.jpg",
-            "images/WBA43FJ09TCV63946/image_8.jpg"
+            "images/WBA43FJ09TCV63946/image_5.jpg"
         ]
     },
     {
@@ -16851,10 +15012,7 @@ const vehicleData = [
             "images/1FTFW3L54SKE55605/image_2.jpg",
             "images/1FTFW3L54SKE55605/image_3.jpg",
             "images/1FTFW3L54SKE55605/image_4.jpg",
-            "images/1FTFW3L54SKE55605/image_5.jpg",
-            "images/1FTFW3L54SKE55605/image_6.jpg",
-            "images/1FTFW3L54SKE55605/image_7.jpg",
-            "images/1FTFW3L54SKE55605/image_8.jpg"
+            "images/1FTFW3L54SKE55605/image_5.jpg"
         ]
     },
     {
@@ -16882,10 +15040,7 @@ const vehicleData = [
             "images/W1N4N4GB1SJ730247/image_2.jpg",
             "images/W1N4N4GB1SJ730247/image_3.jpg",
             "images/W1N4N4GB1SJ730247/image_4.jpg",
-            "images/W1N4N4GB1SJ730247/image_5.jpg",
-            "images/W1N4N4GB1SJ730247/image_6.jpg",
-            "images/W1N4N4GB1SJ730247/image_7.jpg",
-            "images/W1N4N4GB1SJ730247/image_8.jpg"
+            "images/W1N4N4GB1SJ730247/image_5.jpg"
         ]
     },
     {
@@ -16913,10 +15068,7 @@ const vehicleData = [
             "images/2C4RC1BG5TR201126/image_2.jpg",
             "images/2C4RC1BG5TR201126/image_3.jpg",
             "images/2C4RC1BG5TR201126/image_4.jpg",
-            "images/2C4RC1BG5TR201126/image_5.jpg",
-            "images/2C4RC1BG5TR201126/image_6.jpg",
-            "images/2C4RC1BG5TR201126/image_7.jpg",
-            "images/2C4RC1BG5TR201126/image_8.jpg"
+            "images/2C4RC1BG5TR201126/image_5.jpg"
         ]
     },
     {
@@ -16944,10 +15096,7 @@ const vehicleData = [
             "images/1N4BL4DV1RN319541/image_2.jpg",
             "images/1N4BL4DV1RN319541/image_3.jpg",
             "images/1N4BL4DV1RN319541/image_4.jpg",
-            "images/1N4BL4DV1RN319541/image_5.jpg",
-            "images/1N4BL4DV1RN319541/image_6.jpg",
-            "images/1N4BL4DV1RN319541/image_7.jpg",
-            "images/1N4BL4DV1RN319541/image_8.jpg"
+            "images/1N4BL4DV1RN319541/image_5.jpg"
         ]
     },
     {
@@ -16975,10 +15124,7 @@ const vehicleData = [
             "images/1C4GJXAN5NW252247/image_2.jpg",
             "images/1C4GJXAN5NW252247/image_3.jpg",
             "images/1C4GJXAN5NW252247/image_4.jpg",
-            "images/1C4GJXAN5NW252247/image_5.jpg",
-            "images/1C4GJXAN5NW252247/image_6.jpg",
-            "images/1C4GJXAN5NW252247/image_7.jpg",
-            "images/1C4GJXAN5NW252247/image_8.jpg"
+            "images/1C4GJXAN5NW252247/image_5.jpg"
         ]
     },
     {
@@ -17006,10 +15152,7 @@ const vehicleData = [
             "images/JTHBZ1B2XR5072857/image_2.jpg",
             "images/JTHBZ1B2XR5072857/image_3.jpg",
             "images/JTHBZ1B2XR5072857/image_4.jpg",
-            "images/JTHBZ1B2XR5072857/image_5.jpg",
-            "images/JTHBZ1B2XR5072857/image_6.jpg",
-            "images/JTHBZ1B2XR5072857/image_7.jpg",
-            "images/JTHBZ1B2XR5072857/image_8.jpg"
+            "images/JTHBZ1B2XR5072857/image_5.jpg"
         ]
     },
     {
@@ -17037,10 +15180,7 @@ const vehicleData = [
             "images/1FA6P8CFXR5417524/image_2.jpg",
             "images/1FA6P8CFXR5417524/image_3.jpg",
             "images/1FA6P8CFXR5417524/image_4.jpg",
-            "images/1FA6P8CFXR5417524/image_5.jpg",
-            "images/1FA6P8CFXR5417524/image_6.jpg",
-            "images/1FA6P8CFXR5417524/image_7.jpg",
-            "images/1FA6P8CFXR5417524/image_8.jpg"
+            "images/1FA6P8CFXR5417524/image_5.jpg"
         ]
     },
     {
@@ -17068,10 +15208,7 @@ const vehicleData = [
             "images/3GKALMEG1TL175944/image_2.jpg",
             "images/3GKALMEG1TL175944/image_3.jpg",
             "images/3GKALMEG1TL175944/image_4.jpg",
-            "images/3GKALMEG1TL175944/image_5.jpg",
-            "images/3GKALMEG1TL175944/image_6.jpg",
-            "images/3GKALMEG1TL175944/image_7.jpg",
-            "images/3GKALMEG1TL175944/image_8.jpg"
+            "images/3GKALMEG1TL175944/image_5.jpg"
         ]
     },
     {
@@ -17099,10 +15236,7 @@ const vehicleData = [
             "images/3KPFT4DE6SE118482/image_2.jpg",
             "images/3KPFT4DE6SE118482/image_3.jpg",
             "images/3KPFT4DE6SE118482/image_4.jpg",
-            "images/3KPFT4DE6SE118482/image_5.jpg",
-            "images/3KPFT4DE6SE118482/image_6.jpg",
-            "images/3KPFT4DE6SE118482/image_7.jpg",
-            "images/3KPFT4DE6SE118482/image_8.jpg"
+            "images/3KPFT4DE6SE118482/image_5.jpg"
         ]
     },
     {
@@ -17130,10 +15264,7 @@ const vehicleData = [
             "images/1G1ZD5ST6PF241383/image_2.jpg",
             "images/1G1ZD5ST6PF241383/image_3.jpg",
             "images/1G1ZD5ST6PF241383/image_4.jpg",
-            "images/1G1ZD5ST6PF241383/image_5.jpg",
-            "images/1G1ZD5ST6PF241383/image_6.jpg",
-            "images/1G1ZD5ST6PF241383/image_7.jpg",
-            "images/1G1ZD5ST6PF241383/image_8.jpg"
+            "images/1G1ZD5ST6PF241383/image_5.jpg"
         ]
     },
     {
@@ -17161,10 +15292,7 @@ const vehicleData = [
             "images/3C4NJDBN5ST597560/image_2.jpg",
             "images/3C4NJDBN5ST597560/image_3.jpg",
             "images/3C4NJDBN5ST597560/image_4.jpg",
-            "images/3C4NJDBN5ST597560/image_5.jpg",
-            "images/3C4NJDBN5ST597560/image_6.jpg",
-            "images/3C4NJDBN5ST597560/image_7.jpg",
-            "images/3C4NJDBN5ST597560/image_8.jpg"
+            "images/3C4NJDBN5ST597560/image_5.jpg"
         ]
     },
     {
@@ -17192,10 +15320,7 @@ const vehicleData = [
             "images/1FMWK8GC6SGC40324/image_2.jpg",
             "images/1FMWK8GC6SGC40324/image_3.jpg",
             "images/1FMWK8GC6SGC40324/image_4.jpg",
-            "images/1FMWK8GC6SGC40324/image_5.jpg",
-            "images/1FMWK8GC6SGC40324/image_6.jpg",
-            "images/1FMWK8GC6SGC40324/image_7.jpg",
-            "images/1FMWK8GC6SGC40324/image_8.jpg"
+            "images/1FMWK8GC6SGC40324/image_5.jpg"
         ]
     },
     {
@@ -17223,10 +15348,7 @@ const vehicleData = [
             "images/3C6LRVDG6SE520311/image_2.jpg",
             "images/3C6LRVDG6SE520311/image_3.jpg",
             "images/3C6LRVDG6SE520311/image_4.jpg",
-            "images/3C6LRVDG6SE520311/image_5.jpg",
-            "images/3C6LRVDG6SE520311/image_6.jpg",
-            "images/3C6LRVDG6SE520311/image_7.jpg",
-            "images/3C6LRVDG6SE520311/image_8.jpg"
+            "images/3C6LRVDG6SE520311/image_5.jpg"
         ]
     },
     {
@@ -17254,10 +15376,7 @@ const vehicleData = [
             "images/NM0LS7T20N1521957/image_2.jpg",
             "images/NM0LS7T20N1521957/image_3.jpg",
             "images/NM0LS7T20N1521957/image_4.jpg",
-            "images/NM0LS7T20N1521957/image_5.jpg",
-            "images/NM0LS7T20N1521957/image_6.jpg",
-            "images/NM0LS7T20N1521957/image_7.jpg",
-            "images/NM0LS7T20N1521957/image_8.jpg"
+            "images/NM0LS7T20N1521957/image_5.jpg"
         ]
     },
     {
@@ -17285,10 +15404,7 @@ const vehicleData = [
             "images/1FAGP8UH9S5127544/image_2.jpg",
             "images/1FAGP8UH9S5127544/image_3.jpg",
             "images/1FAGP8UH9S5127544/image_4.jpg",
-            "images/1FAGP8UH9S5127544/image_5.jpg",
-            "images/1FAGP8UH9S5127544/image_6.jpg",
-            "images/1FAGP8UH9S5127544/image_7.jpg",
-            "images/1FAGP8UH9S5127544/image_8.jpg"
+            "images/1FAGP8UH9S5127544/image_5.jpg"
         ]
     },
     {
@@ -17316,10 +15432,7 @@ const vehicleData = [
             "images/1V2JR2CA0RC592696/image_2.jpg",
             "images/1V2JR2CA0RC592696/image_3.jpg",
             "images/1V2JR2CA0RC592696/image_4.jpg",
-            "images/1V2JR2CA0RC592696/image_5.jpg",
-            "images/1V2JR2CA0RC592696/image_6.jpg",
-            "images/1V2JR2CA0RC592696/image_7.jpg",
-            "images/1V2JR2CA0RC592696/image_8.jpg"
+            "images/1V2JR2CA0RC592696/image_5.jpg"
         ]
     },
     {
@@ -17347,10 +15460,7 @@ const vehicleData = [
             "images/5J8YD9H43NL008619/image_2.jpg",
             "images/5J8YD9H43NL008619/image_3.jpg",
             "images/5J8YD9H43NL008619/image_4.jpg",
-            "images/5J8YD9H43NL008619/image_5.jpg",
-            "images/5J8YD9H43NL008619/image_6.jpg",
-            "images/5J8YD9H43NL008619/image_7.jpg",
-            "images/5J8YD9H43NL008619/image_8.jpg"
+            "images/5J8YD9H43NL008619/image_5.jpg"
         ]
     },
     {
@@ -17378,10 +15488,7 @@ const vehicleData = [
             "images/JTJSM7BX7P5350588/image_2.jpg",
             "images/JTJSM7BX7P5350588/image_3.jpg",
             "images/JTJSM7BX7P5350588/image_4.jpg",
-            "images/JTJSM7BX7P5350588/image_5.jpg",
-            "images/JTJSM7BX7P5350588/image_6.jpg",
-            "images/JTJSM7BX7P5350588/image_7.jpg",
-            "images/JTJSM7BX7P5350588/image_8.jpg"
+            "images/JTJSM7BX7P5350588/image_5.jpg"
         ]
     },
     {
@@ -17409,10 +15516,7 @@ const vehicleData = [
             "images/JTJTBCDX5S5069026/image_2.jpg",
             "images/JTJTBCDX5S5069026/image_3.jpg",
             "images/JTJTBCDX5S5069026/image_4.jpg",
-            "images/JTJTBCDX5S5069026/image_5.jpg",
-            "images/JTJTBCDX5S5069026/image_6.jpg",
-            "images/JTJTBCDX5S5069026/image_7.jpg",
-            "images/JTJTBCDX5S5069026/image_8.jpg"
+            "images/JTJTBCDX5S5069026/image_5.jpg"
         ]
     },
     {
@@ -17440,10 +15544,7 @@ const vehicleData = [
             "images/4S4WMAWD1P3446273/image_2.jpg",
             "images/4S4WMAWD1P3446273/image_3.jpg",
             "images/4S4WMAWD1P3446273/image_4.jpg",
-            "images/4S4WMAWD1P3446273/image_5.jpg",
-            "images/4S4WMAWD1P3446273/image_6.jpg",
-            "images/4S4WMAWD1P3446273/image_7.jpg",
-            "images/4S4WMAWD1P3446273/image_8.jpg"
+            "images/4S4WMAWD1P3446273/image_5.jpg"
         ]
     },
     {
@@ -17471,10 +15572,7 @@ const vehicleData = [
             "images/5XYPLESA8VG007188/image_2.jpg",
             "images/5XYPLESA8VG007188/image_3.jpg",
             "images/5XYPLESA8VG007188/image_4.jpg",
-            "images/5XYPLESA8VG007188/image_5.jpg",
-            "images/5XYPLESA8VG007188/image_6.jpg",
-            "images/5XYPLESA8VG007188/image_7.jpg",
-            "images/5XYPLESA8VG007188/image_8.jpg"
+            "images/5XYPLESA8VG007188/image_5.jpg"
         ]
     },
     {
@@ -17502,10 +15600,7 @@ const vehicleData = [
             "images/JTJAM7BX6P5373825/image_2.jpg",
             "images/JTJAM7BX6P5373825/image_3.jpg",
             "images/JTJAM7BX6P5373825/image_4.jpg",
-            "images/JTJAM7BX6P5373825/image_5.jpg",
-            "images/JTJAM7BX6P5373825/image_6.jpg",
-            "images/JTJAM7BX6P5373825/image_7.jpg",
-            "images/JTJAM7BX6P5373825/image_8.jpg"
+            "images/JTJAM7BX6P5373825/image_5.jpg"
         ]
     },
     {
@@ -17533,10 +15628,7 @@ const vehicleData = [
             "images/4S4WMAWD3S3406754/image_2.jpg",
             "images/4S4WMAWD3S3406754/image_3.jpg",
             "images/4S4WMAWD3S3406754/image_4.jpg",
-            "images/4S4WMAWD3S3406754/image_5.jpg",
-            "images/4S4WMAWD3S3406754/image_6.jpg",
-            "images/4S4WMAWD3S3406754/image_7.jpg",
-            "images/4S4WMAWD3S3406754/image_8.jpg"
+            "images/4S4WMAWD3S3406754/image_5.jpg"
         ]
     },
     {
@@ -17564,10 +15656,7 @@ const vehicleData = [
             "images/5XYRK4LF7PG182437/image_2.jpg",
             "images/5XYRK4LF7PG182437/image_3.jpg",
             "images/5XYRK4LF7PG182437/image_4.jpg",
-            "images/5XYRK4LF7PG182437/image_5.jpg",
-            "images/5XYRK4LF7PG182437/image_6.jpg",
-            "images/5XYRK4LF7PG182437/image_7.jpg",
-            "images/5XYRK4LF7PG182437/image_8.jpg"
+            "images/5XYRK4LF7PG182437/image_5.jpg"
         ]
     },
     {
@@ -17595,10 +15684,7 @@ const vehicleData = [
             "images/4S4WMALD1S3430457/image_2.jpg",
             "images/4S4WMALD1S3430457/image_3.jpg",
             "images/4S4WMALD1S3430457/image_4.jpg",
-            "images/4S4WMALD1S3430457/image_5.jpg",
-            "images/4S4WMALD1S3430457/image_6.jpg",
-            "images/4S4WMALD1S3430457/image_7.jpg",
-            "images/4S4WMALD1S3430457/image_8.jpg"
+            "images/4S4WMALD1S3430457/image_5.jpg"
         ]
     },
     {
@@ -17626,10 +15712,7 @@ const vehicleData = [
             "images/5XYRK4JF5SG378338/image_2.jpg",
             "images/5XYRK4JF5SG378338/image_3.jpg",
             "images/5XYRK4JF5SG378338/image_4.jpg",
-            "images/5XYRK4JF5SG378338/image_5.jpg",
-            "images/5XYRK4JF5SG378338/image_6.jpg",
-            "images/5XYRK4JF5SG378338/image_7.jpg",
-            "images/5XYRK4JF5SG378338/image_8.jpg"
+            "images/5XYRK4JF5SG378338/image_5.jpg"
         ]
     },
     {
@@ -17657,10 +15740,7 @@ const vehicleData = [
             "images/1GYKPGRS5LZ205390/image_2.jpg",
             "images/1GYKPGRS5LZ205390/image_3.jpg",
             "images/1GYKPGRS5LZ205390/image_4.jpg",
-            "images/1GYKPGRS5LZ205390/image_5.jpg",
-            "images/1GYKPGRS5LZ205390/image_6.jpg",
-            "images/1GYKPGRS5LZ205390/image_7.jpg",
-            "images/1GYKPGRS5LZ205390/image_8.jpg"
+            "images/1GYKPGRS5LZ205390/image_5.jpg"
         ]
     },
     {
@@ -17688,10 +15768,7 @@ const vehicleData = [
             "images/5UX23EM05P9P43474/image_2.jpg",
             "images/5UX23EM05P9P43474/image_3.jpg",
             "images/5UX23EM05P9P43474/image_4.jpg",
-            "images/5UX23EM05P9P43474/image_5.jpg",
-            "images/5UX23EM05P9P43474/image_6.jpg",
-            "images/5UX23EM05P9P43474/image_7.jpg",
-            "images/5UX23EM05P9P43474/image_8.jpg"
+            "images/5UX23EM05P9P43474/image_5.jpg"
         ]
     },
     {
@@ -17719,10 +15796,7 @@ const vehicleData = [
             "images/5TDAAAA6XSS016264/image_2.jpg",
             "images/5TDAAAA6XSS016264/image_3.jpg",
             "images/5TDAAAA6XSS016264/image_4.jpg",
-            "images/5TDAAAA6XSS016264/image_5.jpg",
-            "images/5TDAAAA6XSS016264/image_6.jpg",
-            "images/5TDAAAA6XSS016264/image_7.jpg",
-            "images/5TDAAAA6XSS016264/image_8.jpg"
+            "images/5TDAAAA6XSS016264/image_5.jpg"
         ]
     },
     {
@@ -17750,10 +15824,7 @@ const vehicleData = [
             "images/JTJVBCDXXS5050108/image_2.jpg",
             "images/JTJVBCDXXS5050108/image_3.jpg",
             "images/JTJVBCDXXS5050108/image_4.jpg",
-            "images/JTJVBCDXXS5050108/image_5.jpg",
-            "images/JTJVBCDXXS5050108/image_6.jpg",
-            "images/JTJVBCDXXS5050108/image_7.jpg",
-            "images/JTJVBCDXXS5050108/image_8.jpg"
+            "images/JTJVBCDXXS5050108/image_5.jpg"
         ]
     },
     {
@@ -17781,10 +15852,7 @@ const vehicleData = [
             "images/JTJAM7BX2P5364975/image_2.jpg",
             "images/JTJAM7BX2P5364975/image_3.jpg",
             "images/JTJAM7BX2P5364975/image_4.jpg",
-            "images/JTJAM7BX2P5364975/image_5.jpg",
-            "images/JTJAM7BX2P5364975/image_6.jpg",
-            "images/JTJAM7BX2P5364975/image_7.jpg",
-            "images/JTJAM7BX2P5364975/image_8.jpg"
+            "images/JTJAM7BX2P5364975/image_5.jpg"
         ]
     },
     {
@@ -17812,10 +15880,7 @@ const vehicleData = [
             "images/5TDAAAA66RS010004/image_2.jpg",
             "images/5TDAAAA66RS010004/image_3.jpg",
             "images/5TDAAAA66RS010004/image_4.jpg",
-            "images/5TDAAAA66RS010004/image_5.jpg",
-            "images/5TDAAAA66RS010004/image_6.jpg",
-            "images/5TDAAAA66RS010004/image_7.jpg",
-            "images/5TDAAAA66RS010004/image_8.jpg"
+            "images/5TDAAAA66RS010004/image_5.jpg"
         ]
     },
     {
@@ -17843,10 +15908,7 @@ const vehicleData = [
             "images/5J8YE1H8XPL024014/image_2.jpg",
             "images/5J8YE1H8XPL024014/image_3.jpg",
             "images/5J8YE1H8XPL024014/image_4.jpg",
-            "images/5J8YE1H8XPL024014/image_5.jpg",
-            "images/5J8YE1H8XPL024014/image_6.jpg",
-            "images/5J8YE1H8XPL024014/image_7.jpg",
-            "images/5J8YE1H8XPL024014/image_8.jpg"
+            "images/5J8YE1H8XPL024014/image_5.jpg"
         ]
     },
     {
@@ -17874,10 +15936,7 @@ const vehicleData = [
             "images/4S4WMAUD0S3430366/image_2.jpg",
             "images/4S4WMAUD0S3430366/image_3.jpg",
             "images/4S4WMAUD0S3430366/image_4.jpg",
-            "images/4S4WMAUD0S3430366/image_5.jpg",
-            "images/4S4WMAUD0S3430366/image_6.jpg",
-            "images/4S4WMAUD0S3430366/image_7.jpg",
-            "images/4S4WMAUD0S3430366/image_8.jpg"
+            "images/4S4WMAUD0S3430366/image_5.jpg"
         ]
     },
     {
@@ -17905,10 +15964,7 @@ const vehicleData = [
             "images/JTJAM7BX3P5347585/image_2.jpg",
             "images/JTJAM7BX3P5347585/image_3.jpg",
             "images/JTJAM7BX3P5347585/image_4.jpg",
-            "images/JTJAM7BX3P5347585/image_5.jpg",
-            "images/JTJAM7BX3P5347585/image_6.jpg",
-            "images/JTJAM7BX3P5347585/image_7.jpg",
-            "images/JTJAM7BX3P5347585/image_8.jpg"
+            "images/JTJAM7BX3P5347585/image_5.jpg"
         ]
     },
     {
@@ -17936,10 +15992,7 @@ const vehicleData = [
             "images/1GYKPCRS6RZ759216/image_2.jpg",
             "images/1GYKPCRS6RZ759216/image_3.jpg",
             "images/1GYKPCRS6RZ759216/image_4.jpg",
-            "images/1GYKPCRS6RZ759216/image_5.jpg",
-            "images/1GYKPCRS6RZ759216/image_6.jpg",
-            "images/1GYKPCRS6RZ759216/image_7.jpg",
-            "images/1GYKPCRS6RZ759216/image_8.jpg"
+            "images/1GYKPCRS6RZ759216/image_5.jpg"
         ]
     },
     {
@@ -17967,10 +16020,7 @@ const vehicleData = [
             "images/4JGFF5KEXSB337888/image_2.jpg",
             "images/4JGFF5KEXSB337888/image_3.jpg",
             "images/4JGFF5KEXSB337888/image_4.jpg",
-            "images/4JGFF5KEXSB337888/image_5.jpg",
-            "images/4JGFF5KEXSB337888/image_6.jpg",
-            "images/4JGFF5KEXSB337888/image_7.jpg",
-            "images/4JGFF5KEXSB337888/image_8.jpg"
+            "images/4JGFF5KEXSB337888/image_5.jpg"
         ]
     },
     {
@@ -17998,10 +16048,7 @@ const vehicleData = [
             "images/2T2BAMCA3RC057082/image_2.jpg",
             "images/2T2BAMCA3RC057082/image_3.jpg",
             "images/2T2BAMCA3RC057082/image_4.jpg",
-            "images/2T2BAMCA3RC057082/image_5.jpg",
-            "images/2T2BAMCA3RC057082/image_6.jpg",
-            "images/2T2BAMCA3RC057082/image_7.jpg",
-            "images/2T2BAMCA3RC057082/image_8.jpg"
+            "images/2T2BAMCA3RC057082/image_5.jpg"
         ]
     },
     {
@@ -18029,10 +16076,7 @@ const vehicleData = [
             "images/5TDAAAA61RS009889/image_2.jpg",
             "images/5TDAAAA61RS009889/image_3.jpg",
             "images/5TDAAAA61RS009889/image_4.jpg",
-            "images/5TDAAAA61RS009889/image_5.jpg",
-            "images/5TDAAAA61RS009889/image_6.jpg",
-            "images/5TDAAAA61RS009889/image_7.jpg",
-            "images/5TDAAAA61RS009889/image_8.jpg"
+            "images/5TDAAAA61RS009889/image_5.jpg"
         ]
     },
     {
@@ -18060,10 +16104,7 @@ const vehicleData = [
             "images/5FNRL6H77JB008876/image_2.jpg",
             "images/5FNRL6H77JB008876/image_3.jpg",
             "images/5FNRL6H77JB008876/image_4.jpg",
-            "images/5FNRL6H77JB008876/image_5.jpg",
-            "images/5FNRL6H77JB008876/image_6.jpg",
-            "images/5FNRL6H77JB008876/image_7.jpg",
-            "images/5FNRL6H77JB008876/image_8.jpg"
+            "images/5FNRL6H77JB008876/image_5.jpg"
         ]
     },
     {
@@ -18091,10 +16132,7 @@ const vehicleData = [
             "images/JTJMB7CX3R4039827/image_2.jpg",
             "images/JTJMB7CX3R4039827/image_3.jpg",
             "images/JTJMB7CX3R4039827/image_4.jpg",
-            "images/JTJMB7CX3R4039827/image_5.jpg",
-            "images/JTJMB7CX3R4039827/image_6.jpg",
-            "images/JTJMB7CX3R4039827/image_7.jpg",
-            "images/JTJMB7CX3R4039827/image_8.jpg"
+            "images/JTJMB7CX3R4039827/image_5.jpg"
         ]
     },
     {
@@ -18122,10 +16160,7 @@ const vehicleData = [
             "images/5J8YE1H00RL007431/image_2.jpg",
             "images/5J8YE1H00RL007431/image_3.jpg",
             "images/5J8YE1H00RL007431/image_4.jpg",
-            "images/5J8YE1H00RL007431/image_5.jpg",
-            "images/5J8YE1H00RL007431/image_6.jpg",
-            "images/5J8YE1H00RL007431/image_7.jpg",
-            "images/5J8YE1H00RL007431/image_8.jpg"
+            "images/5J8YE1H00RL007431/image_5.jpg"
         ]
     },
     {
@@ -18153,10 +16188,7 @@ const vehicleData = [
             "images/5TDAAAB67SS041685/image_2.jpg",
             "images/5TDAAAB67SS041685/image_3.jpg",
             "images/5TDAAAB67SS041685/image_4.jpg",
-            "images/5TDAAAB67SS041685/image_5.jpg",
-            "images/5TDAAAB67SS041685/image_6.jpg",
-            "images/5TDAAAB67SS041685/image_7.jpg",
-            "images/5TDAAAB67SS041685/image_8.jpg"
+            "images/5TDAAAB67SS041685/image_5.jpg"
         ]
     },
     {
@@ -18184,10 +16216,7 @@ const vehicleData = [
             "images/4S4WMAUD6R3407345/image_2.jpg",
             "images/4S4WMAUD6R3407345/image_3.jpg",
             "images/4S4WMAUD6R3407345/image_4.jpg",
-            "images/4S4WMAUD6R3407345/image_5.jpg",
-            "images/4S4WMAUD6R3407345/image_6.jpg",
-            "images/4S4WMAUD6R3407345/image_7.jpg",
-            "images/4S4WMAUD6R3407345/image_8.jpg"
+            "images/4S4WMAUD6R3407345/image_5.jpg"
         ]
     },
     {
@@ -18215,10 +16244,7 @@ const vehicleData = [
             "images/1FMSK7FH8NGA56612/image_2.jpg",
             "images/1FMSK7FH8NGA56612/image_3.jpg",
             "images/1FMSK7FH8NGA56612/image_4.jpg",
-            "images/1FMSK7FH8NGA56612/image_5.jpg",
-            "images/1FMSK7FH8NGA56612/image_6.jpg",
-            "images/1FMSK7FH8NGA56612/image_7.jpg",
-            "images/1FMSK7FH8NGA56612/image_8.jpg"
+            "images/1FMSK7FH8NGA56612/image_5.jpg"
         ]
     },
     {
@@ -18246,10 +16272,7 @@ const vehicleData = [
             "images/5J8YE1H07PL034624/image_2.jpg",
             "images/5J8YE1H07PL034624/image_3.jpg",
             "images/5J8YE1H07PL034624/image_4.jpg",
-            "images/5J8YE1H07PL034624/image_5.jpg",
-            "images/5J8YE1H07PL034624/image_6.jpg",
-            "images/5J8YE1H07PL034624/image_7.jpg",
-            "images/5J8YE1H07PL034624/image_8.jpg"
+            "images/5J8YE1H07PL034624/image_5.jpg"
         ]
     },
     {
@@ -18277,10 +16300,7 @@ const vehicleData = [
             "images/5TDAAAB62SS031288/image_2.jpg",
             "images/5TDAAAB62SS031288/image_3.jpg",
             "images/5TDAAAB62SS031288/image_4.jpg",
-            "images/5TDAAAB62SS031288/image_5.jpg",
-            "images/5TDAAAB62SS031288/image_6.jpg",
-            "images/5TDAAAB62SS031288/image_7.jpg",
-            "images/5TDAAAB62SS031288/image_8.jpg"
+            "images/5TDAAAB62SS031288/image_5.jpg"
         ]
     },
     {
@@ -18308,10 +16328,7 @@ const vehicleData = [
             "images/5FNYG1H7XPB034853/image_2.jpg",
             "images/5FNYG1H7XPB034853/image_3.jpg",
             "images/5FNYG1H7XPB034853/image_4.jpg",
-            "images/5FNYG1H7XPB034853/image_5.jpg",
-            "images/5FNYG1H7XPB034853/image_6.jpg",
-            "images/5FNYG1H7XPB034853/image_7.jpg",
-            "images/5FNYG1H7XPB034853/image_8.jpg"
+            "images/5FNYG1H7XPB034853/image_5.jpg"
         ]
     },
     {
@@ -18339,10 +16356,7 @@ const vehicleData = [
             "images/JTJCHMAA6P2000813/image_2.jpg",
             "images/JTJCHMAA6P2000813/image_3.jpg",
             "images/JTJCHMAA6P2000813/image_4.jpg",
-            "images/JTJCHMAA6P2000813/image_5.jpg",
-            "images/JTJCHMAA6P2000813/image_6.jpg",
-            "images/JTJCHMAA6P2000813/image_7.jpg",
-            "images/JTJCHMAA6P2000813/image_8.jpg"
+            "images/JTJCHMAA6P2000813/image_5.jpg"
         ]
     },
     {
@@ -18370,10 +16384,7 @@ const vehicleData = [
             "images/WDDHF5GB9AA203055/image_2.jpg",
             "images/WDDHF5GB9AA203055/image_3.jpg",
             "images/WDDHF5GB9AA203055/image_4.jpg",
-            "images/WDDHF5GB9AA203055/image_5.jpg",
-            "images/WDDHF5GB9AA203055/image_6.jpg",
-            "images/WDDHF5GB9AA203055/image_7.jpg",
-            "images/WDDHF5GB9AA203055/image_8.jpg"
+            "images/WDDHF5GB9AA203055/image_5.jpg"
         ]
     },
     {
@@ -18401,10 +16412,7 @@ const vehicleData = [
             "images/2T2BAMBA1RC040329/image_2.jpg",
             "images/2T2BAMBA1RC040329/image_3.jpg",
             "images/2T2BAMBA1RC040329/image_4.jpg",
-            "images/2T2BAMBA1RC040329/image_5.jpg",
-            "images/2T2BAMBA1RC040329/image_6.jpg",
-            "images/2T2BAMBA1RC040329/image_7.jpg",
-            "images/2T2BAMBA1RC040329/image_8.jpg"
+            "images/2T2BAMBA1RC040329/image_5.jpg"
         ]
     },
     {
@@ -18432,10 +16440,7 @@ const vehicleData = [
             "images/JTHGZ1B2XR5077434/image_2.jpg",
             "images/JTHGZ1B2XR5077434/image_3.jpg",
             "images/JTHGZ1B2XR5077434/image_4.jpg",
-            "images/JTHGZ1B2XR5077434/image_5.jpg",
-            "images/JTHGZ1B2XR5077434/image_6.jpg",
-            "images/JTHGZ1B2XR5077434/image_7.jpg",
-            "images/JTHGZ1B2XR5077434/image_8.jpg"
+            "images/JTHGZ1B2XR5077434/image_5.jpg"
         ]
     },
     {
@@ -18463,10 +16468,7 @@ const vehicleData = [
             "images/19UDE4H29RA002709/image_2.jpg",
             "images/19UDE4H29RA002709/image_3.jpg",
             "images/19UDE4H29RA002709/image_4.jpg",
-            "images/19UDE4H29RA002709/image_5.jpg",
-            "images/19UDE4H29RA002709/image_6.jpg",
-            "images/19UDE4H29RA002709/image_7.jpg",
-            "images/19UDE4H29RA002709/image_8.jpg"
+            "images/19UDE4H29RA002709/image_5.jpg"
         ]
     },
     {
@@ -18494,10 +16496,7 @@ const vehicleData = [
             "images/4S4BTGND2P3223181/image_2.jpg",
             "images/4S4BTGND2P3223181/image_3.jpg",
             "images/4S4BTGND2P3223181/image_4.jpg",
-            "images/4S4BTGND2P3223181/image_5.jpg",
-            "images/4S4BTGND2P3223181/image_6.jpg",
-            "images/4S4BTGND2P3223181/image_7.jpg",
-            "images/4S4BTGND2P3223181/image_8.jpg"
+            "images/4S4BTGND2P3223181/image_5.jpg"
         ]
     },
     {
@@ -18525,10 +16524,7 @@ const vehicleData = [
             "images/5TDAAAA60RS004148/image_2.jpg",
             "images/5TDAAAA60RS004148/image_3.jpg",
             "images/5TDAAAA60RS004148/image_4.jpg",
-            "images/5TDAAAA60RS004148/image_5.jpg",
-            "images/5TDAAAA60RS004148/image_6.jpg",
-            "images/5TDAAAA60RS004148/image_7.jpg",
-            "images/5TDAAAA60RS004148/image_8.jpg"
+            "images/5TDAAAA60RS004148/image_5.jpg"
         ]
     },
     {
@@ -18556,10 +16552,7 @@ const vehicleData = [
             "images/2T2BCMEA2SC021624/image_2.jpg",
             "images/2T2BCMEA2SC021624/image_3.jpg",
             "images/2T2BCMEA2SC021624/image_4.jpg",
-            "images/2T2BCMEA2SC021624/image_5.jpg",
-            "images/2T2BCMEA2SC021624/image_6.jpg",
-            "images/2T2BCMEA2SC021624/image_7.jpg",
-            "images/2T2BCMEA2SC021624/image_8.jpg"
+            "images/2T2BCMEA2SC021624/image_5.jpg"
         ]
     },
     {
@@ -18587,10 +16580,7 @@ const vehicleData = [
             "images/JTHGZ1B28T5100295/image_2.jpg",
             "images/JTHGZ1B28T5100295/image_3.jpg",
             "images/JTHGZ1B28T5100295/image_4.jpg",
-            "images/JTHGZ1B28T5100295/image_5.jpg",
-            "images/JTHGZ1B28T5100295/image_6.jpg",
-            "images/JTHGZ1B28T5100295/image_7.jpg",
-            "images/JTHGZ1B28T5100295/image_8.jpg"
+            "images/JTHGZ1B28T5100295/image_5.jpg"
         ]
     },
     {
@@ -18618,10 +16608,7 @@ const vehicleData = [
             "images/3PCAJ5BB9SF109011/image_2.jpg",
             "images/3PCAJ5BB9SF109011/image_3.jpg",
             "images/3PCAJ5BB9SF109011/image_4.jpg",
-            "images/3PCAJ5BB9SF109011/image_5.jpg",
-            "images/3PCAJ5BB9SF109011/image_6.jpg",
-            "images/3PCAJ5BB9SF109011/image_7.jpg",
-            "images/3PCAJ5BB9SF109011/image_8.jpg"
+            "images/3PCAJ5BB9SF109011/image_5.jpg"
         ]
     },
     {
@@ -18649,10 +16636,7 @@ const vehicleData = [
             "images/2T2GDCAZXRC009062/image_2.jpg",
             "images/2T2GDCAZXRC009062/image_3.jpg",
             "images/2T2GDCAZXRC009062/image_4.jpg",
-            "images/2T2GDCAZXRC009062/image_5.jpg",
-            "images/2T2GDCAZXRC009062/image_6.jpg",
-            "images/2T2GDCAZXRC009062/image_7.jpg",
-            "images/2T2GDCAZXRC009062/image_8.jpg"
+            "images/2T2GDCAZXRC009062/image_5.jpg"
         ]
     },
     {
@@ -18680,10 +16664,7 @@ const vehicleData = [
             "images/2T2GDCAZ1SC028380/image_2.jpg",
             "images/2T2GDCAZ1SC028380/image_3.jpg",
             "images/2T2GDCAZ1SC028380/image_4.jpg",
-            "images/2T2GDCAZ1SC028380/image_5.jpg",
-            "images/2T2GDCAZ1SC028380/image_6.jpg",
-            "images/2T2GDCAZ1SC028380/image_7.jpg",
-            "images/2T2GDCAZ1SC028380/image_8.jpg"
+            "images/2T2GDCAZ1SC028380/image_5.jpg"
         ]
     },
     {
@@ -18711,10 +16692,7 @@ const vehicleData = [
             "images/JTJABABB3RA005619/image_2.jpg",
             "images/JTJABABB3RA005619/image_3.jpg",
             "images/JTJABABB3RA005619/image_4.jpg",
-            "images/JTJABABB3RA005619/image_5.jpg",
-            "images/JTJABABB3RA005619/image_6.jpg",
-            "images/JTJABABB3RA005619/image_7.jpg",
-            "images/JTJABABB3RA005619/image_8.jpg"
+            "images/JTJABABB3RA005619/image_5.jpg"
         ]
     },
     {
@@ -18742,10 +16720,7 @@ const vehicleData = [
             "images/4S4BTANC0R3183268/image_2.jpg",
             "images/4S4BTANC0R3183268/image_3.jpg",
             "images/4S4BTANC0R3183268/image_4.jpg",
-            "images/4S4BTANC0R3183268/image_5.jpg",
-            "images/4S4BTANC0R3183268/image_6.jpg",
-            "images/4S4BTANC0R3183268/image_7.jpg",
-            "images/4S4BTANC0R3183268/image_8.jpg"
+            "images/4S4BTANC0R3183268/image_5.jpg"
         ]
     },
     {
@@ -18773,10 +16748,7 @@ const vehicleData = [
             "images/WAUFACF52RA049359/image_2.jpg",
             "images/WAUFACF52RA049359/image_3.jpg",
             "images/WAUFACF52RA049359/image_4.jpg",
-            "images/WAUFACF52RA049359/image_5.jpg",
-            "images/WAUFACF52RA049359/image_6.jpg",
-            "images/WAUFACF52RA049359/image_7.jpg",
-            "images/WAUFACF52RA049359/image_8.jpg"
+            "images/WAUFACF52RA049359/image_5.jpg"
         ]
     },
     {
@@ -18804,10 +16776,7 @@ const vehicleData = [
             "images/2T2BAMBA2PC006073/image_2.jpg",
             "images/2T2BAMBA2PC006073/image_3.jpg",
             "images/2T2BAMBA2PC006073/image_4.jpg",
-            "images/2T2BAMBA2PC006073/image_5.jpg",
-            "images/2T2BAMBA2PC006073/image_6.jpg",
-            "images/2T2BAMBA2PC006073/image_7.jpg",
-            "images/2T2BAMBA2PC006073/image_8.jpg"
+            "images/2T2BAMBA2PC006073/image_5.jpg"
         ]
     },
     {
@@ -18835,10 +16804,7 @@ const vehicleData = [
             "images/58AD11D19RU012567/image_2.jpg",
             "images/58AD11D19RU012567/image_3.jpg",
             "images/58AD11D19RU012567/image_4.jpg",
-            "images/58AD11D19RU012567/image_5.jpg",
-            "images/58AD11D19RU012567/image_6.jpg",
-            "images/58AD11D19RU012567/image_7.jpg",
-            "images/58AD11D19RU012567/image_8.jpg"
+            "images/58AD11D19RU012567/image_5.jpg"
         ]
     },
     {
@@ -18866,10 +16832,7 @@ const vehicleData = [
             "images/JTHCA1D2XR5129874/image_2.jpg",
             "images/JTHCA1D2XR5129874/image_3.jpg",
             "images/JTHCA1D2XR5129874/image_4.jpg",
-            "images/JTHCA1D2XR5129874/image_5.jpg",
-            "images/JTHCA1D2XR5129874/image_6.jpg",
-            "images/JTHCA1D2XR5129874/image_7.jpg",
-            "images/JTHCA1D2XR5129874/image_8.jpg"
+            "images/JTHCA1D2XR5129874/image_5.jpg"
         ]
     },
     {
@@ -18897,10 +16860,7 @@ const vehicleData = [
             "images/5NMJC3DE2SH571690/image_2.jpg",
             "images/5NMJC3DE2SH571690/image_3.jpg",
             "images/5NMJC3DE2SH571690/image_4.jpg",
-            "images/5NMJC3DE2SH571690/image_5.jpg",
-            "images/5NMJC3DE2SH571690/image_6.jpg",
-            "images/5NMJC3DE2SH571690/image_7.jpg",
-            "images/5NMJC3DE2SH571690/image_8.jpg"
+            "images/5NMJC3DE2SH571690/image_5.jpg"
         ]
     },
     {
@@ -18928,10 +16888,7 @@ const vehicleData = [
             "images/JF2BUPBD7TY488246/image_2.jpg",
             "images/JF2BUPBD7TY488246/image_3.jpg",
             "images/JF2BUPBD7TY488246/image_4.jpg",
-            "images/JF2BUPBD7TY488246/image_5.jpg",
-            "images/JF2BUPBD7TY488246/image_6.jpg",
-            "images/JF2BUPBD7TY488246/image_7.jpg",
-            "images/JF2BUPBD7TY488246/image_8.jpg"
+            "images/JF2BUPBD7TY488246/image_5.jpg"
         ]
     },
     {
@@ -18959,10 +16916,7 @@ const vehicleData = [
             "images/JTJDARBZ5M5031264/image_2.jpg",
             "images/JTJDARBZ5M5031264/image_3.jpg",
             "images/JTJDARBZ5M5031264/image_4.jpg",
-            "images/JTJDARBZ5M5031264/image_5.jpg",
-            "images/JTJDARBZ5M5031264/image_6.jpg",
-            "images/JTJDARBZ5M5031264/image_7.jpg",
-            "images/JTJDARBZ5M5031264/image_8.jpg"
+            "images/JTJDARBZ5M5031264/image_5.jpg"
         ]
     },
     {
@@ -18990,10 +16944,7 @@ const vehicleData = [
             "images/JTHGZ1B25P5065964/image_2.jpg",
             "images/JTHGZ1B25P5065964/image_3.jpg",
             "images/JTHGZ1B25P5065964/image_4.jpg",
-            "images/JTHGZ1B25P5065964/image_5.jpg",
-            "images/JTHGZ1B25P5065964/image_6.jpg",
-            "images/JTHGZ1B25P5065964/image_7.jpg",
-            "images/JTHGZ1B25P5065964/image_8.jpg"
+            "images/JTHGZ1B25P5065964/image_5.jpg"
         ]
     },
     {
@@ -19021,10 +16972,7 @@ const vehicleData = [
             "images/2T2GDCAZXSC023467/image_2.jpg",
             "images/2T2GDCAZXSC023467/image_3.jpg",
             "images/2T2GDCAZXSC023467/image_4.jpg",
-            "images/2T2GDCAZXSC023467/image_5.jpg",
-            "images/2T2GDCAZXSC023467/image_6.jpg",
-            "images/2T2GDCAZXSC023467/image_7.jpg",
-            "images/2T2GDCAZXSC023467/image_8.jpg"
+            "images/2T2GDCAZXSC023467/image_5.jpg"
         ]
     },
     {
@@ -19052,10 +17000,7 @@ const vehicleData = [
             "images/JTHBA1D20K5091895/image_2.jpg",
             "images/JTHBA1D20K5091895/image_3.jpg",
             "images/JTHBA1D20K5091895/image_4.jpg",
-            "images/JTHBA1D20K5091895/image_5.jpg",
-            "images/JTHBA1D20K5091895/image_6.jpg",
-            "images/JTHBA1D20K5091895/image_7.jpg",
-            "images/JTHBA1D20K5091895/image_8.jpg"
+            "images/JTHBA1D20K5091895/image_5.jpg"
         ]
     },
     {
@@ -19083,10 +17028,7 @@ const vehicleData = [
             "images/2T2KGCEZ1NC014284/image_2.jpg",
             "images/2T2KGCEZ1NC014284/image_3.jpg",
             "images/2T2KGCEZ1NC014284/image_4.jpg",
-            "images/2T2KGCEZ1NC014284/image_5.jpg",
-            "images/2T2KGCEZ1NC014284/image_6.jpg",
-            "images/2T2KGCEZ1NC014284/image_7.jpg",
-            "images/2T2KGCEZ1NC014284/image_8.jpg"
+            "images/2T2KGCEZ1NC014284/image_5.jpg"
         ]
     },
     {
@@ -19114,10 +17056,7 @@ const vehicleData = [
             "images/JTHDA5BC5R5012906/image_2.jpg",
             "images/JTHDA5BC5R5012906/image_3.jpg",
             "images/JTHDA5BC5R5012906/image_4.jpg",
-            "images/JTHDA5BC5R5012906/image_5.jpg",
-            "images/JTHDA5BC5R5012906/image_6.jpg",
-            "images/JTHDA5BC5R5012906/image_7.jpg",
-            "images/JTHDA5BC5R5012906/image_8.jpg"
+            "images/JTHDA5BC5R5012906/image_5.jpg"
         ]
     },
     {
@@ -19145,10 +17084,7 @@ const vehicleData = [
             "images/JTJCHMAA7R2016831/image_2.jpg",
             "images/JTJCHMAA7R2016831/image_3.jpg",
             "images/JTJCHMAA7R2016831/image_4.jpg",
-            "images/JTJCHMAA7R2016831/image_5.jpg",
-            "images/JTJCHMAA7R2016831/image_6.jpg",
-            "images/JTJCHMAA7R2016831/image_7.jpg",
-            "images/JTJCHMAA7R2016831/image_8.jpg"
+            "images/JTJCHMAA7R2016831/image_5.jpg"
         ]
     },
     {
@@ -19176,10 +17112,7 @@ const vehicleData = [
             "images/58ABK1GG3HU054686/image_2.jpg",
             "images/58ABK1GG3HU054686/image_3.jpg",
             "images/58ABK1GG3HU054686/image_4.jpg",
-            "images/58ABK1GG3HU054686/image_5.jpg",
-            "images/58ABK1GG3HU054686/image_6.jpg",
-            "images/58ABK1GG3HU054686/image_7.jpg",
-            "images/58ABK1GG3HU054686/image_8.jpg"
+            "images/58ABK1GG3HU054686/image_5.jpg"
         ]
     },
     {
@@ -19207,10 +17140,7 @@ const vehicleData = [
             "images/JTHCA1D27R5130884/image_2.jpg",
             "images/JTHCA1D27R5130884/image_3.jpg",
             "images/JTHCA1D27R5130884/image_4.jpg",
-            "images/JTHCA1D27R5130884/image_5.jpg",
-            "images/JTHCA1D27R5130884/image_6.jpg",
-            "images/JTHCA1D27R5130884/image_7.jpg",
-            "images/JTHCA1D27R5130884/image_8.jpg"
+            "images/JTHCA1D27R5130884/image_5.jpg"
         ]
     },
     {
@@ -19238,10 +17168,7 @@ const vehicleData = [
             "images/JF2SLSTD3SH403437/image_2.jpg",
             "images/JF2SLSTD3SH403437/image_3.jpg",
             "images/JF2SLSTD3SH403437/image_4.jpg",
-            "images/JF2SLSTD3SH403437/image_5.jpg",
-            "images/JF2SLSTD3SH403437/image_6.jpg",
-            "images/JF2SLSTD3SH403437/image_7.jpg",
-            "images/JF2SLSTD3SH403437/image_8.jpg"
+            "images/JF2SLSTD3SH403437/image_5.jpg"
         ]
     },
     {
@@ -19269,10 +17196,7 @@ const vehicleData = [
             "images/JTHE3JBH5N2056354/image_2.jpg",
             "images/JTHE3JBH5N2056354/image_3.jpg",
             "images/JTHE3JBH5N2056354/image_4.jpg",
-            "images/JTHE3JBH5N2056354/image_5.jpg",
-            "images/JTHE3JBH5N2056354/image_6.jpg",
-            "images/JTHE3JBH5N2056354/image_7.jpg",
-            "images/JTHE3JBH5N2056354/image_8.jpg"
+            "images/JTHE3JBH5N2056354/image_5.jpg"
         ]
     },
     {
@@ -19300,10 +17224,7 @@ const vehicleData = [
             "images/JTHGZ1B25R5075087/image_2.jpg",
             "images/JTHGZ1B25R5075087/image_3.jpg",
             "images/JTHGZ1B25R5075087/image_4.jpg",
-            "images/JTHGZ1B25R5075087/image_5.jpg",
-            "images/JTHGZ1B25R5075087/image_6.jpg",
-            "images/JTHGZ1B25R5075087/image_7.jpg",
-            "images/JTHGZ1B25R5075087/image_8.jpg"
+            "images/JTHGZ1B25R5075087/image_5.jpg"
         ]
     },
     {
@@ -19331,10 +17252,7 @@ const vehicleData = [
             "images/3CZRU5H59MM719379/image_2.jpg",
             "images/3CZRU5H59MM719379/image_3.jpg",
             "images/3CZRU5H59MM719379/image_4.jpg",
-            "images/3CZRU5H59MM719379/image_5.jpg",
-            "images/3CZRU5H59MM719379/image_6.jpg",
-            "images/3CZRU5H59MM719379/image_7.jpg",
-            "images/3CZRU5H59MM719379/image_8.jpg"
+            "images/3CZRU5H59MM719379/image_5.jpg"
         ]
     },
     {
@@ -19362,10 +17280,7 @@ const vehicleData = [
             "images/4S4BTGPD3R3196086/image_2.jpg",
             "images/4S4BTGPD3R3196086/image_3.jpg",
             "images/4S4BTGPD3R3196086/image_4.jpg",
-            "images/4S4BTGPD3R3196086/image_5.jpg",
-            "images/4S4BTGPD3R3196086/image_6.jpg",
-            "images/4S4BTGPD3R3196086/image_7.jpg",
-            "images/4S4BTGPD3R3196086/image_8.jpg"
+            "images/4S4BTGPD3R3196086/image_5.jpg"
         ]
     },
     {
@@ -19393,10 +17308,7 @@ const vehicleData = [
             "images/JTJGKCEZ9S5040873/image_2.jpg",
             "images/JTJGKCEZ9S5040873/image_3.jpg",
             "images/JTJGKCEZ9S5040873/image_4.jpg",
-            "images/JTJGKCEZ9S5040873/image_5.jpg",
-            "images/JTJGKCEZ9S5040873/image_6.jpg",
-            "images/JTJGKCEZ9S5040873/image_7.jpg",
-            "images/JTJGKCEZ9S5040873/image_8.jpg"
+            "images/JTJGKCEZ9S5040873/image_5.jpg"
         ]
     },
     {
@@ -19424,10 +17336,7 @@ const vehicleData = [
             "images/JF2SKAEC0NH428074/image_2.jpg",
             "images/JF2SKAEC0NH428074/image_3.jpg",
             "images/JF2SKAEC0NH428074/image_4.jpg",
-            "images/JF2SKAEC0NH428074/image_5.jpg",
-            "images/JF2SKAEC0NH428074/image_6.jpg",
-            "images/JF2SKAEC0NH428074/image_7.jpg",
-            "images/JF2SKAEC0NH428074/image_8.jpg"
+            "images/JF2SKAEC0NH428074/image_5.jpg"
         ]
     },
     {
@@ -19455,10 +17364,7 @@ const vehicleData = [
             "images/5J8TC1H63ML016153/image_2.jpg",
             "images/5J8TC1H63ML016153/image_3.jpg",
             "images/5J8TC1H63ML016153/image_4.jpg",
-            "images/5J8TC1H63ML016153/image_5.jpg",
-            "images/5J8TC1H63ML016153/image_6.jpg",
-            "images/5J8TC1H63ML016153/image_7.jpg",
-            "images/5J8TC1H63ML016153/image_8.jpg"
+            "images/5J8TC1H63ML016153/image_5.jpg"
         ]
     },
     {
@@ -19486,10 +17392,7 @@ const vehicleData = [
             "images/JTJCHMAA4P2001250/image_2.jpg",
             "images/JTJCHMAA4P2001250/image_3.jpg",
             "images/JTJCHMAA4P2001250/image_4.jpg",
-            "images/JTJCHMAA4P2001250/image_5.jpg",
-            "images/JTJCHMAA4P2001250/image_6.jpg",
-            "images/JTJCHMAA4P2001250/image_7.jpg",
-            "images/JTJCHMAA4P2001250/image_8.jpg"
+            "images/JTJCHMAA4P2001250/image_5.jpg"
         ]
     },
     {
@@ -19517,10 +17420,7 @@ const vehicleData = [
             "images/4S3BWAN62R3022541/image_2.jpg",
             "images/4S3BWAN62R3022541/image_3.jpg",
             "images/4S3BWAN62R3022541/image_4.jpg",
-            "images/4S3BWAN62R3022541/image_5.jpg",
-            "images/4S3BWAN62R3022541/image_6.jpg",
-            "images/4S3BWAN62R3022541/image_7.jpg",
-            "images/4S3BWAN62R3022541/image_8.jpg"
+            "images/4S3BWAN62R3022541/image_5.jpg"
         ]
     },
     {
@@ -19548,10 +17448,7 @@ const vehicleData = [
             "images/2T2GDCAZ8SC019806/image_2.jpg",
             "images/2T2GDCAZ8SC019806/image_3.jpg",
             "images/2T2GDCAZ8SC019806/image_4.jpg",
-            "images/2T2GDCAZ8SC019806/image_5.jpg",
-            "images/2T2GDCAZ8SC019806/image_6.jpg",
-            "images/2T2GDCAZ8SC019806/image_7.jpg",
-            "images/2T2GDCAZ8SC019806/image_8.jpg"
+            "images/2T2GDCAZ8SC019806/image_5.jpg"
         ]
     },
     {
@@ -19579,10 +17476,7 @@ const vehicleData = [
             "images/JTHCA1D21R5131982/image_2.jpg",
             "images/JTHCA1D21R5131982/image_3.jpg",
             "images/JTHCA1D21R5131982/image_4.jpg",
-            "images/JTHCA1D21R5131982/image_5.jpg",
-            "images/JTHCA1D21R5131982/image_6.jpg",
-            "images/JTHCA1D21R5131982/image_7.jpg",
-            "images/JTHCA1D21R5131982/image_8.jpg"
+            "images/JTHCA1D21R5131982/image_5.jpg"
         ]
     },
     {
@@ -19610,10 +17504,7 @@ const vehicleData = [
             "images/58ADZ1B16RU172532/image_2.jpg",
             "images/58ADZ1B16RU172532/image_3.jpg",
             "images/58ADZ1B16RU172532/image_4.jpg",
-            "images/58ADZ1B16RU172532/image_5.jpg",
-            "images/58ADZ1B16RU172532/image_6.jpg",
-            "images/58ADZ1B16RU172532/image_7.jpg",
-            "images/58ADZ1B16RU172532/image_8.jpg"
+            "images/58ADZ1B16RU172532/image_5.jpg"
         ]
     },
     {
@@ -19641,10 +17532,7 @@ const vehicleData = [
             "images/JTJCHMAA7P2003980/image_2.jpg",
             "images/JTJCHMAA7P2003980/image_3.jpg",
             "images/JTJCHMAA7P2003980/image_4.jpg",
-            "images/JTJCHMAA7P2003980/image_5.jpg",
-            "images/JTJCHMAA7P2003980/image_6.jpg",
-            "images/JTJCHMAA7P2003980/image_7.jpg",
-            "images/JTJCHMAA7P2003980/image_8.jpg"
+            "images/JTJCHMAA7P2003980/image_5.jpg"
         ]
     },
     {
@@ -19672,10 +17560,7 @@ const vehicleData = [
             "images/2T2BCMEA0RC020014/image_2.jpg",
             "images/2T2BCMEA0RC020014/image_3.jpg",
             "images/2T2BCMEA0RC020014/image_4.jpg",
-            "images/2T2BCMEA0RC020014/image_5.jpg",
-            "images/2T2BCMEA0RC020014/image_6.jpg",
-            "images/2T2BCMEA0RC020014/image_7.jpg",
-            "images/2T2BCMEA0RC020014/image_8.jpg"
+            "images/2T2BCMEA0RC020014/image_5.jpg"
         ]
     },
     {
@@ -19703,10 +17588,7 @@ const vehicleData = [
             "images/2T2BAMBA4RC023136/image_2.jpg",
             "images/2T2BAMBA4RC023136/image_3.jpg",
             "images/2T2BAMBA4RC023136/image_4.jpg",
-            "images/2T2BAMBA4RC023136/image_5.jpg",
-            "images/2T2BAMBA4RC023136/image_6.jpg",
-            "images/2T2BAMBA4RC023136/image_7.jpg",
-            "images/2T2BAMBA4RC023136/image_8.jpg"
+            "images/2T2BAMBA4RC023136/image_5.jpg"
         ]
     },
     {
@@ -19734,10 +17616,7 @@ const vehicleData = [
             "images/JTJCHMAAXP2005934/image_2.jpg",
             "images/JTJCHMAAXP2005934/image_3.jpg",
             "images/JTJCHMAAXP2005934/image_4.jpg",
-            "images/JTJCHMAAXP2005934/image_5.jpg",
-            "images/JTJCHMAAXP2005934/image_6.jpg",
-            "images/JTJCHMAAXP2005934/image_7.jpg",
-            "images/JTJCHMAAXP2005934/image_8.jpg"
+            "images/JTJCHMAAXP2005934/image_5.jpg"
         ]
     },
     {
@@ -19765,10 +17644,7 @@ const vehicleData = [
             "images/58AJZ1B15RU168474/image_2.jpg",
             "images/58AJZ1B15RU168474/image_3.jpg",
             "images/58AJZ1B15RU168474/image_4.jpg",
-            "images/58AJZ1B15RU168474/image_5.jpg",
-            "images/58AJZ1B15RU168474/image_6.jpg",
-            "images/58AJZ1B15RU168474/image_7.jpg",
-            "images/58AJZ1B15RU168474/image_8.jpg"
+            "images/58AJZ1B15RU168474/image_5.jpg"
         ]
     },
     {
@@ -19796,10 +17672,7 @@ const vehicleData = [
             "images/JTJGDCAZ6R5018890/image_2.jpg",
             "images/JTJGDCAZ6R5018890/image_3.jpg",
             "images/JTJGDCAZ6R5018890/image_4.jpg",
-            "images/JTJGDCAZ6R5018890/image_5.jpg",
-            "images/JTJGDCAZ6R5018890/image_6.jpg",
-            "images/JTJGDCAZ6R5018890/image_7.jpg",
-            "images/JTJGDCAZ6R5018890/image_8.jpg"
+            "images/JTJGDCAZ6R5018890/image_5.jpg"
         ]
     },
     {
@@ -19827,10 +17700,7 @@ const vehicleData = [
             "images/58ADA1C14SU058962/image_2.jpg",
             "images/58ADA1C14SU058962/image_3.jpg",
             "images/58ADA1C14SU058962/image_4.jpg",
-            "images/58ADA1C14SU058962/image_5.jpg",
-            "images/58ADA1C14SU058962/image_6.jpg",
-            "images/58ADA1C14SU058962/image_7.jpg",
-            "images/58ADA1C14SU058962/image_8.jpg"
+            "images/58ADA1C14SU058962/image_5.jpg"
         ]
     },
     {
@@ -19858,10 +17728,7 @@ const vehicleData = [
             "images/JTJAM7BX4P5372317/image_2.jpg",
             "images/JTJAM7BX4P5372317/image_3.jpg",
             "images/JTJAM7BX4P5372317/image_4.jpg",
-            "images/JTJAM7BX4P5372317/image_5.jpg",
-            "images/JTJAM7BX4P5372317/image_6.jpg",
-            "images/JTJAM7BX4P5372317/image_7.jpg",
-            "images/JTJAM7BX4P5372317/image_8.jpg"
+            "images/JTJAM7BX4P5372317/image_5.jpg"
         ]
     },
     {
@@ -19889,10 +17756,7 @@ const vehicleData = [
             "images/2T2BAMCA9RC051335/image_2.jpg",
             "images/2T2BAMCA9RC051335/image_3.jpg",
             "images/2T2BAMCA9RC051335/image_4.jpg",
-            "images/2T2BAMCA9RC051335/image_5.jpg",
-            "images/2T2BAMCA9RC051335/image_6.jpg",
-            "images/2T2BAMCA9RC051335/image_7.jpg",
-            "images/2T2BAMCA9RC051335/image_8.jpg"
+            "images/2T2BAMCA9RC051335/image_5.jpg"
         ]
     },
     {
@@ -19920,10 +17784,7 @@ const vehicleData = [
             "images/JTHDA1D22S5133556/image_2.jpg",
             "images/JTHDA1D22S5133556/image_3.jpg",
             "images/JTHDA1D22S5133556/image_4.jpg",
-            "images/JTHDA1D22S5133556/image_5.jpg",
-            "images/JTHDA1D22S5133556/image_6.jpg",
-            "images/JTHDA1D22S5133556/image_7.jpg",
-            "images/JTHDA1D22S5133556/image_8.jpg"
+            "images/JTHDA1D22S5133556/image_5.jpg"
         ]
     },
     {
@@ -19951,10 +17812,7 @@ const vehicleData = [
             "images/JTJCHMAA6R2020823/image_2.jpg",
             "images/JTJCHMAA6R2020823/image_3.jpg",
             "images/JTJCHMAA6R2020823/image_4.jpg",
-            "images/JTJCHMAA6R2020823/image_5.jpg",
-            "images/JTJCHMAA6R2020823/image_6.jpg",
-            "images/JTJCHMAA6R2020823/image_7.jpg",
-            "images/JTJCHMAA6R2020823/image_8.jpg"
+            "images/JTJCHMAA6R2020823/image_5.jpg"
         ]
     },
     {
@@ -19982,10 +17840,7 @@ const vehicleData = [
             "images/SALWG2SU2LA746622/image_2.jpg",
             "images/SALWG2SU2LA746622/image_3.jpg",
             "images/SALWG2SU2LA746622/image_4.jpg",
-            "images/SALWG2SU2LA746622/image_5.jpg",
-            "images/SALWG2SU2LA746622/image_6.jpg",
-            "images/SALWG2SU2LA746622/image_7.jpg",
-            "images/SALWG2SU2LA746622/image_8.jpg"
+            "images/SALWG2SU2LA746622/image_5.jpg"
         ]
     },
     {
@@ -20013,10 +17868,7 @@ const vehicleData = [
             "images/4S4WMAAD9S3419306/image_2.jpg",
             "images/4S4WMAAD9S3419306/image_3.jpg",
             "images/4S4WMAAD9S3419306/image_4.jpg",
-            "images/4S4WMAAD9S3419306/image_5.jpg",
-            "images/4S4WMAAD9S3419306/image_6.jpg",
-            "images/4S4WMAAD9S3419306/image_7.jpg",
-            "images/4S4WMAAD9S3419306/image_8.jpg"
+            "images/4S4WMAAD9S3419306/image_5.jpg"
         ]
     },
     {
@@ -20044,10 +17896,7 @@ const vehicleData = [
             "images/2T2GGCEZ3PC031645/image_2.jpg",
             "images/2T2GGCEZ3PC031645/image_3.jpg",
             "images/2T2GGCEZ3PC031645/image_4.jpg",
-            "images/2T2GGCEZ3PC031645/image_5.jpg",
-            "images/2T2GGCEZ3PC031645/image_6.jpg",
-            "images/2T2GGCEZ3PC031645/image_7.jpg",
-            "images/2T2GGCEZ3PC031645/image_8.jpg"
+            "images/2T2GGCEZ3PC031645/image_5.jpg"
         ]
     },
     {
@@ -20075,10 +17924,7 @@ const vehicleData = [
             "images/5YJ3E1EB8MF906905/image_2.jpg",
             "images/5YJ3E1EB8MF906905/image_3.jpg",
             "images/5YJ3E1EB8MF906905/image_4.jpg",
-            "images/5YJ3E1EB8MF906905/image_5.jpg",
-            "images/5YJ3E1EB8MF906905/image_6.jpg",
-            "images/5YJ3E1EB8MF906905/image_7.jpg",
-            "images/5YJ3E1EB8MF906905/image_8.jpg"
+            "images/5YJ3E1EB8MF906905/image_5.jpg"
         ]
     },
     {
@@ -20106,10 +17952,7 @@ const vehicleData = [
             "images/JF2SKAWC7KH591332/image_2.jpg",
             "images/JF2SKAWC7KH591332/image_3.jpg",
             "images/JF2SKAWC7KH591332/image_4.jpg",
-            "images/JF2SKAWC7KH591332/image_5.jpg",
-            "images/JF2SKAWC7KH591332/image_6.jpg",
-            "images/JF2SKAWC7KH591332/image_7.jpg",
-            "images/JF2SKAWC7KH591332/image_8.jpg"
+            "images/JF2SKAWC7KH591332/image_5.jpg"
         ]
     },
     {
@@ -20137,10 +17980,7 @@ const vehicleData = [
             "images/JF2SKADCXPH455707/image_2.jpg",
             "images/JF2SKADCXPH455707/image_3.jpg",
             "images/JF2SKADCXPH455707/image_4.jpg",
-            "images/JF2SKADCXPH455707/image_5.jpg",
-            "images/JF2SKADCXPH455707/image_6.jpg",
-            "images/JF2SKADCXPH455707/image_7.jpg",
-            "images/JF2SKADCXPH455707/image_8.jpg"
+            "images/JF2SKADCXPH455707/image_5.jpg"
         ]
     },
     {
@@ -20168,10 +18008,7 @@ const vehicleData = [
             "images/JTHCA1D28R5129615/image_2.jpg",
             "images/JTHCA1D28R5129615/image_3.jpg",
             "images/JTHCA1D28R5129615/image_4.jpg",
-            "images/JTHCA1D28R5129615/image_5.jpg",
-            "images/JTHCA1D28R5129615/image_6.jpg",
-            "images/JTHCA1D28R5129615/image_7.jpg",
-            "images/JTHCA1D28R5129615/image_8.jpg"
+            "images/JTHCA1D28R5129615/image_5.jpg"
         ]
     },
     {
@@ -20199,10 +18036,7 @@ const vehicleData = [
             "images/JTHCA1D23S5134226/image_2.jpg",
             "images/JTHCA1D23S5134226/image_3.jpg",
             "images/JTHCA1D23S5134226/image_4.jpg",
-            "images/JTHCA1D23S5134226/image_5.jpg",
-            "images/JTHCA1D23S5134226/image_6.jpg",
-            "images/JTHCA1D23S5134226/image_7.jpg",
-            "images/JTHCA1D23S5134226/image_8.jpg"
+            "images/JTHCA1D23S5134226/image_5.jpg"
         ]
     },
     {
@@ -20230,10 +18064,7 @@ const vehicleData = [
             "images/2T2GDCAZ8RC014339/image_2.jpg",
             "images/2T2GDCAZ8RC014339/image_3.jpg",
             "images/2T2GDCAZ8RC014339/image_4.jpg",
-            "images/2T2GDCAZ8RC014339/image_5.jpg",
-            "images/2T2GDCAZ8RC014339/image_6.jpg",
-            "images/2T2GDCAZ8RC014339/image_7.jpg",
-            "images/2T2GDCAZ8RC014339/image_8.jpg"
+            "images/2T2GDCAZ8RC014339/image_5.jpg"
         ]
     },
     {
@@ -20261,10 +18092,7 @@ const vehicleData = [
             "images/JTJSM7BX0P5346446/image_2.jpg",
             "images/JTJSM7BX0P5346446/image_3.jpg",
             "images/JTJSM7BX0P5346446/image_4.jpg",
-            "images/JTJSM7BX0P5346446/image_5.jpg",
-            "images/JTJSM7BX0P5346446/image_6.jpg",
-            "images/JTJSM7BX0P5346446/image_7.jpg",
-            "images/JTJSM7BX0P5346446/image_8.jpg"
+            "images/JTJSM7BX0P5346446/image_5.jpg"
         ]
     },
     {
@@ -20292,10 +18120,7 @@ const vehicleData = [
             "images/7SAYGDEEXPA102489/image_2.jpg",
             "images/7SAYGDEEXPA102489/image_3.jpg",
             "images/7SAYGDEEXPA102489/image_4.jpg",
-            "images/7SAYGDEEXPA102489/image_5.jpg",
-            "images/7SAYGDEEXPA102489/image_6.jpg",
-            "images/7SAYGDEEXPA102489/image_7.jpg",
-            "images/7SAYGDEEXPA102489/image_8.jpg"
+            "images/7SAYGDEEXPA102489/image_5.jpg"
         ]
     },
     {
@@ -20323,10 +18148,7 @@ const vehicleData = [
             "images/2T2BAMBA6PC009543/image_2.jpg",
             "images/2T2BAMBA6PC009543/image_3.jpg",
             "images/2T2BAMBA6PC009543/image_4.jpg",
-            "images/2T2BAMBA6PC009543/image_5.jpg",
-            "images/2T2BAMBA6PC009543/image_6.jpg",
-            "images/2T2BAMBA6PC009543/image_7.jpg",
-            "images/2T2BAMBA6PC009543/image_8.jpg"
+            "images/2T2BAMBA6PC009543/image_5.jpg"
         ]
     },
     {
@@ -20354,10 +18176,7 @@ const vehicleData = [
             "images/2T2GDCAZ1SC022062/image_2.jpg",
             "images/2T2GDCAZ1SC022062/image_3.jpg",
             "images/2T2GDCAZ1SC022062/image_4.jpg",
-            "images/2T2GDCAZ1SC022062/image_5.jpg",
-            "images/2T2GDCAZ1SC022062/image_6.jpg",
-            "images/2T2GDCAZ1SC022062/image_7.jpg",
-            "images/2T2GDCAZ1SC022062/image_8.jpg"
+            "images/2T2GDCAZ1SC022062/image_5.jpg"
         ]
     },
     {
@@ -20385,10 +18204,7 @@ const vehicleData = [
             "images/2T2GGCEZ0PC018710/image_2.jpg",
             "images/2T2GGCEZ0PC018710/image_3.jpg",
             "images/2T2GGCEZ0PC018710/image_4.jpg",
-            "images/2T2GGCEZ0PC018710/image_5.jpg",
-            "images/2T2GGCEZ0PC018710/image_6.jpg",
-            "images/2T2GGCEZ0PC018710/image_7.jpg",
-            "images/2T2GGCEZ0PC018710/image_8.jpg"
+            "images/2T2GGCEZ0PC018710/image_5.jpg"
         ]
     },
     {
@@ -20416,10 +18232,7 @@ const vehicleData = [
             "images/JTJHKCEZ2S2062283/image_2.jpg",
             "images/JTJHKCEZ2S2062283/image_3.jpg",
             "images/JTJHKCEZ2S2062283/image_4.jpg",
-            "images/JTJHKCEZ2S2062283/image_5.jpg",
-            "images/JTJHKCEZ2S2062283/image_6.jpg",
-            "images/JTJHKCEZ2S2062283/image_7.jpg",
-            "images/JTJHKCEZ2S2062283/image_8.jpg"
+            "images/JTJHKCEZ2S2062283/image_5.jpg"
         ]
     },
     {
@@ -20447,10 +18260,7 @@ const vehicleData = [
             "images/JTHBZ1B28R5072145/image_2.jpg",
             "images/JTHBZ1B28R5072145/image_3.jpg",
             "images/JTHBZ1B28R5072145/image_4.jpg",
-            "images/JTHBZ1B28R5072145/image_5.jpg",
-            "images/JTHBZ1B28R5072145/image_6.jpg",
-            "images/JTHBZ1B28R5072145/image_7.jpg",
-            "images/JTHBZ1B28R5072145/image_8.jpg"
+            "images/JTHBZ1B28R5072145/image_5.jpg"
         ]
     },
     {
@@ -20478,10 +18288,7 @@ const vehicleData = [
             "images/JTJCHMAA7P2009164/image_2.jpg",
             "images/JTJCHMAA7P2009164/image_3.jpg",
             "images/JTJCHMAA7P2009164/image_4.jpg",
-            "images/JTJCHMAA7P2009164/image_5.jpg",
-            "images/JTJCHMAA7P2009164/image_6.jpg",
-            "images/JTJCHMAA7P2009164/image_7.jpg",
-            "images/JTJCHMAA7P2009164/image_8.jpg"
+            "images/JTJCHMAA7P2009164/image_5.jpg"
         ]
     },
     {
@@ -20509,10 +18316,7 @@ const vehicleData = [
             "images/2T2GDCAZ2NC001919/image_2.jpg",
             "images/2T2GDCAZ2NC001919/image_3.jpg",
             "images/2T2GDCAZ2NC001919/image_4.jpg",
-            "images/2T2GDCAZ2NC001919/image_5.jpg",
-            "images/2T2GDCAZ2NC001919/image_6.jpg",
-            "images/2T2GDCAZ2NC001919/image_7.jpg",
-            "images/2T2GDCAZ2NC001919/image_8.jpg"
+            "images/2T2GDCAZ2NC001919/image_5.jpg"
         ]
     },
     {
@@ -20540,10 +18344,7 @@ const vehicleData = [
             "images/JF1VBAU65P8808804/image_2.jpg",
             "images/JF1VBAU65P8808804/image_3.jpg",
             "images/JF1VBAU65P8808804/image_4.jpg",
-            "images/JF1VBAU65P8808804/image_5.jpg",
-            "images/JF1VBAU65P8808804/image_6.jpg",
-            "images/JF1VBAU65P8808804/image_7.jpg",
-            "images/JF1VBAU65P8808804/image_8.jpg"
+            "images/JF1VBAU65P8808804/image_5.jpg"
         ]
     },
     {
@@ -20571,10 +18372,7 @@ const vehicleData = [
             "images/4S4WMAND4R3407567/image_2.jpg",
             "images/4S4WMAND4R3407567/image_3.jpg",
             "images/4S4WMAND4R3407567/image_4.jpg",
-            "images/4S4WMAND4R3407567/image_5.jpg",
-            "images/4S4WMAND4R3407567/image_6.jpg",
-            "images/4S4WMAND4R3407567/image_7.jpg",
-            "images/4S4WMAND4R3407567/image_8.jpg"
+            "images/4S4WMAND4R3407567/image_5.jpg"
         ]
     },
     {
@@ -20602,10 +18400,7 @@ const vehicleData = [
             "images/JF1VBAH67R9800016/image_2.jpg",
             "images/JF1VBAH67R9800016/image_3.jpg",
             "images/JF1VBAH67R9800016/image_4.jpg",
-            "images/JF1VBAH67R9800016/image_5.jpg",
-            "images/JF1VBAH67R9800016/image_6.jpg",
-            "images/JF1VBAH67R9800016/image_7.jpg",
-            "images/JF1VBAH67R9800016/image_8.jpg"
+            "images/JF1VBAH67R9800016/image_5.jpg"
         ]
     },
     {
@@ -20633,10 +18428,7 @@ const vehicleData = [
             "images/1GNERGKW2PJ156798/image_2.jpg",
             "images/1GNERGKW2PJ156798/image_3.jpg",
             "images/1GNERGKW2PJ156798/image_4.jpg",
-            "images/1GNERGKW2PJ156798/image_5.jpg",
-            "images/1GNERGKW2PJ156798/image_6.jpg",
-            "images/1GNERGKW2PJ156798/image_7.jpg",
-            "images/1GNERGKW2PJ156798/image_8.jpg"
+            "images/1GNERGKW2PJ156798/image_5.jpg"
         ]
     },
     {
@@ -20664,10 +18456,7 @@ const vehicleData = [
             "images/4S4BTALC4P3185671/image_2.jpg",
             "images/4S4BTALC4P3185671/image_3.jpg",
             "images/4S4BTALC4P3185671/image_4.jpg",
-            "images/4S4BTALC4P3185671/image_5.jpg",
-            "images/4S4BTALC4P3185671/image_6.jpg",
-            "images/4S4BTALC4P3185671/image_7.jpg",
-            "images/4S4BTALC4P3185671/image_8.jpg"
+            "images/4S4BTALC4P3185671/image_5.jpg"
         ]
     },
     {
@@ -20695,10 +18484,7 @@ const vehicleData = [
             "images/JTJCHMAA6R2020238/image_2.jpg",
             "images/JTJCHMAA6R2020238/image_3.jpg",
             "images/JTJCHMAA6R2020238/image_4.jpg",
-            "images/JTJCHMAA6R2020238/image_5.jpg",
-            "images/JTJCHMAA6R2020238/image_6.jpg",
-            "images/JTJCHMAA6R2020238/image_7.jpg",
-            "images/JTJCHMAA6R2020238/image_8.jpg"
+            "images/JTJCHMAA6R2020238/image_5.jpg"
         ]
     },
     {
@@ -20726,10 +18512,7 @@ const vehicleData = [
             "images/2T2BCMEA4TC023750/image_2.jpg",
             "images/2T2BCMEA4TC023750/image_3.jpg",
             "images/2T2BCMEA4TC023750/image_4.jpg",
-            "images/2T2BCMEA4TC023750/image_5.jpg",
-            "images/2T2BCMEA4TC023750/image_6.jpg",
-            "images/2T2BCMEA4TC023750/image_7.jpg",
-            "images/2T2BCMEA4TC023750/image_8.jpg"
+            "images/2T2BCMEA4TC023750/image_5.jpg"
         ]
     },
     {
@@ -20757,10 +18540,7 @@ const vehicleData = [
             "images/JTHCA1D24R5132981/image_2.jpg",
             "images/JTHCA1D24R5132981/image_3.jpg",
             "images/JTHCA1D24R5132981/image_4.jpg",
-            "images/JTHCA1D24R5132981/image_5.jpg",
-            "images/JTHCA1D24R5132981/image_6.jpg",
-            "images/JTHCA1D24R5132981/image_7.jpg",
-            "images/JTHCA1D24R5132981/image_8.jpg"
+            "images/JTHCA1D24R5132981/image_5.jpg"
         ]
     },
     {
@@ -20788,10 +18568,7 @@ const vehicleData = [
             "images/JTHGZ5BC9S5028604/image_2.jpg",
             "images/JTHGZ5BC9S5028604/image_3.jpg",
             "images/JTHGZ5BC9S5028604/image_4.jpg",
-            "images/JTHGZ5BC9S5028604/image_5.jpg",
-            "images/JTHGZ5BC9S5028604/image_6.jpg",
-            "images/JTHGZ5BC9S5028604/image_7.jpg",
-            "images/JTHGZ5BC9S5028604/image_8.jpg"
+            "images/JTHGZ5BC9S5028604/image_5.jpg"
         ]
     },
     {
@@ -20819,10 +18596,7 @@ const vehicleData = [
             "images/58ADZ1B10SU199487/image_2.jpg",
             "images/58ADZ1B10SU199487/image_3.jpg",
             "images/58ADZ1B10SU199487/image_4.jpg",
-            "images/58ADZ1B10SU199487/image_5.jpg",
-            "images/58ADZ1B10SU199487/image_6.jpg",
-            "images/58ADZ1B10SU199487/image_7.jpg",
-            "images/58ADZ1B10SU199487/image_8.jpg"
+            "images/58ADZ1B10SU199487/image_5.jpg"
         ]
     },
     {
@@ -20850,10 +18624,7 @@ const vehicleData = [
             "images/JF2SKAPC9NH417135/image_2.jpg",
             "images/JF2SKAPC9NH417135/image_3.jpg",
             "images/JF2SKAPC9NH417135/image_4.jpg",
-            "images/JF2SKAPC9NH417135/image_5.jpg",
-            "images/JF2SKAPC9NH417135/image_6.jpg",
-            "images/JF2SKAPC9NH417135/image_7.jpg",
-            "images/JF2SKAPC9NH417135/image_8.jpg"
+            "images/JF2SKAPC9NH417135/image_5.jpg"
         ]
     },
     {
@@ -20881,10 +18652,7 @@ const vehicleData = [
             "images/JTHGZ1B29R5075223/image_2.jpg",
             "images/JTHGZ1B29R5075223/image_3.jpg",
             "images/JTHGZ1B29R5075223/image_4.jpg",
-            "images/JTHGZ1B29R5075223/image_5.jpg",
-            "images/JTHGZ1B29R5075223/image_6.jpg",
-            "images/JTHGZ1B29R5075223/image_7.jpg",
-            "images/JTHGZ1B29R5075223/image_8.jpg"
+            "images/JTHGZ1B29R5075223/image_5.jpg"
         ]
     },
     {
@@ -20912,10 +18680,7 @@ const vehicleData = [
             "images/58ADA1C19SU064966/image_2.jpg",
             "images/58ADA1C19SU064966/image_3.jpg",
             "images/58ADA1C19SU064966/image_4.jpg",
-            "images/58ADA1C19SU064966/image_5.jpg",
-            "images/58ADA1C19SU064966/image_6.jpg",
-            "images/58ADA1C19SU064966/image_7.jpg",
-            "images/58ADA1C19SU064966/image_8.jpg"
+            "images/58ADA1C19SU064966/image_5.jpg"
         ]
     },
     {
@@ -20943,10 +18708,7 @@ const vehicleData = [
             "images/JTHCA1D22R5132848/image_2.jpg",
             "images/JTHCA1D22R5132848/image_3.jpg",
             "images/JTHCA1D22R5132848/image_4.jpg",
-            "images/JTHCA1D22R5132848/image_5.jpg",
-            "images/JTHCA1D22R5132848/image_6.jpg",
-            "images/JTHCA1D22R5132848/image_7.jpg",
-            "images/JTHCA1D22R5132848/image_8.jpg"
+            "images/JTHCA1D22R5132848/image_5.jpg"
         ]
     },
     {
@@ -20974,10 +18736,7 @@ const vehicleData = [
             "images/JF2GTHNCXPH243819/image_2.jpg",
             "images/JF2GTHNCXPH243819/image_3.jpg",
             "images/JF2GTHNCXPH243819/image_4.jpg",
-            "images/JF2GTHNCXPH243819/image_5.jpg",
-            "images/JF2GTHNCXPH243819/image_6.jpg",
-            "images/JF2GTHNCXPH243819/image_7.jpg",
-            "images/JF2GTHNCXPH243819/image_8.jpg"
+            "images/JF2GTHNCXPH243819/image_5.jpg"
         ]
     },
     {
@@ -21005,10 +18764,7 @@ const vehicleData = [
             "images/2T2AGCEZ4TC096133/image_2.jpg",
             "images/2T2AGCEZ4TC096133/image_3.jpg",
             "images/2T2AGCEZ4TC096133/image_4.jpg",
-            "images/2T2AGCEZ4TC096133/image_5.jpg",
-            "images/2T2AGCEZ4TC096133/image_6.jpg",
-            "images/2T2AGCEZ4TC096133/image_7.jpg",
-            "images/2T2AGCEZ4TC096133/image_8.jpg"
+            "images/2T2AGCEZ4TC096133/image_5.jpg"
         ]
     },
     {
@@ -21036,10 +18792,7 @@ const vehicleData = [
             "images/JTJCHMAA9P2010011/image_2.jpg",
             "images/JTJCHMAA9P2010011/image_3.jpg",
             "images/JTJCHMAA9P2010011/image_4.jpg",
-            "images/JTJCHMAA9P2010011/image_5.jpg",
-            "images/JTJCHMAA9P2010011/image_6.jpg",
-            "images/JTJCHMAA9P2010011/image_7.jpg",
-            "images/JTJCHMAA9P2010011/image_8.jpg"
+            "images/JTJCHMAA9P2010011/image_5.jpg"
         ]
     },
     {
@@ -21067,10 +18820,7 @@ const vehicleData = [
             "images/2T2BAMCA3RC049189/image_2.jpg",
             "images/2T2BAMCA3RC049189/image_3.jpg",
             "images/2T2BAMCA3RC049189/image_4.jpg",
-            "images/2T2BAMCA3RC049189/image_5.jpg",
-            "images/2T2BAMCA3RC049189/image_6.jpg",
-            "images/2T2BAMCA3RC049189/image_7.jpg",
-            "images/2T2BAMCA3RC049189/image_8.jpg"
+            "images/2T2BAMCA3RC049189/image_5.jpg"
         ]
     },
     {
@@ -21098,10 +18848,7 @@ const vehicleData = [
             "images/WA1VAAF74JD006241/image_2.jpg",
             "images/WA1VAAF74JD006241/image_3.jpg",
             "images/WA1VAAF74JD006241/image_4.jpg",
-            "images/WA1VAAF74JD006241/image_5.jpg",
-            "images/WA1VAAF74JD006241/image_6.jpg",
-            "images/WA1VAAF74JD006241/image_7.jpg",
-            "images/WA1VAAF74JD006241/image_8.jpg"
+            "images/WA1VAAF74JD006241/image_5.jpg"
         ]
     },
     {
@@ -21129,10 +18876,7 @@ const vehicleData = [
             "images/2T2BAMBAXPC002594/image_2.jpg",
             "images/2T2BAMBAXPC002594/image_3.jpg",
             "images/2T2BAMBAXPC002594/image_4.jpg",
-            "images/2T2BAMBAXPC002594/image_5.jpg",
-            "images/2T2BAMBAXPC002594/image_6.jpg",
-            "images/2T2BAMBAXPC002594/image_7.jpg",
-            "images/2T2BAMBAXPC002594/image_8.jpg"
+            "images/2T2BAMBAXPC002594/image_5.jpg"
         ]
     },
     {
@@ -21160,10 +18904,7 @@ const vehicleData = [
             "images/3GTUUGET7NG632997/image_2.jpg",
             "images/3GTUUGET7NG632997/image_3.jpg",
             "images/3GTUUGET7NG632997/image_4.jpg",
-            "images/3GTUUGET7NG632997/image_5.jpg",
-            "images/3GTUUGET7NG632997/image_6.jpg",
-            "images/3GTUUGET7NG632997/image_7.jpg",
-            "images/3GTUUGET7NG632997/image_8.jpg"
+            "images/3GTUUGET7NG632997/image_5.jpg"
         ]
     },
     {
@@ -21191,10 +18932,7 @@ const vehicleData = [
             "images/2T2GGCEZ9NC006021/image_2.jpg",
             "images/2T2GGCEZ9NC006021/image_3.jpg",
             "images/2T2GGCEZ9NC006021/image_4.jpg",
-            "images/2T2GGCEZ9NC006021/image_5.jpg",
-            "images/2T2GGCEZ9NC006021/image_6.jpg",
-            "images/2T2GGCEZ9NC006021/image_7.jpg",
-            "images/2T2GGCEZ9NC006021/image_8.jpg"
+            "images/2T2GGCEZ9NC006021/image_5.jpg"
         ]
     },
     {
@@ -21222,10 +18960,7 @@ const vehicleData = [
             "images/JTJGDCAZ9R5020438/image_2.jpg",
             "images/JTJGDCAZ9R5020438/image_3.jpg",
             "images/JTJGDCAZ9R5020438/image_4.jpg",
-            "images/JTJGDCAZ9R5020438/image_5.jpg",
-            "images/JTJGDCAZ9R5020438/image_6.jpg",
-            "images/JTJGDCAZ9R5020438/image_7.jpg",
-            "images/JTJGDCAZ9R5020438/image_8.jpg"
+            "images/JTJGDCAZ9R5020438/image_5.jpg"
         ]
     },
     {
@@ -21253,10 +18988,7 @@ const vehicleData = [
             "images/2T2GDCAZ7RC005938/image_2.jpg",
             "images/2T2GDCAZ7RC005938/image_3.jpg",
             "images/2T2GDCAZ7RC005938/image_4.jpg",
-            "images/2T2GDCAZ7RC005938/image_5.jpg",
-            "images/2T2GDCAZ7RC005938/image_6.jpg",
-            "images/2T2GDCAZ7RC005938/image_7.jpg",
-            "images/2T2GDCAZ7RC005938/image_8.jpg"
+            "images/2T2GDCAZ7RC005938/image_5.jpg"
         ]
     },
     {
@@ -21284,10 +19016,7 @@ const vehicleData = [
             "images/58ADZ1B16SU199395/image_2.jpg",
             "images/58ADZ1B16SU199395/image_3.jpg",
             "images/58ADZ1B16SU199395/image_4.jpg",
-            "images/58ADZ1B16SU199395/image_5.jpg",
-            "images/58ADZ1B16SU199395/image_6.jpg",
-            "images/58ADZ1B16SU199395/image_7.jpg",
-            "images/58ADZ1B16SU199395/image_8.jpg"
+            "images/58ADZ1B16SU199395/image_5.jpg"
         ]
     },
     {
@@ -21315,10 +19044,7 @@ const vehicleData = [
             "images/58ADZ1B18SU199124/image_2.jpg",
             "images/58ADZ1B18SU199124/image_3.jpg",
             "images/58ADZ1B18SU199124/image_4.jpg",
-            "images/58ADZ1B18SU199124/image_5.jpg",
-            "images/58ADZ1B18SU199124/image_6.jpg",
-            "images/58ADZ1B18SU199124/image_7.jpg",
-            "images/58ADZ1B18SU199124/image_8.jpg"
+            "images/58ADZ1B18SU199124/image_5.jpg"
         ]
     },
     {
@@ -21346,10 +19072,7 @@ const vehicleData = [
             "images/4S4BTANC5R3175103/image_2.jpg",
             "images/4S4BTANC5R3175103/image_3.jpg",
             "images/4S4BTANC5R3175103/image_4.jpg",
-            "images/4S4BTANC5R3175103/image_5.jpg",
-            "images/4S4BTANC5R3175103/image_6.jpg",
-            "images/4S4BTANC5R3175103/image_7.jpg",
-            "images/4S4BTANC5R3175103/image_8.jpg"
+            "images/4S4BTANC5R3175103/image_5.jpg"
         ]
     },
     {
@@ -21377,10 +19100,7 @@ const vehicleData = [
             "images/58ADZ1B1XSU198024/image_2.jpg",
             "images/58ADZ1B1XSU198024/image_3.jpg",
             "images/58ADZ1B1XSU198024/image_4.jpg",
-            "images/58ADZ1B1XSU198024/image_5.jpg",
-            "images/58ADZ1B1XSU198024/image_6.jpg",
-            "images/58ADZ1B1XSU198024/image_7.jpg",
-            "images/58ADZ1B1XSU198024/image_8.jpg"
+            "images/58ADZ1B1XSU198024/image_5.jpg"
         ]
     },
     {
@@ -21408,10 +19128,7 @@ const vehicleData = [
             "images/58ADZ1B16SU186954/image_2.jpg",
             "images/58ADZ1B16SU186954/image_3.jpg",
             "images/58ADZ1B16SU186954/image_4.jpg",
-            "images/58ADZ1B16SU186954/image_5.jpg",
-            "images/58ADZ1B16SU186954/image_6.jpg",
-            "images/58ADZ1B16SU186954/image_7.jpg",
-            "images/58ADZ1B16SU186954/image_8.jpg"
+            "images/58ADZ1B16SU186954/image_5.jpg"
         ]
     },
     {
@@ -21439,10 +19156,7 @@ const vehicleData = [
             "images/JTHYBJAH8S2023717/image_2.jpg",
             "images/JTHYBJAH8S2023717/image_3.jpg",
             "images/JTHYBJAH8S2023717/image_4.jpg",
-            "images/JTHYBJAH8S2023717/image_5.jpg",
-            "images/JTHYBJAH8S2023717/image_6.jpg",
-            "images/JTHYBJAH8S2023717/image_7.jpg",
-            "images/JTHYBJAH8S2023717/image_8.jpg"
+            "images/JTHYBJAH8S2023717/image_5.jpg"
         ]
     },
     {
@@ -21470,10 +19184,7 @@ const vehicleData = [
             "images/58ADA1C19SU063588/image_2.jpg",
             "images/58ADA1C19SU063588/image_3.jpg",
             "images/58ADA1C19SU063588/image_4.jpg",
-            "images/58ADA1C19SU063588/image_5.jpg",
-            "images/58ADA1C19SU063588/image_6.jpg",
-            "images/58ADA1C19SU063588/image_7.jpg",
-            "images/58ADA1C19SU063588/image_8.jpg"
+            "images/58ADA1C19SU063588/image_5.jpg"
         ]
     },
     {
@@ -21501,10 +19212,7 @@ const vehicleData = [
             "images/58ADZ1B16SU199509/image_2.jpg",
             "images/58ADZ1B16SU199509/image_3.jpg",
             "images/58ADZ1B16SU199509/image_4.jpg",
-            "images/58ADZ1B16SU199509/image_5.jpg",
-            "images/58ADZ1B16SU199509/image_6.jpg",
-            "images/58ADZ1B16SU199509/image_7.jpg",
-            "images/58ADZ1B16SU199509/image_8.jpg"
+            "images/58ADZ1B16SU199509/image_5.jpg"
         ]
     },
     {
@@ -21532,10 +19240,7 @@ const vehicleData = [
             "images/5UXTY3C0XL9C41567/image_2.jpg",
             "images/5UXTY3C0XL9C41567/image_3.jpg",
             "images/5UXTY3C0XL9C41567/image_4.jpg",
-            "images/5UXTY3C0XL9C41567/image_5.jpg",
-            "images/5UXTY3C0XL9C41567/image_6.jpg",
-            "images/5UXTY3C0XL9C41567/image_7.jpg",
-            "images/5UXTY3C0XL9C41567/image_8.jpg"
+            "images/5UXTY3C0XL9C41567/image_5.jpg"
         ]
     },
     {
@@ -21563,10 +19268,7 @@ const vehicleData = [
             "images/JTHBZ1B24S5083472/image_2.jpg",
             "images/JTHBZ1B24S5083472/image_3.jpg",
             "images/JTHBZ1B24S5083472/image_4.jpg",
-            "images/JTHBZ1B24S5083472/image_5.jpg",
-            "images/JTHBZ1B24S5083472/image_6.jpg",
-            "images/JTHBZ1B24S5083472/image_7.jpg",
-            "images/JTHBZ1B24S5083472/image_8.jpg"
+            "images/JTHBZ1B24S5083472/image_5.jpg"
         ]
     },
     {
@@ -21594,10 +19296,7 @@ const vehicleData = [
             "images/JN8AY2ND6J9051959/image_2.jpg",
             "images/JN8AY2ND6J9051959/image_3.jpg",
             "images/JN8AY2ND6J9051959/image_4.jpg",
-            "images/JN8AY2ND6J9051959/image_5.jpg",
-            "images/JN8AY2ND6J9051959/image_6.jpg",
-            "images/JN8AY2ND6J9051959/image_7.jpg",
-            "images/JN8AY2ND6J9051959/image_8.jpg"
+            "images/JN8AY2ND6J9051959/image_5.jpg"
         ]
     },
     {
@@ -21625,10 +19324,7 @@ const vehicleData = [
             "images/JTJCHMAAXP2007912/image_2.jpg",
             "images/JTJCHMAAXP2007912/image_3.jpg",
             "images/JTJCHMAAXP2007912/image_4.jpg",
-            "images/JTJCHMAAXP2007912/image_5.jpg",
-            "images/JTJCHMAAXP2007912/image_6.jpg",
-            "images/JTJCHMAAXP2007912/image_7.jpg",
-            "images/JTJCHMAAXP2007912/image_8.jpg"
+            "images/JTJCHMAAXP2007912/image_5.jpg"
         ]
     },
     {
@@ -21656,10 +19352,7 @@ const vehicleData = [
             "images/2T2KGCEZ8NC014508/image_2.jpg",
             "images/2T2KGCEZ8NC014508/image_3.jpg",
             "images/2T2KGCEZ8NC014508/image_4.jpg",
-            "images/2T2KGCEZ8NC014508/image_5.jpg",
-            "images/2T2KGCEZ8NC014508/image_6.jpg",
-            "images/2T2KGCEZ8NC014508/image_7.jpg",
-            "images/2T2KGCEZ8NC014508/image_8.jpg"
+            "images/2T2KGCEZ8NC014508/image_5.jpg"
         ]
     },
     {
@@ -21687,10 +19380,7 @@ const vehicleData = [
             "images/JTJCHMAA0P2004615/image_2.jpg",
             "images/JTJCHMAA0P2004615/image_3.jpg",
             "images/JTJCHMAA0P2004615/image_4.jpg",
-            "images/JTJCHMAA0P2004615/image_5.jpg",
-            "images/JTJCHMAA0P2004615/image_6.jpg",
-            "images/JTJCHMAA0P2004615/image_7.jpg",
-            "images/JTJCHMAA0P2004615/image_8.jpg"
+            "images/JTJCHMAA0P2004615/image_5.jpg"
         ]
     },
     {
@@ -21718,10 +19408,7 @@ const vehicleData = [
             "images/2T2GDCAZ3RC015902/image_2.jpg",
             "images/2T2GDCAZ3RC015902/image_3.jpg",
             "images/2T2GDCAZ3RC015902/image_4.jpg",
-            "images/2T2GDCAZ3RC015902/image_5.jpg",
-            "images/2T2GDCAZ3RC015902/image_6.jpg",
-            "images/2T2GDCAZ3RC015902/image_7.jpg",
-            "images/2T2GDCAZ3RC015902/image_8.jpg"
+            "images/2T2GDCAZ3RC015902/image_5.jpg"
         ]
     },
     {
@@ -21749,10 +19436,7 @@ const vehicleData = [
             "images/58ADA1C10SU072745/image_2.jpg",
             "images/58ADA1C10SU072745/image_3.jpg",
             "images/58ADA1C10SU072745/image_4.jpg",
-            "images/58ADA1C10SU072745/image_5.jpg",
-            "images/58ADA1C10SU072745/image_6.jpg",
-            "images/58ADA1C10SU072745/image_7.jpg",
-            "images/58ADA1C10SU072745/image_8.jpg"
+            "images/58ADA1C10SU072745/image_5.jpg"
         ]
     },
     {
@@ -21780,10 +19464,7 @@ const vehicleData = [
             "images/58ADA1C11SU070843/image_2.jpg",
             "images/58ADA1C11SU070843/image_3.jpg",
             "images/58ADA1C11SU070843/image_4.jpg",
-            "images/58ADA1C11SU070843/image_5.jpg",
-            "images/58ADA1C11SU070843/image_6.jpg",
-            "images/58ADA1C11SU070843/image_7.jpg",
-            "images/58ADA1C11SU070843/image_8.jpg"
+            "images/58ADA1C11SU070843/image_5.jpg"
         ]
     },
     {
@@ -21811,10 +19492,7 @@ const vehicleData = [
             "images/JTHBZ1B21R5075307/image_2.jpg",
             "images/JTHBZ1B21R5075307/image_3.jpg",
             "images/JTHBZ1B21R5075307/image_4.jpg",
-            "images/JTHBZ1B21R5075307/image_5.jpg",
-            "images/JTHBZ1B21R5075307/image_6.jpg",
-            "images/JTHBZ1B21R5075307/image_7.jpg",
-            "images/JTHBZ1B21R5075307/image_8.jpg"
+            "images/JTHBZ1B21R5075307/image_5.jpg"
         ]
     },
     {
@@ -21842,10 +19520,7 @@ const vehicleData = [
             "images/YV4L12RF7P1359621/image_2.jpg",
             "images/YV4L12RF7P1359621/image_3.jpg",
             "images/YV4L12RF7P1359621/image_4.jpg",
-            "images/YV4L12RF7P1359621/image_5.jpg",
-            "images/YV4L12RF7P1359621/image_6.jpg",
-            "images/YV4L12RF7P1359621/image_7.jpg",
-            "images/YV4L12RF7P1359621/image_8.jpg"
+            "images/YV4L12RF7P1359621/image_5.jpg"
         ]
     },
     {
@@ -21873,10 +19548,7 @@ const vehicleData = [
             "images/19XFL1H81RE004936/image_2.jpg",
             "images/19XFL1H81RE004936/image_3.jpg",
             "images/19XFL1H81RE004936/image_4.jpg",
-            "images/19XFL1H81RE004936/image_5.jpg",
-            "images/19XFL1H81RE004936/image_6.jpg",
-            "images/19XFL1H81RE004936/image_7.jpg",
-            "images/19XFL1H81RE004936/image_8.jpg"
+            "images/19XFL1H81RE004936/image_5.jpg"
         ]
     },
     {
@@ -21904,10 +19576,7 @@ const vehicleData = [
             "images/JTJSARBZ9M5021327/image_2.jpg",
             "images/JTJSARBZ9M5021327/image_3.jpg",
             "images/JTJSARBZ9M5021327/image_4.jpg",
-            "images/JTJSARBZ9M5021327/image_5.jpg",
-            "images/JTJSARBZ9M5021327/image_6.jpg",
-            "images/JTJSARBZ9M5021327/image_7.jpg",
-            "images/JTJSARBZ9M5021327/image_8.jpg"
+            "images/JTJSARBZ9M5021327/image_5.jpg"
         ]
     },
     {
@@ -21935,10 +19604,7 @@ const vehicleData = [
             "images/JTJAM7BX8P5355407/image_2.jpg",
             "images/JTJAM7BX8P5355407/image_3.jpg",
             "images/JTJAM7BX8P5355407/image_4.jpg",
-            "images/JTJAM7BX8P5355407/image_5.jpg",
-            "images/JTJAM7BX8P5355407/image_6.jpg",
-            "images/JTJAM7BX8P5355407/image_7.jpg",
-            "images/JTJAM7BX8P5355407/image_8.jpg"
+            "images/JTJAM7BX8P5355407/image_5.jpg"
         ]
     },
     {
@@ -21966,10 +19632,7 @@ const vehicleData = [
             "images/JTJCHMAA1R2016775/image_2.jpg",
             "images/JTJCHMAA1R2016775/image_3.jpg",
             "images/JTJCHMAA1R2016775/image_4.jpg",
-            "images/JTJCHMAA1R2016775/image_5.jpg",
-            "images/JTJCHMAA1R2016775/image_6.jpg",
-            "images/JTJCHMAA1R2016775/image_7.jpg",
-            "images/JTJCHMAA1R2016775/image_8.jpg"
+            "images/JTJCHMAA1R2016775/image_5.jpg"
         ]
     },
     {
@@ -21997,10 +19660,7 @@ const vehicleData = [
             "images/JTJCHMAA1P2008141/image_2.jpg",
             "images/JTJCHMAA1P2008141/image_3.jpg",
             "images/JTJCHMAA1P2008141/image_4.jpg",
-            "images/JTJCHMAA1P2008141/image_5.jpg",
-            "images/JTJCHMAA1P2008141/image_6.jpg",
-            "images/JTJCHMAA1P2008141/image_7.jpg",
-            "images/JTJCHMAA1P2008141/image_8.jpg"
+            "images/JTJCHMAA1P2008141/image_5.jpg"
         ]
     },
     {
@@ -22028,10 +19688,7 @@ const vehicleData = [
             "images/JTJGGCEZ2R5006320/image_2.jpg",
             "images/JTJGGCEZ2R5006320/image_3.jpg",
             "images/JTJGGCEZ2R5006320/image_4.jpg",
-            "images/JTJGGCEZ2R5006320/image_5.jpg",
-            "images/JTJGGCEZ2R5006320/image_6.jpg",
-            "images/JTJGGCEZ2R5006320/image_7.jpg",
-            "images/JTJGGCEZ2R5006320/image_8.jpg"
+            "images/JTJGGCEZ2R5006320/image_5.jpg"
         ]
     },
     {
@@ -22059,10 +19716,7 @@ const vehicleData = [
             "images/58ACZ1B10PU151054/image_2.jpg",
             "images/58ACZ1B10PU151054/image_3.jpg",
             "images/58ACZ1B10PU151054/image_4.jpg",
-            "images/58ACZ1B10PU151054/image_5.jpg",
-            "images/58ACZ1B10PU151054/image_6.jpg",
-            "images/58ACZ1B10PU151054/image_7.jpg",
-            "images/58ACZ1B10PU151054/image_8.jpg"
+            "images/58ACZ1B10PU151054/image_5.jpg"
         ]
     },
     {
@@ -22090,10 +19744,7 @@ const vehicleData = [
             "images/JF2SKAXC6LH580838/image_2.jpg",
             "images/JF2SKAXC6LH580838/image_3.jpg",
             "images/JF2SKAXC6LH580838/image_4.jpg",
-            "images/JF2SKAXC6LH580838/image_5.jpg",
-            "images/JF2SKAXC6LH580838/image_6.jpg",
-            "images/JF2SKAXC6LH580838/image_7.jpg",
-            "images/JF2SKAXC6LH580838/image_8.jpg"
+            "images/JF2SKAXC6LH580838/image_5.jpg"
         ]
     },
     {
@@ -22121,10 +19772,7 @@ const vehicleData = [
             "images/4JGFB5KB6PA863465/image_2.jpg",
             "images/4JGFB5KB6PA863465/image_3.jpg",
             "images/4JGFB5KB6PA863465/image_4.jpg",
-            "images/4JGFB5KB6PA863465/image_5.jpg",
-            "images/4JGFB5KB6PA863465/image_6.jpg",
-            "images/4JGFB5KB6PA863465/image_7.jpg",
-            "images/4JGFB5KB6PA863465/image_8.jpg"
+            "images/4JGFB5KB6PA863465/image_5.jpg"
         ]
     },
     {
@@ -22152,10 +19800,7 @@ const vehicleData = [
             "images/JF2SLDTCXSH556285/image_2.jpg",
             "images/JF2SLDTCXSH556285/image_3.jpg",
             "images/JF2SLDTCXSH556285/image_4.jpg",
-            "images/JF2SLDTCXSH556285/image_5.jpg",
-            "images/JF2SLDTCXSH556285/image_6.jpg",
-            "images/JF2SLDTCXSH556285/image_7.jpg",
-            "images/JF2SLDTCXSH556285/image_8.jpg"
+            "images/JF2SLDTCXSH556285/image_5.jpg"
         ]
     },
     {
@@ -22183,10 +19828,7 @@ const vehicleData = [
             "images/JTJAAAAB5PA018972/image_2.jpg",
             "images/JTJAAAAB5PA018972/image_3.jpg",
             "images/JTJAAAAB5PA018972/image_4.jpg",
-            "images/JTJAAAAB5PA018972/image_5.jpg",
-            "images/JTJAAAAB5PA018972/image_6.jpg",
-            "images/JTJAAAAB5PA018972/image_7.jpg",
-            "images/JTJAAAAB5PA018972/image_8.jpg"
+            "images/JTJAAAAB5PA018972/image_5.jpg"
         ]
     },
     {
@@ -22214,10 +19856,7 @@ const vehicleData = [
             "images/JTJAM7BX8N5314238/image_2.jpg",
             "images/JTJAM7BX8N5314238/image_3.jpg",
             "images/JTJAM7BX8N5314238/image_4.jpg",
-            "images/JTJAM7BX8N5314238/image_5.jpg",
-            "images/JTJAM7BX8N5314238/image_6.jpg",
-            "images/JTJAM7BX8N5314238/image_7.jpg",
-            "images/JTJAM7BX8N5314238/image_8.jpg"
+            "images/JTJAM7BX8N5314238/image_5.jpg"
         ]
     },
     {
@@ -22245,10 +19884,7 @@ const vehicleData = [
             "images/JM1NC2PF4C0223908/image_2.jpg",
             "images/JM1NC2PF4C0223908/image_3.jpg",
             "images/JM1NC2PF4C0223908/image_4.jpg",
-            "images/JM1NC2PF4C0223908/image_5.jpg",
-            "images/JM1NC2PF4C0223908/image_6.jpg",
-            "images/JM1NC2PF4C0223908/image_7.jpg",
-            "images/JM1NC2PF4C0223908/image_8.jpg"
+            "images/JM1NC2PF4C0223908/image_5.jpg"
         ]
     },
     {
@@ -22276,10 +19912,7 @@ const vehicleData = [
             "images/4S4BTANCXR3268618/image_2.jpg",
             "images/4S4BTANCXR3268618/image_3.jpg",
             "images/4S4BTANCXR3268618/image_4.jpg",
-            "images/4S4BTANCXR3268618/image_5.jpg",
-            "images/4S4BTANCXR3268618/image_6.jpg",
-            "images/4S4BTANCXR3268618/image_7.jpg",
-            "images/4S4BTANCXR3268618/image_8.jpg"
+            "images/4S4BTANCXR3268618/image_5.jpg"
         ]
     },
     {
@@ -22307,10 +19940,7 @@ const vehicleData = [
             "images/4S4BTGPD9P3197448/image_2.jpg",
             "images/4S4BTGPD9P3197448/image_3.jpg",
             "images/4S4BTGPD9P3197448/image_4.jpg",
-            "images/4S4BTGPD9P3197448/image_5.jpg",
-            "images/4S4BTGPD9P3197448/image_6.jpg",
-            "images/4S4BTGPD9P3197448/image_7.jpg",
-            "images/4S4BTGPD9P3197448/image_8.jpg"
+            "images/4S4BTGPD9P3197448/image_5.jpg"
         ]
     },
     {
@@ -22338,10 +19968,7 @@ const vehicleData = [
             "images/5TDAAAA67RS001036/image_2.jpg",
             "images/5TDAAAA67RS001036/image_3.jpg",
             "images/5TDAAAA67RS001036/image_4.jpg",
-            "images/5TDAAAA67RS001036/image_5.jpg",
-            "images/5TDAAAA67RS001036/image_6.jpg",
-            "images/5TDAAAA67RS001036/image_7.jpg",
-            "images/5TDAAAA67RS001036/image_8.jpg"
+            "images/5TDAAAA67RS001036/image_5.jpg"
         ]
     },
     {
@@ -22369,10 +19996,7 @@ const vehicleData = [
             "images/5FNYF9H58TB023960/image_2.jpg",
             "images/5FNYF9H58TB023960/image_3.jpg",
             "images/5FNYF9H58TB023960/image_4.jpg",
-            "images/5FNYF9H58TB023960/image_5.jpg",
-            "images/5FNYF9H58TB023960/image_6.jpg",
-            "images/5FNYF9H58TB023960/image_7.jpg",
-            "images/5FNYF9H58TB023960/image_8.jpg"
+            "images/5FNYF9H58TB023960/image_5.jpg"
         ]
     },
     {
@@ -22400,10 +20024,7 @@ const vehicleData = [
             "images/7FARS3H70SE005941/image_2.jpg",
             "images/7FARS3H70SE005941/image_3.jpg",
             "images/7FARS3H70SE005941/image_4.jpg",
-            "images/7FARS3H70SE005941/image_5.jpg",
-            "images/7FARS3H70SE005941/image_6.jpg",
-            "images/7FARS3H70SE005941/image_7.jpg",
-            "images/7FARS3H70SE005941/image_8.jpg"
+            "images/7FARS3H70SE005941/image_5.jpg"
         ]
     },
     {
@@ -22431,10 +20052,7 @@ const vehicleData = [
             "images/2T2HGCEZ6RC055137/image_2.jpg",
             "images/2T2HGCEZ6RC055137/image_3.jpg",
             "images/2T2HGCEZ6RC055137/image_4.jpg",
-            "images/2T2HGCEZ6RC055137/image_5.jpg",
-            "images/2T2HGCEZ6RC055137/image_6.jpg",
-            "images/2T2HGCEZ6RC055137/image_7.jpg",
-            "images/2T2HGCEZ6RC055137/image_8.jpg"
+            "images/2T2HGCEZ6RC055137/image_5.jpg"
         ]
     },
     {
@@ -22462,10 +20080,7 @@ const vehicleData = [
             "images/3MVDMBCM7RM640439/image_2.jpg",
             "images/3MVDMBCM7RM640439/image_3.jpg",
             "images/3MVDMBCM7RM640439/image_4.jpg",
-            "images/3MVDMBCM7RM640439/image_5.jpg",
-            "images/3MVDMBCM7RM640439/image_6.jpg",
-            "images/3MVDMBCM7RM640439/image_7.jpg",
-            "images/3MVDMBCM7RM640439/image_8.jpg"
+            "images/3MVDMBCM7RM640439/image_5.jpg"
         ]
     },
     {
@@ -22493,10 +20108,7 @@ const vehicleData = [
             "images/JTJCHMAA2P2002803/image_2.jpg",
             "images/JTJCHMAA2P2002803/image_3.jpg",
             "images/JTJCHMAA2P2002803/image_4.jpg",
-            "images/JTJCHMAA2P2002803/image_5.jpg",
-            "images/JTJCHMAA2P2002803/image_6.jpg",
-            "images/JTJCHMAA2P2002803/image_7.jpg",
-            "images/JTJCHMAA2P2002803/image_8.jpg"
+            "images/JTJCHMAA2P2002803/image_5.jpg"
         ]
     },
     {
@@ -22524,10 +20136,7 @@ const vehicleData = [
             "images/JTHBZ1B27R5073044/image_2.jpg",
             "images/JTHBZ1B27R5073044/image_3.jpg",
             "images/JTHBZ1B27R5073044/image_4.jpg",
-            "images/JTHBZ1B27R5073044/image_5.jpg",
-            "images/JTHBZ1B27R5073044/image_6.jpg",
-            "images/JTHBZ1B27R5073044/image_7.jpg",
-            "images/JTHBZ1B27R5073044/image_8.jpg"
+            "images/JTHBZ1B27R5073044/image_5.jpg"
         ]
     },
     {
@@ -22555,10 +20164,7 @@ const vehicleData = [
             "images/2T2GGCEZ4NC010316/image_2.jpg",
             "images/2T2GGCEZ4NC010316/image_3.jpg",
             "images/2T2GGCEZ4NC010316/image_4.jpg",
-            "images/2T2GGCEZ4NC010316/image_5.jpg",
-            "images/2T2GGCEZ4NC010316/image_6.jpg",
-            "images/2T2GGCEZ4NC010316/image_7.jpg",
-            "images/2T2GGCEZ4NC010316/image_8.jpg"
+            "images/2T2GGCEZ4NC010316/image_5.jpg"
         ]
     },
     {
@@ -22586,10 +20192,7 @@ const vehicleData = [
             "images/JTJGGCEZ1P2009627/image_2.jpg",
             "images/JTJGGCEZ1P2009627/image_3.jpg",
             "images/JTJGGCEZ1P2009627/image_4.jpg",
-            "images/JTJGGCEZ1P2009627/image_5.jpg",
-            "images/JTJGGCEZ1P2009627/image_6.jpg",
-            "images/JTJGGCEZ1P2009627/image_7.jpg",
-            "images/JTJGGCEZ1P2009627/image_8.jpg"
+            "images/JTJGGCEZ1P2009627/image_5.jpg"
         ]
     },
     {
@@ -22617,10 +20220,7 @@ const vehicleData = [
             "images/2T2GDCAZ6RC011259/image_2.jpg",
             "images/2T2GDCAZ6RC011259/image_3.jpg",
             "images/2T2GDCAZ6RC011259/image_4.jpg",
-            "images/2T2GDCAZ6RC011259/image_5.jpg",
-            "images/2T2GDCAZ6RC011259/image_6.jpg",
-            "images/2T2GDCAZ6RC011259/image_7.jpg",
-            "images/2T2GDCAZ6RC011259/image_8.jpg"
+            "images/2T2GDCAZ6RC011259/image_5.jpg"
         ]
     },
     {
@@ -22648,10 +20248,7 @@ const vehicleData = [
             "images/2T2GGCEZ9PC030533/image_2.jpg",
             "images/2T2GGCEZ9PC030533/image_3.jpg",
             "images/2T2GGCEZ9PC030533/image_4.jpg",
-            "images/2T2GGCEZ9PC030533/image_5.jpg",
-            "images/2T2GGCEZ9PC030533/image_6.jpg",
-            "images/2T2GGCEZ9PC030533/image_7.jpg",
-            "images/2T2GGCEZ9PC030533/image_8.jpg"
+            "images/2T2GGCEZ9PC030533/image_5.jpg"
         ]
     },
     {
@@ -22679,10 +20276,7 @@ const vehicleData = [
             "images/JTHBZ1B24S5085450/image_2.jpg",
             "images/JTHBZ1B24S5085450/image_3.jpg",
             "images/JTHBZ1B24S5085450/image_4.jpg",
-            "images/JTHBZ1B24S5085450/image_5.jpg",
-            "images/JTHBZ1B24S5085450/image_6.jpg",
-            "images/JTHBZ1B24S5085450/image_7.jpg",
-            "images/JTHBZ1B24S5085450/image_8.jpg"
+            "images/JTHBZ1B24S5085450/image_5.jpg"
         ]
     },
     {
@@ -22710,10 +20304,7 @@ const vehicleData = [
             "images/2T2BAMCA1RC060739/image_2.jpg",
             "images/2T2BAMCA1RC060739/image_3.jpg",
             "images/2T2BAMCA1RC060739/image_4.jpg",
-            "images/2T2BAMCA1RC060739/image_5.jpg",
-            "images/2T2BAMCA1RC060739/image_6.jpg",
-            "images/2T2BAMCA1RC060739/image_7.jpg",
-            "images/2T2BAMCA1RC060739/image_8.jpg"
+            "images/2T2BAMCA1RC060739/image_5.jpg"
         ]
     },
     {
@@ -22741,10 +20332,7 @@ const vehicleData = [
             "images/2T2ADCAZ3RC013203/image_2.jpg",
             "images/2T2ADCAZ3RC013203/image_3.jpg",
             "images/2T2ADCAZ3RC013203/image_4.jpg",
-            "images/2T2ADCAZ3RC013203/image_5.jpg",
-            "images/2T2ADCAZ3RC013203/image_6.jpg",
-            "images/2T2ADCAZ3RC013203/image_7.jpg",
-            "images/2T2ADCAZ3RC013203/image_8.jpg"
+            "images/2T2ADCAZ3RC013203/image_5.jpg"
         ]
     },
     {
@@ -22772,10 +20360,7 @@ const vehicleData = [
             "images/JTJGKCEZ4S5038674/image_2.jpg",
             "images/JTJGKCEZ4S5038674/image_3.jpg",
             "images/JTJGKCEZ4S5038674/image_4.jpg",
-            "images/JTJGKCEZ4S5038674/image_5.jpg",
-            "images/JTJGKCEZ4S5038674/image_6.jpg",
-            "images/JTJGKCEZ4S5038674/image_7.jpg",
-            "images/JTJGKCEZ4S5038674/image_8.jpg"
+            "images/JTJGKCEZ4S5038674/image_5.jpg"
         ]
     },
     {
@@ -22803,10 +20388,7 @@ const vehicleData = [
             "images/WBA7U2C07LBM62183/image_2.jpg",
             "images/WBA7U2C07LBM62183/image_3.jpg",
             "images/WBA7U2C07LBM62183/image_4.jpg",
-            "images/WBA7U2C07LBM62183/image_5.jpg",
-            "images/WBA7U2C07LBM62183/image_6.jpg",
-            "images/WBA7U2C07LBM62183/image_7.jpg",
-            "images/WBA7U2C07LBM62183/image_8.jpg"
+            "images/WBA7U2C07LBM62183/image_5.jpg"
         ]
     },
     {
@@ -22834,10 +20416,7 @@ const vehicleData = [
             "images/2T2BAMBA7PC010068/image_2.jpg",
             "images/2T2BAMBA7PC010068/image_3.jpg",
             "images/2T2BAMBA7PC010068/image_4.jpg",
-            "images/2T2BAMBA7PC010068/image_5.jpg",
-            "images/2T2BAMBA7PC010068/image_6.jpg",
-            "images/2T2BAMBA7PC010068/image_7.jpg",
-            "images/2T2BAMBA7PC010068/image_8.jpg"
+            "images/2T2BAMBA7PC010068/image_5.jpg"
         ]
     },
     {
@@ -22865,10 +20444,7 @@ const vehicleData = [
             "images/JF2SKAPCXNH435479/image_2.jpg",
             "images/JF2SKAPCXNH435479/image_3.jpg",
             "images/JF2SKAPCXNH435479/image_4.jpg",
-            "images/JF2SKAPCXNH435479/image_5.jpg",
-            "images/JF2SKAPCXNH435479/image_6.jpg",
-            "images/JF2SKAPCXNH435479/image_7.jpg",
-            "images/JF2SKAPCXNH435479/image_8.jpg"
+            "images/JF2SKAPCXNH435479/image_5.jpg"
         ]
     },
     {
@@ -22896,10 +20472,7 @@ const vehicleData = [
             "images/JF2SLDDC0SH590220/image_2.jpg",
             "images/JF2SLDDC0SH590220/image_3.jpg",
             "images/JF2SLDDC0SH590220/image_4.jpg",
-            "images/JF2SLDDC0SH590220/image_5.jpg",
-            "images/JF2SLDDC0SH590220/image_6.jpg",
-            "images/JF2SLDDC0SH590220/image_7.jpg",
-            "images/JF2SLDDC0SH590220/image_8.jpg"
+            "images/JF2SLDDC0SH590220/image_5.jpg"
         ]
     },
     {
@@ -22927,10 +20500,7 @@ const vehicleData = [
             "images/3VV2B7AX2LM136642/image_2.jpg",
             "images/3VV2B7AX2LM136642/image_3.jpg",
             "images/3VV2B7AX2LM136642/image_4.jpg",
-            "images/3VV2B7AX2LM136642/image_5.jpg",
-            "images/3VV2B7AX2LM136642/image_6.jpg",
-            "images/3VV2B7AX2LM136642/image_7.jpg",
-            "images/3VV2B7AX2LM136642/image_8.jpg"
+            "images/3VV2B7AX2LM136642/image_5.jpg"
         ]
     },
     {
@@ -22958,10 +20528,7 @@ const vehicleData = [
             "images/2HKRS3H76RH307936/image_2.jpg",
             "images/2HKRS3H76RH307936/image_3.jpg",
             "images/2HKRS3H76RH307936/image_4.jpg",
-            "images/2HKRS3H76RH307936/image_5.jpg",
-            "images/2HKRS3H76RH307936/image_6.jpg",
-            "images/2HKRS3H76RH307936/image_7.jpg",
-            "images/2HKRS3H76RH307936/image_8.jpg"
+            "images/2HKRS3H76RH307936/image_5.jpg"
         ]
     },
     {
@@ -22989,10 +20556,7 @@ const vehicleData = [
             "images/2T2GGCEZ7SC089377/image_2.jpg",
             "images/2T2GGCEZ7SC089377/image_3.jpg",
             "images/2T2GGCEZ7SC089377/image_4.jpg",
-            "images/2T2GGCEZ7SC089377/image_5.jpg",
-            "images/2T2GGCEZ7SC089377/image_6.jpg",
-            "images/2T2GGCEZ7SC089377/image_7.jpg",
-            "images/2T2GGCEZ7SC089377/image_8.jpg"
+            "images/2T2GGCEZ7SC089377/image_5.jpg"
         ]
     },
     {
@@ -23020,10 +20584,7 @@ const vehicleData = [
             "images/JF2SKAJC8LH421182/image_2.jpg",
             "images/JF2SKAJC8LH421182/image_3.jpg",
             "images/JF2SKAJC8LH421182/image_4.jpg",
-            "images/JF2SKAJC8LH421182/image_5.jpg",
-            "images/JF2SKAJC8LH421182/image_6.jpg",
-            "images/JF2SKAJC8LH421182/image_7.jpg",
-            "images/JF2SKAJC8LH421182/image_8.jpg"
+            "images/JF2SKAJC8LH421182/image_5.jpg"
         ]
     },
     {
@@ -23051,10 +20612,7 @@ const vehicleData = [
             "images/JF2GUADC2R8326749/image_2.jpg",
             "images/JF2GUADC2R8326749/image_3.jpg",
             "images/JF2GUADC2R8326749/image_4.jpg",
-            "images/JF2GUADC2R8326749/image_5.jpg",
-            "images/JF2GUADC2R8326749/image_6.jpg",
-            "images/JF2GUADC2R8326749/image_7.jpg",
-            "images/JF2GUADC2R8326749/image_8.jpg"
+            "images/JF2GUADC2R8326749/image_5.jpg"
         ]
     },
     {
@@ -23082,10 +20640,7 @@ const vehicleData = [
             "images/JTHYBJAH8S2009526/image_2.jpg",
             "images/JTHYBJAH8S2009526/image_3.jpg",
             "images/JTHYBJAH8S2009526/image_4.jpg",
-            "images/JTHYBJAH8S2009526/image_5.jpg",
-            "images/JTHYBJAH8S2009526/image_6.jpg",
-            "images/JTHYBJAH8S2009526/image_7.jpg",
-            "images/JTHYBJAH8S2009526/image_8.jpg"
+            "images/JTHYBJAH8S2009526/image_5.jpg"
         ]
     },
     {
@@ -23113,10 +20668,7 @@ const vehicleData = [
             "images/WAUFACF56NA024510/image_2.jpg",
             "images/WAUFACF56NA024510/image_3.jpg",
             "images/WAUFACF56NA024510/image_4.jpg",
-            "images/WAUFACF56NA024510/image_5.jpg",
-            "images/WAUFACF56NA024510/image_6.jpg",
-            "images/WAUFACF56NA024510/image_7.jpg",
-            "images/WAUFACF56NA024510/image_8.jpg"
+            "images/WAUFACF56NA024510/image_5.jpg"
         ]
     },
     {
@@ -23144,10 +20696,7 @@ const vehicleData = [
             "images/JTHBZ1B26S5087460/image_2.jpg",
             "images/JTHBZ1B26S5087460/image_3.jpg",
             "images/JTHBZ1B26S5087460/image_4.jpg",
-            "images/JTHBZ1B26S5087460/image_5.jpg",
-            "images/JTHBZ1B26S5087460/image_6.jpg",
-            "images/JTHBZ1B26S5087460/image_7.jpg",
-            "images/JTHBZ1B26S5087460/image_8.jpg"
+            "images/JTHBZ1B26S5087460/image_5.jpg"
         ]
     },
     {
@@ -23175,10 +20724,7 @@ const vehicleData = [
             "images/58ADA1C12SU068583/image_2.jpg",
             "images/58ADA1C12SU068583/image_3.jpg",
             "images/58ADA1C12SU068583/image_4.jpg",
-            "images/58ADA1C12SU068583/image_5.jpg",
-            "images/58ADA1C12SU068583/image_6.jpg",
-            "images/58ADA1C12SU068583/image_7.jpg",
-            "images/58ADA1C12SU068583/image_8.jpg"
+            "images/58ADA1C12SU068583/image_5.jpg"
         ]
     },
     {
@@ -23206,10 +20752,7 @@ const vehicleData = [
             "images/JTHBZ1B23S5089439/image_2.jpg",
             "images/JTHBZ1B23S5089439/image_3.jpg",
             "images/JTHBZ1B23S5089439/image_4.jpg",
-            "images/JTHBZ1B23S5089439/image_5.jpg",
-            "images/JTHBZ1B23S5089439/image_6.jpg",
-            "images/JTHBZ1B23S5089439/image_7.jpg",
-            "images/JTHBZ1B23S5089439/image_8.jpg"
+            "images/JTHBZ1B23S5089439/image_5.jpg"
         ]
     },
     {
@@ -23237,10 +20780,7 @@ const vehicleData = [
             "images/2T2HZMAA9LC166255/image_2.jpg",
             "images/2T2HZMAA9LC166255/image_3.jpg",
             "images/2T2HZMAA9LC166255/image_4.jpg",
-            "images/2T2HZMAA9LC166255/image_5.jpg",
-            "images/2T2HZMAA9LC166255/image_6.jpg",
-            "images/2T2HZMAA9LC166255/image_7.jpg",
-            "images/2T2HZMAA9LC166255/image_8.jpg"
+            "images/2T2HZMAA9LC166255/image_5.jpg"
         ]
     },
     {
@@ -23268,10 +20808,7 @@ const vehicleData = [
             "images/2T2BCMEA7RC015053/image_2.jpg",
             "images/2T2BCMEA7RC015053/image_3.jpg",
             "images/2T2BCMEA7RC015053/image_4.jpg",
-            "images/2T2BCMEA7RC015053/image_5.jpg",
-            "images/2T2BCMEA7RC015053/image_6.jpg",
-            "images/2T2BCMEA7RC015053/image_7.jpg",
-            "images/2T2BCMEA7RC015053/image_8.jpg"
+            "images/2T2BCMEA7RC015053/image_5.jpg"
         ]
     },
     {
@@ -23299,10 +20836,7 @@ const vehicleData = [
             "images/19UDE4H64PA023953/image_2.jpg",
             "images/19UDE4H64PA023953/image_3.jpg",
             "images/19UDE4H64PA023953/image_4.jpg",
-            "images/19UDE4H64PA023953/image_5.jpg",
-            "images/19UDE4H64PA023953/image_6.jpg",
-            "images/19UDE4H64PA023953/image_7.jpg",
-            "images/19UDE4H64PA023953/image_8.jpg"
+            "images/19UDE4H64PA023953/image_5.jpg"
         ]
     },
     {
@@ -23330,10 +20864,7 @@ const vehicleData = [
             "images/4S3BWAN62S3017619/image_2.jpg",
             "images/4S3BWAN62S3017619/image_3.jpg",
             "images/4S3BWAN62S3017619/image_4.jpg",
-            "images/4S3BWAN62S3017619/image_5.jpg",
-            "images/4S3BWAN62S3017619/image_6.jpg",
-            "images/4S3BWAN62S3017619/image_7.jpg",
-            "images/4S3BWAN62S3017619/image_8.jpg"
+            "images/4S3BWAN62S3017619/image_5.jpg"
         ]
     },
     {
@@ -23361,10 +20892,7 @@ const vehicleData = [
             "images/4S4WMAND1P3407619/image_2.jpg",
             "images/4S4WMAND1P3407619/image_3.jpg",
             "images/4S4WMAND1P3407619/image_4.jpg",
-            "images/4S4WMAND1P3407619/image_5.jpg",
-            "images/4S4WMAND1P3407619/image_6.jpg",
-            "images/4S4WMAND1P3407619/image_7.jpg",
-            "images/4S4WMAND1P3407619/image_8.jpg"
+            "images/4S4WMAND1P3407619/image_5.jpg"
         ]
     },
     {
@@ -23392,10 +20920,7 @@ const vehicleData = [
             "images/JTHDA1D27P5125086/image_2.jpg",
             "images/JTHDA1D27P5125086/image_3.jpg",
             "images/JTHDA1D27P5125086/image_4.jpg",
-            "images/JTHDA1D27P5125086/image_5.jpg",
-            "images/JTHDA1D27P5125086/image_6.jpg",
-            "images/JTHDA1D27P5125086/image_7.jpg",
-            "images/JTHDA1D27P5125086/image_8.jpg"
+            "images/JTHDA1D27P5125086/image_5.jpg"
         ]
     },
     {
@@ -23423,10 +20948,7 @@ const vehicleData = [
             "images/4JGFB6BB2NA679773/image_2.jpg",
             "images/4JGFB6BB2NA679773/image_3.jpg",
             "images/4JGFB6BB2NA679773/image_4.jpg",
-            "images/4JGFB6BB2NA679773/image_5.jpg",
-            "images/4JGFB6BB2NA679773/image_6.jpg",
-            "images/4JGFB6BB2NA679773/image_7.jpg",
-            "images/4JGFB6BB2NA679773/image_8.jpg"
+            "images/4JGFB6BB2NA679773/image_5.jpg"
         ]
     },
     {
@@ -23454,10 +20976,7 @@ const vehicleData = [
             "images/58ADZ1B15SU188081/image_2.jpg",
             "images/58ADZ1B15SU188081/image_3.jpg",
             "images/58ADZ1B15SU188081/image_4.jpg",
-            "images/58ADZ1B15SU188081/image_5.jpg",
-            "images/58ADZ1B15SU188081/image_6.jpg",
-            "images/58ADZ1B15SU188081/image_7.jpg",
-            "images/58ADZ1B15SU188081/image_8.jpg"
+            "images/58ADZ1B15SU188081/image_5.jpg"
         ]
     },
     {
@@ -23485,10 +21004,7 @@ const vehicleData = [
             "images/4S3BWAF60S3017598/image_2.jpg",
             "images/4S3BWAF60S3017598/image_3.jpg",
             "images/4S3BWAF60S3017598/image_4.jpg",
-            "images/4S3BWAF60S3017598/image_5.jpg",
-            "images/4S3BWAF60S3017598/image_6.jpg",
-            "images/4S3BWAF60S3017598/image_7.jpg",
-            "images/4S3BWAF60S3017598/image_8.jpg"
+            "images/4S3BWAF60S3017598/image_5.jpg"
         ]
     },
     {
@@ -23516,10 +21032,7 @@ const vehicleData = [
             "images/58ADZ1B14SU188699/image_2.jpg",
             "images/58ADZ1B14SU188699/image_3.jpg",
             "images/58ADZ1B14SU188699/image_4.jpg",
-            "images/58ADZ1B14SU188699/image_5.jpg",
-            "images/58ADZ1B14SU188699/image_6.jpg",
-            "images/58ADZ1B14SU188699/image_7.jpg",
-            "images/58ADZ1B14SU188699/image_8.jpg"
+            "images/58ADZ1B14SU188699/image_5.jpg"
         ]
     },
     {
@@ -23547,10 +21060,7 @@ const vehicleData = [
             "images/2T2BAMBA6PC005105/image_2.jpg",
             "images/2T2BAMBA6PC005105/image_3.jpg",
             "images/2T2BAMBA6PC005105/image_4.jpg",
-            "images/2T2BAMBA6PC005105/image_5.jpg",
-            "images/2T2BAMBA6PC005105/image_6.jpg",
-            "images/2T2BAMBA6PC005105/image_7.jpg",
-            "images/2T2BAMBA6PC005105/image_8.jpg"
+            "images/2T2BAMBA6PC005105/image_5.jpg"
         ]
     },
     {
@@ -23578,10 +21088,7 @@ const vehicleData = [
             "images/2T2GDCAZ3RC009095/image_2.jpg",
             "images/2T2GDCAZ3RC009095/image_3.jpg",
             "images/2T2GDCAZ3RC009095/image_4.jpg",
-            "images/2T2GDCAZ3RC009095/image_5.jpg",
-            "images/2T2GDCAZ3RC009095/image_6.jpg",
-            "images/2T2GDCAZ3RC009095/image_7.jpg",
-            "images/2T2GDCAZ3RC009095/image_8.jpg"
+            "images/2T2GDCAZ3RC009095/image_5.jpg"
         ]
     },
     {
@@ -23609,10 +21116,7 @@ const vehicleData = [
             "images/5TDAAAA61RS002165/image_2.jpg",
             "images/5TDAAAA61RS002165/image_3.jpg",
             "images/5TDAAAA61RS002165/image_4.jpg",
-            "images/5TDAAAA61RS002165/image_5.jpg",
-            "images/5TDAAAA61RS002165/image_6.jpg",
-            "images/5TDAAAA61RS002165/image_7.jpg",
-            "images/5TDAAAA61RS002165/image_8.jpg"
+            "images/5TDAAAA61RS002165/image_5.jpg"
         ]
     },
     {
@@ -23640,10 +21144,7 @@ const vehicleData = [
             "images/JTJHKCFZ2S2049113/image_2.jpg",
             "images/JTJHKCFZ2S2049113/image_3.jpg",
             "images/JTJHKCFZ2S2049113/image_4.jpg",
-            "images/JTJHKCFZ2S2049113/image_5.jpg",
-            "images/JTJHKCFZ2S2049113/image_6.jpg",
-            "images/JTJHKCFZ2S2049113/image_7.jpg",
-            "images/JTJHKCFZ2S2049113/image_8.jpg"
+            "images/JTJHKCFZ2S2049113/image_5.jpg"
         ]
     },
     {
@@ -23671,10 +21172,7 @@ const vehicleData = [
             "images/W1KAF4GB0RR224093/image_2.jpg",
             "images/W1KAF4GB0RR224093/image_3.jpg",
             "images/W1KAF4GB0RR224093/image_4.jpg",
-            "images/W1KAF4GB0RR224093/image_5.jpg",
-            "images/W1KAF4GB0RR224093/image_6.jpg",
-            "images/W1KAF4GB0RR224093/image_7.jpg",
-            "images/W1KAF4GB0RR224093/image_8.jpg"
+            "images/W1KAF4GB0RR224093/image_5.jpg"
         ]
     },
     {
@@ -23702,10 +21200,7 @@ const vehicleData = [
             "images/JTHR9JBH7N2063077/image_2.jpg",
             "images/JTHR9JBH7N2063077/image_3.jpg",
             "images/JTHR9JBH7N2063077/image_4.jpg",
-            "images/JTHR9JBH7N2063077/image_5.jpg",
-            "images/JTHR9JBH7N2063077/image_6.jpg",
-            "images/JTHR9JBH7N2063077/image_7.jpg",
-            "images/JTHR9JBH7N2063077/image_8.jpg"
+            "images/JTHR9JBH7N2063077/image_5.jpg"
         ]
     },
     {
@@ -23733,10 +21228,7 @@ const vehicleData = [
             "images/4S4GUHM60R3747024/image_2.jpg",
             "images/4S4GUHM60R3747024/image_3.jpg",
             "images/4S4GUHM60R3747024/image_4.jpg",
-            "images/4S4GUHM60R3747024/image_5.jpg",
-            "images/4S4GUHM60R3747024/image_6.jpg",
-            "images/4S4GUHM60R3747024/image_7.jpg",
-            "images/4S4GUHM60R3747024/image_8.jpg"
+            "images/4S4GUHM60R3747024/image_5.jpg"
         ]
     },
     {
@@ -23764,10 +21256,7 @@ const vehicleData = [
             "images/4S3BWAN66S3017624/image_2.jpg",
             "images/4S3BWAN66S3017624/image_3.jpg",
             "images/4S3BWAN66S3017624/image_4.jpg",
-            "images/4S3BWAN66S3017624/image_5.jpg",
-            "images/4S3BWAN66S3017624/image_6.jpg",
-            "images/4S3BWAN66S3017624/image_7.jpg",
-            "images/4S3BWAN66S3017624/image_8.jpg"
+            "images/4S3BWAN66S3017624/image_5.jpg"
         ]
     },
     {
@@ -23795,10 +21284,7 @@ const vehicleData = [
             "images/2T2BAMBA4PC015101/image_2.jpg",
             "images/2T2BAMBA4PC015101/image_3.jpg",
             "images/2T2BAMBA4PC015101/image_4.jpg",
-            "images/2T2BAMBA4PC015101/image_5.jpg",
-            "images/2T2BAMBA4PC015101/image_6.jpg",
-            "images/2T2BAMBA4PC015101/image_7.jpg",
-            "images/2T2BAMBA4PC015101/image_8.jpg"
+            "images/2T2BAMBA4PC015101/image_5.jpg"
         ]
     },
     {
@@ -23826,10 +21312,7 @@ const vehicleData = [
             "images/JTHCA1D22P5126982/image_2.jpg",
             "images/JTHCA1D22P5126982/image_3.jpg",
             "images/JTHCA1D22P5126982/image_4.jpg",
-            "images/JTHCA1D22P5126982/image_5.jpg",
-            "images/JTHCA1D22P5126982/image_6.jpg",
-            "images/JTHCA1D22P5126982/image_7.jpg",
-            "images/JTHCA1D22P5126982/image_8.jpg"
+            "images/JTHCA1D22P5126982/image_5.jpg"
         ]
     },
     {
@@ -23857,10 +21340,7 @@ const vehicleData = [
             "images/2T2GGCEZ2SC074463/image_2.jpg",
             "images/2T2GGCEZ2SC074463/image_3.jpg",
             "images/2T2GGCEZ2SC074463/image_4.jpg",
-            "images/2T2GGCEZ2SC074463/image_5.jpg",
-            "images/2T2GGCEZ2SC074463/image_6.jpg",
-            "images/2T2GGCEZ2SC074463/image_7.jpg",
-            "images/2T2GGCEZ2SC074463/image_8.jpg"
+            "images/2T2GGCEZ2SC074463/image_5.jpg"
         ]
     },
     {
@@ -23888,10 +21368,7 @@ const vehicleData = [
             "images/58ADZ1B12SU201191/image_2.jpg",
             "images/58ADZ1B12SU201191/image_3.jpg",
             "images/58ADZ1B12SU201191/image_4.jpg",
-            "images/58ADZ1B12SU201191/image_5.jpg",
-            "images/58ADZ1B12SU201191/image_6.jpg",
-            "images/58ADZ1B12SU201191/image_7.jpg",
-            "images/58ADZ1B12SU201191/image_8.jpg"
+            "images/58ADZ1B12SU201191/image_5.jpg"
         ]
     },
     {
@@ -23919,10 +21396,7 @@ const vehicleData = [
             "images/JF2SJABCXHH596333/image_2.jpg",
             "images/JF2SJABCXHH596333/image_3.jpg",
             "images/JF2SJABCXHH596333/image_4.jpg",
-            "images/JF2SJABCXHH596333/image_5.jpg",
-            "images/JF2SJABCXHH596333/image_6.jpg",
-            "images/JF2SJABCXHH596333/image_7.jpg",
-            "images/JF2SJABCXHH596333/image_8.jpg"
+            "images/JF2SJABCXHH596333/image_5.jpg"
         ]
     },
     {
@@ -23950,10 +21424,7 @@ const vehicleData = [
             "images/2T2BAMCA4PC025271/image_2.jpg",
             "images/2T2BAMCA4PC025271/image_3.jpg",
             "images/2T2BAMCA4PC025271/image_4.jpg",
-            "images/2T2BAMCA4PC025271/image_5.jpg",
-            "images/2T2BAMCA4PC025271/image_6.jpg",
-            "images/2T2BAMCA4PC025271/image_7.jpg",
-            "images/2T2BAMCA4PC025271/image_8.jpg"
+            "images/2T2BAMCA4PC025271/image_5.jpg"
         ]
     },
     {
@@ -23981,10 +21452,7 @@ const vehicleData = [
             "images/2T2GGCEZ1SC076916/image_2.jpg",
             "images/2T2GGCEZ1SC076916/image_3.jpg",
             "images/2T2GGCEZ1SC076916/image_4.jpg",
-            "images/2T2GGCEZ1SC076916/image_5.jpg",
-            "images/2T2GGCEZ1SC076916/image_6.jpg",
-            "images/2T2GGCEZ1SC076916/image_7.jpg",
-            "images/2T2GGCEZ1SC076916/image_8.jpg"
+            "images/2T2GGCEZ1SC076916/image_5.jpg"
         ]
     },
     {
@@ -24012,10 +21480,7 @@ const vehicleData = [
             "images/WBA53AK04R7R14978/image_2.jpg",
             "images/WBA53AK04R7R14978/image_3.jpg",
             "images/WBA53AK04R7R14978/image_4.jpg",
-            "images/WBA53AK04R7R14978/image_5.jpg",
-            "images/WBA53AK04R7R14978/image_6.jpg",
-            "images/WBA53AK04R7R14978/image_7.jpg",
-            "images/WBA53AK04R7R14978/image_8.jpg"
+            "images/WBA53AK04R7R14978/image_5.jpg"
         ]
     },
     {
@@ -24043,10 +21508,7 @@ const vehicleData = [
             "images/JTJCHMAA9P2002538/image_2.jpg",
             "images/JTJCHMAA9P2002538/image_3.jpg",
             "images/JTJCHMAA9P2002538/image_4.jpg",
-            "images/JTJCHMAA9P2002538/image_5.jpg",
-            "images/JTJCHMAA9P2002538/image_6.jpg",
-            "images/JTJCHMAA9P2002538/image_7.jpg",
-            "images/JTJCHMAA9P2002538/image_8.jpg"
+            "images/JTJCHMAA9P2002538/image_5.jpg"
         ]
     },
     {
@@ -24074,10 +21536,7 @@ const vehicleData = [
             "images/2T2GGCEZ6PC023622/image_2.jpg",
             "images/2T2GGCEZ6PC023622/image_3.jpg",
             "images/2T2GGCEZ6PC023622/image_4.jpg",
-            "images/2T2GGCEZ6PC023622/image_5.jpg",
-            "images/2T2GGCEZ6PC023622/image_6.jpg",
-            "images/2T2GGCEZ6PC023622/image_7.jpg",
-            "images/2T2GGCEZ6PC023622/image_8.jpg"
+            "images/2T2GGCEZ6PC023622/image_5.jpg"
         ]
     },
     {
@@ -24105,10 +21564,7 @@ const vehicleData = [
             "images/5UX43DP09P9S51366/image_2.jpg",
             "images/5UX43DP09P9S51366/image_3.jpg",
             "images/5UX43DP09P9S51366/image_4.jpg",
-            "images/5UX43DP09P9S51366/image_5.jpg",
-            "images/5UX43DP09P9S51366/image_6.jpg",
-            "images/5UX43DP09P9S51366/image_7.jpg",
-            "images/5UX43DP09P9S51366/image_8.jpg"
+            "images/5UX43DP09P9S51366/image_5.jpg"
         ]
     },
     {
@@ -24136,10 +21592,7 @@ const vehicleData = [
             "images/5TDAAAA65RS008227/image_2.jpg",
             "images/5TDAAAA65RS008227/image_3.jpg",
             "images/5TDAAAA65RS008227/image_4.jpg",
-            "images/5TDAAAA65RS008227/image_5.jpg",
-            "images/5TDAAAA65RS008227/image_6.jpg",
-            "images/5TDAAAA65RS008227/image_7.jpg",
-            "images/5TDAAAA65RS008227/image_8.jpg"
+            "images/5TDAAAA65RS008227/image_5.jpg"
         ]
     },
     {
@@ -24167,10 +21620,7 @@ const vehicleData = [
             "images/2T2ZZMCA3GC032137/image_2.jpg",
             "images/2T2ZZMCA3GC032137/image_3.jpg",
             "images/2T2ZZMCA3GC032137/image_4.jpg",
-            "images/2T2ZZMCA3GC032137/image_5.jpg",
-            "images/2T2ZZMCA3GC032137/image_6.jpg",
-            "images/2T2ZZMCA3GC032137/image_7.jpg",
-            "images/2T2ZZMCA3GC032137/image_8.jpg"
+            "images/2T2ZZMCA3GC032137/image_5.jpg"
         ]
     },
     {
@@ -24198,10 +21648,7 @@ const vehicleData = [
             "images/2T2GDCAZ5RC009647/image_2.jpg",
             "images/2T2GDCAZ5RC009647/image_3.jpg",
             "images/2T2GDCAZ5RC009647/image_4.jpg",
-            "images/2T2GDCAZ5RC009647/image_5.jpg",
-            "images/2T2GDCAZ5RC009647/image_6.jpg",
-            "images/2T2GDCAZ5RC009647/image_7.jpg",
-            "images/2T2GDCAZ5RC009647/image_8.jpg"
+            "images/2T2GDCAZ5RC009647/image_5.jpg"
         ]
     },
     {
@@ -24229,10 +21676,7 @@ const vehicleData = [
             "images/JTHGZ1B23S5085008/image_2.jpg",
             "images/JTHGZ1B23S5085008/image_3.jpg",
             "images/JTHGZ1B23S5085008/image_4.jpg",
-            "images/JTHGZ1B23S5085008/image_5.jpg",
-            "images/JTHGZ1B23S5085008/image_6.jpg",
-            "images/JTHGZ1B23S5085008/image_7.jpg",
-            "images/JTHGZ1B23S5085008/image_8.jpg"
+            "images/JTHGZ1B23S5085008/image_5.jpg"
         ]
     },
     {
@@ -24260,10 +21704,7 @@ const vehicleData = [
             "images/JTHCA1D24S5133960/image_2.jpg",
             "images/JTHCA1D24S5133960/image_3.jpg",
             "images/JTHCA1D24S5133960/image_4.jpg",
-            "images/JTHCA1D24S5133960/image_5.jpg",
-            "images/JTHCA1D24S5133960/image_6.jpg",
-            "images/JTHCA1D24S5133960/image_7.jpg",
-            "images/JTHCA1D24S5133960/image_8.jpg"
+            "images/JTHCA1D24S5133960/image_5.jpg"
         ]
     },
     {
@@ -24291,10 +21732,7 @@ const vehicleData = [
             "images/JF2SKALCXRH436711/image_2.jpg",
             "images/JF2SKALCXRH436711/image_3.jpg",
             "images/JF2SKALCXRH436711/image_4.jpg",
-            "images/JF2SKALCXRH436711/image_5.jpg",
-            "images/JF2SKALCXRH436711/image_6.jpg",
-            "images/JF2SKALCXRH436711/image_7.jpg",
-            "images/JF2SKALCXRH436711/image_8.jpg"
+            "images/JF2SKALCXRH436711/image_5.jpg"
         ]
     },
     {
@@ -24322,10 +21760,7 @@ const vehicleData = [
             "images/19UDE4H21PA026290/image_2.jpg",
             "images/19UDE4H21PA026290/image_3.jpg",
             "images/19UDE4H21PA026290/image_4.jpg",
-            "images/19UDE4H21PA026290/image_5.jpg",
-            "images/19UDE4H21PA026290/image_6.jpg",
-            "images/19UDE4H21PA026290/image_7.jpg",
-            "images/19UDE4H21PA026290/image_8.jpg"
+            "images/19UDE4H21PA026290/image_5.jpg"
         ]
     },
     {
@@ -24353,10 +21788,7 @@ const vehicleData = [
             "images/JTJCHMAA3R2016695/image_2.jpg",
             "images/JTJCHMAA3R2016695/image_3.jpg",
             "images/JTJCHMAA3R2016695/image_4.jpg",
-            "images/JTJCHMAA3R2016695/image_5.jpg",
-            "images/JTJCHMAA3R2016695/image_6.jpg",
-            "images/JTJCHMAA3R2016695/image_7.jpg",
-            "images/JTJCHMAA3R2016695/image_8.jpg"
+            "images/JTJCHMAA3R2016695/image_5.jpg"
         ]
     },
     {
@@ -24384,10 +21816,7 @@ const vehicleData = [
             "images/5FNYG2H53PB010995/image_2.jpg",
             "images/5FNYG2H53PB010995/image_3.jpg",
             "images/5FNYG2H53PB010995/image_4.jpg",
-            "images/5FNYG2H53PB010995/image_5.jpg",
-            "images/5FNYG2H53PB010995/image_6.jpg",
-            "images/5FNYG2H53PB010995/image_7.jpg",
-            "images/5FNYG2H53PB010995/image_8.jpg"
+            "images/5FNYG2H53PB010995/image_5.jpg"
         ]
     },
     {
@@ -24415,10 +21844,7 @@ const vehicleData = [
             "images/2T2GDCAZ0SC026068/image_2.jpg",
             "images/2T2GDCAZ0SC026068/image_3.jpg",
             "images/2T2GDCAZ0SC026068/image_4.jpg",
-            "images/2T2GDCAZ0SC026068/image_5.jpg",
-            "images/2T2GDCAZ0SC026068/image_6.jpg",
-            "images/2T2GDCAZ0SC026068/image_7.jpg",
-            "images/2T2GDCAZ0SC026068/image_8.jpg"
+            "images/2T2GDCAZ0SC026068/image_5.jpg"
         ]
     },
     {
@@ -24446,10 +21872,7 @@ const vehicleData = [
             "images/58ADZ1B12RU165514/image_2.jpg",
             "images/58ADZ1B12RU165514/image_3.jpg",
             "images/58ADZ1B12RU165514/image_4.jpg",
-            "images/58ADZ1B12RU165514/image_5.jpg",
-            "images/58ADZ1B12RU165514/image_6.jpg",
-            "images/58ADZ1B12RU165514/image_7.jpg",
-            "images/58ADZ1B12RU165514/image_8.jpg"
+            "images/58ADZ1B12RU165514/image_5.jpg"
         ]
     },
     {
@@ -24477,10 +21900,7 @@ const vehicleData = [
             "images/5TDAAAA69SS016370/image_2.jpg",
             "images/5TDAAAA69SS016370/image_3.jpg",
             "images/5TDAAAA69SS016370/image_4.jpg",
-            "images/5TDAAAA69SS016370/image_5.jpg",
-            "images/5TDAAAA69SS016370/image_6.jpg",
-            "images/5TDAAAA69SS016370/image_7.jpg",
-            "images/5TDAAAA69SS016370/image_8.jpg"
+            "images/5TDAAAA69SS016370/image_5.jpg"
         ]
     },
     {
@@ -24508,10 +21928,7 @@ const vehicleData = [
             "images/2T2BAMBA7PC008515/image_2.jpg",
             "images/2T2BAMBA7PC008515/image_3.jpg",
             "images/2T2BAMBA7PC008515/image_4.jpg",
-            "images/2T2BAMBA7PC008515/image_5.jpg",
-            "images/2T2BAMBA7PC008515/image_6.jpg",
-            "images/2T2BAMBA7PC008515/image_7.jpg",
-            "images/2T2BAMBA7PC008515/image_8.jpg"
+            "images/2T2BAMBA7PC008515/image_5.jpg"
         ]
     },
     {
@@ -24539,10 +21956,7 @@ const vehicleData = [
             "images/5J8TC1H61NL002852/image_2.jpg",
             "images/5J8TC1H61NL002852/image_3.jpg",
             "images/5J8TC1H61NL002852/image_4.jpg",
-            "images/5J8TC1H61NL002852/image_5.jpg",
-            "images/5J8TC1H61NL002852/image_6.jpg",
-            "images/5J8TC1H61NL002852/image_7.jpg",
-            "images/5J8TC1H61NL002852/image_8.jpg"
+            "images/5J8TC1H61NL002852/image_5.jpg"
         ]
     },
     {
@@ -24570,10 +21984,7 @@ const vehicleData = [
             "images/SALYJ2EX1PA363566/image_2.jpg",
             "images/SALYJ2EX1PA363566/image_3.jpg",
             "images/SALYJ2EX1PA363566/image_4.jpg",
-            "images/SALYJ2EX1PA363566/image_5.jpg",
-            "images/SALYJ2EX1PA363566/image_6.jpg",
-            "images/SALYJ2EX1PA363566/image_7.jpg",
-            "images/SALYJ2EX1PA363566/image_8.jpg"
+            "images/SALYJ2EX1PA363566/image_5.jpg"
         ]
     },
     {
@@ -24601,10 +22012,7 @@ const vehicleData = [
             "images/2T2BAMBA1RC043490/image_2.jpg",
             "images/2T2BAMBA1RC043490/image_3.jpg",
             "images/2T2BAMBA1RC043490/image_4.jpg",
-            "images/2T2BAMBA1RC043490/image_5.jpg",
-            "images/2T2BAMBA1RC043490/image_6.jpg",
-            "images/2T2BAMBA1RC043490/image_7.jpg",
-            "images/2T2BAMBA1RC043490/image_8.jpg"
+            "images/2T2BAMBA1RC043490/image_5.jpg"
         ]
     },
     {
@@ -24632,10 +22040,7 @@ const vehicleData = [
             "images/58ADZ1B1XSU201911/image_2.jpg",
             "images/58ADZ1B1XSU201911/image_3.jpg",
             "images/58ADZ1B1XSU201911/image_4.jpg",
-            "images/58ADZ1B1XSU201911/image_5.jpg",
-            "images/58ADZ1B1XSU201911/image_6.jpg",
-            "images/58ADZ1B1XSU201911/image_7.jpg",
-            "images/58ADZ1B1XSU201911/image_8.jpg"
+            "images/58ADZ1B1XSU201911/image_5.jpg"
         ]
     },
     {
@@ -24663,10 +22068,7 @@ const vehicleData = [
             "images/JTHGZ1B20S5084561/image_2.jpg",
             "images/JTHGZ1B20S5084561/image_3.jpg",
             "images/JTHGZ1B20S5084561/image_4.jpg",
-            "images/JTHGZ1B20S5084561/image_5.jpg",
-            "images/JTHGZ1B20S5084561/image_6.jpg",
-            "images/JTHGZ1B20S5084561/image_7.jpg",
-            "images/JTHGZ1B20S5084561/image_8.jpg"
+            "images/JTHGZ1B20S5084561/image_5.jpg"
         ]
     },
     {
@@ -24694,10 +22096,7 @@ const vehicleData = [
             "images/2T2GGCEZ9SC066540/image_2.jpg",
             "images/2T2GGCEZ9SC066540/image_3.jpg",
             "images/2T2GGCEZ9SC066540/image_4.jpg",
-            "images/2T2GGCEZ9SC066540/image_5.jpg",
-            "images/2T2GGCEZ9SC066540/image_6.jpg",
-            "images/2T2GGCEZ9SC066540/image_7.jpg",
-            "images/2T2GGCEZ9SC066540/image_8.jpg"
+            "images/2T2GGCEZ9SC066540/image_5.jpg"
         ]
     },
     {
@@ -24725,10 +22124,7 @@ const vehicleData = [
             "images/4S4BTGND9P3224781/image_2.jpg",
             "images/4S4BTGND9P3224781/image_3.jpg",
             "images/4S4BTGND9P3224781/image_4.jpg",
-            "images/4S4BTGND9P3224781/image_5.jpg",
-            "images/4S4BTGND9P3224781/image_6.jpg",
-            "images/4S4BTGND9P3224781/image_7.jpg",
-            "images/4S4BTGND9P3224781/image_8.jpg"
+            "images/4S4BTGND9P3224781/image_5.jpg"
         ]
     },
     {
@@ -24756,10 +22152,7 @@ const vehicleData = [
             "images/2T2BAMBA2PC004954/image_2.jpg",
             "images/2T2BAMBA2PC004954/image_3.jpg",
             "images/2T2BAMBA2PC004954/image_4.jpg",
-            "images/2T2BAMBA2PC004954/image_5.jpg",
-            "images/2T2BAMBA2PC004954/image_6.jpg",
-            "images/2T2BAMBA2PC004954/image_7.jpg",
-            "images/2T2BAMBA2PC004954/image_8.jpg"
+            "images/2T2BAMBA2PC004954/image_5.jpg"
         ]
     },
     {
@@ -24787,10 +22180,7 @@ const vehicleData = [
             "images/2T2GDCAZ4RC006660/image_2.jpg",
             "images/2T2GDCAZ4RC006660/image_3.jpg",
             "images/2T2GDCAZ4RC006660/image_4.jpg",
-            "images/2T2GDCAZ4RC006660/image_5.jpg",
-            "images/2T2GDCAZ4RC006660/image_6.jpg",
-            "images/2T2GDCAZ4RC006660/image_7.jpg",
-            "images/2T2GDCAZ4RC006660/image_8.jpg"
+            "images/2T2GDCAZ4RC006660/image_5.jpg"
         ]
     },
     {
@@ -24818,10 +22208,7 @@ const vehicleData = [
             "images/2T2BAMBA2PC007143/image_2.jpg",
             "images/2T2BAMBA2PC007143/image_3.jpg",
             "images/2T2BAMBA2PC007143/image_4.jpg",
-            "images/2T2BAMBA2PC007143/image_5.jpg",
-            "images/2T2BAMBA2PC007143/image_6.jpg",
-            "images/2T2BAMBA2PC007143/image_7.jpg",
-            "images/2T2BAMBA2PC007143/image_8.jpg"
+            "images/2T2BAMBA2PC007143/image_5.jpg"
         ]
     },
     {
@@ -24849,10 +22236,7 @@ const vehicleData = [
             "images/2T2BAMBAXRC030592/image_2.jpg",
             "images/2T2BAMBAXRC030592/image_3.jpg",
             "images/2T2BAMBAXRC030592/image_4.jpg",
-            "images/2T2BAMBAXRC030592/image_5.jpg",
-            "images/2T2BAMBAXRC030592/image_6.jpg",
-            "images/2T2BAMBAXRC030592/image_7.jpg",
-            "images/2T2BAMBAXRC030592/image_8.jpg"
+            "images/2T2BAMBAXRC030592/image_5.jpg"
         ]
     },
     {
@@ -24880,10 +22264,7 @@ const vehicleData = [
             "images/2T2GGCEZ9PC019483/image_2.jpg",
             "images/2T2GGCEZ9PC019483/image_3.jpg",
             "images/2T2GGCEZ9PC019483/image_4.jpg",
-            "images/2T2GGCEZ9PC019483/image_5.jpg",
-            "images/2T2GGCEZ9PC019483/image_6.jpg",
-            "images/2T2GGCEZ9PC019483/image_7.jpg",
-            "images/2T2GGCEZ9PC019483/image_8.jpg"
+            "images/2T2GGCEZ9PC019483/image_5.jpg"
         ]
     },
     {
@@ -24911,10 +22292,7 @@ const vehicleData = [
             "images/55SWF8DB1KU286995/image_2.jpg",
             "images/55SWF8DB1KU286995/image_3.jpg",
             "images/55SWF8DB1KU286995/image_4.jpg",
-            "images/55SWF8DB1KU286995/image_5.jpg",
-            "images/55SWF8DB1KU286995/image_6.jpg",
-            "images/55SWF8DB1KU286995/image_7.jpg",
-            "images/55SWF8DB1KU286995/image_8.jpg"
+            "images/55SWF8DB1KU286995/image_5.jpg"
         ]
     },
     {
@@ -24942,10 +22320,7 @@ const vehicleData = [
             "images/JTJCHMAA8P2008766/image_2.jpg",
             "images/JTJCHMAA8P2008766/image_3.jpg",
             "images/JTJCHMAA8P2008766/image_4.jpg",
-            "images/JTJCHMAA8P2008766/image_5.jpg",
-            "images/JTJCHMAA8P2008766/image_6.jpg",
-            "images/JTJCHMAA8P2008766/image_7.jpg",
-            "images/JTJCHMAA8P2008766/image_8.jpg"
+            "images/JTJCHMAA8P2008766/image_5.jpg"
         ]
     },
     {
@@ -24973,10 +22348,7 @@ const vehicleData = [
             "images/JTJCHMAA8R2019382/image_2.jpg",
             "images/JTJCHMAA8R2019382/image_3.jpg",
             "images/JTJCHMAA8R2019382/image_4.jpg",
-            "images/JTJCHMAA8R2019382/image_5.jpg",
-            "images/JTJCHMAA8R2019382/image_6.jpg",
-            "images/JTJCHMAA8R2019382/image_7.jpg",
-            "images/JTJCHMAA8R2019382/image_8.jpg"
+            "images/JTJCHMAA8R2019382/image_5.jpg"
         ]
     },
     {
@@ -25004,10 +22376,7 @@ const vehicleData = [
             "images/JTHBZ1B23S5083186/image_2.jpg",
             "images/JTHBZ1B23S5083186/image_3.jpg",
             "images/JTHBZ1B23S5083186/image_4.jpg",
-            "images/JTHBZ1B23S5083186/image_5.jpg",
-            "images/JTHBZ1B23S5083186/image_6.jpg",
-            "images/JTHBZ1B23S5083186/image_7.jpg",
-            "images/JTHBZ1B23S5083186/image_8.jpg"
+            "images/JTHBZ1B23S5083186/image_5.jpg"
         ]
     },
     {
@@ -25035,10 +22404,7 @@ const vehicleData = [
             "images/58ADZ1B19RU175232/image_2.jpg",
             "images/58ADZ1B19RU175232/image_3.jpg",
             "images/58ADZ1B19RU175232/image_4.jpg",
-            "images/58ADZ1B19RU175232/image_5.jpg",
-            "images/58ADZ1B19RU175232/image_6.jpg",
-            "images/58ADZ1B19RU175232/image_7.jpg",
-            "images/58ADZ1B19RU175232/image_8.jpg"
+            "images/58ADZ1B19RU175232/image_5.jpg"
         ]
     },
     {
@@ -25066,10 +22432,7 @@ const vehicleData = [
             "images/5XYK43DF5SG293968/image_2.jpg",
             "images/5XYK43DF5SG293968/image_3.jpg",
             "images/5XYK43DF5SG293968/image_4.jpg",
-            "images/5XYK43DF5SG293968/image_5.jpg",
-            "images/5XYK43DF5SG293968/image_6.jpg",
-            "images/5XYK43DF5SG293968/image_7.jpg",
-            "images/5XYK43DF5SG293968/image_8.jpg"
+            "images/5XYK43DF5SG293968/image_5.jpg"
         ]
     },
     {
@@ -25097,10 +22460,7 @@ const vehicleData = [
             "images/JTHD51FFXR5019657/image_2.jpg",
             "images/JTHD51FFXR5019657/image_3.jpg",
             "images/JTHD51FFXR5019657/image_4.jpg",
-            "images/JTHD51FFXR5019657/image_5.jpg",
-            "images/JTHD51FFXR5019657/image_6.jpg",
-            "images/JTHD51FFXR5019657/image_7.jpg",
-            "images/JTHD51FFXR5019657/image_8.jpg"
+            "images/JTHD51FFXR5019657/image_5.jpg"
         ]
     },
     {
@@ -25128,10 +22488,7 @@ const vehicleData = [
             "images/2T2GDCAZ9RC008176/image_2.jpg",
             "images/2T2GDCAZ9RC008176/image_3.jpg",
             "images/2T2GDCAZ9RC008176/image_4.jpg",
-            "images/2T2GDCAZ9RC008176/image_5.jpg",
-            "images/2T2GDCAZ9RC008176/image_6.jpg",
-            "images/2T2GDCAZ9RC008176/image_7.jpg",
-            "images/2T2GDCAZ9RC008176/image_8.jpg"
+            "images/2T2GDCAZ9RC008176/image_5.jpg"
         ]
     },
     {
@@ -25159,10 +22516,7 @@ const vehicleData = [
             "images/4S4BTGUD3P3114052/image_2.jpg",
             "images/4S4BTGUD3P3114052/image_3.jpg",
             "images/4S4BTGUD3P3114052/image_4.jpg",
-            "images/4S4BTGUD3P3114052/image_5.jpg",
-            "images/4S4BTGUD3P3114052/image_6.jpg",
-            "images/4S4BTGUD3P3114052/image_7.jpg",
-            "images/4S4BTGUD3P3114052/image_8.jpg"
+            "images/4S4BTGUD3P3114052/image_5.jpg"
         ]
     },
     {
@@ -25190,10 +22544,7 @@ const vehicleData = [
             "images/58ADZ1B14SU202486/image_2.jpg",
             "images/58ADZ1B14SU202486/image_3.jpg",
             "images/58ADZ1B14SU202486/image_4.jpg",
-            "images/58ADZ1B14SU202486/image_5.jpg",
-            "images/58ADZ1B14SU202486/image_6.jpg",
-            "images/58ADZ1B14SU202486/image_7.jpg",
-            "images/58ADZ1B14SU202486/image_8.jpg"
+            "images/58ADZ1B14SU202486/image_5.jpg"
         ]
     },
     {
@@ -25221,10 +22572,7 @@ const vehicleData = [
             "images/2T2BAMBA1PC020708/image_2.jpg",
             "images/2T2BAMBA1PC020708/image_3.jpg",
             "images/2T2BAMBA1PC020708/image_4.jpg",
-            "images/2T2BAMBA1PC020708/image_5.jpg",
-            "images/2T2BAMBA1PC020708/image_6.jpg",
-            "images/2T2BAMBA1PC020708/image_7.jpg",
-            "images/2T2BAMBA1PC020708/image_8.jpg"
+            "images/2T2BAMBA1PC020708/image_5.jpg"
         ]
     },
     {
@@ -25252,10 +22600,7 @@ const vehicleData = [
             "images/2T2GDCAZXRC015895/image_2.jpg",
             "images/2T2GDCAZXRC015895/image_3.jpg",
             "images/2T2GDCAZXRC015895/image_4.jpg",
-            "images/2T2GDCAZXRC015895/image_5.jpg",
-            "images/2T2GDCAZXRC015895/image_6.jpg",
-            "images/2T2GDCAZXRC015895/image_7.jpg",
-            "images/2T2GDCAZXRC015895/image_8.jpg"
+            "images/2T2GDCAZXRC015895/image_5.jpg"
         ]
     },
     {
@@ -25283,10 +22628,7 @@ const vehicleData = [
             "images/58AGZ1B13NU112330/image_2.jpg",
             "images/58AGZ1B13NU112330/image_3.jpg",
             "images/58AGZ1B13NU112330/image_4.jpg",
-            "images/58AGZ1B13NU112330/image_5.jpg",
-            "images/58AGZ1B13NU112330/image_6.jpg",
-            "images/58AGZ1B13NU112330/image_7.jpg",
-            "images/58AGZ1B13NU112330/image_8.jpg"
+            "images/58AGZ1B13NU112330/image_5.jpg"
         ]
     },
     {
@@ -25314,10 +22656,7 @@ const vehicleData = [
             "images/JTJCHMAA1R2015254/image_2.jpg",
             "images/JTJCHMAA1R2015254/image_3.jpg",
             "images/JTJCHMAA1R2015254/image_4.jpg",
-            "images/JTJCHMAA1R2015254/image_5.jpg",
-            "images/JTJCHMAA1R2015254/image_6.jpg",
-            "images/JTJCHMAA1R2015254/image_7.jpg",
-            "images/JTJCHMAA1R2015254/image_8.jpg"
+            "images/JTJCHMAA1R2015254/image_5.jpg"
         ]
     },
     {
@@ -25345,10 +22684,7 @@ const vehicleData = [
             "images/19UUB1F35KA009536/image_2.jpg",
             "images/19UUB1F35KA009536/image_3.jpg",
             "images/19UUB1F35KA009536/image_4.jpg",
-            "images/19UUB1F35KA009536/image_5.jpg",
-            "images/19UUB1F35KA009536/image_6.jpg",
-            "images/19UUB1F35KA009536/image_7.jpg",
-            "images/19UUB1F35KA009536/image_8.jpg"
+            "images/19UUB1F35KA009536/image_5.jpg"
         ]
     },
     {
@@ -25376,10 +22712,7 @@ const vehicleData = [
             "images/JTJCHMAA1S2029161/image_2.jpg",
             "images/JTJCHMAA1S2029161/image_3.jpg",
             "images/JTJCHMAA1S2029161/image_4.jpg",
-            "images/JTJCHMAA1S2029161/image_5.jpg",
-            "images/JTJCHMAA1S2029161/image_6.jpg",
-            "images/JTJCHMAA1S2029161/image_7.jpg",
-            "images/JTJCHMAA1S2029161/image_8.jpg"
+            "images/JTJCHMAA1S2029161/image_5.jpg"
         ]
     },
     {
@@ -25407,10 +22740,7 @@ const vehicleData = [
             "images/JTHDA1D27P5125945/image_2.jpg",
             "images/JTHDA1D27P5125945/image_3.jpg",
             "images/JTHDA1D27P5125945/image_4.jpg",
-            "images/JTHDA1D27P5125945/image_5.jpg",
-            "images/JTHDA1D27P5125945/image_6.jpg",
-            "images/JTHDA1D27P5125945/image_7.jpg",
-            "images/JTHDA1D27P5125945/image_8.jpg"
+            "images/JTHDA1D27P5125945/image_5.jpg"
         ]
     },
     {
@@ -25438,10 +22768,7 @@ const vehicleData = [
             "images/2T2BCMEA3SC020675/image_2.jpg",
             "images/2T2BCMEA3SC020675/image_3.jpg",
             "images/2T2BCMEA3SC020675/image_4.jpg",
-            "images/2T2BCMEA3SC020675/image_5.jpg",
-            "images/2T2BCMEA3SC020675/image_6.jpg",
-            "images/2T2BCMEA3SC020675/image_7.jpg",
-            "images/2T2BCMEA3SC020675/image_8.jpg"
+            "images/2T2BCMEA3SC020675/image_5.jpg"
         ]
     },
     {
@@ -25469,10 +22796,7 @@ const vehicleData = [
             "images/2T2GDCAZXSC024246/image_2.jpg",
             "images/2T2GDCAZXSC024246/image_3.jpg",
             "images/2T2GDCAZXSC024246/image_4.jpg",
-            "images/2T2GDCAZXSC024246/image_5.jpg",
-            "images/2T2GDCAZXSC024246/image_6.jpg",
-            "images/2T2GDCAZXSC024246/image_7.jpg",
-            "images/2T2GDCAZXSC024246/image_8.jpg"
+            "images/2T2GDCAZXSC024246/image_5.jpg"
         ]
     },
     {
@@ -25500,10 +22824,7 @@ const vehicleData = [
             "images/JTJMB7CX8R4049401/image_2.jpg",
             "images/JTJMB7CX8R4049401/image_3.jpg",
             "images/JTJMB7CX8R4049401/image_4.jpg",
-            "images/JTJMB7CX8R4049401/image_5.jpg",
-            "images/JTJMB7CX8R4049401/image_6.jpg",
-            "images/JTJMB7CX8R4049401/image_7.jpg",
-            "images/JTJMB7CX8R4049401/image_8.jpg"
+            "images/JTJMB7CX8R4049401/image_5.jpg"
         ]
     },
     {
@@ -25531,10 +22852,7 @@ const vehicleData = [
             "images/58ADZ1B10SU197884/image_2.jpg",
             "images/58ADZ1B10SU197884/image_3.jpg",
             "images/58ADZ1B10SU197884/image_4.jpg",
-            "images/58ADZ1B10SU197884/image_5.jpg",
-            "images/58ADZ1B10SU197884/image_6.jpg",
-            "images/58ADZ1B10SU197884/image_7.jpg",
-            "images/58ADZ1B10SU197884/image_8.jpg"
+            "images/58ADZ1B10SU197884/image_5.jpg"
         ]
     },
     {
@@ -25562,10 +22880,7 @@ const vehicleData = [
             "images/3PCAJ5FA3PF121115/image_2.jpg",
             "images/3PCAJ5FA3PF121115/image_3.jpg",
             "images/3PCAJ5FA3PF121115/image_4.jpg",
-            "images/3PCAJ5FA3PF121115/image_5.jpg",
-            "images/3PCAJ5FA3PF121115/image_6.jpg",
-            "images/3PCAJ5FA3PF121115/image_7.jpg",
-            "images/3PCAJ5FA3PF121115/image_8.jpg"
+            "images/3PCAJ5FA3PF121115/image_5.jpg"
         ]
     },
     {
@@ -25593,10 +22908,7 @@ const vehicleData = [
             "images/2HGFE1E55TH470810/image_2.jpg",
             "images/2HGFE1E55TH470810/image_3.jpg",
             "images/2HGFE1E55TH470810/image_4.jpg",
-            "images/2HGFE1E55TH470810/image_5.jpg",
-            "images/2HGFE1E55TH470810/image_6.jpg",
-            "images/2HGFE1E55TH470810/image_7.jpg",
-            "images/2HGFE1E55TH470810/image_8.jpg"
+            "images/2HGFE1E55TH470810/image_5.jpg"
         ]
     },
     {
@@ -25624,10 +22936,7 @@ const vehicleData = [
             "images/JF2SKADC0RH480070/image_2.jpg",
             "images/JF2SKADC0RH480070/image_3.jpg",
             "images/JF2SKADC0RH480070/image_4.jpg",
-            "images/JF2SKADC0RH480070/image_5.jpg",
-            "images/JF2SKADC0RH480070/image_6.jpg",
-            "images/JF2SKADC0RH480070/image_7.jpg",
-            "images/JF2SKADC0RH480070/image_8.jpg"
+            "images/JF2SKADC0RH480070/image_5.jpg"
         ]
     },
     {
@@ -25655,10 +22964,7 @@ const vehicleData = [
             "images/2T2BAMBA9RC050400/image_2.jpg",
             "images/2T2BAMBA9RC050400/image_3.jpg",
             "images/2T2BAMBA9RC050400/image_4.jpg",
-            "images/2T2BAMBA9RC050400/image_5.jpg",
-            "images/2T2BAMBA9RC050400/image_6.jpg",
-            "images/2T2BAMBA9RC050400/image_7.jpg",
-            "images/2T2BAMBA9RC050400/image_8.jpg"
+            "images/2T2BAMBA9RC050400/image_5.jpg"
         ]
     },
     {
@@ -25686,10 +22992,7 @@ const vehicleData = [
             "images/JTHBZ1B20R5079963/image_2.jpg",
             "images/JTHBZ1B20R5079963/image_3.jpg",
             "images/JTHBZ1B20R5079963/image_4.jpg",
-            "images/JTHBZ1B20R5079963/image_5.jpg",
-            "images/JTHBZ1B20R5079963/image_6.jpg",
-            "images/JTHBZ1B20R5079963/image_7.jpg",
-            "images/JTHBZ1B20R5079963/image_8.jpg"
+            "images/JTHBZ1B20R5079963/image_5.jpg"
         ]
     },
     {
@@ -25717,10 +23020,7 @@ const vehicleData = [
             "images/W1KAF4GBXPR135838/image_2.jpg",
             "images/W1KAF4GBXPR135838/image_3.jpg",
             "images/W1KAF4GBXPR135838/image_4.jpg",
-            "images/W1KAF4GBXPR135838/image_5.jpg",
-            "images/W1KAF4GBXPR135838/image_6.jpg",
-            "images/W1KAF4GBXPR135838/image_7.jpg",
-            "images/W1KAF4GBXPR135838/image_8.jpg"
+            "images/W1KAF4GBXPR135838/image_5.jpg"
         ]
     },
     {
@@ -25748,10 +23048,7 @@ const vehicleData = [
             "images/2T2BAMBA3RC048884/image_2.jpg",
             "images/2T2BAMBA3RC048884/image_3.jpg",
             "images/2T2BAMBA3RC048884/image_4.jpg",
-            "images/2T2BAMBA3RC048884/image_5.jpg",
-            "images/2T2BAMBA3RC048884/image_6.jpg",
-            "images/2T2BAMBA3RC048884/image_7.jpg",
-            "images/2T2BAMBA3RC048884/image_8.jpg"
+            "images/2T2BAMBA3RC048884/image_5.jpg"
         ]
     },
     {
@@ -25779,10 +23076,7 @@ const vehicleData = [
             "images/2T2KGCEZ7RC039504/image_2.jpg",
             "images/2T2KGCEZ7RC039504/image_3.jpg",
             "images/2T2KGCEZ7RC039504/image_4.jpg",
-            "images/2T2KGCEZ7RC039504/image_5.jpg",
-            "images/2T2KGCEZ7RC039504/image_6.jpg",
-            "images/2T2KGCEZ7RC039504/image_7.jpg",
-            "images/2T2KGCEZ7RC039504/image_8.jpg"
+            "images/2T2KGCEZ7RC039504/image_5.jpg"
         ]
     },
     {
@@ -25810,10 +23104,7 @@ const vehicleData = [
             "images/19UUB5F37PA004966/image_2.jpg",
             "images/19UUB5F37PA004966/image_3.jpg",
             "images/19UUB5F37PA004966/image_4.jpg",
-            "images/19UUB5F37PA004966/image_5.jpg",
-            "images/19UUB5F37PA004966/image_6.jpg",
-            "images/19UUB5F37PA004966/image_7.jpg",
-            "images/19UUB5F37PA004966/image_8.jpg"
+            "images/19UUB5F37PA004966/image_5.jpg"
         ]
     },
     {
@@ -25841,10 +23132,7 @@ const vehicleData = [
             "images/2T2BAMBA0PC014575/image_2.jpg",
             "images/2T2BAMBA0PC014575/image_3.jpg",
             "images/2T2BAMBA0PC014575/image_4.jpg",
-            "images/2T2BAMBA0PC014575/image_5.jpg",
-            "images/2T2BAMBA0PC014575/image_6.jpg",
-            "images/2T2BAMBA0PC014575/image_7.jpg",
-            "images/2T2BAMBA0PC014575/image_8.jpg"
+            "images/2T2BAMBA0PC014575/image_5.jpg"
         ]
     },
     {
@@ -25872,10 +23160,7 @@ const vehicleData = [
             "images/2T2BCMEA8SC021806/image_2.jpg",
             "images/2T2BCMEA8SC021806/image_3.jpg",
             "images/2T2BCMEA8SC021806/image_4.jpg",
-            "images/2T2BCMEA8SC021806/image_5.jpg",
-            "images/2T2BCMEA8SC021806/image_6.jpg",
-            "images/2T2BCMEA8SC021806/image_7.jpg",
-            "images/2T2BCMEA8SC021806/image_8.jpg"
+            "images/2T2BCMEA8SC021806/image_5.jpg"
         ]
     },
     {
@@ -25903,10 +23188,7 @@ const vehicleData = [
             "images/2T2BAMBA3PC015915/image_2.jpg",
             "images/2T2BAMBA3PC015915/image_3.jpg",
             "images/2T2BAMBA3PC015915/image_4.jpg",
-            "images/2T2BAMBA3PC015915/image_5.jpg",
-            "images/2T2BAMBA3PC015915/image_6.jpg",
-            "images/2T2BAMBA3PC015915/image_7.jpg",
-            "images/2T2BAMBA3PC015915/image_8.jpg"
+            "images/2T2BAMBA3PC015915/image_5.jpg"
         ]
     },
     {
@@ -25934,10 +23216,7 @@ const vehicleData = [
             "images/5J8TC2H78TL010880/image_2.jpg",
             "images/5J8TC2H78TL010880/image_3.jpg",
             "images/5J8TC2H78TL010880/image_4.jpg",
-            "images/5J8TC2H78TL010880/image_5.jpg",
-            "images/5J8TC2H78TL010880/image_6.jpg",
-            "images/5J8TC2H78TL010880/image_7.jpg",
-            "images/5J8TC2H78TL010880/image_8.jpg"
+            "images/5J8TC2H78TL010880/image_5.jpg"
         ]
     },
     {
@@ -25965,10 +23244,7 @@ const vehicleData = [
             "images/2T2BAMBA5RC047347/image_2.jpg",
             "images/2T2BAMBA5RC047347/image_3.jpg",
             "images/2T2BAMBA5RC047347/image_4.jpg",
-            "images/2T2BAMBA5RC047347/image_5.jpg",
-            "images/2T2BAMBA5RC047347/image_6.jpg",
-            "images/2T2BAMBA5RC047347/image_7.jpg",
-            "images/2T2BAMBA5RC047347/image_8.jpg"
+            "images/2T2BAMBA5RC047347/image_5.jpg"
         ]
     },
     {
@@ -25996,10 +23272,7 @@ const vehicleData = [
             "images/2T2GDCAZ9SC016459/image_2.jpg",
             "images/2T2GDCAZ9SC016459/image_3.jpg",
             "images/2T2GDCAZ9SC016459/image_4.jpg",
-            "images/2T2GDCAZ9SC016459/image_5.jpg",
-            "images/2T2GDCAZ9SC016459/image_6.jpg",
-            "images/2T2GDCAZ9SC016459/image_7.jpg",
-            "images/2T2GDCAZ9SC016459/image_8.jpg"
+            "images/2T2GDCAZ9SC016459/image_5.jpg"
         ]
     },
     {
@@ -26027,10 +23300,7 @@ const vehicleData = [
             "images/5XXG34J28MG006534/image_2.jpg",
             "images/5XXG34J28MG006534/image_3.jpg",
             "images/5XXG34J28MG006534/image_4.jpg",
-            "images/5XXG34J28MG006534/image_5.jpg",
-            "images/5XXG34J28MG006534/image_6.jpg",
-            "images/5XXG34J28MG006534/image_7.jpg",
-            "images/5XXG34J28MG006534/image_8.jpg"
+            "images/5XXG34J28MG006534/image_5.jpg"
         ]
     },
     {
@@ -26058,10 +23328,7 @@ const vehicleData = [
             "images/19UUB5F46RA000760/image_2.jpg",
             "images/19UUB5F46RA000760/image_3.jpg",
             "images/19UUB5F46RA000760/image_4.jpg",
-            "images/19UUB5F46RA000760/image_5.jpg",
-            "images/19UUB5F46RA000760/image_6.jpg",
-            "images/19UUB5F46RA000760/image_7.jpg",
-            "images/19UUB5F46RA000760/image_8.jpg"
+            "images/19UUB5F46RA000760/image_5.jpg"
         ]
     },
     {
@@ -26089,10 +23356,7 @@ const vehicleData = [
             "images/2T2GGCEZ0PC029187/image_2.jpg",
             "images/2T2GGCEZ0PC029187/image_3.jpg",
             "images/2T2GGCEZ0PC029187/image_4.jpg",
-            "images/2T2GGCEZ0PC029187/image_5.jpg",
-            "images/2T2GGCEZ0PC029187/image_6.jpg",
-            "images/2T2GGCEZ0PC029187/image_7.jpg",
-            "images/2T2GGCEZ0PC029187/image_8.jpg"
+            "images/2T2GGCEZ0PC029187/image_5.jpg"
         ]
     },
     {
@@ -26120,10 +23384,7 @@ const vehicleData = [
             "images/2T2GDCAZ4SC032097/image_2.jpg",
             "images/2T2GDCAZ4SC032097/image_3.jpg",
             "images/2T2GDCAZ4SC032097/image_4.jpg",
-            "images/2T2GDCAZ4SC032097/image_5.jpg",
-            "images/2T2GDCAZ4SC032097/image_6.jpg",
-            "images/2T2GDCAZ4SC032097/image_7.jpg",
-            "images/2T2GDCAZ4SC032097/image_8.jpg"
+            "images/2T2GDCAZ4SC032097/image_5.jpg"
         ]
     },
     {
@@ -26151,10 +23412,7 @@ const vehicleData = [
             "images/3MVDMBCMXPM543443/image_2.jpg",
             "images/3MVDMBCMXPM543443/image_3.jpg",
             "images/3MVDMBCMXPM543443/image_4.jpg",
-            "images/3MVDMBCMXPM543443/image_5.jpg",
-            "images/3MVDMBCMXPM543443/image_6.jpg",
-            "images/3MVDMBCMXPM543443/image_7.jpg",
-            "images/3MVDMBCMXPM543443/image_8.jpg"
+            "images/3MVDMBCMXPM543443/image_5.jpg"
         ]
     },
     {
@@ -26182,10 +23440,7 @@ const vehicleData = [
             "images/JTHCA1D21P5124379/image_2.jpg",
             "images/JTHCA1D21P5124379/image_3.jpg",
             "images/JTHCA1D21P5124379/image_4.jpg",
-            "images/JTHCA1D21P5124379/image_5.jpg",
-            "images/JTHCA1D21P5124379/image_6.jpg",
-            "images/JTHCA1D21P5124379/image_7.jpg",
-            "images/JTHCA1D21P5124379/image_8.jpg"
+            "images/JTHCA1D21P5124379/image_5.jpg"
         ]
     },
     {
@@ -26213,10 +23468,7 @@ const vehicleData = [
             "images/2T2GDCAZ7SC021854/image_2.jpg",
             "images/2T2GDCAZ7SC021854/image_3.jpg",
             "images/2T2GDCAZ7SC021854/image_4.jpg",
-            "images/2T2GDCAZ7SC021854/image_5.jpg",
-            "images/2T2GDCAZ7SC021854/image_6.jpg",
-            "images/2T2GDCAZ7SC021854/image_7.jpg",
-            "images/2T2GDCAZ7SC021854/image_8.jpg"
+            "images/2T2GDCAZ7SC021854/image_5.jpg"
         ]
     },
     {
@@ -26244,10 +23496,7 @@ const vehicleData = [
             "images/JTJGGCEZXR2015154/image_2.jpg",
             "images/JTJGGCEZXR2015154/image_3.jpg",
             "images/JTJGGCEZXR2015154/image_4.jpg",
-            "images/JTJGGCEZXR2015154/image_5.jpg",
-            "images/JTJGGCEZXR2015154/image_6.jpg",
-            "images/JTJGGCEZXR2015154/image_7.jpg",
-            "images/JTJGGCEZXR2015154/image_8.jpg"
+            "images/JTJGGCEZXR2015154/image_5.jpg"
         ]
     },
     {
@@ -26275,10 +23524,7 @@ const vehicleData = [
             "images/JTJCHMAA6P2005090/image_2.jpg",
             "images/JTJCHMAA6P2005090/image_3.jpg",
             "images/JTJCHMAA6P2005090/image_4.jpg",
-            "images/JTJCHMAA6P2005090/image_5.jpg",
-            "images/JTJCHMAA6P2005090/image_6.jpg",
-            "images/JTJCHMAA6P2005090/image_7.jpg",
-            "images/JTJCHMAA6P2005090/image_8.jpg"
+            "images/JTJCHMAA6P2005090/image_5.jpg"
         ]
     },
     {
@@ -26306,10 +23552,7 @@ const vehicleData = [
             "images/JF2SLDTC1SH537608/image_2.jpg",
             "images/JF2SLDTC1SH537608/image_3.jpg",
             "images/JF2SLDTC1SH537608/image_4.jpg",
-            "images/JF2SLDTC1SH537608/image_5.jpg",
-            "images/JF2SLDTC1SH537608/image_6.jpg",
-            "images/JF2SLDTC1SH537608/image_7.jpg",
-            "images/JF2SLDTC1SH537608/image_8.jpg"
+            "images/JF2SLDTC1SH537608/image_5.jpg"
         ]
     },
     {
@@ -26337,10 +23580,7 @@ const vehicleData = [
             "images/2T2BAMBA7PC017733/image_2.jpg",
             "images/2T2BAMBA7PC017733/image_3.jpg",
             "images/2T2BAMBA7PC017733/image_4.jpg",
-            "images/2T2BAMBA7PC017733/image_5.jpg",
-            "images/2T2BAMBA7PC017733/image_6.jpg",
-            "images/2T2BAMBA7PC017733/image_7.jpg",
-            "images/2T2BAMBA7PC017733/image_8.jpg"
+            "images/2T2BAMBA7PC017733/image_5.jpg"
         ]
     },
     {
@@ -26368,10 +23608,7 @@ const vehicleData = [
             "images/2T2BAMBA8PC019264/image_2.jpg",
             "images/2T2BAMBA8PC019264/image_3.jpg",
             "images/2T2BAMBA8PC019264/image_4.jpg",
-            "images/2T2BAMBA8PC019264/image_5.jpg",
-            "images/2T2BAMBA8PC019264/image_6.jpg",
-            "images/2T2BAMBA8PC019264/image_7.jpg",
-            "images/2T2BAMBA8PC019264/image_8.jpg"
+            "images/2T2BAMBA8PC019264/image_5.jpg"
         ]
     },
     {
@@ -26399,10 +23636,7 @@ const vehicleData = [
             "images/JTJCHMAA2R2015506/image_2.jpg",
             "images/JTJCHMAA2R2015506/image_3.jpg",
             "images/JTJCHMAA2R2015506/image_4.jpg",
-            "images/JTJCHMAA2R2015506/image_5.jpg",
-            "images/JTJCHMAA2R2015506/image_6.jpg",
-            "images/JTJCHMAA2R2015506/image_7.jpg",
-            "images/JTJCHMAA2R2015506/image_8.jpg"
+            "images/JTJCHMAA2R2015506/image_5.jpg"
         ]
     },
     {
@@ -26430,10 +23664,7 @@ const vehicleData = [
             "images/2T2BAMBA9RC026517/image_2.jpg",
             "images/2T2BAMBA9RC026517/image_3.jpg",
             "images/2T2BAMBA9RC026517/image_4.jpg",
-            "images/2T2BAMBA9RC026517/image_5.jpg",
-            "images/2T2BAMBA9RC026517/image_6.jpg",
-            "images/2T2BAMBA9RC026517/image_7.jpg",
-            "images/2T2BAMBA9RC026517/image_8.jpg"
+            "images/2T2BAMBA9RC026517/image_5.jpg"
         ]
     },
     {
@@ -26461,10 +23692,7 @@ const vehicleData = [
             "images/JTJCHMAA3R2016194/image_2.jpg",
             "images/JTJCHMAA3R2016194/image_3.jpg",
             "images/JTJCHMAA3R2016194/image_4.jpg",
-            "images/JTJCHMAA3R2016194/image_5.jpg",
-            "images/JTJCHMAA3R2016194/image_6.jpg",
-            "images/JTJCHMAA3R2016194/image_7.jpg",
-            "images/JTJCHMAA3R2016194/image_8.jpg"
+            "images/JTJCHMAA3R2016194/image_5.jpg"
         ]
     },
     {
@@ -26492,10 +23720,7 @@ const vehicleData = [
             "images/JTHDA1D26R5130377/image_2.jpg",
             "images/JTHDA1D26R5130377/image_3.jpg",
             "images/JTHDA1D26R5130377/image_4.jpg",
-            "images/JTHDA1D26R5130377/image_5.jpg",
-            "images/JTHDA1D26R5130377/image_6.jpg",
-            "images/JTHDA1D26R5130377/image_7.jpg",
-            "images/JTHDA1D26R5130377/image_8.jpg"
+            "images/JTHDA1D26R5130377/image_5.jpg"
         ]
     },
     {
@@ -26523,10 +23748,7 @@ const vehicleData = [
             "images/2T2HGCEZ7PC022113/image_2.jpg",
             "images/2T2HGCEZ7PC022113/image_3.jpg",
             "images/2T2HGCEZ7PC022113/image_4.jpg",
-            "images/2T2HGCEZ7PC022113/image_5.jpg",
-            "images/2T2HGCEZ7PC022113/image_6.jpg",
-            "images/2T2HGCEZ7PC022113/image_7.jpg",
-            "images/2T2HGCEZ7PC022113/image_8.jpg"
+            "images/2T2HGCEZ7PC022113/image_5.jpg"
         ]
     },
     {
@@ -26554,10 +23776,7 @@ const vehicleData = [
             "images/2T2GGCEZ3PC030883/image_2.jpg",
             "images/2T2GGCEZ3PC030883/image_3.jpg",
             "images/2T2GGCEZ3PC030883/image_4.jpg",
-            "images/2T2GGCEZ3PC030883/image_5.jpg",
-            "images/2T2GGCEZ3PC030883/image_6.jpg",
-            "images/2T2GGCEZ3PC030883/image_7.jpg",
-            "images/2T2GGCEZ3PC030883/image_8.jpg"
+            "images/2T2GGCEZ3PC030883/image_5.jpg"
         ]
     },
     {
@@ -26585,10 +23804,7 @@ const vehicleData = [
             "images/SADCJ2EX3PA705685/image_2.jpg",
             "images/SADCJ2EX3PA705685/image_3.jpg",
             "images/SADCJ2EX3PA705685/image_4.jpg",
-            "images/SADCJ2EX3PA705685/image_5.jpg",
-            "images/SADCJ2EX3PA705685/image_6.jpg",
-            "images/SADCJ2EX3PA705685/image_7.jpg",
-            "images/SADCJ2EX3PA705685/image_8.jpg"
+            "images/SADCJ2EX3PA705685/image_5.jpg"
         ]
     },
     {
@@ -26616,10 +23832,7 @@ const vehicleData = [
             "images/JF2SKALC1RH427945/image_2.jpg",
             "images/JF2SKALC1RH427945/image_3.jpg",
             "images/JF2SKALC1RH427945/image_4.jpg",
-            "images/JF2SKALC1RH427945/image_5.jpg",
-            "images/JF2SKALC1RH427945/image_6.jpg",
-            "images/JF2SKALC1RH427945/image_7.jpg",
-            "images/JF2SKALC1RH427945/image_8.jpg"
+            "images/JF2SKALC1RH427945/image_5.jpg"
         ]
     },
     {
@@ -26647,10 +23860,7 @@ const vehicleData = [
             "images/JTHBZ1B20S5092623/image_2.jpg",
             "images/JTHBZ1B20S5092623/image_3.jpg",
             "images/JTHBZ1B20S5092623/image_4.jpg",
-            "images/JTHBZ1B20S5092623/image_5.jpg",
-            "images/JTHBZ1B20S5092623/image_6.jpg",
-            "images/JTHBZ1B20S5092623/image_7.jpg",
-            "images/JTHBZ1B20S5092623/image_8.jpg"
+            "images/JTHBZ1B20S5092623/image_5.jpg"
         ]
     },
     {
@@ -26678,10 +23888,7 @@ const vehicleData = [
             "images/JTHBZ1B28R5072551/image_2.jpg",
             "images/JTHBZ1B28R5072551/image_3.jpg",
             "images/JTHBZ1B28R5072551/image_4.jpg",
-            "images/JTHBZ1B28R5072551/image_5.jpg",
-            "images/JTHBZ1B28R5072551/image_6.jpg",
-            "images/JTHBZ1B28R5072551/image_7.jpg",
-            "images/JTHBZ1B28R5072551/image_8.jpg"
+            "images/JTHBZ1B28R5072551/image_5.jpg"
         ]
     },
     {
@@ -26709,10 +23916,7 @@ const vehicleData = [
             "images/58ADZ1B18SU202636/image_2.jpg",
             "images/58ADZ1B18SU202636/image_3.jpg",
             "images/58ADZ1B18SU202636/image_4.jpg",
-            "images/58ADZ1B18SU202636/image_5.jpg",
-            "images/58ADZ1B18SU202636/image_6.jpg",
-            "images/58ADZ1B18SU202636/image_7.jpg",
-            "images/58ADZ1B18SU202636/image_8.jpg"
+            "images/58ADZ1B18SU202636/image_5.jpg"
         ]
     },
     {
@@ -26740,10 +23944,7 @@ const vehicleData = [
             "images/SADCJ2EX8PA705231/image_2.jpg",
             "images/SADCJ2EX8PA705231/image_3.jpg",
             "images/SADCJ2EX8PA705231/image_4.jpg",
-            "images/SADCJ2EX8PA705231/image_5.jpg",
-            "images/SADCJ2EX8PA705231/image_6.jpg",
-            "images/SADCJ2EX8PA705231/image_7.jpg",
-            "images/SADCJ2EX8PA705231/image_8.jpg"
+            "images/SADCJ2EX8PA705231/image_5.jpg"
         ]
     },
     {
@@ -26771,10 +23972,7 @@ const vehicleData = [
             "images/2T2GGCEZ7PC027159/image_2.jpg",
             "images/2T2GGCEZ7PC027159/image_3.jpg",
             "images/2T2GGCEZ7PC027159/image_4.jpg",
-            "images/2T2GGCEZ7PC027159/image_5.jpg",
-            "images/2T2GGCEZ7PC027159/image_6.jpg",
-            "images/2T2GGCEZ7PC027159/image_7.jpg",
-            "images/2T2GGCEZ7PC027159/image_8.jpg"
+            "images/2T2GGCEZ7PC027159/image_5.jpg"
         ]
     },
     {
@@ -26802,10 +24000,7 @@ const vehicleData = [
             "images/1HGCY1F30PA039920/image_2.jpg",
             "images/1HGCY1F30PA039920/image_3.jpg",
             "images/1HGCY1F30PA039920/image_4.jpg",
-            "images/1HGCY1F30PA039920/image_5.jpg",
-            "images/1HGCY1F30PA039920/image_6.jpg",
-            "images/1HGCY1F30PA039920/image_7.jpg",
-            "images/1HGCY1F30PA039920/image_8.jpg"
+            "images/1HGCY1F30PA039920/image_5.jpg"
         ]
     },
     {
@@ -26833,10 +24028,7 @@ const vehicleData = [
             "images/5TDAAAA62RS001042/image_2.jpg",
             "images/5TDAAAA62RS001042/image_3.jpg",
             "images/5TDAAAA62RS001042/image_4.jpg",
-            "images/5TDAAAA62RS001042/image_5.jpg",
-            "images/5TDAAAA62RS001042/image_6.jpg",
-            "images/5TDAAAA62RS001042/image_7.jpg",
-            "images/5TDAAAA62RS001042/image_8.jpg"
+            "images/5TDAAAA62RS001042/image_5.jpg"
         ]
     },
     {
@@ -26864,10 +24056,7 @@ const vehicleData = [
             "images/JTJCHMAA4P2006173/image_2.jpg",
             "images/JTJCHMAA4P2006173/image_3.jpg",
             "images/JTJCHMAA4P2006173/image_4.jpg",
-            "images/JTJCHMAA4P2006173/image_5.jpg",
-            "images/JTJCHMAA4P2006173/image_6.jpg",
-            "images/JTJCHMAA4P2006173/image_7.jpg",
-            "images/JTJCHMAA4P2006173/image_8.jpg"
+            "images/JTJCHMAA4P2006173/image_5.jpg"
         ]
     },
     {
@@ -26895,10 +24084,7 @@ const vehicleData = [
             "images/JTHCA1D27P5124273/image_2.jpg",
             "images/JTHCA1D27P5124273/image_3.jpg",
             "images/JTHCA1D27P5124273/image_4.jpg",
-            "images/JTHCA1D27P5124273/image_5.jpg",
-            "images/JTHCA1D27P5124273/image_6.jpg",
-            "images/JTHCA1D27P5124273/image_7.jpg",
-            "images/JTHCA1D27P5124273/image_8.jpg"
+            "images/JTHCA1D27P5124273/image_5.jpg"
         ]
     },
     {
@@ -26926,10 +24112,7 @@ const vehicleData = [
             "images/58ADZ1B16RU166598/image_2.jpg",
             "images/58ADZ1B16RU166598/image_3.jpg",
             "images/58ADZ1B16RU166598/image_4.jpg",
-            "images/58ADZ1B16RU166598/image_5.jpg",
-            "images/58ADZ1B16RU166598/image_6.jpg",
-            "images/58ADZ1B16RU166598/image_7.jpg",
-            "images/58ADZ1B16RU166598/image_8.jpg"
+            "images/58ADZ1B16RU166598/image_5.jpg"
         ]
     },
     {
@@ -26957,10 +24140,7 @@ const vehicleData = [
             "images/58ADZ1B16SU197761/image_2.jpg",
             "images/58ADZ1B16SU197761/image_3.jpg",
             "images/58ADZ1B16SU197761/image_4.jpg",
-            "images/58ADZ1B16SU197761/image_5.jpg",
-            "images/58ADZ1B16SU197761/image_6.jpg",
-            "images/58ADZ1B16SU197761/image_7.jpg",
-            "images/58ADZ1B16SU197761/image_8.jpg"
+            "images/58ADZ1B16SU197761/image_5.jpg"
         ]
     },
     {
@@ -26988,10 +24168,7 @@ const vehicleData = [
             "images/2T2BAMBA5SC057138/image_2.jpg",
             "images/2T2BAMBA5SC057138/image_3.jpg",
             "images/2T2BAMBA5SC057138/image_4.jpg",
-            "images/2T2BAMBA5SC057138/image_5.jpg",
-            "images/2T2BAMBA5SC057138/image_6.jpg",
-            "images/2T2BAMBA5SC057138/image_7.jpg",
-            "images/2T2BAMBA5SC057138/image_8.jpg"
+            "images/2T2BAMBA5SC057138/image_5.jpg"
         ]
     },
     {
@@ -27019,10 +24196,7 @@ const vehicleData = [
             "images/58ADZ1B17PU147569/image_2.jpg",
             "images/58ADZ1B17PU147569/image_3.jpg",
             "images/58ADZ1B17PU147569/image_4.jpg",
-            "images/58ADZ1B17PU147569/image_5.jpg",
-            "images/58ADZ1B17PU147569/image_6.jpg",
-            "images/58ADZ1B17PU147569/image_7.jpg",
-            "images/58ADZ1B17PU147569/image_8.jpg"
+            "images/58ADZ1B17PU147569/image_5.jpg"
         ]
     },
     {
@@ -27050,10 +24224,7 @@ const vehicleData = [
             "images/2T2KGCEZ2RC039457/image_2.jpg",
             "images/2T2KGCEZ2RC039457/image_3.jpg",
             "images/2T2KGCEZ2RC039457/image_4.jpg",
-            "images/2T2KGCEZ2RC039457/image_5.jpg",
-            "images/2T2KGCEZ2RC039457/image_6.jpg",
-            "images/2T2KGCEZ2RC039457/image_7.jpg",
-            "images/2T2KGCEZ2RC039457/image_8.jpg"
+            "images/2T2KGCEZ2RC039457/image_5.jpg"
         ]
     },
     {
@@ -27081,10 +24252,7 @@ const vehicleData = [
             "images/2T2BBMCA0SC079978/image_2.jpg",
             "images/2T2BBMCA0SC079978/image_3.jpg",
             "images/2T2BBMCA0SC079978/image_4.jpg",
-            "images/2T2BBMCA0SC079978/image_5.jpg",
-            "images/2T2BBMCA0SC079978/image_6.jpg",
-            "images/2T2BBMCA0SC079978/image_7.jpg",
-            "images/2T2BBMCA0SC079978/image_8.jpg"
+            "images/2T2BBMCA0SC079978/image_5.jpg"
         ]
     },
     {
@@ -27112,10 +24280,7 @@ const vehicleData = [
             "images/2T2BAMBA3PC020483/image_2.jpg",
             "images/2T2BAMBA3PC020483/image_3.jpg",
             "images/2T2BAMBA3PC020483/image_4.jpg",
-            "images/2T2BAMBA3PC020483/image_5.jpg",
-            "images/2T2BAMBA3PC020483/image_6.jpg",
-            "images/2T2BAMBA3PC020483/image_7.jpg",
-            "images/2T2BAMBA3PC020483/image_8.jpg"
+            "images/2T2BAMBA3PC020483/image_5.jpg"
         ]
     },
     {
@@ -27143,10 +24308,7 @@ const vehicleData = [
             "images/2T2KGCEZ6RC049294/image_2.jpg",
             "images/2T2KGCEZ6RC049294/image_3.jpg",
             "images/2T2KGCEZ6RC049294/image_4.jpg",
-            "images/2T2KGCEZ6RC049294/image_5.jpg",
-            "images/2T2KGCEZ6RC049294/image_6.jpg",
-            "images/2T2KGCEZ6RC049294/image_7.jpg",
-            "images/2T2KGCEZ6RC049294/image_8.jpg"
+            "images/2T2KGCEZ6RC049294/image_5.jpg"
         ]
     },
     {
@@ -27174,10 +24336,7 @@ const vehicleData = [
             "images/JTJKGCEZ0P2009547/image_2.jpg",
             "images/JTJKGCEZ0P2009547/image_3.jpg",
             "images/JTJKGCEZ0P2009547/image_4.jpg",
-            "images/JTJKGCEZ0P2009547/image_5.jpg",
-            "images/JTJKGCEZ0P2009547/image_6.jpg",
-            "images/JTJKGCEZ0P2009547/image_7.jpg",
-            "images/JTJKGCEZ0P2009547/image_8.jpg"
+            "images/JTJKGCEZ0P2009547/image_5.jpg"
         ]
     },
     {
@@ -27205,10 +24364,7 @@ const vehicleData = [
             "images/2T2BAMBA7PC006652/image_2.jpg",
             "images/2T2BAMBA7PC006652/image_3.jpg",
             "images/2T2BAMBA7PC006652/image_4.jpg",
-            "images/2T2BAMBA7PC006652/image_5.jpg",
-            "images/2T2BAMBA7PC006652/image_6.jpg",
-            "images/2T2BAMBA7PC006652/image_7.jpg",
-            "images/2T2BAMBA7PC006652/image_8.jpg"
+            "images/2T2BAMBA7PC006652/image_5.jpg"
         ]
     },
     {
@@ -27236,10 +24392,7 @@ const vehicleData = [
             "images/2HKRW2H87MH622230/image_2.jpg",
             "images/2HKRW2H87MH622230/image_3.jpg",
             "images/2HKRW2H87MH622230/image_4.jpg",
-            "images/2HKRW2H87MH622230/image_5.jpg",
-            "images/2HKRW2H87MH622230/image_6.jpg",
-            "images/2HKRW2H87MH622230/image_7.jpg",
-            "images/2HKRW2H87MH622230/image_8.jpg"
+            "images/2HKRW2H87MH622230/image_5.jpg"
         ]
     },
     {
@@ -27267,10 +24420,7 @@ const vehicleData = [
             "images/4S4WMARD5S3438987/image_2.jpg",
             "images/4S4WMARD5S3438987/image_3.jpg",
             "images/4S4WMARD5S3438987/image_4.jpg",
-            "images/4S4WMARD5S3438987/image_5.jpg",
-            "images/4S4WMARD5S3438987/image_6.jpg",
-            "images/4S4WMARD5S3438987/image_7.jpg",
-            "images/4S4WMARD5S3438987/image_8.jpg"
+            "images/4S4WMARD5S3438987/image_5.jpg"
         ]
     },
     {
@@ -27298,10 +24448,7 @@ const vehicleData = [
             "images/58ADA1C13RU049891/image_2.jpg",
             "images/58ADA1C13RU049891/image_3.jpg",
             "images/58ADA1C13RU049891/image_4.jpg",
-            "images/58ADA1C13RU049891/image_5.jpg",
-            "images/58ADA1C13RU049891/image_6.jpg",
-            "images/58ADA1C13RU049891/image_7.jpg",
-            "images/58ADA1C13RU049891/image_8.jpg"
+            "images/58ADA1C13RU049891/image_5.jpg"
         ]
     },
     {
@@ -27329,10 +24476,7 @@ const vehicleData = [
             "images/2T2KGCEZ4RC057023/image_2.jpg",
             "images/2T2KGCEZ4RC057023/image_3.jpg",
             "images/2T2KGCEZ4RC057023/image_4.jpg",
-            "images/2T2KGCEZ4RC057023/image_5.jpg",
-            "images/2T2KGCEZ4RC057023/image_6.jpg",
-            "images/2T2KGCEZ4RC057023/image_7.jpg",
-            "images/2T2KGCEZ4RC057023/image_8.jpg"
+            "images/2T2KGCEZ4RC057023/image_5.jpg"
         ]
     },
     {
@@ -27360,10 +24504,7 @@ const vehicleData = [
             "images/58ADZ1B15PU152222/image_2.jpg",
             "images/58ADZ1B15PU152222/image_3.jpg",
             "images/58ADZ1B15PU152222/image_4.jpg",
-            "images/58ADZ1B15PU152222/image_5.jpg",
-            "images/58ADZ1B15PU152222/image_6.jpg",
-            "images/58ADZ1B15PU152222/image_7.jpg",
-            "images/58ADZ1B15PU152222/image_8.jpg"
+            "images/58ADZ1B15PU152222/image_5.jpg"
         ]
     },
     {
@@ -27391,10 +24532,7 @@ const vehicleData = [
             "images/WVGAV7AX7CW577521/image_2.jpg",
             "images/WVGAV7AX7CW577521/image_3.jpg",
             "images/WVGAV7AX7CW577521/image_4.jpg",
-            "images/WVGAV7AX7CW577521/image_5.jpg",
-            "images/WVGAV7AX7CW577521/image_6.jpg",
-            "images/WVGAV7AX7CW577521/image_7.jpg",
-            "images/WVGAV7AX7CW577521/image_8.jpg"
+            "images/WVGAV7AX7CW577521/image_5.jpg"
         ]
     },
     {
@@ -27422,10 +24560,7 @@ const vehicleData = [
             "images/2HGFE2F28SH516039/image_2.jpg",
             "images/2HGFE2F28SH516039/image_3.jpg",
             "images/2HGFE2F28SH516039/image_4.jpg",
-            "images/2HGFE2F28SH516039/image_5.jpg",
-            "images/2HGFE2F28SH516039/image_6.jpg",
-            "images/2HGFE2F28SH516039/image_7.jpg",
-            "images/2HGFE2F28SH516039/image_8.jpg"
+            "images/2HGFE2F28SH516039/image_5.jpg"
         ]
     },
     {
@@ -27453,10 +24588,7 @@ const vehicleData = [
             "images/4S4BTADC4R3286596/image_2.jpg",
             "images/4S4BTADC4R3286596/image_3.jpg",
             "images/4S4BTADC4R3286596/image_4.jpg",
-            "images/4S4BTADC4R3286596/image_5.jpg",
-            "images/4S4BTADC4R3286596/image_6.jpg",
-            "images/4S4BTADC4R3286596/image_7.jpg",
-            "images/4S4BTADC4R3286596/image_8.jpg"
+            "images/4S4BTADC4R3286596/image_5.jpg"
         ]
     },
     {
@@ -27484,10 +24616,7 @@ const vehicleData = [
             "images/4S4GUHL69R3843459/image_2.jpg",
             "images/4S4GUHL69R3843459/image_3.jpg",
             "images/4S4GUHL69R3843459/image_4.jpg",
-            "images/4S4GUHL69R3843459/image_5.jpg",
-            "images/4S4GUHL69R3843459/image_6.jpg",
-            "images/4S4GUHL69R3843459/image_7.jpg",
-            "images/4S4GUHL69R3843459/image_8.jpg"
+            "images/4S4GUHL69R3843459/image_5.jpg"
         ]
     },
     {
@@ -27515,10 +24644,7 @@ const vehicleData = [
             "images/2T2ADCAZ0RC012882/image_2.jpg",
             "images/2T2ADCAZ0RC012882/image_3.jpg",
             "images/2T2ADCAZ0RC012882/image_4.jpg",
-            "images/2T2ADCAZ0RC012882/image_5.jpg",
-            "images/2T2ADCAZ0RC012882/image_6.jpg",
-            "images/2T2ADCAZ0RC012882/image_7.jpg",
-            "images/2T2ADCAZ0RC012882/image_8.jpg"
+            "images/2T2ADCAZ0RC012882/image_5.jpg"
         ]
     },
     {
@@ -27546,10 +24672,7 @@ const vehicleData = [
             "images/JF2SJABC7JH525631/image_2.jpg",
             "images/JF2SJABC7JH525631/image_3.jpg",
             "images/JF2SJABC7JH525631/image_4.jpg",
-            "images/JF2SJABC7JH525631/image_5.jpg",
-            "images/JF2SJABC7JH525631/image_6.jpg",
-            "images/JF2SJABC7JH525631/image_7.jpg",
-            "images/JF2SJABC7JH525631/image_8.jpg"
+            "images/JF2SJABC7JH525631/image_5.jpg"
         ]
     },
     {
@@ -27577,10 +24700,7 @@ const vehicleData = [
             "images/JA4J4TA82NZ034663/image_2.jpg",
             "images/JA4J4TA82NZ034663/image_3.jpg",
             "images/JA4J4TA82NZ034663/image_4.jpg",
-            "images/JA4J4TA82NZ034663/image_5.jpg",
-            "images/JA4J4TA82NZ034663/image_6.jpg",
-            "images/JA4J4TA82NZ034663/image_7.jpg",
-            "images/JA4J4TA82NZ034663/image_8.jpg"
+            "images/JA4J4TA82NZ034663/image_5.jpg"
         ]
     },
     {
@@ -27608,10 +24728,7 @@ const vehicleData = [
             "images/2T2ADCAZ4SC020733/image_2.jpg",
             "images/2T2ADCAZ4SC020733/image_3.jpg",
             "images/2T2ADCAZ4SC020733/image_4.jpg",
-            "images/2T2ADCAZ4SC020733/image_5.jpg",
-            "images/2T2ADCAZ4SC020733/image_6.jpg",
-            "images/2T2ADCAZ4SC020733/image_7.jpg",
-            "images/2T2ADCAZ4SC020733/image_8.jpg"
+            "images/2T2ADCAZ4SC020733/image_5.jpg"
         ]
     },
     {
@@ -27639,10 +24756,7 @@ const vehicleData = [
             "images/2T2ADCAZ6RC014202/image_2.jpg",
             "images/2T2ADCAZ6RC014202/image_3.jpg",
             "images/2T2ADCAZ6RC014202/image_4.jpg",
-            "images/2T2ADCAZ6RC014202/image_5.jpg",
-            "images/2T2ADCAZ6RC014202/image_6.jpg",
-            "images/2T2ADCAZ6RC014202/image_7.jpg",
-            "images/2T2ADCAZ6RC014202/image_8.jpg"
+            "images/2T2ADCAZ6RC014202/image_5.jpg"
         ]
     },
     {
@@ -27670,10 +24784,7 @@ const vehicleData = [
             "images/3GNAXHEVXMS140601/image_2.jpg",
             "images/3GNAXHEVXMS140601/image_3.jpg",
             "images/3GNAXHEVXMS140601/image_4.jpg",
-            "images/3GNAXHEVXMS140601/image_5.jpg",
-            "images/3GNAXHEVXMS140601/image_6.jpg",
-            "images/3GNAXHEVXMS140601/image_7.jpg",
-            "images/3GNAXHEVXMS140601/image_8.jpg"
+            "images/3GNAXHEVXMS140601/image_5.jpg"
         ]
     },
     {
@@ -27701,10 +24812,7 @@ const vehicleData = [
             "images/2HKRM3H7XDH504112/image_2.jpg",
             "images/2HKRM3H7XDH504112/image_3.jpg",
             "images/2HKRM3H7XDH504112/image_4.jpg",
-            "images/2HKRM3H7XDH504112/image_5.jpg",
-            "images/2HKRM3H7XDH504112/image_6.jpg",
-            "images/2HKRM3H7XDH504112/image_7.jpg",
-            "images/2HKRM3H7XDH504112/image_8.jpg"
+            "images/2HKRM3H7XDH504112/image_5.jpg"
         ]
     },
     {
@@ -27732,10 +24840,7 @@ const vehicleData = [
             "images/58ADZ1B13RU160886/image_2.jpg",
             "images/58ADZ1B13RU160886/image_3.jpg",
             "images/58ADZ1B13RU160886/image_4.jpg",
-            "images/58ADZ1B13RU160886/image_5.jpg",
-            "images/58ADZ1B13RU160886/image_6.jpg",
-            "images/58ADZ1B13RU160886/image_7.jpg",
-            "images/58ADZ1B13RU160886/image_8.jpg"
+            "images/58ADZ1B13RU160886/image_5.jpg"
         ]
     },
     {
@@ -27763,10 +24868,7 @@ const vehicleData = [
             "images/JTJADCAZ2R2008591/image_2.jpg",
             "images/JTJADCAZ2R2008591/image_3.jpg",
             "images/JTJADCAZ2R2008591/image_4.jpg",
-            "images/JTJADCAZ2R2008591/image_5.jpg",
-            "images/JTJADCAZ2R2008591/image_6.jpg",
-            "images/JTJADCAZ2R2008591/image_7.jpg",
-            "images/JTJADCAZ2R2008591/image_8.jpg"
+            "images/JTJADCAZ2R2008591/image_5.jpg"
         ]
     },
     {
@@ -27794,10 +24896,7 @@ const vehicleData = [
             "images/3N1CE2CP7FL398468/image_2.jpg",
             "images/3N1CE2CP7FL398468/image_3.jpg",
             "images/3N1CE2CP7FL398468/image_4.jpg",
-            "images/3N1CE2CP7FL398468/image_5.jpg",
-            "images/3N1CE2CP7FL398468/image_6.jpg",
-            "images/3N1CE2CP7FL398468/image_7.jpg",
-            "images/3N1CE2CP7FL398468/image_8.jpg"
+            "images/3N1CE2CP7FL398468/image_5.jpg"
         ]
     },
     {
@@ -27825,10 +24924,7 @@ const vehicleData = [
             "images/1G1ZD5ST3JF133228/image_2.jpg",
             "images/1G1ZD5ST3JF133228/image_3.jpg",
             "images/1G1ZD5ST3JF133228/image_4.jpg",
-            "images/1G1ZD5ST3JF133228/image_5.jpg",
-            "images/1G1ZD5ST3JF133228/image_6.jpg",
-            "images/1G1ZD5ST3JF133228/image_7.jpg",
-            "images/1G1ZD5ST3JF133228/image_8.jpg"
+            "images/1G1ZD5ST3JF133228/image_5.jpg"
         ]
     },
     {
@@ -27856,10 +24952,7 @@ const vehicleData = [
             "images/KNDPU3AF8P7034373/image_2.jpg",
             "images/KNDPU3AF8P7034373/image_3.jpg",
             "images/KNDPU3AF8P7034373/image_4.jpg",
-            "images/KNDPU3AF8P7034373/image_5.jpg",
-            "images/KNDPU3AF8P7034373/image_6.jpg",
-            "images/KNDPU3AF8P7034373/image_7.jpg",
-            "images/KNDPU3AF8P7034373/image_8.jpg"
+            "images/KNDPU3AF8P7034373/image_5.jpg"
         ]
     },
     {
@@ -27887,10 +24980,7 @@ const vehicleData = [
             "images/5NMS33AD6KH095508/image_2.jpg",
             "images/5NMS33AD6KH095508/image_3.jpg",
             "images/5NMS33AD6KH095508/image_4.jpg",
-            "images/5NMS33AD6KH095508/image_5.jpg",
-            "images/5NMS33AD6KH095508/image_6.jpg",
-            "images/5NMS33AD6KH095508/image_7.jpg",
-            "images/5NMS33AD6KH095508/image_8.jpg"
+            "images/5NMS33AD6KH095508/image_5.jpg"
         ]
     },
     {
@@ -27918,10 +25008,7 @@ const vehicleData = [
             "images/5YM13EC02P9P24385/image_2.jpg",
             "images/5YM13EC02P9P24385/image_3.jpg",
             "images/5YM13EC02P9P24385/image_4.jpg",
-            "images/5YM13EC02P9P24385/image_5.jpg",
-            "images/5YM13EC02P9P24385/image_6.jpg",
-            "images/5YM13EC02P9P24385/image_7.jpg",
-            "images/5YM13EC02P9P24385/image_8.jpg"
+            "images/5YM13EC02P9P24385/image_5.jpg"
         ]
     },
     {
@@ -27949,10 +25036,7 @@ const vehicleData = [
             "images/KL77LKEP3SC273715/image_2.jpg",
             "images/KL77LKEP3SC273715/image_3.jpg",
             "images/KL77LKEP3SC273715/image_4.jpg",
-            "images/KL77LKEP3SC273715/image_5.jpg",
-            "images/KL77LKEP3SC273715/image_6.jpg",
-            "images/KL77LKEP3SC273715/image_7.jpg",
-            "images/KL77LKEP3SC273715/image_8.jpg"
+            "images/KL77LKEP3SC273715/image_5.jpg"
         ]
     },
     {
@@ -27980,10 +25064,7 @@ const vehicleData = [
             "images/1C4RJEAG5LC428162/image_2.jpg",
             "images/1C4RJEAG5LC428162/image_3.jpg",
             "images/1C4RJEAG5LC428162/image_4.jpg",
-            "images/1C4RJEAG5LC428162/image_5.jpg",
-            "images/1C4RJEAG5LC428162/image_6.jpg",
-            "images/1C4RJEAG5LC428162/image_7.jpg",
-            "images/1C4RJEAG5LC428162/image_8.jpg"
+            "images/1C4RJEAG5LC428162/image_5.jpg"
         ]
     },
     {
@@ -28011,10 +25092,7 @@ const vehicleData = [
             "images/1GCPABEK5RZ262915/image_2.jpg",
             "images/1GCPABEK5RZ262915/image_3.jpg",
             "images/1GCPABEK5RZ262915/image_4.jpg",
-            "images/1GCPABEK5RZ262915/image_5.jpg",
-            "images/1GCPABEK5RZ262915/image_6.jpg",
-            "images/1GCPABEK5RZ262915/image_7.jpg",
-            "images/1GCPABEK5RZ262915/image_8.jpg"
+            "images/1GCPABEK5RZ262915/image_5.jpg"
         ]
     },
     {
@@ -28042,10 +25120,7 @@ const vehicleData = [
             "images/W1KMK6BB8RF023829/image_2.jpg",
             "images/W1KMK6BB8RF023829/image_3.jpg",
             "images/W1KMK6BB8RF023829/image_4.jpg",
-            "images/W1KMK6BB8RF023829/image_5.jpg",
-            "images/W1KMK6BB8RF023829/image_6.jpg",
-            "images/W1KMK6BB8RF023829/image_7.jpg",
-            "images/W1KMK6BB8RF023829/image_8.jpg"
+            "images/W1KMK6BB8RF023829/image_5.jpg"
         ]
     },
     {
@@ -28073,10 +25148,7 @@ const vehicleData = [
             "images/2T2BAMBA5RC049728/image_2.jpg",
             "images/2T2BAMBA5RC049728/image_3.jpg",
             "images/2T2BAMBA5RC049728/image_4.jpg",
-            "images/2T2BAMBA5RC049728/image_5.jpg",
-            "images/2T2BAMBA5RC049728/image_6.jpg",
-            "images/2T2BAMBA5RC049728/image_7.jpg",
-            "images/2T2BAMBA5RC049728/image_8.jpg"
+            "images/2T2BAMBA5RC049728/image_5.jpg"
         ]
     },
     {
@@ -28104,10 +25176,7 @@ const vehicleData = [
             "images/4S3BWAC60R3012139/image_2.jpg",
             "images/4S3BWAC60R3012139/image_3.jpg",
             "images/4S3BWAC60R3012139/image_4.jpg",
-            "images/4S3BWAC60R3012139/image_5.jpg",
-            "images/4S3BWAC60R3012139/image_6.jpg",
-            "images/4S3BWAC60R3012139/image_7.jpg",
-            "images/4S3BWAC60R3012139/image_8.jpg"
+            "images/4S3BWAC60R3012139/image_5.jpg"
         ]
     },
     {
@@ -28135,10 +25204,7 @@ const vehicleData = [
             "images/58ADZ1B10SU200685/image_2.jpg",
             "images/58ADZ1B10SU200685/image_3.jpg",
             "images/58ADZ1B10SU200685/image_4.jpg",
-            "images/58ADZ1B10SU200685/image_5.jpg",
-            "images/58ADZ1B10SU200685/image_6.jpg",
-            "images/58ADZ1B10SU200685/image_7.jpg",
-            "images/58ADZ1B10SU200685/image_8.jpg"
+            "images/58ADZ1B10SU200685/image_5.jpg"
         ]
     },
     {
@@ -28166,10 +25232,7 @@ const vehicleData = [
             "images/JTJADCAZ5R2008861/image_2.jpg",
             "images/JTJADCAZ5R2008861/image_3.jpg",
             "images/JTJADCAZ5R2008861/image_4.jpg",
-            "images/JTJADCAZ5R2008861/image_5.jpg",
-            "images/JTJADCAZ5R2008861/image_6.jpg",
-            "images/JTJADCAZ5R2008861/image_7.jpg",
-            "images/JTJADCAZ5R2008861/image_8.jpg"
+            "images/JTJADCAZ5R2008861/image_5.jpg"
         ]
     },
     {
@@ -28197,10 +25260,7 @@ const vehicleData = [
             "images/1C6JJTAG4LL139248/image_2.jpg",
             "images/1C6JJTAG4LL139248/image_3.jpg",
             "images/1C6JJTAG4LL139248/image_4.jpg",
-            "images/1C6JJTAG4LL139248/image_5.jpg",
-            "images/1C6JJTAG4LL139248/image_6.jpg",
-            "images/1C6JJTAG4LL139248/image_7.jpg",
-            "images/1C6JJTAG4LL139248/image_8.jpg"
+            "images/1C6JJTAG4LL139248/image_5.jpg"
         ]
     },
     {
@@ -28228,10 +25288,7 @@ const vehicleData = [
             "images/JF2SLDAC8SH427593/image_2.jpg",
             "images/JF2SLDAC8SH427593/image_3.jpg",
             "images/JF2SLDAC8SH427593/image_4.jpg",
-            "images/JF2SLDAC8SH427593/image_5.jpg",
-            "images/JF2SLDAC8SH427593/image_6.jpg",
-            "images/JF2SLDAC8SH427593/image_7.jpg",
-            "images/JF2SLDAC8SH427593/image_8.jpg"
+            "images/JF2SLDAC8SH427593/image_5.jpg"
         ]
     },
     {
@@ -28259,10 +25316,7 @@ const vehicleData = [
             "images/3GNAXHEV2MS135862/image_2.jpg",
             "images/3GNAXHEV2MS135862/image_3.jpg",
             "images/3GNAXHEV2MS135862/image_4.jpg",
-            "images/3GNAXHEV2MS135862/image_5.jpg",
-            "images/3GNAXHEV2MS135862/image_6.jpg",
-            "images/3GNAXHEV2MS135862/image_7.jpg",
-            "images/3GNAXHEV2MS135862/image_8.jpg"
+            "images/3GNAXHEV2MS135862/image_5.jpg"
         ]
     },
     {
@@ -28290,10 +25344,7 @@ const vehicleData = [
             "images/5N1AZ2MJ7KN134613/image_2.jpg",
             "images/5N1AZ2MJ7KN134613/image_3.jpg",
             "images/5N1AZ2MJ7KN134613/image_4.jpg",
-            "images/5N1AZ2MJ7KN134613/image_5.jpg",
-            "images/5N1AZ2MJ7KN134613/image_6.jpg",
-            "images/5N1AZ2MJ7KN134613/image_7.jpg",
-            "images/5N1AZ2MJ7KN134613/image_8.jpg"
+            "images/5N1AZ2MJ7KN134613/image_5.jpg"
         ]
     },
     {
@@ -28321,10 +25372,7 @@ const vehicleData = [
             "images/1C4HJXDG7JW136219/image_2.jpg",
             "images/1C4HJXDG7JW136219/image_3.jpg",
             "images/1C4HJXDG7JW136219/image_4.jpg",
-            "images/1C4HJXDG7JW136219/image_5.jpg",
-            "images/1C4HJXDG7JW136219/image_6.jpg",
-            "images/1C4HJXDG7JW136219/image_7.jpg",
-            "images/1C4HJXDG7JW136219/image_8.jpg"
+            "images/1C4HJXDG7JW136219/image_5.jpg"
         ]
     },
     {
@@ -28352,10 +25400,7 @@ const vehicleData = [
             "images/2T2ADCAZ0RC006953/image_2.jpg",
             "images/2T2ADCAZ0RC006953/image_3.jpg",
             "images/2T2ADCAZ0RC006953/image_4.jpg",
-            "images/2T2ADCAZ0RC006953/image_5.jpg",
-            "images/2T2ADCAZ0RC006953/image_6.jpg",
-            "images/2T2ADCAZ0RC006953/image_7.jpg",
-            "images/2T2ADCAZ0RC006953/image_8.jpg"
+            "images/2T2ADCAZ0RC006953/image_5.jpg"
         ]
     },
     {
@@ -28383,10 +25428,7 @@ const vehicleData = [
             "images/2T2AZMAA2MC202435/image_2.jpg",
             "images/2T2AZMAA2MC202435/image_3.jpg",
             "images/2T2AZMAA2MC202435/image_4.jpg",
-            "images/2T2AZMAA2MC202435/image_5.jpg",
-            "images/2T2AZMAA2MC202435/image_6.jpg",
-            "images/2T2AZMAA2MC202435/image_7.jpg",
-            "images/2T2AZMAA2MC202435/image_8.jpg"
+            "images/2T2AZMAA2MC202435/image_5.jpg"
         ]
     },
     {
@@ -28414,10 +25456,7 @@ const vehicleData = [
             "images/4S4GUHT67R3726575/image_2.jpg",
             "images/4S4GUHT67R3726575/image_3.jpg",
             "images/4S4GUHT67R3726575/image_4.jpg",
-            "images/4S4GUHT67R3726575/image_5.jpg",
-            "images/4S4GUHT67R3726575/image_6.jpg",
-            "images/4S4GUHT67R3726575/image_7.jpg",
-            "images/4S4GUHT67R3726575/image_8.jpg"
+            "images/4S4GUHT67R3726575/image_5.jpg"
         ]
     },
     {
@@ -28445,10 +25484,7 @@ const vehicleData = [
             "images/4S3GTAB66P3721171/image_2.jpg",
             "images/4S3GTAB66P3721171/image_3.jpg",
             "images/4S3GTAB66P3721171/image_4.jpg",
-            "images/4S3GTAB66P3721171/image_5.jpg",
-            "images/4S3GTAB66P3721171/image_6.jpg",
-            "images/4S3GTAB66P3721171/image_7.jpg",
-            "images/4S3GTAB66P3721171/image_8.jpg"
+            "images/4S3GTAB66P3721171/image_5.jpg"
         ]
     },
     {
@@ -28476,10 +25512,7 @@ const vehicleData = [
             "images/4S3BWAM66P3017714/image_2.jpg",
             "images/4S3BWAM66P3017714/image_3.jpg",
             "images/4S3BWAM66P3017714/image_4.jpg",
-            "images/4S3BWAM66P3017714/image_5.jpg",
-            "images/4S3BWAM66P3017714/image_6.jpg",
-            "images/4S3BWAM66P3017714/image_7.jpg",
-            "images/4S3BWAM66P3017714/image_8.jpg"
+            "images/4S3BWAM66P3017714/image_5.jpg"
         ]
     },
     {
@@ -28507,10 +25540,7 @@ const vehicleData = [
             "images/2T2BAMBA7RC051318/image_2.jpg",
             "images/2T2BAMBA7RC051318/image_3.jpg",
             "images/2T2BAMBA7RC051318/image_4.jpg",
-            "images/2T2BAMBA7RC051318/image_5.jpg",
-            "images/2T2BAMBA7RC051318/image_6.jpg",
-            "images/2T2BAMBA7RC051318/image_7.jpg",
-            "images/2T2BAMBA7RC051318/image_8.jpg"
+            "images/2T2BAMBA7RC051318/image_5.jpg"
         ]
     },
     {
@@ -28538,10 +25568,7 @@ const vehicleData = [
             "images/2HKRS4H20RH417911/image_2.jpg",
             "images/2HKRS4H20RH417911/image_3.jpg",
             "images/2HKRS4H20RH417911/image_4.jpg",
-            "images/2HKRS4H20RH417911/image_5.jpg",
-            "images/2HKRS4H20RH417911/image_6.jpg",
-            "images/2HKRS4H20RH417911/image_7.jpg",
-            "images/2HKRS4H20RH417911/image_8.jpg"
+            "images/2HKRS4H20RH417911/image_5.jpg"
         ]
     },
     {
@@ -28569,10 +25596,7 @@ const vehicleData = [
             "images/3GNKBFRS0PS107263/image_2.jpg",
             "images/3GNKBFRS0PS107263/image_3.jpg",
             "images/3GNKBFRS0PS107263/image_4.jpg",
-            "images/3GNKBFRS0PS107263/image_5.jpg",
-            "images/3GNKBFRS0PS107263/image_6.jpg",
-            "images/3GNKBFRS0PS107263/image_7.jpg",
-            "images/3GNKBFRS0PS107263/image_8.jpg"
+            "images/3GNKBFRS0PS107263/image_5.jpg"
         ]
     },
     {
@@ -28600,10 +25624,7 @@ const vehicleData = [
             "images/JTJYARBZ9K2146255/image_2.jpg",
             "images/JTJYARBZ9K2146255/image_3.jpg",
             "images/JTJYARBZ9K2146255/image_4.jpg",
-            "images/JTJYARBZ9K2146255/image_5.jpg",
-            "images/JTJYARBZ9K2146255/image_6.jpg",
-            "images/JTJYARBZ9K2146255/image_7.jpg",
-            "images/JTJYARBZ9K2146255/image_8.jpg"
+            "images/JTJYARBZ9K2146255/image_5.jpg"
         ]
     },
     {
@@ -28631,10 +25652,7 @@ const vehicleData = [
             "images/JF2GPABC7G8230414/image_2.jpg",
             "images/JF2GPABC7G8230414/image_3.jpg",
             "images/JF2GPABC7G8230414/image_4.jpg",
-            "images/JF2GPABC7G8230414/image_5.jpg",
-            "images/JF2GPABC7G8230414/image_6.jpg",
-            "images/JF2GPABC7G8230414/image_7.jpg",
-            "images/JF2GPABC7G8230414/image_8.jpg"
+            "images/JF2GPABC7G8230414/image_5.jpg"
         ]
     },
     {
@@ -28662,10 +25680,7 @@ const vehicleData = [
             "images/3GNAXLEX9KS617357/image_2.jpg",
             "images/3GNAXLEX9KS617357/image_3.jpg",
             "images/3GNAXLEX9KS617357/image_4.jpg",
-            "images/3GNAXLEX9KS617357/image_5.jpg",
-            "images/3GNAXLEX9KS617357/image_6.jpg",
-            "images/3GNAXLEX9KS617357/image_7.jpg",
-            "images/3GNAXLEX9KS617357/image_8.jpg"
+            "images/3GNAXLEX9KS617357/image_5.jpg"
         ]
     },
     {
@@ -28693,10 +25708,7 @@ const vehicleData = [
             "images/2T2BAMBA1RC049984/image_2.jpg",
             "images/2T2BAMBA1RC049984/image_3.jpg",
             "images/2T2BAMBA1RC049984/image_4.jpg",
-            "images/2T2BAMBA1RC049984/image_5.jpg",
-            "images/2T2BAMBA1RC049984/image_6.jpg",
-            "images/2T2BAMBA1RC049984/image_7.jpg",
-            "images/2T2BAMBA1RC049984/image_8.jpg"
+            "images/2T2BAMBA1RC049984/image_5.jpg"
         ]
     },
     {
@@ -28724,10 +25736,7 @@ const vehicleData = [
             "images/2T2BAMBA6RC049527/image_2.jpg",
             "images/2T2BAMBA6RC049527/image_3.jpg",
             "images/2T2BAMBA6RC049527/image_4.jpg",
-            "images/2T2BAMBA6RC049527/image_5.jpg",
-            "images/2T2BAMBA6RC049527/image_6.jpg",
-            "images/2T2BAMBA6RC049527/image_7.jpg",
-            "images/2T2BAMBA6RC049527/image_8.jpg"
+            "images/2T2BAMBA6RC049527/image_5.jpg"
         ]
     },
     {
@@ -28755,10 +25764,7 @@ const vehicleData = [
             "images/5N1AZ2MG2FN275664/image_2.jpg",
             "images/5N1AZ2MG2FN275664/image_3.jpg",
             "images/5N1AZ2MG2FN275664/image_4.jpg",
-            "images/5N1AZ2MG2FN275664/image_5.jpg",
-            "images/5N1AZ2MG2FN275664/image_6.jpg",
-            "images/5N1AZ2MG2FN275664/image_7.jpg",
-            "images/5N1AZ2MG2FN275664/image_8.jpg"
+            "images/5N1AZ2MG2FN275664/image_5.jpg"
         ]
     },
     {
@@ -28786,10 +25792,7 @@ const vehicleData = [
             "images/2T2BAMBA3RC036444/image_2.jpg",
             "images/2T2BAMBA3RC036444/image_3.jpg",
             "images/2T2BAMBA3RC036444/image_4.jpg",
-            "images/2T2BAMBA3RC036444/image_5.jpg",
-            "images/2T2BAMBA3RC036444/image_6.jpg",
-            "images/2T2BAMBA3RC036444/image_7.jpg",
-            "images/2T2BAMBA3RC036444/image_8.jpg"
+            "images/2T2BAMBA3RC036444/image_5.jpg"
         ]
     },
     {
@@ -28817,10 +25820,7 @@ const vehicleData = [
             "images/3CZRU5H34HM711436/image_2.jpg",
             "images/3CZRU5H34HM711436/image_3.jpg",
             "images/3CZRU5H34HM711436/image_4.jpg",
-            "images/3CZRU5H34HM711436/image_5.jpg",
-            "images/3CZRU5H34HM711436/image_6.jpg",
-            "images/3CZRU5H34HM711436/image_7.jpg",
-            "images/3CZRU5H34HM711436/image_8.jpg"
+            "images/3CZRU5H34HM711436/image_5.jpg"
         ]
     },
     {
@@ -28848,10 +25848,7 @@ const vehicleData = [
             "images/W1N4M4GB1LW030638/image_2.jpg",
             "images/W1N4M4GB1LW030638/image_3.jpg",
             "images/W1N4M4GB1LW030638/image_4.jpg",
-            "images/W1N4M4GB1LW030638/image_5.jpg",
-            "images/W1N4M4GB1LW030638/image_6.jpg",
-            "images/W1N4M4GB1LW030638/image_7.jpg",
-            "images/W1N4M4GB1LW030638/image_8.jpg"
+            "images/W1N4M4GB1LW030638/image_5.jpg"
         ]
     },
     {
@@ -28879,10 +25876,7 @@ const vehicleData = [
             "images/58ADZ1B17PU153890/image_2.jpg",
             "images/58ADZ1B17PU153890/image_3.jpg",
             "images/58ADZ1B17PU153890/image_4.jpg",
-            "images/58ADZ1B17PU153890/image_5.jpg",
-            "images/58ADZ1B17PU153890/image_6.jpg",
-            "images/58ADZ1B17PU153890/image_7.jpg",
-            "images/58ADZ1B17PU153890/image_8.jpg"
+            "images/58ADZ1B17PU153890/image_5.jpg"
         ]
     },
     {
@@ -28910,10 +25904,7 @@ const vehicleData = [
             "images/W1KWK8EBXMG046046/image_2.jpg",
             "images/W1KWK8EBXMG046046/image_3.jpg",
             "images/W1KWK8EBXMG046046/image_4.jpg",
-            "images/W1KWK8EBXMG046046/image_5.jpg",
-            "images/W1KWK8EBXMG046046/image_6.jpg",
-            "images/W1KWK8EBXMG046046/image_7.jpg",
-            "images/W1KWK8EBXMG046046/image_8.jpg"
+            "images/W1KWK8EBXMG046046/image_5.jpg"
         ]
     },
     {
@@ -28941,10 +25932,7 @@ const vehicleData = [
             "images/2T2BAMBA1SC058268/image_2.jpg",
             "images/2T2BAMBA1SC058268/image_3.jpg",
             "images/2T2BAMBA1SC058268/image_4.jpg",
-            "images/2T2BAMBA1SC058268/image_5.jpg",
-            "images/2T2BAMBA1SC058268/image_6.jpg",
-            "images/2T2BAMBA1SC058268/image_7.jpg",
-            "images/2T2BAMBA1SC058268/image_8.jpg"
+            "images/2T2BAMBA1SC058268/image_5.jpg"
         ]
     },
     {
@@ -28972,10 +25960,7 @@ const vehicleData = [
             "images/2T2BAMBA9SC059409/image_2.jpg",
             "images/2T2BAMBA9SC059409/image_3.jpg",
             "images/2T2BAMBA9SC059409/image_4.jpg",
-            "images/2T2BAMBA9SC059409/image_5.jpg",
-            "images/2T2BAMBA9SC059409/image_6.jpg",
-            "images/2T2BAMBA9SC059409/image_7.jpg",
-            "images/2T2BAMBA9SC059409/image_8.jpg"
+            "images/2T2BAMBA9SC059409/image_5.jpg"
         ]
     },
     {
@@ -29003,10 +25988,7 @@ const vehicleData = [
             "images/1G6DJ5RK7R0105215/image_2.jpg",
             "images/1G6DJ5RK7R0105215/image_3.jpg",
             "images/1G6DJ5RK7R0105215/image_4.jpg",
-            "images/1G6DJ5RK7R0105215/image_5.jpg",
-            "images/1G6DJ5RK7R0105215/image_6.jpg",
-            "images/1G6DJ5RK7R0105215/image_7.jpg",
-            "images/1G6DJ5RK7R0105215/image_8.jpg"
+            "images/1G6DJ5RK7R0105215/image_5.jpg"
         ]
     },
     {
@@ -29034,10 +26016,7 @@ const vehicleData = [
             "images/2T2BAMBA4RC044858/image_2.jpg",
             "images/2T2BAMBA4RC044858/image_3.jpg",
             "images/2T2BAMBA4RC044858/image_4.jpg",
-            "images/2T2BAMBA4RC044858/image_5.jpg",
-            "images/2T2BAMBA4RC044858/image_6.jpg",
-            "images/2T2BAMBA4RC044858/image_7.jpg",
-            "images/2T2BAMBA4RC044858/image_8.jpg"
+            "images/2T2BAMBA4RC044858/image_5.jpg"
         ]
     },
     {
@@ -29065,10 +26044,7 @@ const vehicleData = [
             "images/1G1ZB5ST2PF242522/image_2.jpg",
             "images/1G1ZB5ST2PF242522/image_3.jpg",
             "images/1G1ZB5ST2PF242522/image_4.jpg",
-            "images/1G1ZB5ST2PF242522/image_5.jpg",
-            "images/1G1ZB5ST2PF242522/image_6.jpg",
-            "images/1G1ZB5ST2PF242522/image_7.jpg",
-            "images/1G1ZB5ST2PF242522/image_8.jpg"
+            "images/1G1ZB5ST2PF242522/image_5.jpg"
         ]
     },
     {
@@ -29096,10 +26072,7 @@ const vehicleData = [
             "images/5N1BT3BA9RC697876/image_2.jpg",
             "images/5N1BT3BA9RC697876/image_3.jpg",
             "images/5N1BT3BA9RC697876/image_4.jpg",
-            "images/5N1BT3BA9RC697876/image_5.jpg",
-            "images/5N1BT3BA9RC697876/image_6.jpg",
-            "images/5N1BT3BA9RC697876/image_7.jpg",
-            "images/5N1BT3BA9RC697876/image_8.jpg"
+            "images/5N1BT3BA9RC697876/image_5.jpg"
         ]
     },
     {
@@ -29127,10 +26100,7 @@ const vehicleData = [
             "images/ZFF98RNA5R0302338/image_2.jpg",
             "images/ZFF98RNA5R0302338/image_3.jpg",
             "images/ZFF98RNA5R0302338/image_4.jpg",
-            "images/ZFF98RNA5R0302338/image_5.jpg",
-            "images/ZFF98RNA5R0302338/image_6.jpg",
-            "images/ZFF98RNA5R0302338/image_7.jpg",
-            "images/ZFF98RNA5R0302338/image_8.jpg"
+            "images/ZFF98RNA5R0302338/image_5.jpg"
         ]
     },
     {
@@ -29158,10 +26128,7 @@ const vehicleData = [
             "images/2T2ADCAZ9SC030805/image_2.jpg",
             "images/2T2ADCAZ9SC030805/image_3.jpg",
             "images/2T2ADCAZ9SC030805/image_4.jpg",
-            "images/2T2ADCAZ9SC030805/image_5.jpg",
-            "images/2T2ADCAZ9SC030805/image_6.jpg",
-            "images/2T2ADCAZ9SC030805/image_7.jpg",
-            "images/2T2ADCAZ9SC030805/image_8.jpg"
+            "images/2T2ADCAZ9SC030805/image_5.jpg"
         ]
     },
     {
@@ -29189,10 +26156,7 @@ const vehicleData = [
             "images/5YJSA1E55NF476365/image_2.jpg",
             "images/5YJSA1E55NF476365/image_3.jpg",
             "images/5YJSA1E55NF476365/image_4.jpg",
-            "images/5YJSA1E55NF476365/image_5.jpg",
-            "images/5YJSA1E55NF476365/image_6.jpg",
-            "images/5YJSA1E55NF476365/image_7.jpg",
-            "images/5YJSA1E55NF476365/image_8.jpg"
+            "images/5YJSA1E55NF476365/image_5.jpg"
         ]
     },
     {
@@ -29220,10 +26184,7 @@ const vehicleData = [
             "images/3C6MRVHG4SE546209/image_2.jpg",
             "images/3C6MRVHG4SE546209/image_3.jpg",
             "images/3C6MRVHG4SE546209/image_4.jpg",
-            "images/3C6MRVHG4SE546209/image_5.jpg",
-            "images/3C6MRVHG4SE546209/image_6.jpg",
-            "images/3C6MRVHG4SE546209/image_7.jpg",
-            "images/3C6MRVHG4SE546209/image_8.jpg"
+            "images/3C6MRVHG4SE546209/image_5.jpg"
         ]
     },
     {
@@ -29251,10 +26212,7 @@ const vehicleData = [
             "images/1G1YA3D41P5129109/image_2.jpg",
             "images/1G1YA3D41P5129109/image_3.jpg",
             "images/1G1YA3D41P5129109/image_4.jpg",
-            "images/1G1YA3D41P5129109/image_5.jpg",
-            "images/1G1YA3D41P5129109/image_6.jpg",
-            "images/1G1YA3D41P5129109/image_7.jpg",
-            "images/1G1YA3D41P5129109/image_8.jpg"
+            "images/1G1YA3D41P5129109/image_5.jpg"
         ]
     },
     {
@@ -29282,10 +26240,7 @@ const vehicleData = [
             "images/1G1YA3D45T5113344/image_2.jpg",
             "images/1G1YA3D45T5113344/image_3.jpg",
             "images/1G1YA3D45T5113344/image_4.jpg",
-            "images/1G1YA3D45T5113344/image_5.jpg",
-            "images/1G1YA3D45T5113344/image_6.jpg",
-            "images/1G1YA3D45T5113344/image_7.jpg",
-            "images/1G1YA3D45T5113344/image_8.jpg"
+            "images/1G1YA3D45T5113344/image_5.jpg"
         ]
     },
     {
@@ -29313,10 +26268,7 @@ const vehicleData = [
             "images/JA4ARUAU4SU003475/image_2.jpg",
             "images/JA4ARUAU4SU003475/image_3.jpg",
             "images/JA4ARUAU4SU003475/image_4.jpg",
-            "images/JA4ARUAU4SU003475/image_5.jpg",
-            "images/JA4ARUAU4SU003475/image_6.jpg",
-            "images/JA4ARUAU4SU003475/image_7.jpg",
-            "images/JA4ARUAU4SU003475/image_8.jpg"
+            "images/JA4ARUAU4SU003475/image_5.jpg"
         ]
     },
     {
@@ -29344,10 +26296,7 @@ const vehicleData = [
             "images/3MW69CW04T8G07339/image_2.jpg",
             "images/3MW69CW04T8G07339/image_3.jpg",
             "images/3MW69CW04T8G07339/image_4.jpg",
-            "images/3MW69CW04T8G07339/image_5.jpg",
-            "images/3MW69CW04T8G07339/image_6.jpg",
-            "images/3MW69CW04T8G07339/image_7.jpg",
-            "images/3MW69CW04T8G07339/image_8.jpg"
+            "images/3MW69CW04T8G07339/image_5.jpg"
         ]
     },
     {
@@ -29375,10 +26324,7 @@ const vehicleData = [
             "images/3VW217AU5HM018922/image_2.jpg",
             "images/3VW217AU5HM018922/image_3.jpg",
             "images/3VW217AU5HM018922/image_4.jpg",
-            "images/3VW217AU5HM018922/image_5.jpg",
-            "images/3VW217AU5HM018922/image_6.jpg",
-            "images/3VW217AU5HM018922/image_7.jpg",
-            "images/3VW217AU5HM018922/image_8.jpg"
+            "images/3VW217AU5HM018922/image_5.jpg"
         ]
     },
     {
@@ -29406,10 +26352,7 @@ const vehicleData = [
             "images/1GYAZAR48RF218066/image_2.jpg",
             "images/1GYAZAR48RF218066/image_3.jpg",
             "images/1GYAZAR48RF218066/image_4.jpg",
-            "images/1GYAZAR48RF218066/image_5.jpg",
-            "images/1GYAZAR48RF218066/image_6.jpg",
-            "images/1GYAZAR48RF218066/image_7.jpg",
-            "images/1GYAZAR48RF218066/image_8.jpg"
+            "images/1GYAZAR48RF218066/image_5.jpg"
         ]
     },
     {
@@ -29437,10 +26380,7 @@ const vehicleData = [
             "images/5NTJDDAF3PH046360/image_2.jpg",
             "images/5NTJDDAF3PH046360/image_3.jpg",
             "images/5NTJDDAF3PH046360/image_4.jpg",
-            "images/5NTJDDAF3PH046360/image_5.jpg",
-            "images/5NTJDDAF3PH046360/image_6.jpg",
-            "images/5NTJDDAF3PH046360/image_7.jpg",
-            "images/5NTJDDAF3PH046360/image_8.jpg"
+            "images/5NTJDDAF3PH046360/image_5.jpg"
         ]
     },
     {
@@ -29468,10 +26408,7 @@ const vehicleData = [
             "images/7FARW1H99JE030376/image_2.jpg",
             "images/7FARW1H99JE030376/image_3.jpg",
             "images/7FARW1H99JE030376/image_4.jpg",
-            "images/7FARW1H99JE030376/image_5.jpg",
-            "images/7FARW1H99JE030376/image_6.jpg",
-            "images/7FARW1H99JE030376/image_7.jpg",
-            "images/7FARW1H99JE030376/image_8.jpg"
+            "images/7FARW1H99JE030376/image_5.jpg"
         ]
     },
     {
@@ -29499,10 +26436,7 @@ const vehicleData = [
             "images/JF2GUADC1RH241935/image_2.jpg",
             "images/JF2GUADC1RH241935/image_3.jpg",
             "images/JF2GUADC1RH241935/image_4.jpg",
-            "images/JF2GUADC1RH241935/image_5.jpg",
-            "images/JF2GUADC1RH241935/image_6.jpg",
-            "images/JF2GUADC1RH241935/image_7.jpg",
-            "images/JF2GUADC1RH241935/image_8.jpg"
+            "images/JF2GUADC1RH241935/image_5.jpg"
         ]
     },
     {
@@ -29530,10 +26464,7 @@ const vehicleData = [
             "images/19XFL1H84RE004980/image_2.jpg",
             "images/19XFL1H84RE004980/image_3.jpg",
             "images/19XFL1H84RE004980/image_4.jpg",
-            "images/19XFL1H84RE004980/image_5.jpg",
-            "images/19XFL1H84RE004980/image_6.jpg",
-            "images/19XFL1H84RE004980/image_7.jpg",
-            "images/19XFL1H84RE004980/image_8.jpg"
+            "images/19XFL1H84RE004980/image_5.jpg"
         ]
     },
     {
@@ -29561,10 +26492,7 @@ const vehicleData = [
             "images/JF2SKAJC8RH439190/image_2.jpg",
             "images/JF2SKAJC8RH439190/image_3.jpg",
             "images/JF2SKAJC8RH439190/image_4.jpg",
-            "images/JF2SKAJC8RH439190/image_5.jpg",
-            "images/JF2SKAJC8RH439190/image_6.jpg",
-            "images/JF2SKAJC8RH439190/image_7.jpg",
-            "images/JF2SKAJC8RH439190/image_8.jpg"
+            "images/JF2SKAJC8RH439190/image_5.jpg"
         ]
     },
     {
@@ -29592,10 +26520,7 @@ const vehicleData = [
             "images/1V2TR2CA0MC520141/image_2.jpg",
             "images/1V2TR2CA0MC520141/image_3.jpg",
             "images/1V2TR2CA0MC520141/image_4.jpg",
-            "images/1V2TR2CA0MC520141/image_5.jpg",
-            "images/1V2TR2CA0MC520141/image_6.jpg",
-            "images/1V2TR2CA0MC520141/image_7.jpg",
-            "images/1V2TR2CA0MC520141/image_8.jpg"
+            "images/1V2TR2CA0MC520141/image_5.jpg"
         ]
     },
     {
@@ -29623,10 +26548,7 @@ const vehicleData = [
             "images/1C4SDJCTXRC246901/image_2.jpg",
             "images/1C4SDJCTXRC246901/image_3.jpg",
             "images/1C4SDJCTXRC246901/image_4.jpg",
-            "images/1C4SDJCTXRC246901/image_5.jpg",
-            "images/1C4SDJCTXRC246901/image_6.jpg",
-            "images/1C4SDJCTXRC246901/image_7.jpg",
-            "images/1C4SDJCTXRC246901/image_8.jpg"
+            "images/1C4SDJCTXRC246901/image_5.jpg"
         ]
     },
     {
@@ -29654,10 +26576,7 @@ const vehicleData = [
             "images/4S4WMAPD8L3439765/image_2.jpg",
             "images/4S4WMAPD8L3439765/image_3.jpg",
             "images/4S4WMAPD8L3439765/image_4.jpg",
-            "images/4S4WMAPD8L3439765/image_5.jpg",
-            "images/4S4WMAPD8L3439765/image_6.jpg",
-            "images/4S4WMAPD8L3439765/image_7.jpg",
-            "images/4S4WMAPD8L3439765/image_8.jpg"
+            "images/4S4WMAPD8L3439765/image_5.jpg"
         ]
     },
     {
@@ -29685,10 +26604,7 @@ const vehicleData = [
             "images/3CZRZ1H7XPM744517/image_2.jpg",
             "images/3CZRZ1H7XPM744517/image_3.jpg",
             "images/3CZRZ1H7XPM744517/image_4.jpg",
-            "images/3CZRZ1H7XPM744517/image_5.jpg",
-            "images/3CZRZ1H7XPM744517/image_6.jpg",
-            "images/3CZRZ1H7XPM744517/image_7.jpg",
-            "images/3CZRZ1H7XPM744517/image_8.jpg"
+            "images/3CZRZ1H7XPM744517/image_5.jpg"
         ]
     },
     {
@@ -29716,10 +26632,7 @@ const vehicleData = [
             "images/4S4BTADC6P3225408/image_2.jpg",
             "images/4S4BTADC6P3225408/image_3.jpg",
             "images/4S4BTADC6P3225408/image_4.jpg",
-            "images/4S4BTADC6P3225408/image_5.jpg",
-            "images/4S4BTADC6P3225408/image_6.jpg",
-            "images/4S4BTADC6P3225408/image_7.jpg",
-            "images/4S4BTADC6P3225408/image_8.jpg"
+            "images/4S4BTADC6P3225408/image_5.jpg"
         ]
     },
     {
@@ -29747,10 +26660,7 @@ const vehicleData = [
             "images/1FMJU1HT5LEA82629/image_2.jpg",
             "images/1FMJU1HT5LEA82629/image_3.jpg",
             "images/1FMJU1HT5LEA82629/image_4.jpg",
-            "images/1FMJU1HT5LEA82629/image_5.jpg",
-            "images/1FMJU1HT5LEA82629/image_6.jpg",
-            "images/1FMJU1HT5LEA82629/image_7.jpg",
-            "images/1FMJU1HT5LEA82629/image_8.jpg"
+            "images/1FMJU1HT5LEA82629/image_5.jpg"
         ]
     },
     {
@@ -29778,10 +26688,7 @@ const vehicleData = [
             "images/JF1GUABCXR8239219/image_2.jpg",
             "images/JF1GUABCXR8239219/image_3.jpg",
             "images/JF1GUABCXR8239219/image_4.jpg",
-            "images/JF1GUABCXR8239219/image_5.jpg",
-            "images/JF1GUABCXR8239219/image_6.jpg",
-            "images/JF1GUABCXR8239219/image_7.jpg",
-            "images/JF1GUABCXR8239219/image_8.jpg"
+            "images/JF1GUABCXR8239219/image_5.jpg"
         ]
     },
     {
@@ -29809,10 +26716,7 @@ const vehicleData = [
             "images/2FMPK3K95JBB75183/image_2.jpg",
             "images/2FMPK3K95JBB75183/image_3.jpg",
             "images/2FMPK3K95JBB75183/image_4.jpg",
-            "images/2FMPK3K95JBB75183/image_5.jpg",
-            "images/2FMPK3K95JBB75183/image_6.jpg",
-            "images/2FMPK3K95JBB75183/image_7.jpg",
-            "images/2FMPK3K95JBB75183/image_8.jpg"
+            "images/2FMPK3K95JBB75183/image_5.jpg"
         ]
     },
     {
@@ -29840,10 +26744,7 @@ const vehicleData = [
             "images/4S4BSANC1H3368592/image_2.jpg",
             "images/4S4BSANC1H3368592/image_3.jpg",
             "images/4S4BSANC1H3368592/image_4.jpg",
-            "images/4S4BSANC1H3368592/image_5.jpg",
-            "images/4S4BSANC1H3368592/image_6.jpg",
-            "images/4S4BSANC1H3368592/image_7.jpg",
-            "images/4S4BSANC1H3368592/image_8.jpg"
+            "images/4S4BSANC1H3368592/image_5.jpg"
         ]
     },
     {
@@ -29871,10 +26772,7 @@ const vehicleData = [
             "images/3GNKBCR45NS163261/image_2.jpg",
             "images/3GNKBCR45NS163261/image_3.jpg",
             "images/3GNKBCR45NS163261/image_4.jpg",
-            "images/3GNKBCR45NS163261/image_5.jpg",
-            "images/3GNKBCR45NS163261/image_6.jpg",
-            "images/3GNKBCR45NS163261/image_7.jpg",
-            "images/3GNKBCR45NS163261/image_8.jpg"
+            "images/3GNKBCR45NS163261/image_5.jpg"
         ]
     },
     {
@@ -29902,10 +26800,7 @@ const vehicleData = [
             "images/19XFC2F82LE005335/image_2.jpg",
             "images/19XFC2F82LE005335/image_3.jpg",
             "images/19XFC2F82LE005335/image_4.jpg",
-            "images/19XFC2F82LE005335/image_5.jpg",
-            "images/19XFC2F82LE005335/image_6.jpg",
-            "images/19XFC2F82LE005335/image_7.jpg",
-            "images/19XFC2F82LE005335/image_8.jpg"
+            "images/19XFC2F82LE005335/image_5.jpg"
         ]
     },
     {
@@ -29933,10 +26828,7 @@ const vehicleData = [
             "images/JF2GUADC7RH866372/image_2.jpg",
             "images/JF2GUADC7RH866372/image_3.jpg",
             "images/JF2GUADC7RH866372/image_4.jpg",
-            "images/JF2GUADC7RH866372/image_5.jpg",
-            "images/JF2GUADC7RH866372/image_6.jpg",
-            "images/JF2GUADC7RH866372/image_7.jpg",
-            "images/JF2GUADC7RH866372/image_8.jpg"
+            "images/JF2GUADC7RH866372/image_5.jpg"
         ]
     },
     {
@@ -29964,10 +26856,7 @@ const vehicleData = [
             "images/JF2SKADC5LH555823/image_2.jpg",
             "images/JF2SKADC5LH555823/image_3.jpg",
             "images/JF2SKADC5LH555823/image_4.jpg",
-            "images/JF2SKADC5LH555823/image_5.jpg",
-            "images/JF2SKADC5LH555823/image_6.jpg",
-            "images/JF2SKADC5LH555823/image_7.jpg",
-            "images/JF2SKADC5LH555823/image_8.jpg"
+            "images/JF2SKADC5LH555823/image_5.jpg"
         ]
     },
     {
@@ -29995,10 +26884,7 @@ const vehicleData = [
             "images/JF2SKARC2LH420811/image_2.jpg",
             "images/JF2SKARC2LH420811/image_3.jpg",
             "images/JF2SKARC2LH420811/image_4.jpg",
-            "images/JF2SKARC2LH420811/image_5.jpg",
-            "images/JF2SKARC2LH420811/image_6.jpg",
-            "images/JF2SKARC2LH420811/image_7.jpg",
-            "images/JF2SKARC2LH420811/image_8.jpg"
+            "images/JF2SKARC2LH420811/image_5.jpg"
         ]
     },
     {
@@ -30026,10 +26912,7 @@ const vehicleData = [
             "images/4S4WMAHD3R3454567/image_2.jpg",
             "images/4S4WMAHD3R3454567/image_3.jpg",
             "images/4S4WMAHD3R3454567/image_4.jpg",
-            "images/4S4WMAHD3R3454567/image_5.jpg",
-            "images/4S4WMAHD3R3454567/image_6.jpg",
-            "images/4S4WMAHD3R3454567/image_7.jpg",
-            "images/4S4WMAHD3R3454567/image_8.jpg"
+            "images/4S4WMAHD3R3454567/image_5.jpg"
         ]
     },
     {
@@ -30057,10 +26940,7 @@ const vehicleData = [
             "images/4S3GTAD61M3713519/image_2.jpg",
             "images/4S3GTAD61M3713519/image_3.jpg",
             "images/4S3GTAD61M3713519/image_4.jpg",
-            "images/4S3GTAD61M3713519/image_5.jpg",
-            "images/4S3GTAD61M3713519/image_6.jpg",
-            "images/4S3GTAD61M3713519/image_7.jpg",
-            "images/4S3GTAD61M3713519/image_8.jpg"
+            "images/4S3GTAD61M3713519/image_5.jpg"
         ]
     },
     {
@@ -30088,10 +26968,7 @@ const vehicleData = [
             "images/JF1GUABC8R8239381/image_2.jpg",
             "images/JF1GUABC8R8239381/image_3.jpg",
             "images/JF1GUABC8R8239381/image_4.jpg",
-            "images/JF1GUABC8R8239381/image_5.jpg",
-            "images/JF1GUABC8R8239381/image_6.jpg",
-            "images/JF1GUABC8R8239381/image_7.jpg",
-            "images/JF1GUABC8R8239381/image_8.jpg"
+            "images/JF1GUABC8R8239381/image_5.jpg"
         ]
     },
     {
@@ -30119,10 +26996,7 @@ const vehicleData = [
             "images/JHMZE2H71AS037021/image_2.jpg",
             "images/JHMZE2H71AS037021/image_3.jpg",
             "images/JHMZE2H71AS037021/image_4.jpg",
-            "images/JHMZE2H71AS037021/image_5.jpg",
-            "images/JHMZE2H71AS037021/image_6.jpg",
-            "images/JHMZE2H71AS037021/image_7.jpg",
-            "images/JHMZE2H71AS037021/image_8.jpg"
+            "images/JHMZE2H71AS037021/image_5.jpg"
         ]
     },
     {
@@ -30150,9 +27024,7 @@ const vehicleData = [
             "images/1HGCV1F43MA062752/image_2.jpg",
             "images/1HGCV1F43MA062752/image_3.jpg",
             "images/1HGCV1F43MA062752/image_4.jpg",
-            "images/1HGCV1F43MA062752/image_5.jpg",
-            "images/1HGCV1F43MA062752/image_6.jpg",
-            "images/1HGCV1F43MA062752/image_7.jpg"
+            "images/1HGCV1F43MA062752/image_5.jpg"
         ]
     },
     {
@@ -30180,9 +27052,7 @@ const vehicleData = [
             "images/ML32AUHJ5MH014013/image_2.jpg",
             "images/ML32AUHJ5MH014013/image_3.jpg",
             "images/ML32AUHJ5MH014013/image_4.jpg",
-            "images/ML32AUHJ5MH014013/image_5.jpg",
-            "images/ML32AUHJ5MH014013/image_6.jpg",
-            "images/ML32AUHJ5MH014013/image_7.jpg"
+            "images/ML32AUHJ5MH014013/image_5.jpg"
         ]
     },
     {
@@ -34019,10 +30889,7 @@ const vehicleData = [
             "images/JTDS4MCE6NJ093572/image_2.jpg",
             "images/JTDS4MCE6NJ093572/image_3.jpg",
             "images/JTDS4MCE6NJ093572/image_4.jpg",
-            "images/JTDS4MCE6NJ093572/image_5.jpg",
-            "images/JTDS4MCE6NJ093572/image_6.jpg",
-            "images/JTDS4MCE6NJ093572/image_7.jpg",
-            "images/JTDS4MCE6NJ093572/image_8.jpg"
+            "images/JTDS4MCE6NJ093572/image_5.jpg"
         ]
     },
     {
