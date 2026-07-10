@@ -22,7 +22,7 @@
 
     <section class="hero">
         <div class="hero-overlay"></div>
-        <img src="hero-bg.png" class="hero-img" alt="Luxury Car">
+        <img src="hero-bg.jpg" class="hero-img" alt="Luxury Car">
         <div class="hero-content">
             <h1>Your perfect drive starts here</h1>
             <div class="hero-btns">
@@ -45,6 +45,11 @@
 
     <div class="inventory-grid" id="inventoryGrid">
             <!-- Vehicles will be loaded here -->
+        </div>
+
+        <div class="load-more-wrap" id="loadMoreWrap" style="display:none">
+            <button class="btn btn-primary" id="loadMoreBtn" onclick="loadMoreVehicles()">Ver más vehículos ↓</button>
+            <p id="inventoryCount"></p>
         </div>
     </div>
 
@@ -271,35 +276,47 @@
             });
         }
 
+        // Se renderiza por lotes para no crear 1300+ tarjetas de golpe
+        const PAGE_SIZE = 48;
+        let currentList = [];
+        let visibleCount = 0;
+
         function renderVehicles() {
-            const filtered = allVehicles.filter(car => {
+            currentList = allVehicles.filter(car => {
                 const matchesBrand = currentFilter === 'All' || car.make === currentFilter;
                 const stringToSearch = `${car.make} ${car.model} ${car.year} ${car.trim}`.toLowerCase();
                 const matchesSearch = stringToSearch.includes(searchTerm);
                 return matchesBrand && matchesSearch;
             });
 
-            filtered.sort((a, b) => {
-                const hasA = (a.local_image || a.image_url) ? 1 : 0;
-                const hasB = (b.local_image || b.image_url) ? 1 : 0;
+            currentList.sort((a, b) => {
+                const hasA = a.image_url ? 1 : 0;
+                const hasB = b.image_url ? 1 : 0;
                 return hasB - hasA;
             });
 
             inventoryGrid.innerHTML = '';
+            visibleCount = 0;
+            appendVehicleCards(Math.min(PAGE_SIZE, currentList.length));
+        }
 
-            filtered.forEach((car, index) => {
+        function appendVehicleCards(count) {
+            const start = visibleCount;
+            const end = Math.min(start + count, currentList.length);
+
+            for (let i = start; i < end; i++) {
+                const car = currentList[i];
                 const card = document.createElement('div');
                 card.className = 'car-card';
-                card.style.animationDelay = `${index * 0.05}s`;
+                card.style.animationDelay = `${(i - start) % 12 * 0.05}s`;
 
-                const imgSrc = car.local_image ? car.local_image.replace(/\\/g, '/') : (car.image_url || 'https://via.placeholder.com/600x400?text=No+Image');
-                const backupImg = car.image_url || 'https://via.placeholder.com/600x400?text=No+Image';
+                const imgSrc = car.image_url || 'https://via.placeholder.com/600x400?text=No+Image';
                 const price = Number(car.price) > 0 ? `$${Number(car.price).toLocaleString()}` : 'Call for Price';
 
                 card.innerHTML = `
                     <div class="img-container">
                         <span class="badge-new">${car.condition || 'NEW'}</span>
-                        <img src="${imgSrc}" alt="${car.make} ${car.model}" loading="lazy" onerror="if (this.src !== '${backupImg}') { this.src = '${backupImg}'; } else { this.src = 'https://via.placeholder.com/600x400?text=Image+Not+Found'; }">
+                        <img src="${imgSrc}" alt="${car.make} ${car.model}" loading="lazy" onerror="this.src = 'https://via.placeholder.com/600x400?text=Image+Not+Found';">
                     </div>
                     <div class="content">
                         <div class="car-year">${car.year} ${car.make}</div>
@@ -311,12 +328,31 @@
                         </div>
                         <div class="price-row">
                             <div class="price-val">${price}</div>
-                            <button class="view-btn" onclick='openVehicleDetails(${JSON.stringify(car).replace(/'/g, "&apos;")})'>View Details</button>
+                            <button class="view-btn" onclick="openVehicleDetailsIdx(${i})">View Details</button>
                         </div>
                     </div>
                 `;
                 inventoryGrid.appendChild(card);
-            });
+            }
+
+            visibleCount = end;
+            updateLoadMore();
+        }
+
+        function updateLoadMore() {
+            const wrap = document.getElementById('loadMoreWrap');
+            const counter = document.getElementById('inventoryCount');
+            counter.textContent = `Mostrando ${visibleCount} de ${currentList.length} vehículos`;
+            wrap.style.display = 'block';
+            document.getElementById('loadMoreBtn').style.display = visibleCount < currentList.length ? 'inline-block' : 'none';
+        }
+
+        window.loadMoreVehicles = function() {
+            appendVehicleCards(PAGE_SIZE);
+        }
+
+        window.openVehicleDetailsIdx = function(i) {
+            openVehicleDetails(currentList[i]);
         }
 
         // Modal Functions
