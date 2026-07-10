@@ -66,6 +66,16 @@ nav {
     align-items: center;
 }
 
+.ig-btn {
+    display: flex;
+    align-items: center;
+    transition: transform 0.2s ease;
+}
+
+.ig-btn:hover {
+    transform: scale(1.12);
+}
+
 @media (max-width: 480px) {
     .nav-links {
         gap: 0.75rem;
