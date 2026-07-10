@@ -43,10 +43,14 @@ nav {
 }
 
 .logo {
-    font-size: 1.5rem;
-    font-weight: 800;
-    letter-spacing: -1px;
-    color: var(--text-main);
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    height: 48px;
+    width: auto;
+    display: block;
 }
 
 .contact-btn {
@@ -910,8 +914,8 @@ footer {
     nav {
         padding: 0.75rem 1rem;
     }
-    .logo {
-        font-size: 1.2rem;
+    .logo img {
+        height: 38px;
     }
     .contact-btn {
         font-size: 0.8rem;
