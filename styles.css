@@ -215,12 +215,52 @@ nav {
 }
 
 /* Brand Filter */
+.brand-filter-wrap {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    min-width: 0;
+}
+
+.brand-scroll-btn {
+    flex-shrink: 0;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 1px solid #e5e7eb;
+    background: #fff;
+    color: var(--text-main);
+    font-size: 1rem;
+    font-weight: 800;
+    cursor: pointer;
+    box-shadow: var(--shadow-sm);
+    transition: all 0.2s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.brand-scroll-btn:hover {
+    background: var(--primary);
+    border-color: var(--primary);
+    color: #fff;
+}
+
+@media (max-width: 768px) {
+    .brand-scroll-btn {
+        display: none;
+    }
+}
+
 .brand-filter {
     display: flex;
     gap: 0.75rem;
     overflow-x: auto;
     padding-bottom: 0.5rem;
     scrollbar-width: none;
+    flex: 1;
+    min-width: 0;
+    scroll-behavior: smooth;
 }
 
 .brand-filter::-webkit-scrollbar {

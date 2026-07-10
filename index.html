@@ -49,8 +49,12 @@
                 <span class="search-icon">🔍</span>
                 <input type="text" id="searchInput" class="search-input" placeholder="Search by make, model, or year...">
             </div>
-            <div class="brand-filter" id="brandFilter">
-                <!-- Brands will be loaded here -->
+            <div class="brand-filter-wrap">
+                <button class="brand-scroll-btn" onclick="scrollBrands(-1)" aria-label="Marcas anteriores">❮</button>
+                <div class="brand-filter" id="brandFilter">
+                    <!-- Brands will be loaded here -->
+                </div>
+                <button class="brand-scroll-btn" onclick="scrollBrands(1)" aria-label="Más marcas">❯</button>
             </div>
         </div>
 
@@ -368,6 +372,10 @@
 
         window.openVehicleDetailsIdx = function(i) {
             openVehicleDetails(currentList[i]);
+        }
+
+        window.scrollBrands = function(direction) {
+            brandFilter.scrollBy({ left: direction * (brandFilter.clientWidth * 0.7), behavior: 'smooth' });
         }
 
         // Modal Functions
