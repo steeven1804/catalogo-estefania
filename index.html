@@ -281,6 +281,19 @@
             });
         }
 
+        // Millaje: numero limpio o null si no hay dato
+        function milesValue(car) {
+            const raw = String(car.mileage || car.miles || '').replace(/[^\d]/g, '');
+            return raw && Number(raw) > 0 ? Number(raw) : null;
+        }
+        function hasMiles(car) {
+            return milesValue(car) !== null ? 1 : 0;
+        }
+        function milesLabel(car) {
+            const m = milesValue(car);
+            return m !== null ? `${m.toLocaleString('en-US')} mi` : null;
+        }
+
         // Se renderiza por lotes para no crear 1300+ tarjetas de golpe
         const PAGE_SIZE = 48;
         let currentList = [];
@@ -294,11 +307,8 @@
                 return matchesBrand && matchesSearch;
             });
 
-            currentList.sort((a, b) => {
-                const hasA = a.image_url ? 1 : 0;
-                const hasB = b.image_url ? 1 : 0;
-                return hasB - hasA;
-            });
+            // Primero los carros con millaje conocido
+            currentList.sort((a, b) => hasMiles(b) - hasMiles(a));
 
             inventoryGrid.innerHTML = '';
             visibleCount = 0;
@@ -327,7 +337,7 @@
                         <div class="car-year">${car.year} ${car.make}</div>
                         <h2 class="car-name">${car.model}</h2>
                         <div class="specs-row">
-                            <span class="spec-pill">🏎️ ${car.mileage || car.miles || '0'} mi</span>
+                            ${milesLabel(car) ? `<span class="spec-pill">🏎️ ${milesLabel(car)}</span>` : ''}
                             <span class="spec-pill">⛽ ${car.fuel || car.engine || 'Gas'}</span>
                             <span class="spec-pill">⚙️ ${car.transmission || 'Auto'}</span>
                         </div>
@@ -364,7 +374,7 @@
         window.openVehicleDetails = function(car) {
             document.getElementById('modalTitle').textContent = `${car.make} ${car.model}`;
             document.getElementById('modalYearBadge').textContent = car.year;
-            document.getElementById('specMileage').textContent = `${car.mileage || car.miles || '0'} mi`;
+            document.getElementById('specMileage').textContent = milesLabel(car) || '—';
             document.getElementById('specTrans').textContent = car.transmission || 'Automatic';
             document.getElementById('specFuel').textContent = car.fuel || car.engine || 'Gasoline';
             document.getElementById('specYear').textContent = car.year;
