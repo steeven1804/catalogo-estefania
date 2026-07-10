@@ -1,0 +1,16 @@
+CARPETA DE TESTIMONIOS
+======================
+
+Aqui van las fotos y videos de los clientes.
+
+- Fotos:  .jpg o .webp, de preferencia menos de 300 KB
+- Videos: .mp4 comprimido, de preferencia menos de 10 MB
+  (los videos verticales de WhatsApp funcionan perfecto)
+
+Despues de guardar los archivos aqui, agrega el testimonio
+en el archivo:  data/testimonials.js  (ahi estan las
+instrucciones y ejemplos).
+
+TIP para comprimir videos gratis: https://www.freeconvert.com/video-compressor
+o en el celular, enviarse el video a si mismo por WhatsApp
+ya lo comprime automaticamente.
