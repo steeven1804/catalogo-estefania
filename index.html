@@ -60,7 +60,7 @@
             <div class="modal-gallery">
                 <div class="main-img-view">
                     <button class="nav-arrow nav-prev" onclick="changeImage(-1)">❮</button>
-                    <img id="modalMainImg" src="" alt="Vehicle" onerror="if (window.currentVehicleRemoteImg && this.src !== window.currentVehicleRemoteImg) { this.src = window.currentVehicleRemoteImg; } else { this.src = 'https://via.placeholder.com/1200x800?text=No+Image'; }">
+                    <img id="modalMainImg" src="" alt="Vehicle" onerror="if (window.currentVehicleRemoteImg && this.src !== window.currentVehicleRemoteImg) { this.src = window.currentVehicleRemoteImg; } else if (this.src !== NO_IMG) { this.src = NO_IMG; }">
                     <button class="nav-arrow nav-next" onclick="changeImage(1)">❯</button>
                     <div class="img-counter" id="imgCounter">1 / 1</div>
                 </div>
@@ -229,6 +229,11 @@
         const thumbStrip = document.getElementById('thumbStrip');
         const imgCounter = document.getElementById('imgCounter');
 
+        // Imagen de respaldo local (el servicio via.placeholder.com dejo de funcionar)
+        const NO_IMG = 'data:image/svg+xml;utf8,' + encodeURIComponent(
+            '<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400"><rect width="100%" height="100%" fill="#E5E7EB"/><text x="300" y="200" font-family="Arial, sans-serif" font-size="26" fill="#6B7280" text-anchor="middle" dominant-baseline="middle">Foto no disponible</text></svg>'
+        );
+
         let allVehicles = [];
         let currentFilter = 'All';
         let searchTerm = '';
@@ -310,13 +315,13 @@
                 card.className = 'car-card';
                 card.style.animationDelay = `${(i - start) % 12 * 0.05}s`;
 
-                const imgSrc = car.image_url || 'https://via.placeholder.com/600x400?text=No+Image';
+                const imgSrc = car.image_url || NO_IMG;
                 const price = Number(car.price) > 0 ? `$${Number(car.price).toLocaleString()}` : 'Call for Price';
 
                 card.innerHTML = `
                     <div class="img-container">
                         <span class="badge-new">${car.condition || 'NEW'}</span>
-                        <img src="${imgSrc}" alt="${car.make} ${car.model}" loading="lazy" onerror="this.src = 'https://via.placeholder.com/600x400?text=Image+Not+Found';">
+                        <img src="${imgSrc}" alt="${car.make} ${car.model}" loading="lazy" onerror="this.onerror = null; this.src = NO_IMG;">
                     </div>
                     <div class="content">
                         <div class="car-year">${car.year} ${car.make}</div>
@@ -381,7 +386,7 @@
             }
             
             if (currentVehicleImages.length === 0) {
-                currentVehicleImages.push('https://via.placeholder.com/1200x800?text=No+Gallery+Images');
+                currentVehicleImages.push(NO_IMG);
             }
 
             // Update WhatsApp CTA Message
@@ -421,7 +426,8 @@
                     if (window.currentVehicleRemoteImg && this.src !== window.currentVehicleRemoteImg) {
                         this.src = window.currentVehicleRemoteImg;
                     } else {
-                        this.src = 'https://via.placeholder.com/150x100?text=No+Image';
+                        this.onerror = null;
+                        this.src = NO_IMG;
                     }
                 };
                 thumb.onclick = () => {
