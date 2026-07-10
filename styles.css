@@ -53,35 +53,25 @@ nav {
     display: block;
 }
 
-.contact-btn {
-    font-weight: 600;
-    color: var(--primary);
-    text-decoration: none;
-    font-size: 0.95rem;
-}
-
 .nav-links {
     display: flex;
-    gap: 1.5rem;
+    gap: 1.25rem;
     align-items: center;
 }
 
-.ig-btn {
+.social-btn {
     display: flex;
     align-items: center;
     transition: transform 0.2s ease;
 }
 
-.ig-btn:hover {
-    transform: scale(1.12);
+.social-btn:hover {
+    transform: scale(1.15);
 }
 
 @media (max-width: 480px) {
     .nav-links {
-        gap: 0.75rem;
-    }
-    .contact-btn {
-        font-size: 0.8rem;
+        gap: 0.9rem;
     }
 }
 
