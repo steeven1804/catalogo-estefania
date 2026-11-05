@@ -1245,6 +1245,10 @@ a {
         max-height: calc(100dvh - 48px);
         border-radius: var(--radius-xl);
     }
+
+    .vehicle-panel {
+        max-width: 640px;
+    }
 }
 
 @media (min-width: 768px) {
@@ -1273,7 +1277,8 @@ a {
     .vehicle-panel {
         max-width: 1080px;
         display: grid;
-        grid-template-columns: 1.1fr 1fr;
+        /* minmax(0, …) keeps a long thumbnail strip from stretching the gallery column */
+        grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr);
         align-items: start;
         overflow: hidden;
     }
