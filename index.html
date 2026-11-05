@@ -418,12 +418,35 @@
                     _search: `${car.make} ${car.model} ${car.year} ${car.trim || ''}`.toLowerCase()
                 };
             });
-            // Vehicles with a price and known mileage first
+            // Within each model, vehicles with a price and known mileage first
             const score = car => (Number(car.price) > 0 ? 2 : 0) + (milesValue(car) !== null ? 1 : 0);
             allVehicles.sort((a, b) => score(b) - score(a));
+            allVehicles = mixByModel(allVehicles);
 
             createBrandFilters();
             renderVehicles();
+        }
+
+        // Spreads each model evenly through the list so the grid mixes different
+        // vehicles instead of showing a block of the same van or truck.
+        // The offset per model is derived from its name, so the order is the same on every visit.
+        function mixByModel(cars) {
+            const groups = {};
+            cars.forEach(car => {
+                const key = `${car._brand} ${String(car.model || '').trim().split(/\s+/)[0].toUpperCase()}`;
+                (groups[key] = groups[key] || []).push(car);
+            });
+
+            const offset = key => {
+                let hash = 0;
+                for (const ch of key) hash = (hash * 31 + ch.charCodeAt(0)) >>> 0;
+                return (hash % 1000) / 1000;
+            };
+
+            return Object.entries(groups)
+                .flatMap(([key, group]) => group.map((car, i) => ({ car, pos: (i + offset(key)) / group.length })))
+                .sort((a, b) => a.pos - b.pos)
+                .map(item => item.car);
         }
 
         function createBrandFilters() {
@@ -480,7 +503,7 @@
                 <article class="car-card" data-idx="${idx}" tabindex="0" aria-label="${escapeHtml(title)}" style="animation-delay: ${delayIndex * 0.03}s">
                     <div class="car-media">
                         <img src="${escapeHtml(src)}" data-fallback="${escapeHtml(sources.join('|'))}" alt="${escapeHtml(title)}" loading="lazy" decoding="async" width="480" height="360">
-                        <span class="car-badge">${escapeHtml(car.condition || 'NEW')}</span>
+                        <span class="car-badge">${escapeHtml(car.condition || (milesValue(car) > 500 ? 'Pre-Owned' : 'NEW'))}</span>
                     </div>
                     <div class="car-body">
                         <span class="car-year">${escapeHtml(`${car.year} · ${car._brandLabel}`)}</span>
