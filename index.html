@@ -587,7 +587,7 @@
             document.getElementById('modalSub').textContent = trim && trim.toLowerCase() !== String(car.model).toLowerCase() ? trim : '';
             document.getElementById('modalYearBadge').textContent = car.year;
             document.getElementById('modalCondition').textContent = car.condition || 'Certified Pre-Owned';
-            document.getElementById('specMileage').textContent = milesLabel(car) || '—';
+            document.getElementById('specMileage').textContent = milesLabel(car) || (car.condition === 'NEW' ? 'New' : '—');
             document.getElementById('specTrans').textContent = car.transmission || 'Automatic';
             document.getElementById('specFuel').textContent = car.fuel || car.engine || 'Gasoline';
             document.getElementById('specYear').textContent = car.year;
