@@ -1,13 +1,8 @@
-# Carpetas de medios locales pesadas (evita subir gigabytes de imágenes a GitHub)
-images/
+# images/ se publica: solo contiene las fotos de los autos del catalogo, ya reducidas para la web
 
-# Scripts de prueba y archivos temporales de raspado
+# Archivos viejos y scripts de prueba
+_archivo/
 scratch/
-test_rc_out.html
-vdp_out.html
-scraper_toyota_old.py
-vehiculos_sin_foto.json
-vehicle_dump.json
 
 # Caché de Python
 __pycache__/
